@@ -1,0 +1,100 @@
+prompt
+Rearrange the words to make a correct sentence: the went children park 
+Compose an analogy for courage 
+"Add three adjectives to this sentence: ""He's a ____, _____, and _____ man"" "
+"Change this sentence to future tense: ""She takes the train to work every day."" "
+"Edit this sentence to correct the spelling mistake: ""Isnt that an intresting story."" "
+"You need to summarize a text in three sentences. The Santa Ana winds are strong, hot, dry winds that originate inland and affect coastal Southern California and northern Baja California, particularly in the late summer and fall. These winds, which usually arrive from October to March, can cause wildfires in the region, and can reach speeds of up to 80 miles per hour. These winds are created when high pressure air from the Great Basin of Nevada and Arizona moves towards the coast and decrease in elevation as it approaches the Pacific Ocean."
+Tell if the sentence is sarcastic or not What a great day it is today.
+Generate a title for a blog about the Nobel Prize ceremony. <no input>
+"You are given two sentences, you need to find the similar words between them Sentence 1: The rainfall in California has been unusually high this year.
+Sentence 2: The precipitation in California has been unusually low this season."
+Detect if the sentence depicts an optimistic tone or a pessimistic tone. Markets may decline further in the coming days.
+Explain why someone who wants to recycle their old books should donate them to a library. <no input>
+"You are given a code, you need to suggest an improvement for its performance. int sum = 0; 
+for (int i = 0; i < 10; i++) { 
+   sum = sum + i; 
+}"
+Propose a suitable hash function for storing phone numbers 
+What should I do if I hear a steady beeping sound coming from my computer? 
+Which European capital is closest to the equator? 
+Come up with 3 marketing strategies for a new website 
+Suggest a movie from a given genre. Rom-com
+State the antonym of a given word. Depressed
+What type of capital protection strategies can be used in a given scenario? Investing in a highly volatile stock market
+Identify at least three characteristics of a given type of tulip. Parrot tulip
+Construct a non-trivial example sentence using a given word. Banal
+"Infer a moral lesson from the given story. Once upon a time, a family was all sitting together on their sofa, talking and laughing together."
+Propose a plausible solution to the given issue. Overpopulation leading to an increased strain on resources
+Give synonyms for the following words. Seething
+Cite an example of a data-driven algorithm. 
+"Reword the following phrase so that it is polite, but still conveys the same meaning. Give me your answer right now."
+State a possible drawback of using blockchain technology. 
+Identify the steps involved in creating an effective marketing plan. 
+Explain what causes elbow pain. 
+"Given a quotation, present an argument as to why it is relevant today. ""Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid."" – Albert Einstein"
+Create a new haiku highlighting the beauty of nature. 
+Describe the experience of going on a hot air balloon ride. 
+Write an expression comparing two TV series. 
+Rewrite the sentence to make sure it is polite. You should do what I told you to do.
+Explain the idea of luck from an ethical point of view. 
+Compare and contrast the advantages and disadvantages of a virtual assistant. 
+What is the relationship between human resource management and employee performance? 
+Describe the advantages of having a well-structured coding process in the software development process. 
+"Given some code and output, explain the syntax and meaning of each line. a = 2
+b = 3
+print(a * b)"
+What is a text-based user interface (TUI) and how does it work? 
+Describe the main challenges associated with tracking progress in a remote team. 
+Design a hypothetical experiment to determine how long it takes to learn a new skill. 
+Suggest some methods to reduce stress in a job interview. 
+Explain the effects of automation on job trends. 
+Generate a html code in order to create a simple form 
+Generate a valid SQL statement to retrieve all the records in a table 
+"Fix the code so that it runs without producing an error public class Demo {
+    public static void main(String[] args) {
+        int a = 10
+        int b= 10
+        System.out.println(""Sum of both numbers: "" + a + b);
+    }
+}"
+Explain the firing process for a company that has less than 10 people. 
+"Analyze the following text and generate a list of social media marketing strategies. The current trend in marketing is to use social media. In this day and age, it is crucial to make sure your business is represented on every platform available."
+"Evaluate the following statement: ""Schools should be closed during summer vacation."" "
+Design a haiku about snow. 
+"Find the maximum capacity of each room in the list. Room Name: Conference Room A, Conference Room B, Meeting Room C"
+Name 3 mammals that live in jungles. 
+Name 3 famous painters of the Baroque period. 
+Create a web page with content about the latest news in technology. 
+Generate a list of ingredients for banana bread. 
+"Find the surface areas of the following shapes. Shape: Cube, Rectangular Prism, Cylinder 
+Length of edge for Cube : 4 cm 
+Length, Width and Height for Rectangular Prism : 4 cm, 5 cm, 6 cm 
+Radius and Height for Cylinder: 5 cm  and 10 cm"
+"Construct a sentence using the following words: ""jealous, school, skip"". "
+List 5 pieces of equipment needed to practice yoga. 
+Generate a phrase to express admiration for the beauty of the night sky. 
+"Provided with a statement, edit the statement to create a more concise version of the same. I am currently working on a project that involves analyzing the financial data of a company."
+Write a letter of appreciation to somebody who has helped you in the past. Name: John
+Describe a place you visited that left an impression on you. 
+Write a short commentary about a book you recently read. Book Title: To Kill a Mockingbird
+"You have been asked to create a story using the following words: warm, cozy, blanket. "
+"Given a string, identify all the nouns in the string. He is watching the movie with his friends."
+Describe a time you made a mistake but learned something valuable. 
+"Generate a response to the following customer complaint: ""I'm not happy with the quality of your product and it's not as advertised."" "
+Rewrite the following sentence so it uses fewer words. We have not been able to obtain the necessary results.
+Assign a numerical value to the given variable. x
+List five contributions of Ancient Greece to modern-day life. 
+Construct a SQL query that returns the names of all employees who have worked for the company for more than 10 years. 
+"Align the given strings to determine the Levenshtein distance. string1: compute
+string2: computer"
+"Using the provided photo, identify the type of animal. [PICTURE]"
+Construct a Regular Expression that allows for IP addresses in the range of 10.0.0.0 to 10.255.255.255 
+Provide two improvements for the given design. [PICTURE]
+"Write a Haiku of 3 lines, with the first containing 5 syllables and the remaining lines containing 7 syllables. "
+Provide key differences between Visual Studio Code and Atom. 
+"Order the given list of numbers in increasing order. 5, 1, 3, 8, 9"
+Devise a memory strategy to remember the order of the planets in the solar system. 
+Classify the given piece of text as either a news article or an opinion article Dr. Johnson believes vaccinations are essential for protecting children from many deadly diseases.
+Make up a sentence given the input sentence with at least 10 words. I love dogs
+Describe the user's favorite animal in 3 sentences Tiger

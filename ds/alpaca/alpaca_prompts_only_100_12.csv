@@ -1,0 +1,100 @@
+prompt
+Architact a machine learning algorithm to solve the following problem Predict the stock market prices
+Formulate a strategy for a client company that is looking to improve their website's SEO. The client is a small business selling plumbing products online.
+"Given the dataset, what type of learning algorithm is best suited? The dataset has 1000 rows of data with 12 features and is a binary classification problem."
+Find the square root of 156. <no input>
+What challenges will an AI system face while trying to play chess? 
+What could result from the following business decision? Increasing the price of a product by 10%
+"Classify this sentence into one of the following topics: education, politics, technology, sports Apple's new Iphone was released today."
+How would you write the output of a program that evaluates the following input? 2 + 3 =
+"Given a text, find the most relevant keyword to describe it A wind turbine is a device that converts wind energy into electrical energy."
+"Given a text, fill in the blanks [The] [invention] of the internet has revolutionized communication and commerce."
+Generate a question from the following sentence The Eiffel Tower was constructed in 1889.
+"Given the following sentence, rewrite it by removing the passive form Organic waste is being recycled for composting."
+How would you categorize this sentence? The clerk scanned the barcode on my book.
+Generate a second sentence that concludes the conversation John: I'm looking for a new job
+"Given a sentence, count the number of words. It is a beautiful day."
+Generate two interesting facts about potatoes. 
+"Given a Twitter handle, identify what type of content the user is posting. @realDonaldTrump"
+Generate a headline for a story about the death of a famous actor. Actor: Will Smith
+"Which of the following two scientific studies is more likely to produce viable results? Study 1: Use plants to study the effects of weather on productivity
+Study 2: Use soil to study the effects of environmental changes"
+Write a detailed introduction to the subject of machine learning. 
+"Identify the primary themes in the given excerpt. Excerpt: ""Behind every successful person is a strong work ethic. Motivation and determination are key components to success. Aim high and don’t let anything stand in the way of achieving your goals.”"
+What is the main benefit of using a natural language processing (NLP) system? 
+"Given an input containing a fragment of an article, complete the article by providing the rest of the content. Julia is a programming language designed for technical computing. It supports parallel computing and numerical computing, making it an ideal choice for data science, machine learning, and math-heavy applications."
+Analyze the given dialogue and name two emotions displayed by the user. User: I can't believe it's been three years since the accident.
+Rewrite the given sentence to describe the same thing in a positive way. He was unable to finish the task.
+How does unsupervised learning work? 
+"Given a story, identify the protagonist. Story: John had been struggling in school for years. One day, he decided he was tired of letting himself get pushed around and he set out to fight back."
+List three advantages of using artificial neural networks for machine learning. 
+"In the given input, rewrite the sentence using the subjunctive mood. I wish he was more considerate."
+What is the result of 12/3? 
+Rewrite the sentence so that it does not contain any passive voice. The experiment was conducted by the scientist.
+Find the second most used word in the sentence. She likes to eat ice cream in the morning.
+Classify the movie genres from the given context. This movie tells the story of two brothers who were both born with magical powers.
+Generate a new sentence that uses all the words from the given sentence in the same order. I went to the store to buy some apples.
+Find the verb in the sentence. He sometimes visits his grandparents.
+Add a comma after each clause in the sentence. She has been studying all day and is exhausted
+Find the synonym to the given word in the sentence. He was an incisive speaker.
+Remove the unnecessary words from the sentence and output the revised sentence. He is giving a quick test on Thursday afternoon.
+"Create a list from the given sentence. He went to the store to buy fruits, vegetables and eggs."
+"Rotate the matrix by 90 degrees clockwise and output the result. [[2, 3],
+ [4, 5]]"
+Come up with a creative title for the given topic. Fashion Trends
+"Summarize the text below in less than 15 words. Software testing is a process of verifying, or validating, the software product for guaranteeing its fitness for use."
+Write a short script for a television advertisement Product: Electric shavers
+Find a spelling mistake in the following sentence. We writeed an essay on the importance of excerise
+"Analyze the symbolism used in the following poem: My love is like a rose
+In beauty it blooms and grows"
+Select the correct answer: what is the difference between a class and an object? 
+Design an informative brochure about the importance of recycling. 
+Find a synonym for the word 'start'. 
+Find the area of a rectangle with width = 4m and height = 7m. 
+Name a famous Italian singer. 
+What does an algorithm do? 
+"Based on the given title, create a summary of the paper. ""The Use of Machine Learning in Healthcare Services"""
+"Find the perimeter of a triangle with sides = 2m, 1m, 3m. "
+What is the current population of India? 
+"In your own words, explain what a blockchain is. "
+"Compose a tweet about the topic ""The importance of greenery in urban areas"". "
+Name two topics covered in a sociology course. 
+"Change the sentence ""It wasn't supposed to be like this"" into a declarative sentence. "
+"Summarize the story of ""The Three Little Pigs"" in two sentences. "
+"Create a unique instance of the word ""beauty"" using a simile. "
+"Find the median of the set of numbers {4, 10, 8, 11, 1}. "
+"Translate ""Bonjour"" into English. "
+"Rewrite the sentence: ""The piece was written in a poetic form"" "
+Write a function that takes in a list of numbers and returns a list of the numbers in reverse order. 
+Classify the following text as 'subjective' or 'objective' The Samsung Galaxy S20 is an incredible phone.
+Generate a tweet of 140 characters or less that promotes the importance of education. 
+Rewrite the following sentence to replace any cliché phrases. It's not rocket science
+"Write a JavaScript function that takes in a string and returns an object with each character of the string as a key, and the number of times that character appears in the string as the value. "
+Write a sentence containing a hyperbolic metaphor. 
+Edit the following sentence to correct any incorrect usage of the possessive form. That's my sister's and I car.
+Generate a blog post of 500 words or less that discusses a chosen topic 
+Define the term 'anthropomorphism'. 
+Write a python script to convert a temperature from Celsius to Fahrenheit. 
+Create three example sentences with homophones. 
+Pick the best synonym for the given word Hoard
+Fill in the blank The first thing I do in the morning is ______
+Identify the figure of speech used in this sentence He had a heart of stone.
+Rewrite the sentence using an idiom The light suddenly disappeared
+"Refer to the given story and provide the moral Once, there were two best friends. They were always together and shared everything between each other."
+What is the probable cause of this symptom Severe chest pain
+Explain why this solution does not work Eliminating tax cuts to reduce debt
+Is this a good job for someone who is looking for a challenge? Computer Programmer
+Write a sentence using the following adjective Indomitable
+List two advantages for using a computer 
+Convert the given number from base 10 to base 16. Number: 110
+"Construct a paragraph with the provided words. Words:
+spring, favorite, greenery, blooming"
+Categorize the given text. Text: I have just returned from a visit to Egypt
+Name the boat depicted in the provided photo. Attached photo
+Remove the unnecessary word from the given sentence. She drove her car quickly very quickly.
+"Insert the provided conjunctions into the given sentence. Sentence: I went to the store bought food
+Conjunctions: so"
+Change the verb in the sentence to reflect third-person singular I read the book
+"Diagnose the following medical symptoms. Patient was experience chest pain, a feeling of weakness and fatigue, along with cold sweats and difficulty breathing."
+Generate five questions on the given topic. The Impact of Technology on Education
+Insert sentences in the following paragraph to make it more coherent. The use of AI has been increasing rapidly in recent years. Impact this has on society. What are the potential benefits and risks?

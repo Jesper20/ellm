@@ -1,0 +1,100 @@
+prompt
+Compare the differences between Apple Homepod and Google Home 
+What are possible alternatives for development teams dealing with the lack of in-person collaboration? 
+Describe a use case of predictive analytics. 
+"Given a sentence, check for grammatical errors. He are going to the beach."
+Estimate the total cost of a flight from New York to California 
+Who invented the can opener? 
+"Given a sentence, find out which number in the sentence corresponds to the given year. The act was passed in 1774
+Year:
+1774"
+"Give a synonym for the adjective ""lucid"". "
+"Given a set of instructions, construct a flow chart to visualize the process. 1. Load the dataset.
+2. Split the dataset into training and validation set.
+3. Pre-process the data.
+4. Feed the data into a deep learning model.
+5. Train the model on the training set.
+6. Tune the hyperparameters with the validation set."
+How does the Kinetic Ray tracing method work? 
+A debate team needs to decide on a stance for their debate. Input which opinion the debate should take. Should governments invest more in creating sustainable energy?
+"Using the given input, create a blog post titled “The Benefits of Technology” We live in a world where technology is constantly advancing."
+Change the following sentence in the second person and make sure it is in the present tense. I love singing in the rain.
+"Given a set of instructions, rewrite them in a formal language. Request your users to input the details."
+"Given the following sentence, create a list of idiomatic expressions that could be used to rephrase the sentence. We are standing still."
+"Construct a sentence that uses the given words in the given order. words: politics, control, economy
+order: control, economy, politics"
+"Create a Sudoku board from a given array. 1 4 5 0 0 0 0 3 9
+0 0 0 8 0 3 4 0 0
+0 0 9 0 0 0 6 8 0
+0 0 3 7 0 0 0 0 4
+0 9 0 0 6 0 0 7 0
+6 0 0 0 0 4 9 0 0
+0 3 1 0 0 0 5 0 0
+0 0 7 2 0 5 0 0 0
+5 2 0 0 0 0 7 4 8"
+Describe the metamorphosis of a caterpillar into a butterfly. 
+Calculate the perimeter of a circle of radius 7 cm 
+Calculate 15% of 500. 
+Describe the current situation with Covid-19. 
+Classify the following text as either a question or an imperative. Make sure to read the instructions carefully.
+Explain why you think this painting is meaningful. https://i.pinimg.com/originals/67/2a/d1/672ad1ed7e8d71e3e7fd280eb63f263c.jpg
+"Create a classification system for the following items. coffee mug, book, plate, pen, pencil"
+Describe the character’s reaction to the situation. The character is lost in an unfamiliar place.
+"Given two people, generate a conversation between them. Person 1: Joe
+Person 2: Sara"
+Modify the given text to correct its grammar mistakes. This is some others project
+"Given an example, generate an algorithm for sorting it. [3, 9, 5, 4, 7]"
+Provide a suitable synonym for the word 'deceptive'. 
+"Tell me the ending for the given story Once upon a time, a brave man went on a quest to find a magical"
+Give an example of how a non-profit organization can use a GPT model 
+Create an original analogy to explain the concept of 'data abstraction'. 
+"Categorize the following data points. Lion, Tiger, Leopard"
+"Write a one-sentence reflection about the given phrase. ""No pain, no gain"""
+Append the following sentence to the end of the input. The house saw strange events that night.
+"Classify the following text as in support of or against the statement. You can answer ""Support"" or ""Unsupport"". Statement: Eating healthy is always expensive
+Text: Recent studies have shown that it is possible to eat healthily, with a great variety of foods, all while sticking to a budget."
+Write a witty metaphor for the following object. A book
+"Sum up the following text in no more than 10 words. The UN warned Tuesday that the world is in danger of suffering the worst famines in recent history with unprecedented numbers of people pushed to the brink of starvation across South Sudan, Yemen, northeast Nigeria and Somalia."
+Name 5 food that are dairy free. 
+"Translate the word ""accuracy"" to Chinese. "
+What is the weather like in New York City today? 
+Identify the verb and the noun in the sentence. John reads a book.
+Rewrite the sentence using the same words but different grammar or structure. John and Mary wanted to visit the museum.
+"Come up with a story incorporating the following characters and objects. Characters: Mouse, Tiger, Fish; Objects: Ball, Teapot"
+Generate a movie title combining two random nouns. 
+Create a line for a poem about an apple. 
+"Given a sequence of numbers, classify it as either increasing, decreasing, or constant. 2, 4, 4, 4, 2"
+"Sort the animals into categories: land animals and sea animals. Horse, Whale, Fish, Cat"
+Analyze the text and determine if it is positive or negative. The new science project was far too difficult for the students.
+Generate a sentence for greeting a customer 
+"Find the BPM (Beats Per Minute) of this song. Song: ""Fading Away"" by Jaws of Love"
+What are the two most frequent letters in the given sentence? The quick brown fox jumps over the lazy dog
+Cut down this sentence to make it more concise. John had to hire a lawyer in order to get out of the legal troubles that he found himself in.
+Add a conclusion to an essay about the importance of education 
+Are these two words related? Note down the relation if possible Deduction & Logic
+"Convert this sentence into the reported speech She said, "" I am going home"""
+"Add a sentence that transitions between the two paragraphs smoothly. Paragraph 1: She had been feeling tired and worn down all week.
+Paragraph 2: Work had been especially stressful and her energy had been waning."
+Provide 3 suggestions on how to make the following office more eco-friendly. A bistro-style cafe and office space with a modern aesthetic.
+Explain how to make a simple paper airplane. 
+Predict the stock market trend of Ford over the next three months. 
+Give me a list of five spices and their uses. 
+Explain how to paint a room. 
+"Rewrite the paragraph with a different perspective. In the modern age, people are so consumed with their electronics that conversations have been impacted in negative ways."
+Create a rock-paper-scissor game in python. 
+Analyze this political cartoon and explain what it’s saying. 
+"Identify the faults in this program and suggest a fix. def my_function(x):
+    x += 10
+return x"
+"Group the given items according to common characteristics apple, orange, banana"
+Help me write a web banner advertisement for our product. 
+Make a list of travel destinations you would like to visit. 
+"Given the following sentence, identify the subject and the verb. He is writing a letter."
+Give me some ways to solve traffic congestion. 
+"Make a list of 5 questions that can be answered by reading the given text. After a tense exchange between President Donald Trump and Democratic challenger Joe Biden during their first 2020 presidential debate, many viewers are wondering: Who won?"
+What is the country of origin of the given food. Pierogies
+"You are given a string of characters, tell me the data structure that would be most useful for storing this data. ADFQP0219ABC"
+Generate three expansion sentences of the given sentence. The app is easy to use.
+What is the translation of the given word from English to Spanish? Table
+"given a python function, rewrite it in English. def say_hello():
+  print('Hello there!')"

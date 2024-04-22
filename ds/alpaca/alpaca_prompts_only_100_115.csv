@@ -1,0 +1,100 @@
+prompt
+Generate a poem with a constant rhyme scheme. 
+"Translate the statement into a Boolean expression. At least two of apples, oranges or bananas"
+"Analyze the text using a sentiment analysis model to determine whether it is positive, negative or neutral. I'm really excited about the new project!"
+Create a haiku with subject of nature. 
+"Categorize the text into one of the following five categories: Arts, Health, Technology, Sports, and Business. Recent advancements in medical research have shown that the drug is effective in treating certain types of cancer."
+Combine the two sentences into one sentence without losing the meaning. He ate an apple. He drank a glass of milk.
+"Convert the sentence into indirect speech. He said, ""I am going to the store."""
+Generate the verb form of the word 'write'. 
+Convert the following equation into a word problem. 2x + 3 = 7
+Provide an antonym for the following word: Clever 
+Add three adjectives to describe the vehicle. A blue car
+"Read these two statements and explain why they contradict each other. A piece of paper is heavier than a rock.
+A rock is lighter than a piece of paper."
+Name five examples of technology that use Artificial Intelligence. 
+Describe the feeling of disappointment with three words. 
+Choose three reasons why someone might leave their job. 
+Classify this as an example of either kinetic or potential energy. A stationary roller coaster
+Write a one sentence that conveys the sadness of broken dreams 
+Identify two safety tips that people should follow when using a ladder. 
+"Summarize the main points of the given article in three sentences. Article:
+Climate change has become a top global issue that is threatening the planet’s fragile ecosystems and people’s livelihoods. The impacts of global warming devastatingly are the most felt by vulnerable communities in the Global South. Everyone across the world is needed to take action to help stop climate change."
+"Given a sentence and a word, replace the word with the corresponding synonym. She felt grumpy and unhappy.
+Word: grumpy"
+"Given two sentences, identify the false one Sentence 1: Apple is a fruit
+Sentence 2: Apple is a vegetable"
+Rewrite the given sentence using the same number of words The wide range of courses available makes it difficult to select.
+Create a piece of text describing the advantages of using solar energy. 
+Calculate the area of a square given its length in cm. 12 cm
+How could data science help to reduce waste in a manufacturing plant? 
+Cut the following phrase in half so that it still retains its original meaning. People give up too easily
+Generate a list of four vitamins and their corresponding benefits 
+"Identify the statement which does not describe Machine Learning A) Machine Learning is a subset of Artificial Intelligence
+B) Machine Learning algorithms use statistical techniques to find patterns in data
+C) Machine Learning algorithms can learn to predict accurate outcomes without any human intervention
+D) Machine Learning algorithms can automatically convert text to images"
+Is a ligula a type of flower? 
+"Construct a new sentence using the given words which forms a complete and logical thought dog, chasing, cat"
+What are two major components of an artificial neural network? 
+Describe the feeling of winning a big award. 
+"Construct a valid Spanish sentence given the following vocabulary words. Words: bailar, gustar, triste"
+"Summarize this article about the history of the Internet in Japan. The Internet has had a long and convoluted history in Japan since its earliest beginnings in the early 1990s. After some initial experimentation with international networks, Japan opted to develop its own advanced research networks, allowing it to remain ahead of the curve in terms of knowledge and technological innovation. The development of the web played a large role in the growth of the industry, and the creation and adaptation of new technologies and services allowed the Internet to become an integral part of daily life in the nation."
+Explain why the following sentence is grammatically incorrect. I seen a dog.
+"Calculate the total price of a purchase of 4 apples and 2 oranges. Apples: $2.50 each, Oranges: $1.50 each"
+Name an animal that starts with the letter G. 
+List three ways to conserve water. 
+Explain the theorem of Pythagoras. 
+Create an analogy to illustrate the concept of a black hole. 
+"Generate a list of valid email addresses following the format ""name@example.com"" "
+Analyze the following text and explain what is the main idea. The wave of knowledge and technology has brought great benefits to humanity.
+Describe the scenario of two people eating at a restaurant for the first time 
+What is the most commonly used type of language? 
+"Read the following passage and summarize it in no more than 3 sentences Big data is a term used to describe the exponential growth and availability of data and the technology that makes it possible to harness and analyze large data sets. It is used in many industries, such as healthcare, finance, and retail, to sift through huge amounts of data to identify trends and correlations."
+What is a 9-digit number that is divisible by 7? 
+Imagine you are telling a story. Describe how the story first began. 
+Write a one paragraph summary of the story about the young boy finding a mysterious door. 
+Describe what the hidden world that John discovered looked like. 
+Give an example of a city in Europe that knows for its vibrant night life. 
+How does diversity in the workplace help with innovation? 
+Suggest some strategies to reduce production costs in a manufacturing company. 
+Propose an idea for a story about an unexpected journey. 
+Evaluate the effectiveness of an online influence campaign 
+Summarize the advantages and disadvantages of using artificial intelligence in the workplace. 
+"Write a blog post titled ""Top 5 Tips for Stress Management"" "
+Tell me what a search engine is 
+"Edit this sentence so that it conveys the same meaning but is more concise When I was young, I really enjoyed playing around in the park"
+Answer this question: How do search engines work? 
+Generate an example of a game-based learning activity 
+Make a list of items found in a classroom 
+Generate a metaphor about creativity 
+Write a persuasive essay about animal rights 
+Create a compelling headline for an article about the environmental benefits of going vegan. 
+Edit this article to make it 6th grade reading level Nuclear power is a semi-controversial form of renewable energy. It has been argued that nuclear power plants produce huge amounts of electricity with little environmental impact.
+"State if the following sentence is describing causation or correlation The higher the housing prices, the lower the annual interest rate."
+Can you generate five questions about dinosaurs that can be used in a short quiz? 
+Find the sum of 2 and 3 
+How does exercise affect the body? 
+"Generate a system to segment the book ""The Cat in the Hat"" into three sections "
+Classify the following as an example of an idiom It's raining cats and dogs
+List three methods to reduce stress 
+"How would you respond to someone who said ""you never listen to me""? "
+Generate a five-sentence summary of the movie The Notebook 
+"Given a list of ingredients, suggest a McDonald’s menu item. beef, cheese, lettuce, tomato"
+Generate a suitable title for a blog post about tips and tricks for improving writing abilities. 
+Multiply the numbers 3 and 5. Output the answer as an integer. 
+Create an example scenario to illustrate the concept of a 'domino effect'. 
+Write a headline for an article about the benefits of using AI in the finance sector. 
+Insert a suitable word for the blank in the following sentence. Output the entire sentence. I wish I could ___ a million dollars.
+Generate a sentence in the present perfect tense. 
+Edit the following sentence by adding an appropriate modifier. Output the entire sentence. He walked to the bus stop.
+"Given a piece of code, find the number of lines in the code snippet. Output the number as an integer. def add(n1, n2):
+  return n1 + n2"
+Generate a suitable apology for missing an appointment. 
+Suggest two activities for a 7-year-old to do in their free time. Noinput
+Describe the features of the typical American classroom. Noinput
+Tell me what a Hemangioma is and how it is treated. Noinput
+Identify and explain the four major ocean currents. Noinput
+Write a sentence to introduce the main character in a novel. Noinput
+Explain the concept of marginal revenue. Noinput
+Conduct a search query to get the current price of a purchase item. Lenovo ThinkPad X1 Carbon 2020

@@ -1,0 +1,100 @@
+prompt
+"For the given text, identify the action and the object. Sally enjoyed the movie."
+Suggest two songs to add to a playlist. 
+Make a list of five exploratory questions to ask a customer while onboarding them. 
+Rewrite the given sentence replacing the placeholders with more appropriate words. My dog [noun] really [verb] when I take him [place].
+Suggest a way to reduce waste for the given household activity. Cleaning a kitchen
+Research the political history between the USA and Cuba. 
+Explain the marketing concept. 
+Generate two possible titles for a story about a robot who plans to rule the world. 
+Gather information about the Space Shuttle Challenger disaster. 
+Predict what will happen to the stock prices of a company based on its quarterly earnings report Company ABC's quarterly earnings report showed a net loss of $5 million
+Design an algorithm to recognize the color of an object. 
+"Given the following data set, identify the independent and dependent variables. Number of hours studied and grade received for a math exam"
+"Implement a binary search algorithm. arr: [1, 2, 4, 6, 8, 10, 11, 15], x: 8"
+"Create a SQL query to find the name of the employee who was hired last. Table: Employee
+Fields: Employee ID, Employee Name, Hire Date"
+Write a limerick about a snowman from a child's perspective 
+Come up with a catchy tagline for an airline. 
+Name two English proverbs and explain each one. 
+Choose two colors to go together and explain why they are a good combination. 
+Come up with a business name that reflects its product. Boutique clothing store
+"Construct a sentence using the figure of speech ""Simile"" "
+Generate the main points for a presentation about the impact of air pollution in cities. 
+"Come up with a summary of the following text. The internet has drastically altered our lives in a variety of ways, drastically changing the ways we do business, interact with others, and consume media. The internet has made it so that communication can be instant across distances large and small, while e-commerce and online banking allow us to make purchases and payments quicker, easier, and more securely than ever before. It has given voice to formerly marginalized communities and provided access to information and resources previously unaffordable."
+"Given the following proposition, generate arguments for and against it. The government should provide everyone with a basic income."
+What are the legislative measures to protect endangered species? 
+Come up with a list of common problems in AI research. 
+Generate a list of possible research areas for AI applications in healthcare. 
+"Write a script for a movie scene with the following input. Setting: Airport
+Characters: Rebecca and Jacob"
+Generate a list of strategies for developing a successful business. 
+Come up with a list of ways to reduce carbon footprints. 
+What is the yearly growth rate of the global AI market? 
+List 10 books that have won a Pulitzer Prize. 
+"Review the following dataset and determine the metric that represents the most consistent and accurate prediction of whether a State will vote Republican or Democrat. The dataset contains different metrics such as the number of people living in a state, the percentage of college educated people, the median income, and the unemployment rate."
+"Based on the following data points, identify which type of machine learning algorithm is being used. The data consists of temperature readings from one hundred different air conditioners over an eight-month period."
+Create a hypothesis about the relationship between the number of hours a student spends studying and their GPA. 
+"Given the following example of a data set, outline a plan for making predictions. The dataset includes housing prices for neighbourhoods in a given city."
+Compare and contrast a relational database and a non-relational database. 
+Identify two techniques to observe a neural network's internal structure. 
+What is the fundamental principle behind the Heisenberg Uncertainty Principle? 
+Create a workflow to automatically classify emails as either important or not important. 
+"Given a home assessment report, find potential risks to health and safety. Sample Home Assessment Report"
+List a few uses for blockchain technology 
+Create a list of potential questions for an online survey about digital marketing 
+Construct an experiment to measure customer satisfaction with a customer chatbot 
+Provide two strategies to improve customer experience in an e-commerce store 
+Develop a system to generate content for a blog 
+Suggest a movie that would make a great holiday gift. 
+Create three sentences that describe the Northern Lights. 
+"Edit this sentence to make it more engaging ""The world is full of wonders"". The world is full of wonders"
+What are some possible effects of conservation strategies on biodiversity? 
+Create a shopping list including the items that are needed for making a cake 
+Make a recipe for spicy garlic shrimp. 
+Generate a list of sentence starters to use in persuasive writing. 
+Find information about the primary schools in Johannesburg Johannesburg
+Describe the main purpose of an operating system. 
+Create a sentence that expresses the feeling of excitement. 
+Name three SQL operations that are used to query databases. 
+Convert the following currency to its equivalent in US dollars (USD). 1500 Euros
+Explain the difference between a pre-emptive and non-preemptive scheduling algorithm. 
+"Analyze the answer to the following quiz question and provide a justification for the correctness/incorrectness of the answer. Question: What type of governing system is the United Kingdom?
+Answer: The United Kingdom is a parliamentary democracy."
+Calculate the average speed of a car that travels 500 km in 3 hours. 
+Explain the concept behind a neural network. 
+"Transform the following text into a web article format. Biologists are discovering more and more about the many ways that life exists around the world.  From tiny single-celled organisms to massive organisms like whales, everything is connected in the web of life."
+Parse the following sentence for the subjects. The dog sleeps on the couch.
+Compose a story about a giraffe using ten words. 
+"Classify these words according to their parts of speech. jump, scene, happy"
+Transcribe the following sounds: 
+Take the following sentence and recast it in the most efficient way. John won the Nobel prize for his incredible and inspiring work.
+Describe the different steps in aerobic respiration. 
+"Change the following dialogue into a dramatic monologue. A: Hi, I'm so glad I found you.
+B: Me too! What do you want to do?"
+"Generate a summarization of the following blog post As technology advances, mankind's ability to explore and reach locations previously inaccessible is rapidly increasing. With tech companies rushing to develop ever-more groundbreaking methods of transportation, the world is on the brink of a revolution in human travel.
+
+Yet, one significant challenge stands in the way of planet-wide mobility- the sheer cost of transportation. Airline tickets, electric cars, and other methods of transport cost more than many of us can financially afford. Furthermore, such prices are often out of reach for people living in rural areas, where the infrastructure is not available."
+Generate a new phrase with the same meaning to replace the following phrase Take the plunge
+Give an example of a time when you made someone else's day 
+"Write a short synopsis of the Grimm Brothers' classic fairy tale, Snow White. "
+Classify the following food into non-vegetarian or vegetarian. Cheese
+"Transform this code into Java. function addValues(x, y){
+return x + y;
+}"
+Explain the concept of password strength. 
+Name one of the main benefits of a cloud-based IT system. 
+"Arrange the words below in the order of decreasing length. Autumn, Vegetable, Cat, Strawberry"
+Brainstorm five innovative ideas for a toaster. 
+Create a list of five items that a person might need if they are stranded on a desert island. 
+Classify the following item as recyclable or non-recyclable. Glasscoke bottle
+Give an example of something that represents the concept of justice. 
+Create a list of 10 states in US 
+Explain what color is magenta 
+Give an example of a material that is a good conductor of electricity 
+"Create a web page with a heading saying: ""Welcome to our website"" "
+Generate a line of code in Java to print the following string Hello World
+"In the story, what was the reason the prince decided to marry Cinderella? The prince was struck by Cinderella's beauty and grace when he saw her, and he knew that he wanted to marry her."
+"Identify where the following proverb originated from. ""A bird in the hand is worth two in the bush."""
+Add the missing quotation marks in the sentence. Mary said I need to study harder
+Group the words and form two meaningful sentences. dog excited barked quickly

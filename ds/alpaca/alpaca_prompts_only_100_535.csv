@@ -1,0 +1,100 @@
+prompt
+Create an AI chatbot 
+Find an antonym of ‘abhorrent’ 
+"Return the translation of ""He is a hero"" in French. "
+"Write a paragraph summarizing the main information of input Rashtriya Janata Dal (RJD) is an Indian political party, based in the state of Bihar. It was founded in 1997 by Lalu Prasad Yadav. It is the largest party in the state in terms of electoral success."
+Return a list of 5 things that someone can do to reduce carbon emissions. 
+Return the area of the circle if its radius is 8 cm 
+Explain what is GPT-3 
+Edit the sound to improve its quality [Sound file]
+"Classify this text as violent, non-violent, or neutral. The hurricane caused massive destruction to the city"
+Resolve the conflict in the sentence. He wanted to watch a movie but she wanted to go to a party.
+Add two elements to make this sentence humorous. He was about to give a speech
+Reword the sentence using more sophisticated language. He ate all the food
+Swap the words in the sentence to achieve a different meaning. The teacher is nice
+Name two endangered species of plants and two endangered species of animals. 
+"Arrange the following words in order from most to least severe: offence, infraction, misconduct "
+"Given the following text, provide the name of the genre. In the small town of Bedgon, Maine, nothing ever seems to change. That is, until one day, when a mysterious man moves into town and start asking questions. Who is this stranger, and what secrets is he hiding?"
+Change the tense of this sentence from future to present. He will call me later.
+Rewrite this sentence using an interrogative sentence. She ate a banana.
+Generate three adjectives associated with the city of Paris. 
+Create a sports analogy to explain something complex. Organizing data
+Provide a summarization of the article. https://en.wikipedia.org/wiki/Artificial_intelligence
+"Edit the following sentence so that it is more concise yet still conveying the same message. In spite of the fact that the project failed, it still remained as a learning experience."
+"Given two objects, write an equation that shows the relationship between them. Speed and Time"
+Write a letter of introduction about yourself. 
+Give me a one-paragraph summary of the content of this book. The Odyssey by Homer
+Give me a list of the best Olympic athletes from the last five years. 
+Generate a list of appropriate titles for a book about the following topics. The history of ornithology and bird-related topics
+Generate a recipe for a vegetarian dish tailored for a person with lactose intolerance 
+Generate a list of five smart home gadgets 
+Classify these two types of animals Hummingbird and Penguin
+Generate the animal that is the symbol of a given country Australia
+Generate a list of three social issues 
+Edit this sentence about cancer. Cancer is a minor health problem that is easily preventable and treatable.
+Make a list of three creative problem-solving techniques. 
+"Find the coefficient of determination (r-squared value) of the linear regression model below.
+
+y = 0.5x + 0.1 x = [0, 1, 2, 3, 4, 5]
+y = [0.1, 0.6, 1.1, 1.6, 2.1, 2.6]"
+Tell me the most common hairstyle for men. 
+"Provide a summary of the article below in 300 characters or less. In recent years, renewable energy sources like solar, water and wind have become increasingly popular in many countries around the world. As the cost of solar panels, wind turbines and other technologies falls, more and more households and businesses are turning to these sustainable, clean sources of energy. In the United States, the number of residential and commercial solar installations has more than quadrupled since 2010."
+"Find the percentage rate of increase of the values given below. Initial Value = 80
+Final Value = 168"
+"Given two integers, output the lowest common multiple of the two. 12, 20"
+"Generate a story that begins with the following sentence:
+
+She had never seen anything like it before. "
+"Identify the verb in the following sentence.
+
+Snow melts in the spring. "
+"Given a sentence, output the sentence with all adjectives replaced with synonyms. The small black cat was sleeping soundly."
+"Given a sentence, output the part of speech tag labels for each word. The tag labels include N (noun), V (verb), Adj (adjective), Adv (adverb), Prp (preposition) and Det (determiner). She ate the apple for lunch."
+Create a website navigation menu that contains four options. 
+Construct a query for retrieving the top 10 books in the “Mystery” genre from an online bookstore database. 
+"Reword the sentence ""He writes movies"" to make it present tense. "
+Compose a thank you message to a teacher. 
+Describe how atmospheric pressure affects weather. 
+"Identify the country that does not belong in the following list and explain why. Japan, Austria, Canada, Mexico"
+Generate two questions that can help someone get to know another person. 
+Describe the difference between the phrases “do no harm” and “do good”. 
+"Classify the following types of animals based on whether they are mammals or reptiles. Lion, Turtle, Shark"
+Generate three tips for understanding a difficult math concept. 
+What is the risk of using a credit card for online purchases? 
+"Create a description of a movie based on a book. The Giver, by Lois Lowry"
+Provide an example of a time when it would be appropriate to use an informal tone in language. 
+"Given a newspaper title and content, re-format the document into a blog post. Newspaper Title: “The impact of COVID-19 on the economy”
+Newspaper Content: 
+
+The coronavirus pandemic has caused a major disruption to the global economy – many businesses have been hit hard by the associated lockdowns, and unemployment has risen sharply. It remains to be seen what the long-term implications of the crisis will be, but economists have warned that some sectors may take years to recover."
+Tell us an interesting fact about the following topic Mount Everest
+"Create an appropriate response ""It's been a pleasure working with you."""
+Write three steps to make a family tree 
+Create an appropriate service announcement Website Maintenance
+How can humans coexist with nature more harmoniously? 
+Create 3 unique styles of art 
+When can a comma be used with a list of three words or phrases? 
+How is a soufflé made? 
+What are the four rules for exponents? 
+List the ingredients used in a Caesar salad. 
+Summary the results of a study on ocean conservation. A study conducted by the Smithsonian Institution found that human activities are having an increasing negative impact on marine species and ecosystems.
+Describe what it's like to travel on a plane. 
+Describe the steps to install Python 3 on a Mac book. 
+Explain how the Drake Equation is used to estimate the number of extraterrestrial civilizations in the Milky Way galaxy. 
+Generate Python code to calculate the area of a triangle. 
+"Rewrite the sentence: ""I should of been there earlier"" "
+Construct a game plan for negotiating a job offer. 
+Create a list of 10 random numbers between 1 and 100. 
+What is the probability of flipping 2 coins and getting 2 heads? 
+"Rewrite the following code in a different programming language list = [1, 9, 5, 3, 10]
+list.sort()"
+List five different outdoor activities. 
+"Convert the text ""3.14"" to a number. "
+Identify a suitable application for using a genetic algorithm 
+"Modify the following code to include ""Pepperoni"" as a topping def recommend_pizza(toppings):
+    if ""Veggies"" in toppings:
+        print(""I recommend a Veggie Pizza!"")
+    if ""Cheese"" in toppings:
+        print(""I recommend a Cheese Pizza!"")"
+What are 5 examples of artificial neural networks? 
+"Rewrite this algorithm in pseudo-code for (int i=0; i<n; ++i):

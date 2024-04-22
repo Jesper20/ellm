@@ -1,0 +1,100 @@
+prompt
+Table 2:
+
+Country | Quantity 
+US | 800  
+UK | 1100 
+Japan | 500"
+Explain what the following machine learning algorithm does. K-Means Clustering
+"You are given a dataset containing customer records. Determine the most common demographic among these customers. Name | Age | Gender | Location 
+John | 28 | Male | New York 
+Kate | 32 | Female | California
+Greg | 45 | Male | Texas"
+"Take the following statement, and create an imperative instruction that a GPT model can complete. This string of characters must be decoded."
+Identify all adjectives in this sentence The bright blue sky was calming
+Determine the topic of this paragraph The Internet has provided us with immense opportunities to reach a global audience. It has allowed us to connect across boundaries and share ideas at unprecedented levels.
+What is a solution to reducing air pollution? 
+Generate an eight-word Haiku poem. 
+"Classify the following sentence as either positive, negative, or neutral.
+
+""I need to finish what I've started."" "
+"Re-word the following sentence to use active voice:
+
+""The door was shut by Sarah."" "
+Compose a story about a courageous lion in the African savanna. 
+Describe the beach at sunset in 5 sentences. 
+"Generate a new headline from the following sentence:
+""The Prime Minister announced a new policy today."" "
+Explain in one sentence the difference between a module and a function. 
+"Analyze the following sentence and provide a subject and a verb:
+
+""One day by the sea."" "
+Describe the flavor of a butterscotch sundae in 5 words. 
+"Remove all adjectives and adverbs from the following sentence:
+
+""The incredibly awkward and shy student asked a meek question in the classroom."" "
+"What is the plural possessive form of ""dog""? "
+Motivate someone to finish an assignment. 
+"Back-translate the following sentence: ""The cat slept on the chair."" "
+"Paraphrase the sentence: ""The coffee was too hot."" "
+Make a list of 5 items in the kitchen that are essential for cooking. 
+"Analyze the following sentence to find the polarity of its sentiment: ""This movie was a waste of time."" "
+"Explain the following phrase: ""YOLO"". "
+"Given the following list of numbers, find the average and the sum: 1, 2, 3, 4 "
+"Translate the following sentence into French: ""I am a student."" "
+Write a travel blog post about experiencing the culture of South Korea. 
+"Rewrite the sentence: ""This activity is too easy"" "
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". "
+"Analyze the article ""The Social Media Revolution"". "
+Create a PowerPoint about Europe with 5-7 slides. 
+Outline a blog post on an AI-related topic. 
+"Write a review for the restaurant ""Mom's Kitchen"". "
+Explain how sociology is related to anthropology. 
+What is the biggest risk factor for developing coronary artery disease? 
+What is one benefit of augmented reality technology? 
+Divide the following number into two parts that have a difference of 7. 132
+Tell us a joke 
+What is a metaphor for a dream? 
+Who won the Nobel Prize in Economics in 2019? 
+Edit the provided sentence to make the sentence clearly express an opinion about the given topic. Social media can have a great influence on our lives.
+Classify what type of composition is presented in the given text. This is a poem about a young girl's experience of growing up and longing for the freedom of adulthood.
+"Choose the correct option out of the given options that best fits the sentence. The best way to learn a language is by 
+A. Writing in it 
+B. Studying grammar
+C. Practicing with native speakers
+D. Listening to music"
+Swap the position of the verbs in the given sentence. They decided do the experiment.
+Please suggest a list of helpful tips related to career development. 
+Please suggest some strategies to break bad habits. 
+What is the difference between intrinsic and extrinsic motivation? 
+How is open-ended exploration different from goal-oriented exploration? 
+Explain the concept of 6 degrees of separation. 
+Suggest five fun activities for a virtual team bonding session. 
+Generate a list of at least 5 things that a museum should display. 
+Arrange the words below in a meaningful order moon stars night twinkle
+Write a short dialogue between two people about their travel plans. 
+Identify at least 3 characters from the book Animal Farm. 
+Write a code that calculates the volume of a sphere. 
+"Given a sentence, remove all the unnecessary words without changing the meaning of the sentence. I was extremely happy to find the item I was looking for."
+"Given a passage, extract the main topic of the passage. Strawberries are a type of fruit that are readily available in stores throughout the summer and fall. They are sweet and tart, and can be eaten on their own or as part of other dishes."
+Provide a short description of the great Wall of China 
+"Summarize the article ""An Examination of AI-Driven Recommendation Systems"" An Examination of AI-Driven Recommendation Systems
+
+This research paper seeks to understand the complex inner workings of AI-driven recommendation systems, also known as recommender systems. These systems have become increasingly commonplace, often found in web applications, video, photo and music services, and e-commerce markets. We review key components of AI-driven recommendation systems such as filtering, collaborative filtering, content-based filtering and hybrid approaches, and discuss them in terms of their capability. We further examine current trends and discuss the implications of these findings for the future of AI-driven recommendation systems."
+What advantages does artificial intelligence have that humans don't? 
+"You need to answer if this headline is about sports or not.
+
+""Record Holders Excels in the Marathon"" Record Holders Excels in the Marathon"
+"You need to answer whether this sentence is true or false.
+
+""Trees provide a natural source of oxygen."" Trees provide a natural source of oxygen."
+Generate a list of 10 plants that are easy to take care of 
+Transcribe the following sentence for me. The apple does not fall far from the tree.
+Come up with a pick-up line. 
+Compute 3 + 4 
+Generate a story about a world that never experiences darkness. 
+Give examples of two situations where it would be appropriate to abort a mission. 
+Create a paragraph with at least six sentences about the given topic. The importance of friendship
+Swap the positions of the given words. large and small
+"Rearrange this sentence to make it grammatical: less time pay there more Less time there, pay more."
+Show me the corresponding flag for Ireland 

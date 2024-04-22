@@ -1,0 +1,100 @@
+prompt
+Create 3 different valid sentences from the given phrase. David ate pizza
+Input the appropriate data type for the given statement. The color of the sky
+Generate a recursive program that can calculate the factorial. 
+Check if the given sentence contains a dependent clause. He closed the door before he left the room.
+Write a story that features a character whose life changed dramatically because of a dream. 
+Generate a plausible title for a movie starring a character named Arjun. 
+"Summarize a news article about climate change. Climate change is causing more extreme and extreme weather, making wildfires more intense and droughts more severe."
+What is the result of 4 raised to the power of 3? 
+Compare and contrast creativity and innovation. 
+Create an appropriate toast for a celebratory event 
+"Show the least busy route to get from the Eiffel Tower to the Louvre Paris, France"
+"Find the answer to this math problem and provide a detailed explanation If x + y = 6 and xy = 8, what is the sum of x and y?"
+"Make a pie chart for the given percentages 25%, 30%, 15%, 10%, 20%"
+Provide a headline for a news article about the moon landing 
+Create a game plan for reducing emissions 
+Compose a humorous poem 
+"Write instructions for how to play Rock, Paper, Scissors "
+Come up with a different yet valid way to solve a Rubik's cube 
+"Develop a simple marketing plan using the provided information. Product Description: An online platform for teachers to create and share video lessons
+Target Audience: Teachers and School Administrators"
+"Design a plan to help the given student improve their grades. Student Name: John
+Grades: Math-C, History-D"
+"Calculate the weekly salary for a full-time employee given the following information. Hourly wage: $15
+Hours worked per week: 40"
+Design a customer loyalty program for online shoppers with the given information. Target Audience: Millennial shoppers
+Explain the significance of the provided historical event. Magna Carta
+Provide an example of a scenario that requires a system for machine learning. <No Input>
+Name three techniques used to debug computer programs. <No Input>
+Write a change log for a software update The new version of the software is released with bugfixes and new features.
+"Write a summary of John Grisham's novel ""A Time To Kill"". "
+Describe a meaningful memory you have from your childhood 
+"Construct a Mathematical expression to find the cost after discount Original Cost= 100$
+Discount percentage = 10%"
+Create an algorithm for finding prime numbers between 1 and 100 
+Suggest an animal to be chosen as a pet 
+Construct a SQL query to find the total number of orders of a particular product Product name: Apple
+Suggest a possible career path for a college student who is studying computer science 
+Make a list of kitchen items for a newly liberated college student cooking for the first time 
+Construct a short story with a moral lesson 
+Generate a styling guide for a website 
+Construct a persuasive argument about why people should use renewable energy 
+"Given a customer complaint, provide customer service resolutions. I haven't received my package after I placed an order a week ago."
+"Given a sentence, correct the spelling error I have to go to the librray tomorrow."
+Find the scientific term related to the given definition. A polygon with three sides
+Edit the following sentence to make the tense of the verb consistent. He had gone to the store yesterday evening.
+Assign a unique ID to the following input. John Smith
+Generate an email message for the following enquiry. I am looking for information about online courses for MBA
+"Rewrite the following text using 150 words. Technology is transforming our lives. It is enabling us to access information, connect with people around the world, and create new opportunities for leisure and entertainment."
+"Analyze this news article and give three main points Qatar is facing international condemnation amid reports that foreign workers’ wages have not been paid for months. The country has for years been accused of human rights abuses relating to its use of the kafala sponsorship system for migrant workers, which prevents them from changing jobs or leaving the country without their employer’s permission."
+"What type of output would be generated when the instruction ""Predict the temperature tomorrow"" is given to a GPT model? "
+"Compute the mean of the following data points: 3, 5, 7, 9. "
+"Translate the following sentence from French to English: ""Je veux lire un livre."" "
+"Given the following list of numbers, sort them in ascending order: 2, 9, 5, 4 "
+"Classify the following sentence as belonging to Fiction or Non-Fiction: ""The Soviet Union launched the Sputnik satellite in October 1957."" "
+"Generate the next two words for the sentence ""I was walking down "
+Provide some examples of job titles for a software engineer. 
+"Rewrite this sentence in the future tense: ""I will join an online course."" "
+Name three public figures who support renewable energy 
+Explain why light travels faster than sound. 
+"Categorize the sentence in the following types: fact, opinion or unknown. The Mona Lisa is considered the most famous painting in the world."
+Rewrite the sentence by saying the opposite. The king was loved by his people.
+Create an appropriate metaphor to describe the following job: Social Media Manager
+Compare 'dog' and 'cat'. 
+Can you tell me five animals that lay eggs? 
+Give an example of something that is alive. 
+Classify the following statement as either a research hypothesis or a research question. Does poverty contribute to homelessness?
+What is the scientific term for the process of photosynthesis? 
+Describe a computer network in 5 words. 
+Develop a classification model that classifies the given text according to its topic. This is the story of a young girl and her family who live in the countryside.
+"Write a creative story given the following facts. Theme: Friendship
+Character: Cowboy
+Setting: Mountain"
+Name three strengths you have and explain how they will benefit the company if you were to be hired. 
+Write a poetry describing sunset. 
+"Summarize key points from the given article based on the given headline. Headline: What is the impact of Artificial Intelligence on Healthcare?
+Article:
+
+Artificial Intelligence (AI) is becoming increasingly significant in world of healthcare. Its role in rational decision-making and the ability to develop treatment plans is being developed with much effort and research. AI can help practitioners make more accurate and reliable decisions, utilizing machine-learning algorithms to access medical data and consider a patient's individual medical history. AI has the potential to revolutionize healthcare, reduce costs, and improve clinical outcomes. It is also improving the safety of medical procedures, aiding practitioners in surgeries, providing insights into epidemics, and much more."
+Write a blog post on the importance of content marketing for small businesses. 
+Generate a list of creative gifts for children between the ages of 5 and 8 
+Generate a list of five benefits of a good website design. 
+Identify three types of government assistance that could help startups during the economic downturn. 
+"Compute the square root of each number in the set. Set = {4, 9, 16, 25}"
+"Group the items in the list into two categories. List = {""dog"",""cat"",""snake"",""elephant"",""bird"",""turtle""}"
+Create an API that takes a text as an input and returns the sentiment score. 
+"Provide a solution for displaying the data on the website. Data includes numeric results, pie chart and bar chart"
+"Transform the text into a well-structured JSON. The site ""website.com"" with tagline ""A Comprehensive Information Source"""
+"Compose a story of 100 words using the given headline and the key words. Headline: The Adventures of Hero Reporter 
+Key words: Amazing, Clever, Believed"
+"Find the minimum element in the array. Array = {2, 4, 6, 8, 10}"
+Are self-driving cars legal in the UK? 
+Please provide a factual statement regarding the oceans that covers 20% of Earth's surface 
+Create a chart to show the employment rate in the US from 2019 to 2020 
+Give 5 reasons why computer science is important 
+Write an informational article about virtual reality 
+Create a survey to evaluate the customer experience 
+Explain the fundamentals of blockchain technology 
+Give an example of an online course and explain why it is beneficial. 
+How can I improve my public speaking skill? 

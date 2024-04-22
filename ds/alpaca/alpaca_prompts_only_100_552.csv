@@ -1,0 +1,100 @@
+prompt
+"Compare two datasets to identify the similarities and differences. Dataset 1: {9, 8, 11, 0, 3}
+ Dataset 2: {10, 3, 2, 12, 5}"
+Turn the following string into a valid URI: https:\\www.example.com
+"Generate a list of ten words having the same meaning as ""powerful"". "
+Convert 4km into miles. 
+Generate a new sentence that includes the given adjective in its comparative form. Tough
+Determine whether the given sentence is a complete sentence. Going to the store.
+Write a description of the architecture of a deep neural network model. 
+"Evaluate the following statement: ""Global warming is a serious problem."" "
+Identify which species of animal is pictured. [image of an ocelot]
+Convert the following measurement to centimeters: 15.2 inches. 
+"Rewrite the following sentence using a different verb: 
+The cat chased the mouse. "
+Write an equation for the total cost of an item with a given unit cost and number of items. 5 items with a cost of $2 each
+Write an email to your professor expressing your concerns about a difficult exam. 
+Read the following observation and then label it as either a strength or a weakness. The website is user-friendly and easy to navigate.
+Brainstorm three specific strategies to deal with a deadline. 
+Write a story about an astronaut who goes on a mission to the moon. 
+"Consider the following two statements and write a reflective comment on them. Statement 1: Everyone should strive to be the best version of themselves.
+Statement 2: Comparisons to others is a waste of time."
+"Write a one-sentence statement that accurately reflects the main idea of the following passage. In recent studies, it has been suggested that global warming is having a more significant impact on the environment than previously anticipated."
+The following statement is a premise. Write the conclusion that follows. Most people enjoy solitude.
+"Write a description of an employee based on the following characteristics. Organized, collaborative, and reliable."
+"Rearrange the words from the following list to make a sentence. Wooden, is, strong, a"
+Develop a classification model to distinguish between positive and negative sentiment. 
+Write a Python program to create a set of random numbers. 
+Reduce the following polynomial to the lowest terms. 4x^2 + 2x - 4
+"Generate a response to the following text, using evidence from the text. John lives in the city and he loves it."
+Write a sentence that explores the concept of irony. 
+"Rewrite the following paragraph in the form of a list of 4 points. Charlotte is a great friend. She is always there to lend a helping hand, listens to whatever you have to say, and offers good advice. She also loves to hang out and have a good time."
+Categorize the following sentence as figurative language. The stars shone like diamonds in the night sky.
+Generate a title for a movie about struggles of a family during the COVID-19 pandemic. 
+"Generate a sentence using the following input words: squirrel, pickles, cottage. "
+Find at least 3 famous quotes based on the keyword 'happiness'. 
+"Rewrite the following sentence in a more fluent way: “I ran away, so the monster won't catch me” "
+Edit the following sentence to make it grammatically correct: “He is a better lawyer then me.” 
+"Generate a sample dialogue between a teacher and a student, discussing their favorite hobby "
+Find the longest English word that can be typed using only the right side of the keyboard. 
+"Given two cities, compute the approximate distance between them. Paris, France, and Tokyo, Japan"
+Compute the area of a regular polygon with side length 4cm and 8 sides. 
+Find a title for a book discussing environment protection. 
+Provide a two sentence description of a character from the European fairy tales. 
+"Given a pair of numbers, generate an equation that will produce an output as close to 50 as possible. 5 and 8"
+"Given the following random words: elephant, rainbow, scissors, vacation. Create a sentence that contains all of them. "
+Come up with three possible negative consequences of having too much screen time 
+Which of the following investing strategies primarily focuses on finding undervalued stocks or assets in the market? 
+"Using the given data, calculate the average annual return Returns: 2%, 5%, 8%, 3%, 2%"
+Which company created the software program MS Word? 
+"In a few sentences, describe the virtual reality industry "
+Generate a cool hipster username for a young woman. 
+"Name a restaurant nearby offering vegan options. San Francisco, CA"
+Come up with three new slogans in Spanish for a seafood restaurant. 
+Tell me why the value of gold is so high. 
+Write two sentences that explain why artificial intelligence is important. 
+Suggest a creative way to scare birds away from a garden. 
+Describe what emotional intelligence is. 
+List five challenges that have been faced when trying to develop artificial intelligence systems. 
+"Given a context, complete a dialogue between two people John: I don't understand why my sales are down this month."
+Calculate the square footage of a home with dimensions of 30 ft by 40 ft 
+Give some tips for managing stress 
+Suggest some activities for an outdoor picnic 
+"Given some context, edit a movie review The movie was enjoyable but the plot was too predictable.
+
+Context: I watched a movie called “The Pied Piper” last week."
+Translate the following statement into a more formal way. She's in a bad mood
+"Synthesize a line from the given context Henry experienced a rollercoaster of emotions, from elation to panic"
+Produce a slogan on digital safety 
+Write down a mathematical expression for the following The total area of two squares
+Make a poem on environmental protection 
+Make a list of items that would be needed to go on a camping trip No input
+Create a new math problem using the given hypothesis Hypothesis: The sum of two consecutive positive integers is equal to 25
+Imagine you are a student in a chemistry class. Write a short story from the point of view of the professor. 
+Name three strategies an organization can use to increase its organic visibility 
+Write a story about a robot who forges a unique identity 
+Create a story about a young girl facing a difficult decision 
+"Assemble the given components into a functional computer program. Function calls: 
+- drawRectangle(200, 150)
+- setBackgroundColor(‘black’)
+
+Variables: 
+- x = 400
+- y = 250"
+Create a list of 10 activities to boost creativity. 
+Build a chatbot for customer service. 
+"Create a new sentence that is grammatically correct, uses correct punctuation, and expresses the same meaning as this sentence. She is the best singer"
+"In this task, you are given two sentences, please combine them into one complex sentence. John went to school. Mary stayed at home."
+"Given a sentence that is inconsistent in tone, please rewrite the sentence to sound consistent. John was so excited, he shouted happily."
+"Given a sentence with a specific attitude, rewrite it to have a different attitude. She saw the glass as half-empty."
+"Given a sentence, please provide the proper punctuation. He truly enjoyed the movie"
+"In this task, you are given a word and its definition, please provide an antonym for the word. Tranquil (calm or peaceful)"
+Create a list of five things that you can do with an old smartphone 
+Explain the differences between centripetal and centrifugal forces 
+Suggest the best way to travel from Bangkok to Ho Chi Minh City 
+Compare and contrast the characteristics of two Android operating systems Android Pie (9.0) and Android Q (10.0)
+"Generate Python code to flatten a two-dimensional list list1 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]"
+Suggest some online marketing strategies 
+Generate a news headline about the rise of cryptocurrency. 
+Suggest a plan to plant trees. 
+Compare the similarities between two recent smartphone models. iPhone 11 Pro and Samsung Galaxy S20

@@ -1,0 +1,100 @@
+prompt
+Reword this sentence to be more formal I need to get to the store right now.
+"Insert an appropriate closing salutation to this email Dear Bob,
+
+I am writing to remind you of our appointment on Thursday. Please don't forget."
+Generate a creative phrase related to technology 
+Brainstorm a list of characters that could be included in a fantasy novel 
+Output all the rhetorical devices that are used in the given sentence. The destruction of nature is indeed irreversible.
+"Identify if the given sentence contains any implicit bias. If so, explain it. She has a lot of energy and is always bubbly."
+Rewrite the given sentence using a different verb or phrasing without changing its meaning. I find the situation distressing.
+Infer the missing information from the given context. John was the fastest runner in the race and his time was __.
+"Given a sentence and a list of words, replace any occurrences of the words in the sentence with the given synonyms. Sentence: He spoke to her gently.
+List of words and synonyms: 
+speak - address, converse"
+"Given a sentence and a target word, produce another sentence that has the same meaning as the original sentence but does not contain the target word. Sentence: They proceeded to their destination.
+Target word: proceed"
+Write a paragraph to describe the impact of initiatives to reduce vehicular emissions on the environment. 
+Generate a list of five potential issues that need to be reviewed before a software is released. 
+Imagine a scenario where somebody is asking for a ride. Write an entertaining response to the request. Can I get a ride?
+"Create a sentence using the words ""consistency"" and ""success"" in the same sentence. "
+Find evidence to refute the statement. Humans evolved from chimpanzees.
+Explain why ocean tides occur. 
+"Given the list of words shown below, generate a sentence that would make use of each of them. America, politicians, moon"
+"Rewrite the sentence to express the same idea without using the word ""consequently"". The oil prices rose and consequently, the demand for gas increased."
+"Find and replace all instances of the word ""great"" in the sentence with synonyms. The teacher's great approach in teaching helped the students to understand the lessons better."
+Create an example of a list of action items from a meeting. 
+Provide a synonym for the term given. Accessory
+Research and provide two interesting facts about the given country. Saudi Arabia
+Provide three objects made from plastic. 
+Write four rhyming words of the given word. face
+"Assess the relevancy of the given document with respect to the query. Query: ""Role of information technology in education""
+Document: Information technology is the use of computer systems to store and organize data."
+Write a speech introducing yourself to a group of 500 people. My name is Mona and I'm here to introduce myself.
+Explain the underlying principle for the given scientific phenomenon. The Doppler effect
+"Take the given inputs and generate a creative story. Topic: Family Reunion
+Characters: Sarah, Emily, John"
+Generate a mathematical problem given a specific scenario. The school is having a summer camp starting in two weeks. There are 5 instructors and each one will be teaching a different subject.
+Interpret the given expression using symbolic logic. (p → q) ∧ (q → r)
+Generate a description of Mars. 
+Scan the text for the name of a specific book. I just finished reading A Short History of Nearly Everything by Bill Bryson
+Give the answer or solution to the following equation: 7x – 6 = 27
+"Write a story complete with a beginning, middle and an end set in a fictional world "
+What is the population of France according to the latest estimates? 
+Explain why consistency is important in a relationship 
+"Make an anagram of the word ""empathy"" "
+"Construct a grammatically correct sentence using the words ""Sue"", ""hill"", and ""run"" "
+Cite a source of information related to the civil war 
+Give a good example of an adverb. 
+"Categorize the following word as a noun, pronoun, verb, adverb, etc. Many"
+Compare a cat and a dog. 
+Write a short story featuring a strong female protagonist. 
+What percent of the population in the US are millennials? 
+Name one food item that would not be suitable for vegetarians. 
+"Create a poem with four lines using the words given. completion, fragile, search, joy"
+Which is the most populous city in India? 
+Imagine you are given the task to classify emotions into two categories: happy vs. sad. Describe two features that could help classify emotions. 
+List all the prime numbers between 15 and 20 
+Give a list of four actions that a user might take that would affect a website's SEO ranking 
+Edit the text given to make the story flow better and improve the grammar. Children all love the colorful stained glass that seem to cast a glaring light making them feel like they were living in a fantasy world
+"What does the phrase ""smaller fish to fry"" mean? "
+"Take two numbers and combine them into one. 4, 7"
+Explain the concept of elimination in elimination mathematics. 
+Generate a list of seven adjectives based on a given noun. Dog
+Provide one definition of a distributed system. 
+Add two fractions with the given denominators. 2/7 + 3/7
+Explain the concept of dependency injection. 
+"Match the product with its exact description. Product: Coffee Maker
+Description: Electronic device typically used to warm or heat water."
+Where is the given location? Tahiti
+"Find the most inefficient piece of code, explain why and suggest an alternative. var arr = [1,2,3,4,5,6,7,8,9];
+for (var i=1; i < arr.length; i++) {
+  console.log(arr[i]);
+}"
+Provide a detailed explanation of the given mathematical equation. a/b = c
+Name one movie star from the 1950s and briefly discuss his/her contributions to the film industry. 
+Suggest modifications to the following sentence to make the sentence sound more natural. The house was brightest in the sunlight.
+"Given a list of geographical features, classify each one as either a natural or man-made feature. River, Street, Beach"
+"Given a sentence, replace all the nouns with synonyms. John drove to the store to buy milk."
+"Given a list of animals, name their habitats. Cheetah, Blue whale"
+"Identify the type of the following sentence: ""The cat ran out the door"". The cat ran out the door"
+Write a 10 line poem about french fries 
+List 5 common adjectives for describing a beautiful sunset. 
+"Rewrite the sentence ""Yes, I like it"" in a more formal way. Yes, I like it"
+Convert 15 teaspoons to tablespoons 15 teaspoons
+Find compatible accessories for the iPhone 11 iPhone 11
+Calculate the price if 5 items cost $15 each. 
+Find the volume of a sphere with a radius of 5. 
+List the pros and cons of using a laptop instead of traditional desktop computers. 
+Explain what economic globalization is. 
+Describe what photoelectron spectroscopy is used for. 
+Give me an example of a simple machine learning problem. 
+Tell me why renewable energy is important 
+"Arrange the following elements in ascending order: 343, 17, 4 "
+What is the latest trends in AI research? 
+What qualities should I consider when buying a used car? 
+Describe an AI-powered assistant 
+Explain how information can be stored in a database 
+Combine the two sentences together in a coherence manner. Output a one complete sentence. The ice cream is really creamy. It tastes really good.
+Classify the following query as one of the following topics: 1) product offer; 2) payment & billing; 3) delivery & shipping; 4) account & subscription; 5) technical issue. I am trying to connect my account to the website but I keep getting an error message.
+Generate a response to the given query that is appropriate and natural. Output a on sentence response. What is the top selling brand of smartphone?

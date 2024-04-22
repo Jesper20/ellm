@@ -1,0 +1,100 @@
+prompt
+"Explicate the metaphor ""a rose among thorns"" "
+Rewrite this sentence in simple language The surreptitious actions of the individual evinced a lack of sincerity
+List the steps of a task. Making a cake
+Propose uses for the given item. Spoon
+Describe what the input text is about. The population of Italy has seen a steady decline over the past decade.
+Construct the timeline of an event. The invention of the computer
+Generate a story about two friends who become rivals. Noinput
+Create an outline for a tutorial on Python programming. Noinput
+"Given the following input, generate a job description for a product manager. Noinput"
+Create a metric to evaluate the performance of a Movie Recommender System. {\noinput}
+Generate a two-word phrase that describes the color blue 
+Give four example of traditional Chinese dishes 
+List 4 uses for Machine Learning 
+Design a smart automated home assistant. 
+Create a logic puzzle for children. 
+What is reverse engineering? 
+Generate a creative idea for a new social media platform. 
+"Classify the input as a praise or criticism ""You should have asked for help from your colleagues."""
+How can the input be improved We must ensure that all students have access to the same quality of learning.
+Interpret the meaning of the input Our goal should be to provide meaningful learning experiences to all students.
+Come up with a possible solution to the input Many schools struggle to provide enough resources to meet the needs of their students.
+Transform the input into a positively stated goal Reducing the achievement gap is important.
+Write a convincing argument to support the input Educators should be properly compensated for their efforts.
+Create a supportive statement for the input Students should have the freedom to pursue their passions.
+Rewrite the input to convey urgency We should prioritize early education.
+Explain the context of the input Extracurricular activities are essential for student development.
+Use a literary device to rewrite the input Teachers should have professional development opportunities.
+What are the common themes in the works of Shakespeare? 
+Describe an algorithm to capture an elephant without using any traps or weapons. 
+Build a neural network to predict which movies will be successful. 
+Generate a list of ten professions in the engineering field. 
+Compose an essay about the impact of technology on society. 
+What is the difference between a finite and infinite set? 
+Formulate an hypothesis for the given problem. Intervening in the lives of foster children can lead to better outcomes
+Create a a punchline based on the given statement. Why did the scientist install a sundial in his backyard?
+"Analyze the given quote and express your thoughts. ""Life is 10% what happens to you and 90% how you react to it."" - Charles R. Swindoll"
+Summarize the given blog post in a tweet-length statement. The blog post analyses the impact of the new tax regulations on small business owners
+Find the values for the given variables in the equation. 2a+3b = 15
+"Determine the missing elements from the given puzzle. [2,_,6]
+[5,7,_]
+[9,_,3]"
+List five items related to the given topic. Gardening tools
+Create a program to collect data from a web page. URL of the web page: https://www.example.com
+Construct a 5-sentence story about the following topic. A family camping trip
+Find the cause and effect of the given sentence. The company went bankrupt.
+"Given a list of unique strings, find the longest string ['thirty-nine', 'forty-one', 'five', 'seventeen']"
+Spell out the phrase 'artificial intelligence' 
+"Generate an open-ended story by continuing from the given start. Once upon a time, there was a young prince whose name was Jack"
+Find the definition of the word provided and output the definition as a sentence. Providence
+Find a synonym for the word in the input and output the synonym. Astronomical
+"Find all the hyperlinks in the input, and provide them as output for a clickable link. Check out https://www.google.com/ for more information."
+"Based on the input sentence, paraphrase the sentence into another sentence that conveys the same message. My mom loves to bake cookies."
+Pick the best response based on the given situation. Your friend just asked for your honest opinion about their new outfit.
+Classify the input sentence by picking the most appropriate label from a list of labels. A small furry animal with a short tail.
+"Given a list of information, find the information missing in the input and write it in one sentence. My favorite restaurant is located in New York City and serves Chinese cuisine."
+Generate an original list of three adjectives (describing words) that best describe the input. A lion
+Calculate the answer for the given math calculation and output the answer. 2+6
+How many members are in a parliamentary body? 
+Write an introduction for a blog about the importance of financial literacy. 
+Generate a neural network architecture for a binary visible object detector. 
+What is Statement Coverage? 
+Explain the process of content-based filtering. 
+What is User Acceptance Testing? 
+Identify a feature that can be used to differentiate between a dog and a cat. 
+Determine the probability of two events occurring together. Events A and B both have a 0.2 probability of occurring
+What is the result of the input 2 + 10 * 5? 
+"Given the following pieces of data, diagnose and classify the condition. - Patient is experiencing a sharp pain in the shoulder
+- Patient reports difficulty in arm movement"
+"Can you suggest a tagline for a business card design company name: RideGreen
+company motto: Quality products and services for a sustainable future"
+Write 3 ingredients for a cake. 
+"Given the customer reviews, provide a sentiment analysis of the product Customer Reviews:
+""The product was really good but the installation process was very slow.""
+""The product is really great but the customer service was really bad."""
+"Given the facts, create a wanted poster Facts: 
+- PersonX is wanted for the crime of robbery.
+- PersonX is a male, 5'6"" tall, with brown eyes and black hair. 
+- He is believed to be somewhere in the city of Los Angeles."
+Write a fictional narrative about a space journey 
+Find three reasons why people should stop using plastic bags. 
+"Explain the meaning of the term ""phonetics"" in one sentence. "
+"Explain what ""object-oriented programming"" means in one sentence. "
+Pick a random animal and generate a realistic description on its body features. 
+Create a list of five essential learning materials for a computer science student. 
+Generate pros and cons of cloning humans. 
+Edit the grammar and punctuation of the given sentence. Humor is one of the most important ingredients of life
+"Critique the given painting. The painting is an abstract composition of vibrant yellow, blue, and pink hues that appear in an haphazard, yet balanced form and serve as an evocation of life, joy, and emotion."
+Write a query that returns the GDP of a state. 
+"Develop an original story with the topic ""home"". "
+Construct a regular expression that matches all 5-digit numbers that start with 4. 
+"Modify the given code to add an exception handler. def divide(x, y):
+  return x / y"
+"Using the given sentence, remove all the characters except 0 and 1. a8,bu}z$3h21"
+"Generate a rule that can be applied to the given dataset. DATASET:  Height, Weight
+Row 1: 170 cm, 70 kg
+Row 2: 180 cm, 80 kg"
+"Convert the 3D array into a 1D array [[[1, 2], [3, 4]], [[5, 6], [7, 8]]]"
+Generate a tagline that incorporates the given keyword Keyword: efficiency
+"Construct an HTML link given the following parameters Link: google.com 

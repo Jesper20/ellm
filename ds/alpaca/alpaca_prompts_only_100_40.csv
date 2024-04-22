@@ -1,0 +1,100 @@
+prompt
+"Classify this sentence as a product review, legal document, fiction, or philosophical proposition. ""Life is nothing more than an oscillation between joy and suffering."""
+Paraphrase this sentence so that it has the same meaning but it is re-worded. The vegan diet is based on plant foods.
+"Given a customer's preference and budget, suggest 3 hotels in the destination city that meet the customer's preference. Customer's Preference: Modern, affordable, close to tourist spots
+Budget: $100/night
+Destination City: Rio de Janeiro"
+Re-write the following sentence in active voice. The ball will be hit by the batsman.
+"Create a program that generate a 100 to 500-word long text summarizing the content of the given text. Between 1884 and 1885, German chemist August Kekulé developed the concept of the benzene ring: the idea that each of the six carbon atoms in benzene were connected to each other in a regular hexagonal arrangement with alternating single and double bonds."
+Add 3 details to the text to make it more interesting. The cat sat on the windowsill.
+Generate a marketing headline for this product. Product: An online course on learning programming languages.
+Generate a tweet to promote a new show. 
+Describe the colors yellow and blue. 
+Generate a list of 5 spooky places in the world. 
+Compare and contrast ice cream and frozen yogurt. 
+Write about the importance of teamwork. 
+Compare life in the city to life in the suburbs. 
+"Rewrite the following sentence: ""He was so tired, he fell asleep."" "
+Explain why exercise is important for health. 
+Provide an example of a non-alcoholic beverage. 
+"Write a creative sentence using the following three words: love, perseverance and adventure. "
+Describe what dreams are. 
+Generate an medical diagnosis from the following test result. Patient has elevated levels of white blood cells.
+"Identify the most important part of the following document. The federal government has taken action to address the opioid epidemic, both in terms of prevention and treatment. The White House launched the Opioid Initiative to coordinate efforts between all federal agencies involved in tackling the opioid crisis, as well as consulting with experts and stakeholders, gathering data, and studying evidence-based practices to develop the best approach."
+"Recommend the best approach to optimize the following code to increase its efficiency. int count = 0;
+
+for(int i = 0; i < array.length; i++){
+  if(array[i] == 0){
+    count++;
+  }
+}"
+"Summarize the points discussed in the following article. In recent years, the use of artificial intelligence (AI) in healthcare has become increasingly commonplace. AI applications promise to make healthcare more efficient, cost-effective, and accurate, but their application raises ethical questions. To ensure a safe technology, researchers need to consider the potential harm of AI systems and be emotionally engaged with the outcome of their machine learning processes. Artificial Intelligence in healthcare should be supervised and regulated to ensure transparency about its decision making processes and its resultant impacts. Furthermore, algorithms should be tested for bias to avoid any unfair impacts, and there should be clear guidelines for development, use and goverance of AI systems."
+"Identify the main point of the following article. Recent advances in Artificial Intelligence (AI) have enabled robots to form their own language, allowing them to communicate with each other autonomously. For instance, a research team from Facebook developed an AI chatbot system, in which the two chatbots, Alice and Bob, independently created their own language. This breakthrough has given robots the capability of negotiating, forming strategies, and making decisions, independently from humans."
+Suggest a possible solution for the following ethical issue. The ethical issue of facial recognition technology being used to target individuals for inappropriate behavior.
+Explain the purpose of the following device: an astrolabe. 
+"Edit this sentence to make it more succinct without losing meaning: ""The game was a crushing defeat despite the fact that the team had been training for weeks."" "
+Describe the features of capitalism. 
+Generate a possible future for humankind if artificial intelligence (AI) becomes more advanced and prevalent. 
+"Rewrite the following sentence using a different word: ""He shuffled his feet in shame."" "
+Generate a plausible explanation for why the polar ice caps are melting. 
+Write a short essay describing the importance of civic education. 
+Delete one of the following words so that the sentence is grammatically correct: He made they purchase at the store.
+"Vote on the funniest date idea - Going to the drive-in movie theater 
+- Volunteering at a local animal shelter 
+- Recreating a classic childhood board game"
+"Pick a random song and create a dance routine for it ""Just a Dream"" by Nelly"
+"Classify this dream as either real-life, lucid, or a nightmare I am walking down a familiar street and I see a friend of mine. We start conversing, but the conversation is bizarre and no matter what I say, the words come out wrong."
+Write a personal letter of recommendation for someone you know John Smith
+Compose a shopping list. 
+Find a recipe for a vegetarian soup. 
+Explain what it means to be a mindful listener 
+List three technologies that make life easier. 
+"Write a review of a restaurant you recently visited. I recently visited the ""China Bowl"" Chinese buffet in Chicago."
+Generate a story about a character living in a post-apocalyptic world. 
+Suggest a creative title for a story about a robot that dreams of being human. 
+List five different ways to be environmentally friendly. 
+Give advice on how to stick to a diet. 
+Generate a job description for a front-end developer. 
+"Demonstrate the use of the given phrase in a sentence. ""In the nick of time"""
+Write a conversation between two characters discussing a problem. 
+Create a sentence containing 3 adjectives in the opposite order of the following sentence: grand delicious perfect
+Describe a painting in the style of Pablo Picasso. 
+Write a detailed definition of “Internet of Things (IoT)” 
+Write a letter of complaint about a bad service experience. [Description of bad service experience provided]
+Create a list of 5 unique selling points for a product. [Product description provided]
+Calculate the area of an equilateral triangle with side length 15 cm. 
+Identify the dependent and independent variables in the following equation: y=x+3
+Edit this sentence to be less redundant: I can see clearly now the rain is over and gone.
+Convert the following number to its equivalent Roman numeral: 41
+Categorize the following news headline. Apple Announces iPhone 12 Series
+Describe the major components of the human digestive system. 
+"Summarize the following text in a single sentence. The Internet of Things (IoT) is the network of physical objects—devices, vehicles, buildings and other items—embedded with electronics, software, sensors, and connectivity to enable objects to collect and exchange data."
+What type of expenses should be included on an income statement? 
+Generate three possible titles for an article about climate change. 
+How is social media affecting communication? 
+Come up with a title for a sci-fi book. 
+"Make a logical connection among the 3 given concepts. Concept 1: FPGA 
+Concept 2: ASIC 
+Concept 3: GPU"
+"Re-order the given sentences to form a paragraph. Sentence 1: He took a deep breath and jumped out of the plane.
+Sentence 2: Mark's first time sky-diving was almost here.
+Sentence 3: He had decided to do this months ago.
+Sentence 4: From the sky, he could see the trees and buildings below."
+Rewrite this sentence using a different grammar structure. Sentence: Mark is an excellent cook.
+Answer the given question in yes or no. Question: Does social media have a negative effect?
+Give an example of the given word. Word: Abstain
+Check if the given sentence is correct. The tree is tall and strong over.
+"Reverse the given array [1, 2, 3, 4, 5]"
+Rearrange these letters to make a meaningful word. vnrie
+List the ingredients needed to make chocolate mousse. 
+Construct a regular expression to identify email addresses. 
+Write a haiku poem of a serene beach. 
+Explain the concept of global warming. 
+Creat a function in C++ to calculate the area of a triangle. 
+Compare and contrast the American and Chinese education systems. 
+"Translate ""My name is John"" into French. "
+"Summarize the content of the ""Harry Potter"" movie series. "
+Identify three ways to reduce your carbon footprint. 
+Create a digital photo album that shows the last 10 years of your life. 
+"Analyze the theme of loyalty in the book ""To Kill a Mockingbird."" "
+Outline the steps of creating a budget. 

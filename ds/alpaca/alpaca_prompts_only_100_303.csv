@@ -1,0 +1,100 @@
+prompt
+Generate a report on the projected effects of climate change on the farming industry in the next 5 years. 
+Analyze the impact of the internet on modern society. 
+Create a synopsis of a science fiction film. 
+"Sort a given list of 5 integers from smallest to biggest. [-3, -7, 4, 8, -2]"
+Create a dialogue between two characters that demonstrates how they are feeling about a situation. John and Jessica have been friends for many years but lately have been arguing a lot.
+Write a 500-word article on the importance of climate change awareness 
+Propose a hypothesis to explain why the cost of healthcare is increasing. 
+"Calculate the discounted price of an item. Regular Price: $100 
+Discount Rate: 0.2"
+Generate a movie title that is creative and implies the genre. 
+"Given two items, evaluate which is better according to a certain criteria. Item1: Nintendo Switch Lite
+Item2: Xbox One S
+Criteria: Portability"
+What is the oldest known building in India? 
+Identify the fallacy in the statement and explain it. You can't trust anything she says - she's a woman.
+"Given two lyrics, compare the type of rhyme used. Lyric1: Who could deny this 
+Lyric2: Lying is a crime"
+Imagine you are a programmer assigned to do this task. Analyze the instruction and design a program to meet the requirements. Design a program that can take a list of numbers and sort them in ascending order.
+"Compare two approaches and state advantages and disadvantages of each one. Approach1: Applying mathematical combinations
+Approach2: Using machine-learning algorithms"
+"Given a situation and action, explain the consequences in the long-term. Situation: A student skips classes to play video games
+Action: The student continues to skip classes"
+"Given two countries, compare the two in terms of population and land area. Country1: Canada
+Country2: Australia"
+"Generate an apt description for a graphical representation of temperature variation in two cities over June. City A: 21°C to 30°C
+City B: 18°C to 27°C"
+Insert quotation marks around the book title The Cat in the Hat Comes Back
+Delete words to make a concise sentence without changing its meaning. I wanted to find a way to make my life simpler and easier.
+Tell me the title of the latest best-selling book. 
+List three steps to improving your writing. 
+Design a program to calculate the Fibonacci sequence up to 20 numbers. 
+Suggest two different usages of a GPT model. 
+"Create a regression model from the given data. x = [1,2,3,4,5,6,7,8,9] 
+y = [5,10,15,20,25,30,35,40,45]"
+Name one way to reduce carbon dioxide emissions. 
+Describe how the Industrial Revolution changed people's lives in England. 
+Give me an example of a time where you needed to think quickly. 
+Name two famous female scientists. 
+Give me an example of a time you had to have a difficult conversation. 
+Provide an example of a time when you had to negotiate with someone. 
+Write a story about a special moment you shared with a close friend. 
+"Classify this sentence into one of the following categories: sports, technology, food, fashion This new smartphone is equipped with a powerful processor."
+Explain why a successful business must pay attention to customer feedback. 
+Describe the conditions in a refugee camp 
+Analyze why the stock market has experienced a surge in the past month 
+Come up with a fashion trend for the upcoming season 
+Compile a list of inventions in the last century with a brief description of each one. No input
+"Create a list of the top 10 restaurants within 5 km of the given coordinates. Latitude: 42.329444 
+Longitude: -83.045833"
+Generate a email template thanking a customer for their purchase. No input
+Parse a given date into its correct components. String: 15/08/2022
+Name all the characters in the given book. Book title: Harry Potter and The Chamber of Secrets
+"Given a scientific paper, identify the hypothesis, objectives, methodology and conclusions of the research. No input"
+"Construct a visual timeline of the given historical events. Events: The Civil War, The Reformation, The Industrial Revolution, World War I"
+Hypothesize about the possible causes of the given phenomenon. Phenomenon: Global warming
+Find two examples of how the terms “computer” and “programming” are used in a sentence. 
+"Given the input of a review in the following format, classify it as positive or negative sentiment. This product was nothing like I expected."
+"Compose a verse for the nursery rhyme, ""Mary Had a Little Lamb"". "
+"Given the following input, suggest two different ways to conclude the story. Takumi had made it home, but the door was locked. His parents were away on vacation, and they'd forgotten to give him a key. He slapped the door in frustration, knowing that he couldn't get in."
+Use the input to create a haiku poem. The sound of the cicadas
+"Given the following inputs, suggest two possible reasons why Steve was late to school. Steve's parents had set him an alarm, but he slept in."
+"Find two pieces of evidence that support the statement ""The use of technology has improved the speed of communication"". "
+"Given the following input, list at least three characteristics that differentiate cats from dogs. "
+"Generate a list of five books that John should read, based on the given description. John is a 15 year old high school student who loves to read fantasy novels."
+Find two facts related to the team of scientists that discovered the neutron in 1932. 
+"Evaluate the following piece of code and write a few sentences about what it does. def calculate_distance(x1, y1, x2, y2):
+    return((x2-x1)**2 + (y2-y1)**2)**0.5"
+Find two interesting facts about the history of the automated teller machine (ATM). 
+"Choose an area of medicine, and generate a list of five potential diagnoses related to it. Cancer"
+"Given a list of words, create a poem that captures the feeling of your current state of mind. peaceful, mindful, grateful"
+"Given two sorting methods, determine which is more efficient. Merge Sort vs. Bubble Sort"
+Create a list of five items related to the field of cybersecurity. 
+"Given an input text, identify the theme of the text. There is nothing greater than having the courage to start something new."
+"Given a list of verbs, create a sentence that conveys understanding. listen, process, know"
+Print out the first hundred digits of pi. 
+Create a simile to describe a beautiful sunset. 
+"Determine the volume of a tank with the given data. Length: 5m 
+Width: 2m
+Height: 1m"
+Give two reasons why an organization should focus on sustainability. 
+Name one benefit and one drawback of renting rather than buying a home. 
+Calculate the difference in hours between 3 PM and 5 PM. 
+Find the elapsed time between 12:00 AM on 3 July 2018 and 12:00 PM on 4 July 2018. 
+Suggest two methods to increase website conversions? 
+Create an analogy that compares a bug in programming code with a problem in everyday life. 
+Explain the difference between algorithmic complexity and algorithmic efficiency. 
+Design a program that prints out the numbers from 1-10 with the following pattern. 
+Convert the given numerical expression into its equivalent algebraic expression 3 * (5 - 4)
+Create a design for a web page about local movie theatres 
+Design a colour scheme for a website about a children's nonprofit. 
+Create a poem that has five lines and describes a cityscape. 
+"Summarize the article 'COVID-19 and Its Impact on Education'. In light of the novel coronavirus pandemic, educational systems around the world have been disrupted, prompting governments, schools and universities to resort to virtual learning as a means of continuing teaching and learning."
+Translate the sentence 'She sold sea shells by the sea shore' into Spanish. 
+Calculate the hypotenuese of a right triangle with sides 6cm and 8cm. 
+Rewrite the sentence 'The cat meows loudly' with three different verbs. 
+Find the coefficient of x^2 and constant term in the equation 4x^2 - 3x + 7 = 0 
+Recite a tongue twister about the letter 'p'. 
+Trace the shape of an octagon on a piece of paper. 
+Create a game that anyone can easily learn in under five minutes. 

@@ -1,0 +1,100 @@
+prompt
+Name three characteristics commonly associated with a strong leader. 
+Come up with three unique uses of a sock. 
+Describe the cultural impact of a particular work of art. The Mona Lisa
+Summarize how to write a query letter for a job. 
+Compare and contrast two popular movie genres. 
+List three ethical principles associated with data collection. 
+Analyze the benefits and concerns of using artificial intelligence. 
+Choose five adjectives that best describe a data scientist. 
+Evaluate the performance of a conversational AI assistant. 
+Describe an example of ocean acidification. 
+"Determine the most likely diagnosis for the following symptoms. Elevated blood pressure, headaches, blurred vision"
+Explain the purpose of the current US federal income tax system. 
+Compose an argument justifying why gambling should be legalized. 
+Describe a scenario in which Albert Einstein's theory of relativity might be valid. 
+Explain why biofuels may be an important part of the renewable energy future. 
+Select the two best ways to increase energy efficiency. 
+Name two primary socialization agents. 
+In what ways can a person's day be improved? 
+"Categorize the following article as belonging to one of the genres: adventure, romance, horror, science fiction. The world is divided between those who can see the spirit world and those who cannot see it. A small town in the northern region of the country is the last standing barrier between the two worlds, trying to keep them apart. In order to prevent the two worlds from coming into contact, a group of brave adventurers decide to embark on a quest to find a mythical artifact that is said to protect the barrier."
+Generate names for the seasons that can be used in a fantasy world setting. 
+"Summarize the following war movie. Saving Private Ryan is a movie directed by Steven Spielberg, set during the invasion of Normandy in World War II. It follows a group of US Army Rangers who are sent behind enemy lines to find and bring back the titular missing soldier."
+Design a webpage banner for a business website. 
+"Describe the setting of the given narrative in detail. Once upon a time, there were two princes who were best friends."
+"Write a scientific paper given a title and an abstract. Title: Exploring the Effects of Climate Change on Marine Ecosystems
+Abstract: This paper explores the effects of climate change on the health and stability of marine ecosystems, with a focus on how the shifting temperatures influence species migration, the growth and decline of certain species, and food web relations."
+"Edit the following short story to be suitable for young children. The night was dark and stormy, and the old man trudged through the forest, not sure where he was going. He heard a sound from the dark and covered himself up with branches, scared. He looked around and saw a small log cabin, lit up from the inside by a solitary lamp. The old man went inside and saw an old woman waiting for him."
+Describe the role of data science in the healthcare industry 
+"Describe the function and output of the following code: def fizz_buzz(n):
+    for i in range(1, n+1):
+        if i % 3 == 0 and i % 5 == 0:
+            print(""FizzBuzz"")
+        elif i % 3 == 0:
+            print(""Fizz"")
+        elif i % 5 == 0:
+            print(""Buzz"")
+        else:
+            print(i)"
+"Given the username @Cleto55, generate a suitable password that contains 8 characters, at least one uppercase, one lowercase, one number, and one special symbol. "
+Name three common methods to protect your data from ransomware. 
+Is the following a valid IPv4 address? 59.187.84.127 
+Describe the differences between stellar and interstellar gas clouds. 
+"Create a version control system with the following features:
+
+- Local version control
+- Web-based code hosting
+- Automatic synchronization between multiple users "
+Name a popular sci-fi movie. 
+Provide a detailed explanation for why people are afraid of spiders. 
+Generate a C program to compute the current speed of an object. 
+"Make a list of these items from a grocery store Apples, bananas, oranges."
+Generate a correct SQL query to retrieve all the data from a column called “messages” in a table called “chats” 
+Provide an overview of blockchain technology 
+Create a fictional setting. 
+Identify the major themes of this book. The Catcher in the Rye by J.D. Salinger
+Describe the trophic levels of an ocean ecosystem. 
+"Given the following code, identify whether it's syntactically correct. def print_name ():
+  print(""John"")"
+Name two organisms that live in Antarctica. 
+"Edit the following sentence to make it apply to the given context.
+
+Context: Working from home
+Sentence:  Everyone in the office needed to arrive at 8 a.m. "
+Tell Rosalie why speaking up in class is important. 
+Which sport has the most fans in the world? 
+"Write a mathematical expression that evaluates to 8 given the variables a, b, and x. "
+"Generate a password that follows the following criteria:
+
+• Must contain at least 8 characters
+• Must include upper and lowercase letters
+• Must include a least one number
+• Must include at least one special character "
+"Classify this sentence as either positive or negative.
+
+His efforts were in vain. "
+Give an example of a company that makes use of artificial intelligence. 
+How does the human immune system fight infection? 
+"Compute the mean of the values in the given list. [2, 3, 4, 5, 6, 7]"
+"Identify the sentence that uses the wrong verb tenses. a. I am gone to the doctor.
+b. I have went to the store.
+c. I had gone to the beach.
+d. I went to the bank."
+"Suggest improvements for the following code segment to make it more Pythonic. array = [1, 2, 3, 4]
+for x in range(len(array)):
+  array[x] += 5"
+"Suggest an algorithm to find the total number of substrings in a given string. string = ""hello"""
+"Select the sentence that best summarizes the output of the Python code below. arr = [5, 10, 15]
+for i, j in enumerate(arr):
+    arr[i] = j*2"
+"Develop a code to create a dictionary with the length of each word in the given sentence. sentence = ""Welcome to the world of Python programming"""
+"Classify the following object as an array or a dictionary in Python. my_list = [1, 2, 3]"
+Find the number of times the letter E appears in the following sentence. The quick brown fox jumps over the lazy dog
+Write a Python program to print the calendar for the year 2025. 
+"Evaluate the expression 5x-2y when x=4, y=7 No input"
+"Construct a binary search tree using the given elements. [1, 8, 3, 6, 10, 20]"
+Write the code for swapping two elements in a given array. No input
+Generate a thank you message for a kind gesture. My colleague stayed late on a Friday evening to help me out with a presentation.
+Name a common chess opening move. 
+Describe Einstein's Theory of Relativity. 
+What is a priority queue? 

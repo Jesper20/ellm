@@ -1,0 +1,100 @@
+prompt
+"Given the following input, can you output the initial of each word? John Apple Smith"
+Does the following sentence contain any adjectives? He wrote a letter
+"Create a one line summary of the following content With temperatures rising, sustainability is becoming an ever-important issue in many countries around the world."
+What type of creature is a kangaroo? 
+Prepare a marketing plan for a children's household products. Squirrel products
+"Determine the missing numbers in the sequence. 2, 4, 8, __, 16"
+"Select which of the statements are false. A) Penguins live in the desert 
+B) Penguins live in the Arctic 
+C) Penguins eat plants"
+State the theme of the following line of poetry A drop of dew in the morning sunlight
+"Generate a sentence with the words ""carrot"" and ""telephone"". "
+Generate a scene description for a zoo full of robots. 
+Generate a paragraph describing why data science is important. 
+"Identify the type of the given sentence. Output 1 for declarative, 2 for interrogative, and 3 for imperative Where are you going?"
+"Classify whether the following sentence follows the structure of active voice or not. Output 1 for active voice, and 0 for not. The cat was hidden by the dog."
+Classify the following sentence as either stating a fact or expressing an opinion. Facebook's new policy on data privacy is a positive step.
+Explain why governments may choose to censor some content on the Internet. 
+Why are data models important? 
+List 3 disadvantages of factory farming 
+Identify 3 ways in which climate change is adversely affecting human health. 
+Summarize the effects of deforestation <noinput> 8
+List three reasons why free trade is beneficial 
+What is a mobile-first strategy and how can it be beneficial for businesses? 
+Write a story about a person who encounters aliens. 
+Name two popular tourist spots in India. 
+Categorize the different types of clouds. 
+Identify the key items of a syllabus. 
+Describe what is meant by computing power. 
+Create a quiz about the solar system. 
+Construct a timeline to outline the epochs of the Earth. 
+Predict the future of self-driving cars. 
+Identify the features of a quality smartphone. 
+"Convert the text to an outline format. Autism is a complex neurological and developmental disorder that affects communication and behaviour. Autistic people may have impaired social interactions and restricted, repetitive behaviours, interests and activities."
+Compare and contrast these two football teams. Barcelona and Bayern Munich
+Write a headline summarizing the article in one sentence. The article discusses the growing trend of plant-based diets and their potential health benefits.
+Generate a list of five possible questions that could be asked about the article. The article discusses the growing trend of plant-based diets and their potential health benefits.
+Classify the following text according to the type of literary genre. It was a dark and stormy night. The wind was howling incessantly and the rain lashed against the windows.
+"Put the following sentences in sequence to form a coherent paragraph. He had been walking for hours through the dark woods. He felt a chill run down his spine. Suddenly, he heard a noise in the bushes. He could see a figure moving in the shadows."
+Create an imperative sentence for the following action: Water the plants
+Create a noun phrase to describe the following object: A large computer
+Rewrite the paragraph given a specific tone. Carbon dioxide is the most important human-made greenhouse gas.
+Determine the name of the British royal family. 
+"Subtract ""83"" from ""140"". "
+Summarize the benefits of interviewing. 
+"Rewrite the following story with a different point of view. Mary was so excited to go to the beach. She packed her bag with snacks, beach umbrella, and her favorite swimsuit. Mary enjoyed her day at the beach, watching the waves, and collecting shells."
+Write a satrical sentence about politicians 
+Solve the following equation 2x+5=7
+Create a tweet in response to this statement. I don't care what other people think.
+Predict the cost of living in the US five years from now. 
+Create a metaphor that describes loneliness 
+Generate a business report. Noinput
+Give me practical tips on how to save money. Noinput
+Describe the character's emotions. The character saw a stolen car being driven away.
+Create a poem about friends that includes at least 3 metaphors. Noinput
+Come up with a comparison between a candle and a river. Noinput
+"Rearrange this sentence to make it succinct. The television was streaming the latest episode, which the family was finishing up."
+Come up with a list of five items related to a camping trip. Noinput
+Come up with a sentence that includes an adverb of frequency. Noinput
+Provide me with an example sentence that uses the verb 'to waver'. Noinput
+Explain the meaning of the idiom 'let the cat out of the bag'. Noinput
+Describe the kindness of a friend. Noinput
+Edit the following text to make it sound more interesting and captivating. John is an engineer. He studies at a university and works in a company.
+Provide an example of a unethical promotional tactic. 
+Generate a tweet about the upcomming climate change summit. 
+Design a dashboard display to show the weather forecast for the next 5 days. 
+Summarize the best practices for effective communication. 
+Explain the definition of a balanced diet. 
+Compile a list of the top 5 most popular films from the past 10 years. 
+Create a family tree showing the different members of your family. 
+Describe the steps required to build a software application. 
+"Given the following values, compute the average. 130, 200, 110, 95"
+Prove the Pythagorean Theorem. 
+"Calculate the midpoint of the line segment connecting (9, -7) to (-13, -2). "
+Explain how air resistance affects the motion of a falling object. 
+"Categorize the following movie genres: action, comedy, romance, crime. "
+"Given an array of integers, find the maximum possible difference of two elements in the array. Array: [1, 5, 4, 7, 9, 8]"
+What are the pros and cons of using a database management system? 
+List three strategies to reduce carbon emissions. 
+"Construct an SQL table with the following columns: _id, name, phone, email. "
+Create a recipe for grilled char sui pork. 
+Describe the mathematical concept of probability. 
+Explain the main differences between HTTP and HTTPS protocols. 
+Describe how to use the Fibonacci sequence to identify price support and resistance levels. 
+Retrieve information about the Internet of Things (IoT). 
+"Summarize the article ""Google News: Making headlines in the age of AI"". "
+List ways to improve the user experience when buying online. 
+Describe the impact of the internet on daily life. 
+Identify and explain the three major benefits of cloud computing. 
+Generate a list of steps to follow when troubleshooting a printer issue. 
+"Edit the following sentence to make it more formal: 
+""You're my favorite assistant."" "
+Research the concept of virtual reality and explain it in one sentence. 
+Discuss the impact of technology on modern politics. 
+Compile a list of strategies for effectively studying for a test. 
+Generate a poem about the joys of nature. 
+Compose a haiku about diversity and inclusion. 
+"Create a short story about the given theme. Theme: Through strength, kindness can be found"
+"Generate a new recipe by combining two existing recipes. Recipe 1: Peanut Butter and Jelly Sandwich
+Recipe 2: Grilled Cheese Sandwich"

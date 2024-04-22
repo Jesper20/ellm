@@ -1,0 +1,100 @@
+prompt
+Identify the countries in North America. 
+"Clean the text of special characters Text:""this is the coolest😎!"""
+Design an application for managing a student’s course material. 
+What information should include in an email to a potential candidate? 
+What parenting techniques help children develop important qualities? 
+Complete the following analogy: 'loving as patient as ____.' 
+"Each day, we spend more time in front of a computer than outside. Write a text that captures this idea. "
+"We have a dataset containing US zip codes and county names. Classify each record based on the given data. 11040 | Nassau 
+75034 | Collin"
+You are preparing a dashboard for a CEO. Write a short statement that summarizes the purpose of the dashboard. 
+"We have a data set of customer reviews. Find the sentiment of each review and classify each record as Positive, Negative or Neutral. ""This product is amazing, I love it"" 
+""The product didn't live up to my expectations"""
+"Compose a mini story in 2-3 sentences using the words ""window"" and ""cloud"". "
+"We have some data about different cities. Generate a description for each record that is one sentence long. New York City | population | 8 million 
+Los Angeles | population | 4 million"
+"We have a list of words. Choose 8 words and create a story that is 2-3 sentences long. river, boat, sun, trees, grass, sky, wind, stars"
+"We have a data set of products and reviews. Based on the given reviews, rate each product on a scale of 1 to 5. Product A | review | ""This is a great product"" 
+Product B | review | ""It is not that great"""
+"Create a new recipe using the words ""strawberries"", ""yogurt"" and ""mint"". "
+You are designing a children's book. Write a sentence that describes the setting of the story. 
+Imagine that you are a guest speaker giving a lecture. Write a 1 to 2 sentences long introduction about yourself. 
+Are humans smarter than computers? 
+Create a timeline of the history of the internet from 1964 to the present. 
+"Summarize a passage in less than 5 sentences. Piezoelectricity is an electricity-generating phenomenon observed in certain crystals, such as quartz, tourmaline, and topaz. Piezoelectricity is created when a pressure is applied on the crystal and causes opposite charges to move to the crystal's two opposite sides. The pressure can be mechanical, thermal, or acoustic; the generated voltage can be voltage, electric current, or charge."
+Explain why this decision was made. The government has imposed an economic stimulus package.
+List symptoms of this disease. Flu
+Describe a voyage to an island. 
+Describe a car crash. 
+Generate a list of moral values. 
+Create a Chinese proverb. 
+Estimate how many galaxies the universe has. 
+Recall an event in your memory 
+Generate an antonym for 'tranquil' 
+Generate a checklist for getting a job 
+Contrast the difference between a fox and a wolf 
+Create a riddle for a mind-bending puzzle. 
+Generate an analogy for “optimism is to hope as raining is to____” 
+Generate a list of good self-care habits. 
+Generate a creative way to use up overripe bananas. 
+Suggest the appropriate course of action in the given scenario. Your friend's car has stopped in the middle of the highway due to a technical issue.
+Write an email to the manager requesting a change in the meeting time. There is a meeting scheduled on Tuesday at 11am and two team members are unable to attend it due to a conflict in their work hours.
+"Form a conclusion based on the given set of facts. Fact 1: Samantha has been studying for 3 hours.
+Fact 2: Her assignment is due in 2 hours."
+"Given a given noun, change it to a singular form. Studies"
+Create a sample spreadsheet that displays financial information. The spreadsheet should contain a summary of the income and expenses for a small business for the month of January.
+"Analyze the following poem and tell me the underlying theme. We two, that with so many thousand sighs
+Did buy each other’s hearts, Must die as bargainers do, in souls."
+"Given the following statement, classify it as true of false. The Earth is the only planet in the solar system with water."
+"Given the following information, determine the pollution level of the city. The city has been subject to industrial activity for several decades and there has been no reported effort to decrease air pollution in the city."
+"Given the following set of numbers, multiply them by two. 8, 15, 19"
+Rewrite the following sentence such that it is grammatically and semantically stronger. He was watching television last night
+Prototype a design for a button. 
+Identify the purpose of this statement. Cats purr when they are content.
+Think of a creative way to involve the audience in a presentation. 
+Generate a plausible statement comparing two vegetables. 
+"Generate a password with more than 8 characters that includes an upper case letter, a lower case letter, a symbol and a number. "
+"Create a sentence that uses each word of this list. Clap, Advance, Balance"
+"Record a rhyme with these two words. Sea, Sun"
+Come up with a question that could spark a debate. 
+List all the prime numbers from 15 to 25. 
+Generate a Java code for printing 1 to 10 using a for loop. 
+What are the 5 core values at Google? 
+Explain the difference between HashMap and TreeMap in Java 
+Name one significant event that happened in the year 1998 
+Divide 14 by 6 
+"Generate two different rhyming words for ""breeze"". "
+"Read the extract from an article and provide two opposites A wise parson once said, “money is an opportunity to do good.”"
+"Given some musical notes, construct a C chord. Notes: C, E, G"
+"Generate a sentence that uses the words ""desolate"" and ""foggy"". "
+"Choose either ""true"" or ""false"" A rhombus has four equal sides."
+"What is the fourth letter in the word ""annoying""? "
+Produce a report describing the effect of a new marketing campaign. We launched a new campaign targeting millennials on social media.
+"Convert this sentence into speech using text-to-speech. Welcome to our store, where you can find the best deals."
+Generate a catchy headline for an article about online security. 
+Categorize this book title as either fiction or non-fiction. The Compassionate Mind
+"Edit this article and make it sound more persuasive. Social media can be dangerous. It can cause younger people to become depressed, anxious, and insecure."
+Generate a slogan for a software company that specializes in AI-based solutions. 
+"For the given input, generate a conversation about the topic. Relationship"
+"Provide a lyrical analysis for the given lyrics by describing the overall theme of the song. Lets put our love on fire, nothing left but ashes and smoke"
+"Given the following list of ingredients, make up a recipe for a fruit salad. Bananas, strawberries, raspberries, blueberries"
+Check the sentence for grammar and spelling and make the necessary corrections. Theirs an issue with the orders
+"For the given input, classify it into one of the following categories: Political, Entertainment, Economic, Sports, Weather. The NHS has announced a new reduction in prescription costs."
+"For the given input, describe thesetting or context that it happens in. He waited for the bus"
+Come up with five creative strategies to market a new e-book. 
+Create a list of ten potential causes of global warming. 
+Describe the character of the protagonist in the given TV show. Game of Thrones
+Create a test case for testing out a human-computer interaction. 
+Explain the benefits of using a chatbot for customer service. 
+Come up with a business idea for a product targeted towards millennials. 
+Create a survey that could be used to evaluate the design of a mobile app. 
+"Generate a sentence which uses the given words in a creative manner. Lightning, Bubble"
+Create a plan for a virtual hangout session between friends. 
+Design the user interface for a payment processing website. 
+Design a logo for a vegan cooking class. 
+Develop a list of criteria for selecting an online learning platform. 
+"Summarise key points from the article ""The Future of Artificial Intelligence""
+https://www.britannica-ai.com/future-of-ai/ "
+Find an example of a company using ML for automated customer service 
+Construct a decision tree to predict customer churn 

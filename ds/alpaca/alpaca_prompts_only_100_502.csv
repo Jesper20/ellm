@@ -1,0 +1,100 @@
+prompt
+Number 2: 7"
+Write a script to buy a product on an online store. Product: Widget
+"Given a natural disaster, list possible safety procedures and advice. Natural Disaster: Flash Flood"
+"Given a poem, identify the type of poem and its meter. Poem:
+
+The night has come, and I am still awake
+Though I should be sleeping in the dark
+My head still swirls in a restless state
+Staring out the window without a spark"
+"Given a customer review, label it according to sentiment. Customer Review: This product is terrible"
+"Given a fashion outfit, suggest a suitable accessory. Fashion Outfit: Jeans, White T-shirt, Red Heels"
+"Given a recipe, suggest an appropriate course to serve it. Recipe: Cheese Lasagna"
+"Given a weather forecast, list possible outdoor activities that can be done. Weather forecast: partly cloudy"
+Explain the structure of a carbohydrate 
+Describe a teaching method 
+What advice would you give someone who wants to start a business? 
+How does the fishing industry affect the environment? 
+Generate an encryption protocol 
+Analyze these two characters Alice and Bob
+Think of a way to save water 
+Describe a learning style 
+Identify the most significant factor in a given situation. The increasing cost of pharmaceutical drugs.
+"Assign a category to the given list of words. food, furniture, books"
+Formulate a strategy to best fulfil a given objective. Increase the number of customers of a restaurant.
+Generate a list of five questions about a specific topic. Climate change.
+Describe the physical features of an arctic fox. 
+Imagine a baby girl is born in the United Kingdom. What are some of the things she would receive as gifts? 
+"Read the following poem and explain the message. Those who linger in the past
+Sad reminders of what will not last"
+Describe the psychoanalytic approach. 
+Explain why Socrates was put on trial. 
+"Analyze a poem and provide a summary The poem “To a Mouse” , by Robert Burns"
+Develop a new beauty product concept targeting millennials. 
+Generate reviews for a new restaurant in town 
+Suggest a healthy diet plan for a 5-year-old 
+Design a website layout for a company selling pet food 
+Give a brief description of the concept of 'diversity in the workplace' 
+Convert 10 lbs to kilograms 
+Describe different types of meditation 
+Generate a nature-inspired poem 
+Describe the conflict between Juliet and her parents 
+Provide some interview tips for a technology job 
+Explain the four stages of grief 
+"Create a function which generates all pairs of numbers within a given range with a given sum. Range: 0 - 10
+Sum: 10"
+Identify the main thesis of a certain essay. The essay is called 'The Need for Sustainability in the Fashion Industry'
+Summarize the article 'The Pros and Cons of Artificial Intelligence'. 
+List the tools needed to solder a circuit board. 
+Generate a list of three adjectives that could be used to describe a painting. 
+"List three substances that are referred to as ""heavy metals"". "
+List four elements of poetry. 
+In what year was the Titanic sunk? 
+Create a GIF that captures the excitement of a festival. 
+"Summarize the following text using no more than 15 words As a holistic system of health care practiced widely in Japan and other East Asian countries, Traditional Chinese Medicine (TCM) is based on the idea that qi, the vital energy that sustains life, flows through the body along pathways known as meridians."
+"Based on the input text, list out the main three advantages of AI in Healthcare. AI technology has become increasingly important in the healthcare industry. It can be used in a variety of ways to increase efficiency and accuracy, such as in diagnosing and treating diseases, improving patient safety, and personalizing treatments."
+"Given the following article, generate a headline that reflects the content. In recent years, the use of artificial intelligence (AI) in the field of medicine has become increasingly common. AI has been used to boost the accuracy of diagnoses, automate certain medical tasks, assist in treatments, and even simulate conversations with patients."
+Write a short description of the following input and mention at least two applications The use of deep learning in computer vision and image analysis
+How can technology be used to reduce the spread of fake news? 
+Create a 5-Step guide on how to use a GPT language model 
+"You are provided with a piece of text and asked to detect the sentiment expressed in it. Output the sentiment as either positive, negative, or neutral. John loves his new phone, but it has a few glitches"
+"You are provided with the following text, spell-check the text and output the corrected version The qick brown fox jupms over the layzy dog."
+"You are given a list of contact names and emails. Clean the data and make sure all emails are valid Jacob Benson- jacob.benson@gmail,com
+Sam Cook- samjaycook@hotmail."
+"Calculate the mean from the following list 1, 7, 4, 8, 10"
+"You are given a text, edit it to make it more concise using no more than 20 words. A wide range of desserts are available in the bakery department, the selection includes cakes, pies, pastries, and other sweets."
+Generate three original analogies that illustrate the concept of exponential growth. 
+Summarize the article while highlighting its main point. The article is about recent developments in the field of Machine Learning.
+Name and explain three effects of climate change in Africa. 
+Construct a query to retrieve the GDP of the United Kingdom from a given database. 
+Formulate the hypothesis for an experiment. Experiment to measure the effect of sleep deprivation on reaction time
+Design a visual representation of the data given below. The number of public transport users in New York increased by 24% in 2019 compared to 2018.
+"Using the input, generate a paragraph discussing the implications of the recent technological advances. Recent advances in AI and robotics"
+Identify and explain the use of foreshadowing in the passage. The sun had set and the darkness of night was nearly upon the forest.
+"Compute the total number of possible combinations of k elements from a set containing n elements. n = 4, k = 2"
+Determine the deepest point on Earth. 
+"Given a sentence, suggest a replacement word which is more suitable. The event was a complete disaster."
+"Given a document, identify the topic. The citizens of the town were scared when they heard a loud explosion."
+Describe how Chinese culture is different from American culture. 
+Generate an appropriate response when a customer request assistance. I would like to know how to return an item.
+Explain the concept of Newton's laws of motion. 
+What are the main characteristics of a startup company? 
+"Given a list of facts, describe the characteristics of a person described by those facts. He is responsible, thorough and organized."
+"Given a sentence, explain why this statement could be problematic. Women should stay at home and take care of the children."
+Generate a holiday themed song expressing sadness. 
+Name two literary works by Ernest Hemingway. 
+How did the World Wars affect people’s attitudes and lives? 
+Describe a superpower you would want 
+List the five stages of the software development lifecycle 
+Relevance of classical studies for modern times 
+What are the best methods to approach data analysis? 
+Create a new colour scheme 
+Forecast the future of the healthcare industry 
+Take a given sentence and expand it into at least two sentences. The sun rose.
+Delete 3 words from the sentence without changing its meaning. The girl with the red dress reacts quickly.
+Suppress the pronouns from the given sentence and rewrite it. She grabbed her coat and left.
+Take two given words and turn them into a question. Humidity Air
+Take the given sentences and make a new sentence with them using a colon for emphasis. He was very excited. He was looking forward to the new adventure.
+Remove any potential double-negatives used in the given sentence. I don't have no money.
+Write a script that creates an array of 5 elements and sort it in ascending order. 

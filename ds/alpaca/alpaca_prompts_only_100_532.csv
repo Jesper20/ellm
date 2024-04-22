@@ -1,0 +1,100 @@
+prompt
+Design a workplace safety poster. 
+Estimate the cost of producing 1000 copies of a 400-page book. 
+Automatically generate a user account with a username and password 
+"Rewrite the following sentence in the present tense:
+He will have finished his homework on time. "
+"Formulate an analogy using the words ""ears"" and ""pupil"". "
+Produce a unique title for the following essay. This essay is about the development of the automobile industry and its impact on the modern economy.
+Identify a suitable primary source for the following research topic. The effects of colonialism on the culture and economy of Native American tribes
+"Group the following list of animals by category: dog, tiger, whale, eagle "
+"Predict what will happen if the following code is executed. a = 5
+b = a + 1"
+Describe the general idea behind genetic algorithms. 
+How do you write a for loop in Java? 
+"Suggest the most efficient way to improve the following code: def get_areas():
+    areas = []
+    for x in range(4):
+        for y in range(4):
+            area = x * y
+            areas.append(area)
+    return areas"
+Name the stages of the machine learning pipeline. 
+How is data pre-processing used in machine learning? 
+What is the difference between a Support Vector Machine (SVM) and a Neural Network? 
+"Find the film director associated with the movie ""The Princess Bride"". "
+Compose a story about a tour guide who takes visitors around a haunted castle. 
+List the symptoms of dengue fever. 
+Categorize this plant-based burger as 'animal product' or 'vegetable product'. Plant-based burger
+What were the main sources of inspiration for the Impressionist art movement? 
+Calculate the total cost given a set of items with the given prices. 10 items at $2 each
+Describe how current politics could affect the economy of the United States 
+"Reduce the following text to 100 words. The word for word repetition of a section of dialogue, especially the first one, is a common feature in television commercials. It's a strategy often used to emphasize the point that's being made and to give the audience time to really process the message. The repetition can also be used to make sure the audience is really paying attention and deter them from tuning out or changing the channel. The use of a specific phrase in this way facilitates memorization as it is an indication to the viewer that this point is important."
+"Edit the text so it has more positive connotations. The current economic situation is not looking good. The numbers are not encouraging, and most experts believe it will take a long time before things start to improve."
+Name 5 countries that best exemplify democratic values 
+Generate a short story that includes a basketball game 
+Generate five questions people can ask themselves to discover their career purpose 
+List 5 outdoor activities people could do to reduce stress 
+Name five characteristics that make someone a lovable friend 
+Create a promotional offering for a fictional software company 
+Check if this sentence is grammatically correct. Output yes or no. This sentence doesn't contain any mistakes.
+"Retrieve one fact from the given paragraph and output it as a sentence. Apple announced several new products this week, including the Apple M1 Chip, a new MacBook Air, and the upcoming iPhone 12."
+"Construct a sentence with the given words, attach punctuation at the end. Words: country, George, speak"
+"By following the instructions in the paragraph, what is the result? Instructions: Take one piece of slim salmon and marinate it with lemons and a pinch of salt."
+"Given two sentences, find the implied comparison. Sentence 1: A plane can reach its destination faster than a car.
+Sentence 2: A boat can traverse the ocean."
+"In the paragraph, find a fact that can be verified. The giant panda is an endangered species in China and lives mainly in the mountains."
+Outline some ways to prepare a Catfish meal. 
+"Analyze the following text: ""She rode across the town in her car"". ""She rode across the town in her car"""
+What are some design tips for a good home page? 
+How can one motivate themselves to work on difficult tasks? 
+Give three ways to improve web performance. 
+What are the four main components of an information system? 
+Design a poster featuring the benefits of eating healthy. 
+Help create an outline for talking about environmental pollution. 
+Give some tips to help reduce procrastination. 
+Outline the stages of a consumer’s decision-making process. 
+"Create an algorithm to sort the following numbers from the smallest to the largest [45, -102, 10, 3400]"
+Suggest a suitable title for a news article on pollution 
+What is relativistic acceleration? 
+"Turn the passague into a more active and concise version John had an idea that he wanted to communicate to his friend Rachel. In order to do this, he needed to be able to explain it to her in such a way that she could understand it."
+Summarize the following passage in up to 100 words. Alice lives in a small town in the middle of nowhere. The town is full of quirky characters who are constantly in and out of each other’s lives. She has a close circle of friends and enjoys the small-town feel and its friendly vibe.
+"Determine the main theme in the given text. The mayor of the town was embroiled in a corruption scandal, causing a lot of tension among the citizens."
+Rewrite the given sentence such that its meaning remains intact. Alice wants an exciting job.
+"From the following passage, identify the transition word used in the third sentence. Alice felt a bit overwhelmed by the responsibility of the job. She had never done something like this before. Nevertheless, she was determined to take it on."
+"From the given passage, list the three details given about Alice's town. Alice lives in a small town in the middle of nowhere. The town is full of quirky characters who are constantly in and out of each other’s lives. She has a close circle of friends and enjoys the small-town feel and its friendly vibe."
+Rewrite the sentence and use the word 'presidential' Alice got an exciting job at a high-level company.
+Replace the words 'come through' in the following sentence with an appropriate phrase. Alice was determined to come through at the end.
+"Put the following words into the order they appear in the alphabet. Alice, Town, Lives, In"
+"Construct a sentence using the phrase ""an eye for an eye"". "
+Categorize the sentence as offensive or not offensive. Raffi is an idiot.
+"Assign an appropriate numerical value of ""Yes"" or ""No"" to the following statement. Do you like apple pie?"
+Convert the number 1892 into a word form. 
+Resolve the pronoun to the antecedent it refers to. John had an apple. He ate it.
+List three possible neutral emotions arising from the given text. I had an amazing trip to Paris.
+Reformulate the given statement to reflect a feeling of dismay. I am surprised.
+List three suggestions for improvement for the given situation. My team is struggling with communication.
+Generate content to fill a short story beginning with the given sentence. She looked out the window to the stars in the night sky.
+Recommend a new feature for the given app. Social media app
+Invent a new word by combining two existing words. 
+Generate a hypothesis about why the apple fell from the tree. 
+Describe the concept of Yin and Yang. 
+Identify three adverbs that illustrate a feeling of sadness. 
+Invent a new character and explain its role in a story. 
+Compose a song about how plants need sunlight to survive. 
+"Given two positive integers, identify the greater one. Integer1: 10
+Integer2: 8"
+Learn a new skill online in one hour. 
+List and explain the steps for boiling an egg. 
+Determine whether a given string is a palindrome or not. String: level
+Come up with a creative sentence to describe a summer day. 
+Write an expression that evaluates to 0. 
+Divide 20 by 5. 
+What is the difference between 'prime number' and 'composite number'? 
+Describe the character of a female sales manager 
+Create playlists of 5 songs that match these two moods: calming and romantic. 
+Generate a creative children's book about a quest for a magical item 
+Create an effective 140 character twitter post 
+"Generate a data visualization about the number of people who attended a concert Number of people who attended a concert in 2020: 10,000"
+"Categorize the paragraph by theme. People across the world are becoming increasingly aware of the impact of plastic pollution on the environment. Many initiatives to reduce the amount of single-use plastics and increase plastic recycling have already been implemented. More companies are choosing to substitute plastic packaging with eco-friendly materials. Governments have also taken steps to reduce the amount of plastic entering the waste streams, with policies like the “plastic bag tax”."
+Classify the fruit as a citrus or not a citrus. Apricot

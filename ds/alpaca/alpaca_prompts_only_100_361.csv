@@ -1,0 +1,100 @@
+prompt
+Lurid "
+"Given a poem, identify the meter type and provide an explanation
+
+Input: I love you little, I love you big 
+I love you like a ladybug. I love you little, I love you big 
+I love you like a ladybug."
+"Replace the underlined words in the sentence with synonyms that carry the same meaning.
+
+Input: I can't comprehend the complexity of the task. I can't comprehend the complexity of the task."
+Edit the following sentence: Children should never be afraid to express themselves. Children should never be afraid to express themselves.
+Classify the following as an animal or another type of organism: Mushroom Mushroom
+Write a creative introduction for a piece of writing about nature. 
+Explain why a professional should have a balanced life. 
+Explain why trees are important in our environment. 
+Categorize the following as a type of fruit or vegetable: Tomato Tomato
+Rewrite this sentence using the same meaning but using different words: But I have a plan But I have a plan
+Come up with a creative analogy of the Internet. 
+Name three professions that involve care of others. 
+Describe a company culture that promotes diversity. 
+What does a blockchain engineer do? 
+"Given a text passage, rewrite it in an engaging style. The summer of 2020 was particularly hot in Canada. Temperatures in the country were around 30°C on average, with some places hitting over 40°C."
+Compare two fruits and determine which is healthier. Apple | Orange
+Find me some funny quotes from a popular comedian. 
+Read this sentence and find the grammatical mistake. I went to the store to buy some supplies.
+Name one tool used by biologists. 
+"Provide a description of a painting. The painting is of a park, with a few trees in the background and a girl playing on a swing in the foreground."
+"Given one variable and its value, identify the type of the variable. String variable | ""Hello World"""
+Generate a phrase that describes a group of people 
+Write a rap based on the topic of self-love 
+Describe the taste of Sour Patch Watermelon 
+"The sun is setting and a beautiful sunset is visible in the horizon, describe it in two sentences. "
+Rewrite the following sentence to make it into a metaphor. The girl is like a flower.
+Form a new sentence using the gerund form of the verb in the given sentence. I like to swim.
+Transform the given sentence from simple present tense to past tense. She lives in the city.
+Describe how one person can make a positive difference in the world. 
+"Rewrite the following sentence so that it does not begin with ""I"". I am excited for the future."
+"Construct a sentence with the words ""seize"", ""opportunity"", and ""enjoyment"". "
+"In the following sentence, replace the word ""bridge"" with a synonym. The bridge linking the two countries was completed in 2021."
+"Construct a sentence with the words ""enduring"", ""relationship"", and ""longevity"". "
+"Construct a sentence with the words ""jury"", ""verdict"" and ""dissertation"". "
+"Construct a sentence with the words ""abide"", ""boundaries"", and ""respect"". "
+Give me a list of countries in East Africa. 
+Tell me three benefits of yoga. 
+Compare and contrast prokaryotic and eukaryotic cells. 
+What is the peak frequency of a 20 Hz sine wave? 
+"Analyze the given poem and write a short summary. The fires that raged throughout the night 
+Gave light in the darkest of days 
+The flames rose so hot and so bright 
+That light was created from the blaze"
+Write one to two sentence summary about the main idea of the given article. The article discusses the growing use of artificial intelligence in the workplace and its implications for workers. It looks at the potential consequences of automation and the impact of AI on the labour market.
+Describe what behavior you think an AI assistant should have when talking to humans? 
+Construct questions that you can ask an AI assistant about kitchen appliances. 
+Outline five tips to enhance a customer experience. 
+Create a greeting message that an AI assistant could say when someone greets it. 
+Explain how an AI assistant can help with purchasing decisions. 
+Compare the advantages and disadvantages of using an AI assistant. 
+Design questions for an AI assistant that can distinguish between stated and unstated requirements in a job posting. 
+Generate three examples of realistic data for a film review. 
+What event happened in the year 1812? 
+Brainstorm five different ways to ask someone on a date. 
+Describe an example of an external conflict in one sentence. 
+Describe the Internet of Things (IoT) in one sentence. 
+Brainstorm five ways to surprise your partner for their birthday. 
+"Given the scene and context, write a sentence to describe the setting. It was the first day of school. The classroom was full of eager students."
+"Find the missing number in the series, Output the number. 3, 6, 12, 24, 48,"
+"Arrange the following words in order to form a meaningful sentence. Output the sentence. the, heard, I, song"
+Write a dialogue that shows the differences in opinion between two people. Noinput
+"Calculate the average of the following numbers. Output the number. 25, 8, 14, 18"
+"Compute the total cost for the items below, assuming each item is bought in the quantities listed. Output the cost. Apple - 2kg at $4/kg; Orange - 5 at $1.50 each"
+Choose the correct phrase to fill in the blank. Output the phrase. The teacher gave the students _________ to complete the assignment.
+"Predict the sentiment of the following sentence. Output 1 for positive, 0 for neutral and -1 for negative. My day was so boring."
+Write one possible solution for the problem. Output the solution. There is an increasing amount of plastic waste and it is damaging the environment.
+"Find the frequency of the letter ""c"" in the following sentence. Output the frequency. I accidentally dropped my phone on the ground."
+Update the following sentence with slang or alternative language. Output the updated sentence. I had a really fun time at the party.
+When does a musical scale typically transition from minor to major? 
+Calculate 42 times 7. 
+Suggest a vegetarian breakfast menu. 
+Provide a mathematical explanation for fermat's last theorem. 
+What is a digital identity and why is it important? 
+"Think of a creative way to say ""I don't know"". "
+Demonstrate a good conversation etiquette. 
+Provide a list of four good interview questions to ask a potential employee. 
+Summarise the features of a hammer in just one sentence. 
+Come up with five design principles for an airport. 
+"Identify areas of improvement in the following statement:
+
+The customer experience has been satisfactory this past quarter. "
+How can you measure customer loyalty? 
+"Sort the following items from least important to most important.
+
+Cooking, cleaning, walking the dog "
+What is the best way to build trust in customer relationships? 
+Identify the main differences between Artificial Intelligence (AI) and Machine Learning (ML). 
+Choose three places you would like to visit and explain why. 
+Design a program that teaches students about data structures. 
+Write a news article reporting a new species of animal discovered in the forest. 
+Rewrite this sentence to fix the grammar errors. In my free times I like to play soccer.
+Provide a solution to reduce pollution caused by burning oil. 
+Identify five ways to recycle plastic. 

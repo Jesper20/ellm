@@ -1,0 +1,100 @@
+prompt
+Recall the largest battle in the American Civil War. 
+Name at least two countries that are part of the European Union. 
+Create an HTML code to generate a table with 5 columns and 7 rows. 
+"Given the following two sentences, create a sentence about the connection between them. Scott has an old, rusty car.
+Eric has a new and shiny car."
+Rewrite the following sentences so they are in the passive voice. She signed the contract.
+Describe a personality trait of the person below. John
+Write a poem about a place you have visited. 
+Provide three possible solutions to this problem. A student is having difficulty studying for a math test.
+Explain why you should give anonymous feedback. 
+Describe the difference between scalar and vector quantity. 
+Write a story about a future world where robots run everything. 
+Explain why it is important to understand biases in machine learning models. 
+How can we reduce water wastage? 
+"What is the meaning of the phrase ""rule of thumb""? "
+Describe an elephant in five words. 
+"Given a list, sort the list in ascending order. List: [2,8,5,9,3]"
+Rewrite a given sentence with a different verb. She brought the book to the meeting.
+"Given a piece of text, identify the tense used. I would like to have a meeting today."
+"Given some data, count the number of objects labeled with a specific tag. Data: {Object1: ""cat"", Object2: ""dog"", Object3: ""cat"", Object4: ""fish""}
+Tag: ""cat"""
+Generate a headline that conveys the following content. San Francisco Bay Area is experiencing a real estate boom.
+Generate a fun fact about the cuisines of Thailand. 
+Describe the history of the development of the British monarchy. 
+Provide an example of an ethical conflict within a business setting. 
+Summarize the story of Cinderella. 
+Determine the cause and effect of deforestation. 
+Write a one-sentence description of Euler's Formula. 
+"Using the following information, create an imaginary story about a young woman experiencing guilt. * She is a student at a prestigious university
+* She was caught cheating on a test
+* She has never experienced this feeling before"
+Give a description of the basic features of a bank account. 
+Describe the main stages of the scientific method. 
+Compare and contrast the properties of metals and nonmetals. 
+"Calculate the average of the numbers 9, 5, and 6. "
+Suggest 5 healthy habits that teenagers should adopt. 
+Suggest a title for a book about the power of resilience. 
+"Based on the given input, construct a scientific hypothesis about the cause and effect of the problem. Decrease in precipitation in a certain region"
+Provide the quote with proper punctuation and capitalization. the only way to achieve success is to have enthusiasm
+"Generate an appropriate conclusion for the given passage. In recent years, global warming has become increasingly evident, with temperatures rising and natural disasters occurring at an alarming rate. The causes of global warming must be addressed in order to prevent further destruction to our planet and environment."
+Resolve the pronoun ambiguity of the given sentence Jack drove his car to school
+Write a note of appreciation for your professor 
+Construct a new sentence from the two provided sentences She was too afraid to take the job. She wanted to travel the world.
+Provide an appropriate input to the given instruction. Instruction: Translate the following sentence into Spanish
+Classify the following phrase into its respective part of speech category Frightening
+Construct a conclusion from the provided evidence Evidence: It has been proven that climate change is caused by human activities
+Generate three philosophical questions that you can ask a friend. 
+Create a headline for a news article about the health benefits of yoga. 
+"Construct an English sentence containing the words ""tangible"" and ""matter"". "
+Summarize the content of a Wikipedia article. https://en.wikipedia.org/wiki/Greenhouse_effect
+"Classify this sentence as a command, statement or question: ""Please consider this offer."" "
+Describe what it means to be brave. 
+Generate a call to action for a blog post about the power of positive thinking. 
+"Edit this sentence to make it more concise: ""That is why I would like to insist that..."" "
+"Analyze the following sentence and identify the subject, the verb, and the object: ""Robots can learn quickly."" "
+"Determine which of the following sentences is correct: ""It is more funner"" or ""It is more fun""? "
+State the capital of Norway 
+"Write a paragraph using the words ""perspective"", ""integrity"" and ""diversity"". "
+"Explain the meaning of the idiom ""to hit the ground running"". "
+Explain what a prime number is. 
+Create a metaphor for describing a long and difficult journey 
+Describe the physical features of the given creature. Unicorn
+Create a job description for a Human Resources Representative 
+What are the ethical considerations you must make when using a GPT model? 
+Derive the Moore's law equation from the given data. The number of transistors on an integrated circuit doubling every two years
+Describe the character of Lady Macbeth. 
+Generate a 10 annotated bibliography given the information below. The impacts of Climate Change on Human Health
+"Construct a story using the details as hints. Location: New York City 
+Time: Spring 
+Tone: Nostalgia"
+Generate a list of questions based on the given input text. Text: Hamlet is one of the greatest tragedies ever written by William Shakespeare.
+"Create a graphic representation of the given data. Data: Average Daily Temperature in January for 5 Different Cities.
+New York: 12°C, Boston: 11°C, London: 3°C, Paris: 4°C, Tokyo: 6°C"
+"Find the maximum value in the given dataset. Data: Salary of 10 Employees
+Employee A: $24,000  Employee B: $21,000 Employee C: $27,000  
+Employee D: $19,000  Employee E: $20,000 Employee F: $25,000 
+Employee G: $22,000  Employee H: $18,000 Employee I: $26,000 
+Employee J: $23,000"
+"Edit the given code to match the given output. Code:
+for i in range(4):
+    print(""The number is "" + i)
+
+Output:
+The number is 0
+The number is 1
+The number is 2
+The number is 3"
+Generate a hypothesis from the given information. Information: Recent medical research has shown a correlation between exercise and improved cognitive functioning.
+"How do you go about debugging the given program? Program:
+def calculate_sum(numbers):
+    sum = 0
+    for n in numbers:
+        sum = n + n
+    return sum
+
+print(calculate_sum([1, 2, 3]))
+
+Expected output: 6"
+What techniques should be used for text summarization? 

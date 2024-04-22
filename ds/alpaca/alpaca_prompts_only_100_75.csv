@@ -1,0 +1,100 @@
+prompt
+Create a script for a short skit between two people. 
+Re-write the following sentence while keeping the meaning intact. This event took place several years ago.
+Construct a limerick about a family dog. 
+Explain the main differences between an AI model and a Machine Learning Model. 
+Describe the arguments for and against mandatory military service. 
+What are the three most important principles to consider when creating an infographic? 
+Construct a haiku about summer 
+Describe ways people can be kind to the environment. 
+"Determine whether the following argument is credible. Rising ocean levels are caused by global warming. Therefore, if we reduce our carbon emissions, we can prevent the rising of the ocean levels."
+"Rewrite the following paragraph for a younger audience. Climate change has become a pressing issue in recent years, as it affects the health and future of our planet. Earth will experience drastic changes in temperature, species extinction, and life-altering weather patterns if we don't act soon on this issue."
+Come up with an algorithm to sort a list of strings lexicographically. 
+Design a game to teach children about climate change. 
+"Choose one of the following statements and explain why it is true. A) Humans are the main cause of climate change.
+B) Climate change is a natural process."
+Create five example sentences using the word “synthesis.” 
+Explain what is meant by “quantum entanglement” in a way a non-scientist can understand. 
+Create a pair of short English sentences that contain four word pairs that have similar unknown meanings. 
+Write a function that converts a Roman numeral to an integer. 
+"What is the next number in the following sequence? 2, 6, 14, 30"
+"Identify the name of the artist in the following lyrics. ""Hey, I just met you, and this is crazy
+But here's my number, so call me maybe"""
+Describe the flavor profile of the given food. Strawberry ice cream
+"Read the following paragraph and answer a question about the words used in it. Cognition refers to a set of mental processes that include attention, memory, language, problem-solving, perception, and decision-making. These processes are the basic mechanisms of the human mind and are essential for higher level thinking skills.
+Question: How many mental processes are mentioned in the paragraph?"
+"Evaluate the following code and report any bugs. def salutation(name):
+    if name == 'bob':
+        salutation = 'Hello'
+    else:
+        salutation = 'Good bye'
+        print(saluation)"
+Propose a life goal for the given person. A 35-year-old female accountant
+Describe how to make the given Mexican dish. Tostadas
+Construct an argument in support of universal basic income. 
+Make a list of three technologies that will shape the future. 
+Describe the similarities and differences between two art styles. Impressionism and Expressionism
+Build an algorithm to detect fraud. 
+Summarize the effect of climate change on wildlife 
+Compare a debit card and a credit card. 
+Create a tool to check your understanding after taking an online course. 
+Write a news article about a new product. Product: Smart Car
+Name the characteristics of a successful event manager. 
+Build an SQL query that extracts all the customer data from the customer table who have bought product with id Equal to 2. 
+Generate an argumentative essay about the importance of healthy eating. 
+"Classify the following news article into three categories: 
+Crime, Technology, and Economy. A new study by the National Bureau of Economic Research says that the money spent on surveillance technologies yields little to no effect in reducing crime."
+"Assign a type to each of the following words: 
+
+Balance, Conservancy, Synergy "
+"Summarize the following text in a maximum of 15 words. Software engineering is the application of engineering to the design, development, implementation, testing and maintenance of software in a systematic method."
+Explain what is machine learning and identify its application. 
+"Come up with input and output data for an AI assistant task that involves playing a song I want to hear ""Yesterday"" by The Beatles."
+"Sort vegetables according to their color. Tomato, Carrot, Broccoli, Onion"
+How does a computer process data? 
+Propose a way to reduce the traffic congestion in downtown area. 
+Describe the given scenario in a creative and exciting way. It is dawn and the birds are singing in the dense forest.
+Describe the impact of hazardous air pollutants on human health. 
+Create a list of tasks a Virtual Assistant would do for a research analyst. 
+Tell me an example of a website that uses artificial intelligence and machine learning. 
+Rewrite the following sentence in the most approximately equivalent way such that its meaning is retained. He started to study mathematics at the University.
+Create a list of 10 verbs related to cooking 
+"Paraphrase the sentence, using a sentence with similar meaning I went to the grocery store to buy some food."
+"Analyze the text below, and interpret the message it implies. The world is increasingly becoming a dangerous place to live."
+Create a data set of 5-6 cities with their state and county information 
+"In the following sentence, identify the grammar at work. She liked the pretzels with mustard."
+"Given the following context, generate a headline for a news story. The elected mayor of the city has been accused of embezzlement."
+"Given the following context, generate an appropriate title for a book. The story follows a group of teenagers who rebel against the oppressive regime that has taken over their home."
+"Given the following drawing, generate an appropriate caption. ![alt text](https://image.shutterstock.com/image-vector/colored-sign-nature-protect-people-260nw-746876663.jpg)"
+Create a recipe for an appetizer using only a few items from the pantry. 
+Imagine that you are a child again. Share something that you loved to do when you were a child. 
+"Given the following context, generate a closing statement. I just wanted to thank you for the support you've given me over the years."
+Describe a flower in 5 sentences. 
+Generate a short story of an adventure in a magical forest. 
+Spot the error in the sentence. The cat are running away.
+"Shuffle the order of the following words. Words: apartment, her, rented"
+Create a list of the vowels in the following sentence. She sells seashells by the seashore.
+Provide example input and output for the following task. Task: Sum two numbers
+Come up with a way to use this sentence in a positive way You failed.
+Search and supply a list of tools that can be used to write python code 
+Come up with a question related to the following topic The benefits of using voice assistant
+Find an interesting fact related to the following topic Artificial Intelligence
+Rewrite the following paragraph in simpler language We pledge that the operations personnel will be responsible for the execution of the prescribed protocols in order to maintain the expected service level agreements.
+"Choose from the following numbers the one that is the most charitable. 5, 8, 10, 11"
+Find the rank of the following word in the English language. snowflake
+Find the sum of the following two fractions 3/4 + 2/3
+"What is an antonym for the word ""cogent""? "
+Describe the process of photosynthesis to me. 
+"Given a list of elements, find how many possible combinations of the elements can be made. H, O, C, N"
+Which language is most suitable for programming artificial intelligence? 
+Identify the difference between the meaning of the two words. Impose and Impress
+"Write the HTML code to create a button that links to a certain page. Link to page: https://example.com
+Text on button: Click Here"
+Explain the concept of bounded rationality. 
+Create a list of items to check when inspecting a used car. 
+Rewrite the passage to make it more lively and engaging. Germs are tiny particles that live in the environment around us. Germs can make people sick with colds and different types of infections.
+"Retrieve the top 3 associated entities from the given text. Microsoft has released many successful operating systems, including Windows 98, Windows XP, and Windows 7."
+"Generate a sentence using the given word and context. Word: significant 
+Context: The number of new Covid cases has been increasing"
+"Given a technical term and its definition, generate an example sentence that demonstrates the concept. Term: convolutional neural network
+Definition: A type of deep learning algorithm that uses convolutional layers to apply filters to input images"

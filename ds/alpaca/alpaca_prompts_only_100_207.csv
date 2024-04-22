@@ -1,0 +1,100 @@
+prompt
+Name five objects that you would find in a classroom. 
+Describe what the Earth looks like from outer space. 
+You are provided with a sentence. You need to generate an opposite sentence using antonyms or negattive language. The sky is high.
+Identify two character traits of the protagonist of a horror movie. 
+You are asked to write a 3-word slogan that uses metaphor. 
+Create an original proverb that describes friendship. 
+Combine two colors to create a new color and describe it. 
+Edit the following paragraph and make it more interesting. Today I went to the park. It was a nice day. There were lots of people there.
+Write a press release announcing a new product launch. ABC Corporation is releasing their new XYZ device
+Assign an accuracy score to the following sentence. The cat is walking slowly across the floor.
+Rewrite this sentence using proper American English grammar. He no go to school today.
+Describe the differences between dog and cat personalities 
+Convert this text into Pig Latin I am running
+Suggest an alternate solution to this problem John is having difficulty focusing on his work
+Outline the steps for creating a web page 
+Trace the origins of the English language 
+Suggest a creative project for a group of 6 marketers. 
+"Edit the following text to have a casual tone. The store opens at 8 a.m. and closes at 5 p.m., Monday to Saturday."
+Give me a one-sentence summery of the benefits of playing football. 
+"Identify the brand in the following piece of text. The all-new system from Samsung is going to be the next big thing, with its cutting-edge features and intuitive design."
+"Classify the following sentence into either an imperative, declarative, interrogative, or exclamatory sentence. Please turn off the lights."
+"Generate a password with 8 characters, including a symbol and a number. "
+Give me a one-sentence description of the job of a Software Engineer. 
+"Describe the concept of a ""Text-to-Speech"" system. "
+"Create a new recipe using spinach, tomatoes, bell peppers and quinoa. spinach, tomatoes, bell peppers, quinoa"
+Generate a story about a an adventure in a science-fiction world. 
+Create a Python program to print a random number between 1 and 100. 
+"Given some reviews about a movie, classify the sentiment of the review as positive or negative. * ""The movie is slow-paced, but the visuals and story are amazing.""
+* ""The movie has terrible acting and is badly edited."""
+"Describe the concept of a ""Virtual Machine"". "
+"Remove all the duplicates from a list of numbers. [1, 4, 9, 5, 1, 4, 9]"
+Create a CSS code to style a button with a bright green background and white text. 
+"Given some data points, generate a linear regression model. (1, 1), (2, 2), (3, 4)"
+Describe how facial recognition algorithms work. 
+"Identify places in the article where the author demonstrates bias. In a recent study published by Northwestern University, researchers found that single mothers face several unique challenges when it comes to inadequate housing. They found instances of mothers being unable to pay utility bills because of the insufficient quality of their housing units."
+Create a table that summarizes the different types of programming language paradigms. 
+Infer the author's view on the given topic. The current healthcare system is largely flawed and needs to be reformed.
+Suggest solutions to the problem stated in the passage. A major issue facing the country is the increasing gap between the rich and the poor.
+Analyze the content of the meme and explain the main idea. 
+"Summarize the key points made by the author in 10-15 words. Excessive internet usage has been linked to various negative outcomes, such as depression and poor academic performance."
+"Omit unnecessary details to concisely describe an article's content. This article examines the growing prevalence of loneliness and isolation in modern society, focusing on how these psychological effects are caused by a number of social and technological trends."
+"Categorize the given object into one of the following classes: animal, vegetable, mineral. Fish"
+"Write a essay in 500 words, presenting your opinion on the following topic. The applications of Artificial Intelligence have been advancing exponentially over the last decade, resulting in promising solutions in the fields of healthcare and finance."
+"Complete the following code snippet with the necessary pieces. # Complete the following code snippet
+
+def process_data(data):
+    for x in data:
+        _______________
+        _______________
+        _______________"
+Write a sales pitch to persuade a business to purchase your product. Product Name: Customer Relationship Manager (CRM)
+Rewrite the following sentence using synonyms to increase the complexity. The project is extremely important.
+"Find the answers to the following questions. Question 1: What is the capital of Bangladesh?
+Question 2: Who is the current Prime Minister of Bangladesh?"
+Give a general overview of the following website. Website Name: Nonprofit Organisation
+Construct a survey question. Topic: Satisfaction with Online Shopping Experience
+"Classify the following to the correct word group. Happy, Joyful"
+What elements are in the periodic table with atomic number 13? 
+Create an example sentence with the word 'wallop' 
+Check the spelling of the word 'accoustic' 
+List 3 applications of artificial intelligence 
+Explain what is the Pareto Principle 
+Build an emergency supplies list for an office building. This emergency supplies list is for a six floor office building with 250 employees.
+Generate a unique outdoor activity with a team-building focus. 
+What is the proper APA formatting for a journal article citation? 
+Write the lyrics of a rap song about climate change. 
+Describe the standard procedure to respond to an oil spill. 
+Create a list of descriptive words for an elephant. 
+"As a nutritionist, provide a healthy breakfast menu for a family of four. "
+Develop a scoring policy for a quiz game. The game has 10 questions and each question has three possible answers.
+Come up with a slogan for a pet grooming business. 
+Create a dialogue between two characters about the importance of nature conservation. 
+Imagine you are a beautician. Create a beauty routine for a typical 30-year-old woman. 
+"Here is a list of ingredients, use the list to come up with a new recipe. 2 cups of white rice, 1 cup of black beans, 1 onion, 1 bell pepper, 2 cloves of garlic, 1 teaspoon of cumin"
+Generate a new proverb. 
+"Given the following dataset, estimate the cost of a tree trimming service. Number of Trees | Species of Tree | Location | Size of Trees
+1 | Maple | Urban | Small
+2 | Pine | Suburban | Medium
+4 | Oak | Rural | Large"
+Make up a fable and provide an example of a moral lesson. 
+Come up with a creative solution to reduce the amount of plastic waste. 
+"Identify the patterns in this set of numbers 2, 5, 10, 17"
+Write five tips for managing stress 
+"Create a website for a local Italian restaurant The name of the restaurant is ""Giovanni's""."
+"Design an e-commerce website The website is for an online clothing store called ""Trendy Closet""."
+Give advice to someone looking for a new job 
+Describe three strategies to increase employee productivity 
+"Develop a Twitter campaign for a new movie The movie is called ""Journey to the Far Side""."
+Answer a given psychology-related question What factors influence the development of personality?
+Compose a two-minute piano piece 
+Formulate a hypothesis about brain development 
+Predict the outcome of a given experiment The experiment tests the effect of temperature on cell growth.
+"Input a URL and output the domain of that URL, excluding the subdomains. https://docs.google.com/document"
+"Cut the list into two parts with equal number of elements. List: [apple, orange, banana, pear, grape, peach]"
+Calculate X when 2X + 3 = 11. 
+"Compute the dot product of two vectors. Vector A: (1,2,3), Vector B: (2,0,4)"
+Describe the location in which the story takes place. Paris
+"Change the word ""muggy"" to another word with a similar meaning. muggy"
+"Find the most similar word in meaning to ""prosper"". prosper"

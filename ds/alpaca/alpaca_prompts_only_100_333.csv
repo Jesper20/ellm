@@ -1,0 +1,100 @@
+prompt
+"Given a survey result, generate an action plan. Survey revealed that customer service is a key way to improve customer experience."
+Find the top 10 most common words in the following text. The quick brown fox jumped over the lazy dog.
+Write a short story of 100 words or less that sets in a medieval setting. 
+Create a mathematical expression by evaluating the following equation: 3(2x-1)= 
+Generate a haiku poem in 5-7-5 syllable format. 
+Create an SQL query to find the names of all the students in California. 
+Calculate the equation 9+7 
+What is the average airline ticket price from Los Angeles to San Francisco? 
+"Edit the following sentence by replacing the word ""excellent"" with a similar meaning:
+
+""The coffee was excellent"" "
+"Classify the following sentence as either true or false:
+
+""Two plus two makes four"" "
+"Generate a sentence that is related to the topic of ""living in the city"" "
+Describe the painting “The Sunrise” by Claude Monet 
+What is the name of the algorithm used for linear regression? 
+Which type of star has the highest temperature? 
+What is the largest organ in the human body? 
+Reflect and articulate what the text is saying from a critical perspective. Companies must make sure their employees are able to continue learning to keep up with the ever-evolving business landscape.
+"Summarize the information from the text The French Revolution began in 1789, as people stood up to oppression and pushed for greater freedoms for all. Years of unrest and fighting followed, as people struggled to build a new government that could provide freedom and justice for all people."
+Tell me if the statement is an opinion or a fact Good movies have happy endings.
+"Classify the text according to its primary purpose (e.g., to describe, to persuade, to inform, etc.) This article will explain why space exploration is important for humanity."
+Analyze an effect that the text could have on its audience Our products are designed to help people achieve their goals more efficiently and with less stress.
+Create a request using the imperative Please visit the link to enter your information.
+Explain how the text can be made more engaging This article discusses the history and cultural significance of the cactus.
+Evaluate the bias of the statement All environmental regulations are pointless and a waste of time.
+Give an example of how the statement in the text can be applied in practical terms Technology helps us to be more productive.
+Identify which type of writing the following sentence belongs to The sunset in Mumbai is breathtaking.
+Display the sentiment of the statement The movie was terrible.
+Name an algorithm used in Natural Language Processing. 
+Reword this sentence to give it a different meaning: Birds fly in the sky. 
+Describe a possible application of GPT-3. 
+"Place the following elements in increasing order of atomic number: oxygen, calcium, helium. "
+Generate an appropriate input for a news headline using the given information. Apple Inc. launches the new iPhone 12 series
+Name an alternative to using money as a currency. 
+"Edit the following sentence to make it more concise: ""When you talk with someone, it is important to remember to be respectful."" "
+Categorize these drugs as stimulants or depressants: caffeine and nicotine. 
+Give an example of a type of data that is qualitative. 
+"Identify the controversy in the following passage and explain why it's controversial. ""The current presidential election system in the United States is outdated and has been for a long time. It does not reflect the will of the people and needs to be reformed."""
+Find an example of a business that has successfully used creative marketing tactics. 
+Describe the composition of Jupiter. 
+Find out the top three exports of Ireland. 
+Explain the labor laws India currently has in place for people of various genders and ages. 
+Name the biggest lake in Africa. 
+"Given the following figure, formulate a hypothesis about the relationship between x and y. <noinput>
+
+
+![alt text](https://www.researchgate.net/profile/Trend_Sx/publication/325598918/figure/fig1/AS:614401945489408@1527320926943/Plot-of-x-and-y.jpg)"
+Describe a medieval forest habitat and its inhabitants. 
+Write a description of the life cycle of a dragonfly. 
+"Given a user query, find out which of the following sources has the most accurate information about the query and explain why. Query: What is the history of the internet?
+Sources:
+1) A blog post
+2) Wikipedia article
+3) A book"
+Write an algorithm that would analyze a given text and extract all the nouns from it. 
+Create a program that generates a random greeting when invoked. 
+Name three tools a software engineer could use to develop a mobile application. 
+Make recommendations for how a business could reduce their environmental impact. 
+Describe what the purpose of a priority queue is. 
+Describe two ways to optimize a query in a database. 
+Describe the kind of artificial neural network architecture that was used in the AlphaGo Zero algorithm. 
+Name three ways a cloud computing provider can increase security. 
+Explain why it's important to clean and prepare data before analysis. 
+Create a program that logs the temperature of the computer and limits its usage depending on the given value. 
+Explain what a natural language processing model does. 
+Convert the following sentence from indirect to direct speech. The teacher said that a student had done the homework.
+Suggest a novel musical genre for the following lyrics. We're gonna be here forever
+"Generate a creative story based on given prompt and input. Genre: Fantasy
+Prompt: A princess receives a magical music box"
+Rewrite the following sentence so that it reads naturally in a conversational tone. The program will commence when the customer presents the correct form of identification.
+"Categorize the spectrum of the given data set. [2, 3, 4, 9, 15, 22, 25, 31, 33]"
+"Given the following facts, create an educational game question appropriate for a K-12 student. Fact: The state of California is the most populous state in the United States."
+Rewrite the following sentence using adjectives and verbs to create a more vivid description. He made a cake.
+Generate a multiple choice question and answer set that tests a student's understanding of the concept of probability. 
+Create an algorithm that calculates the factorial of a given number. 
+"For the given input, create a mathematical expression that evaluates to ""true"". x = 5, y = 4"
+What are the positive and negative impacts of open source software? 
+"Categorize each data value as either binary, categorical, or numerical. Height: 178 cm
+Location: Spain
+Eye Color: Green"
+"Summarize this passage in three sentences. The fifth installment in the Harry Potter book series, Harry Potter and the Order of the Phoenix, was released on 21 June 2003. The novel was the longest book in the series, measuring 766 pages in the UK version, and 870 pages in the US version. It follows the story of Harry Potter, a teenage wizard struggling against Lord Voldemort, who is attempting to gain power and take control of the wizarding world."
+"Find the specific sentence(s) in the passage that shows the author's opinion. The increasing prevalence of technology in everyday life has had both positive and negative effects on our wellbeing. Technology can have a positive impact when used to increase efficiency in tasks like communication and organization, leading to less time spent on mundane activities and more time to pursue other aspects of life. However, when technology is used to replace physical activities such as exercise or an appreciation of nature, it can lead to lack of motivation, fatigue and a decrease in physical health."
+Reword the following sentence so that it remains true but sounds more optimistic. Working from home really limits our opportunities.
+"Construct three additional lines for the following poem. If dreams were made of wishes
+We'd all be rich with joy"
+"Given this array data, calculate the average. [3, 7, 14, 17]"
+Design an algorithm to identify different types of birds in a photo. <Image of a bird>
+What kind of input you expect to keept the structures of the trees? 
+"Categorize these actors as either lead or supporting roles. Tom Hanks, Emma Stone, Kevin Costner"
+Create a list of 5 criteria for a successful project. 
+What is the biggest challenge faced by data scientists? 
+What are the main features of a gossip protocol? 
+Construct an algorithm for calculating prime numbers. 
+Give two examples of how machine learning can be used at a business. 
+Identify the appropriate data type for a phone number. 
+Write a memo to inform employees about the new dress code policy. 
+"Generate a comprehensive list of all the animals mentioned in this article about the African safari The African savannah is home to many amazing species of animals. Some of the most iconic animals of the savannah are the African elephant, African lion, and giraffe. Other animals that also call the African savannah their home include the zebra, buffalo, cheetah, and hyena."

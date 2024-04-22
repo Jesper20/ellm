@@ -1,0 +1,100 @@
+prompt
+Generate a list of possible causes for the decline of a particular species. 
+List three possible scenes for an action movie. 
+Name three species of animals that are found in the Sahara Desert. 
+Give the result of the following multiplication. 25 x 8
+Create a list of 5 books which are suitable as gifts for your best friend. Occasion: Birthday
+Generate a creative description of a pet-sitting service. 
+"Create a sample data set containing the table of rainfall measurements in the five regions of a country. Regions: A, B, C, D and E.
+Month: January
+Hours of Rainfall: 15, 8, 9, 18, 17"
+"Generate a story about an average Joe trying to find work in the city. Average Joe: Charlie
+City: New York City"
+"Write a CSS code to apply a few style rules on a webpage. Heading font-size: 18px
+Background Colour: #f7f :"
+Create a flow chart to describe the process of collecting a debt. 
+Analyze the given sentence and find the part of speech of each word. The cat ran away from the dog.
+Propose three ideas for a potential business venture. 
+"Identify the purpose of the given function and rewrite it in a simpler form. function greetUser(name) {
+    alert(`Hello, ${name || 'there'}!`);
+  }"
+"Edit the given code by adding type annotations. def add_numbers(a, b): 
+  return a + b"
+"Choose what synonym best replaces the bolded word. He deliberately withheld information from his partner.
+
+(A) dismissed   (B) concealed   (C) sought   (D) examined"
+Transform the following sentence from an indirect object to a direct object. I gave him a book
+Write an opening to a story given the context. The city of Monado has a long and rich history.
+"Convert the following statement into an IF- THEN statement. If you don't finish the homework, there will be a consequence."
+"Select the word that has the same meaning as the bolded word. He is a staunch supporter of the cause.
+
+(A) enthusiastic   (B) strident   (C) vehement   (D) noisy"
+Create a rewriting of the sentence using the same meaning. She was excited to finally arrive at the destination.
+Describe the stages of quantum computing. No input
+Create a 10 word palindrome. No input
+Find an example of a triangle with an angle of 90 degrees. No input
+Explain how statistical analysis is used in Machine Learning. No input
+Suggest a potential solution to the plastic pollution problem in oceans. No input
+Describe the function of CSS float property. No input
+"Translate the sentence ""Where are you going?"" into Spanish. No input"
+"Name two main characters of the novel ""The Catcher in the Rye"". "
+Explain how the given event changed the course of history. The invention of the printing press.
+"In the given sentence, rewrite the underlined phrase so that it states the opposite. Recent evidence suggests that the Earth's climate is warming."
+Name three characteristics of tropical rainforests. 
+Choose one of the following text example and correct any grammar mistakes. Yesterday I went to the store to by some vegetables
+Analyze the given poem and explain why the poet chose certain words or metaphors. The waves curl gently like a mother's hand
+Add 3 descriptive adjectives to the given passage. The woman walked down the beach.
+Re-write the sentence to emphasize its main point. I need to complete the assignment as soon as possible.
+Make a list of 5 main problems faced by the endangered species Grizzly Bears
+Write a letter to a local government official advocating for an environmental issue. 
+Imagine you are in a forest and describe what you see. 
+Explain the steps involved in reforming a dysfunctional system. 
+"Find the closest strings from a set of given strings. Set of Strings: [“the cat sat on the mat”, “the cat smiled at me”, “the dog barked loudly”, “the cat meowed”, “the dog ran around the park”] 
+Query: the cat"
+"Provide a short summary of the following book review. Book: The Hunger Games
+Book Review:
+The Hunger Games follows sixteen-year-old Katniss Everdeen, as she struggles to survive the annual Hunger Games, a fight to the death amongst twenty-four teenagers. Not only must she battle the other players, but she must also fight against the oppressive Capitol that controls her fate."
+"Put together a group outfit for a Saturday night out. Group Members: Sam, Lisa, and Paul"
+Suggest a new design for the following website. Website: http://www.example.com
+Write a list of actionable items that a sales team can use to increase their sales. 
+Describe why someone should use the product. Product: A handcrafted wooden children's toy.
+Create a general strategy for a team to develop a new product. 
+Find a public figure that exemplifies the following attribute: Compassion. 
+"Diagnose the issue with the following statement: ""The car won't start"""
+Identify the category that best describes the movie. India's Daughter
+Name the countries that border Mexico. 
+Delete the words that are superfluous to the meaning or that do not belong. A strange and slithering creature was briefly seen in the lake.
+"Choose the synonym of ""amazing"". "
+Generate a valid JSON schema for a customer profile. 
+"summarize the content of this blog. The most important reason why people learn a new language is to better connect with a broader community. Whether it be for business or pleasure, language is often the key to understanding each other, overcoming barriers, and connecting with different cultures and people. Learning a new language offers many advantages, such as greater cultural awareness, greater ability to travel around the world, and improved job opportunities, as well as enhancing study skills."
+List five measures a company can take to become more environmentally friendly. 
+What is the name of the cryptocurrency with the highest market capitalization? 
+Construct a thesis statement for an essay about a rise in cybercrimes. 
+Suggest 3 possible UI changes for a messaging app. 
+Explain why the 1964 Civil Rights Act is important. 
+Design a financial budget plan for a family of four. 
+Describe what is a hash function. 
+What is the recommended method for implementing password resets? 
+"Implement a sorting algorithm that orders numbers from least to greatest. [5, 1, 9, 6]"
+Describe how customer feedback helps improve customer experience 
+Write a description of a school you went to. 
+Give 3 benefits of using data visualization. 
+"Edit this sentence to make it more concise: 
+
+The employee that was assigned to the project had excessive difficulty understanding the problem. The employee assigned to the project had difficulty understanding the problem."
+What can businesses do to improve customer engagement? 
+Describe what historical research requires. 
+Make a list of items required for a week-long camping trip. 
+Name 3 popular web browsers. 
+What is data science? 
+Give 5 creative and original ways to use a glass jar. 
+Write a poet about a journey of life. 
+"Given a design, create a tagline for it. Design:
+
+![alt text][logo]
+
+[logo]: https://i.imgur.com/HkoAukv.jpg"
+Evaluate a restaurant's customer service by describing the good and bad characteristics. 
+"Given a paragraph, summarize it into one sentence. For the first time in history, technological advances in the internet and artificial intelligence have allowed us to communicate quickly, efficiently, and securely on an unprecedented scale."
+How is the life of an adult Penguin? 
+Describe the stages of the butterfly lifecycle 

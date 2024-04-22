@@ -1,0 +1,100 @@
+prompt
+How can you increase the readability of the following sentence? Weenableusersof oursoftwareto customizethieruser experience.
+Explain the difference between a customer journey and a customer experience. 
+How can doctors use AI to improve the healthcare system? 
+Classify the following sentence as either open-ended or closed-ended. What kind of food do you typically order from a restaurant?
+Match the following pair of antonyms Utopian and Dystopian
+Describe some of the cons of using a language model approach in Machine Learning. 
+"Re-write the following sentence in the passive voice: ""My father built a house"". My father built a house"
+"Convert the following JSON object into an equivalent YAML object: {
+  ""name"": ""John Doe"",
+  ""age"": 30,
+  ""hobbies"": [
+    ""reading"",
+    ""running""
+  ],
+  ""is_married"": false
+}"
+"Without using any library, determine whether the following year is a leap year. 2021"
+What is the main issue with Adversarial Machine Learning? 
+Compose a short sentence that is grammatically correct and contains alliteration. 
+Create a script in Python that pulls data from a REST API and stores it in a pandas DataFrame. 
+What are the benefits of using a deep learning model instead of a traditional machine learning model? 
+Describe in your own words what is cosine similarity. 
+Create an example of a functional programming protocol in Scala. 
+Produce an annotated bibliography for the provided paper. The provided paper is an article about the impact of social media on mental health titled “Exploring the Impact of Social Media on Mental Health”.
+Describe how modern technology has impacted the way people communicate. 
+"Given the application name below, create an original logo to accompany it. Fruity"
+Rewrite the following sentence to start with the noun. He was driving to the store.
+"In two sentences, explain why it's important to use the right verb when writing a sentence. "
+What is the Celsius equivalent of 100°F? 
+Compare and contrast Social Networking and Blogging. 
+What is a Socratic Method? 
+Provide an example to illustrate the Law of Supply and Demand. 
+"If a sequence is a decreasing by 1 and the first number is 20, what is the tenth number in the sequence? "
+Explain the differences between relative and absolute paths on a computer. 
+What is the purpose of the `else` clause in a `try-except-else` statement? 
+Write a JavaScript program that returns the sum of the first n numbers. 
+"Write a feature for the given data structure. Data Structure:
+- Two classes: Student and Course
+- Student class contains name, age, list of courses
+- Course class contains name, duration"
+"Outline the steps to conduct analysis on the given data. Data: 10,000 images of animals"
+Create an explanatory hypothesis for the given observation. Observation: More young people are taking up apprenticeships than ever before.
+Compare two methods for the given task. Task: Finding the shortest path between two points
+Develop a prototype for the given application. Application: Patient Records Management System
+"Generate a valid JSON string from data provided Name: John, Age: 25"
+Find the transformation needed for the following equation. 2x + 3y = 8
+Generate a new Spanish word from the English word 'success' 
+Describe the structure and function of an N-Gram language model. 
+What is the difference between a k-mer and an N-gram? 
+Create a link to an online store that sells books. 
+Compare the performance of a linear regression model with a neural network model. 
+Suggest a creative activity you can do at home with young children. 
+Construct a sentence using complex sentences with three subordinate clauses. 
+"Write a customer service response to address the following customer inquiry: ""I received the wrong item, what should I do? "
+Outline the potential harms of an AI system that judges users based on their online activity. 
+Create an algorithm to determine whether a website is trustworthy. 
+"Classify the following text in three categories: science, politics and sports The president of India gave a speech on freedom of expression in the country."
+"Reorder the following verbs in the order that they occurred in the text. ran, held, shouted"
+"Create a word cloud with the most frequently used words from this text. Cells are the basic structural, functional, and biological units of all known living organisms."
+"Categorize the following objects: Car, Pen, Fork. "
+What are the main differences between natural and artificial selection? 
+Name a place in the United States that is known for its snow. 
+Choose a color to describe happiness. 
+What is the easiest way to make a cup of coffee? 
+Write a persuasive essay about why people should eat more fruits and vegetables. 
+"Translate the sentence ""El agua es importante"" into English. "
+Explain two ways artificial intelligence can be used in medicine. 
+List five vegetables that are orange in color. 
+Create a data table to show the number of books read by each student based on their year in school 
+Describe the sound of wind blowing on a calm summer night 
+"Compare and contrast the terms ""formal"" and ""informal"" "
+Guess a three-letter English word 
+Write an algorithm to determine if a given number is divisible by 7 Number = 14
+"Analyze the theme of an excerpt from Romeo and Juliet ""A glooming peace this morning with it brings"""
+Generate a list of 5 adjectives that describe the taste of a cup of coffee 
+"Given a piece of code, explain it for i in range(10):
+    print('Hello World!')"
+Develop a website for a travel blog 
+Explain the importance of tracking customer data 
+Write a code for a web scrapping tool 
+What makes a recipe healthy? 
+Design a smartphone app 
+Describe how to optimize a website for SEO 
+Suggest a way to store customer data securely 
+Suggest a method to reduce energy costs in a commercial building 
+"Identify three rhetorical devices used in the example below ""I laughed so hard I almost stopped breathing."""
+Name a social issue that is currently influencing the world 
+Create a list of three ways to reduce electricity consumption 
+"Find the meaning of the phrase ""the straw that broke the camel's back"" "
+Re-write the sentence below without using any adjectives The incredible new singer has been receiving widespread praise.
+"Classify the animal below as either an omnivore, herbivore or carnivore A tiger"
+Create a list of reasons why having a pet can be beneficial. 
+What jobs can you do with a degree in psychology? 
+Draft an apology letter to a broken trust. 
+Tell me three reasons why it is important to exercise. 
+Generate a sample HTML table. 
+What are the three most important scientific breakthroughs in the past 50 years? 
+Does caffeine improve athletic performance? 
+Name three e-commerce sites 

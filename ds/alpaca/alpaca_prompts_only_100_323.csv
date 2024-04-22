@@ -1,0 +1,100 @@
+prompt
+What is the purpose of incorporating a feedback system in a machine learning algorithm? 
+Write a brief report about the effects of increasing population density on the environment. 
+Describe how a person's choice of clothing can reflect their views and values. 
+Generate a story about a situation where someone has to make a difficult decision. 
+Create an algorithm for searching a text for a specific word. 
+Add 2 decimal places after a number. 99
+How could you describe the character of a five-year-old boy? 
+"Evaluate the following statement: ""The internet has no boundaries"". "
+What is considered to be a good standard of living in the United States? 
+"Compute the area of a triangle with the vertices (3,4), (5,6), (7,8) "
+"Imagine you are stranded on a deserted island, describe what you would do. "
+Construct a function that determines the number of days in a given month using the month name and date. 
+"Since there are several existing databases available online, what factors should be taken into account when selecting the right one? "
+"Summarize the article in less than 100 words by retaining the main ideas. The Ebola virus, first discovered in 1976, is considered one of the deadliest viruses known to humankind. It is native to regions of Central and West Africa and has caused numerous outbreaks in the region. According to the Centers for Disease Control and Prevention, symptoms of Ebola may include fever, headache, fatigue, muscle pain and sore throat, followed by vomiting, rash, and bleeding, and can be fatal if left untreated. Fatality rates vary, but have been as high as 90%."
+Rewrite the sentence by replacing the underlined word with a different one that conveys the same meaning The journey lasted for 8 hours.
+Create a 5 line poem with the topic: Life. 
+Rewrite the sentence using modal verbs It is possible to learn a new language quickly.
+"Generate an if-else statement with the following conditions: 
+If the temperature is greater than 25 degrees, print ""It is hot outside."", else print ""It is a comfortable temperature."" "
+"Construct a regex for extracting names from a given string 'Jayden, Malcolm, and Jimmy went to school'"
+What are some positive qualities of a leader? 
+Explain the main argument of a given book The Catcher in the Rye
+What are the products produced by Microsoft? 
+"Use the given words to create a funny pun Carrot, Pig"
+Describe what a good leader should possess 
+Find the letter at index 3 in the following word. Happy
+Generate three sentences about a bowl of soup 
+"Name two features of the property. A modern, 3-bedroom apartment"
+Name four types of data structure. 
+What is the final result of the equation? 5 + 2 * 4 - 3
+Create a chart that compares the advantages and disadvantages of working from home. 
+Create a research-based paper on the importance of recycling. 
+Create a dataset for a classification task. 
+Calculate the average acceleration of an object that moves from a speed of 45m/s to 69m/s in 6 seconds. 
+"Provide 5 example words that are associated with the sentiment of ""lonely"". "
+What is the significance of the day May 5th? 
+Design a game for children and describe the basic rules. 
+How does the law of demand influence pricing strategies? 
+Research and compare the pros and cons of online education and traditional classroom education. 
+What is the primary purpose of the topic sentence in an essay? 
+Design a game for pre-school children. 
+Write a question to be asked in a customer survey 
+Write a proposal for a fundraising event for Covid-19 relief 
+Create an invitation text for a boardroom meeting 
+Create a conversation dialogue between an employee and the customer service team Topic: Requesting a refund for a purchase
+Generate a fact about the inside of the sun 
+Create a three-step plan to address the given issue Issue: How to reduce plastic pollution
+Explain why discrimination exists in the workplace 
+Develop a set of rules for the use of proper etiquette while attending a meeting 
+"Coming up with an analogy, explain the concept of a quantum computer "
+Create a list of 5 items about the given subject Subject: The works of William Shakespeare
+Discuss how the following excerpt is an example of satire. Excerpt: I realized that most of our people were too busy ever so concerned with their social media accounts to ever think about volunteering or doing anything of use.
+Rewrite the statement to form a question One of the most famous authors of all time was William Shakespeare
+Why are planets round? 
+Develop a set of criteria for classifying animals 
+Design a logo for a company that produces automotive parts. 
+Briefly explain the difference between a VA and AI. 
+Come up with an original name for a bakery. 
+Describe the artist's style in the following painting. 
+"You are provided with a short story, and you need to generate a different and longer version of the story. Alex had been studying for weeks for his big math test. He was nervous, but he felt confident that he'd ace it. As the test began, he became increasingly anxious. He started to doubt himself and got more and more confused as he went on. He was sure he'd fail, but he kept on trying."
+"Generate a headline describing the outline of the given story. Alex had been studying for weeks for his big math test. He was nervous, but he felt confident that he'd ace it. As the test began, he became increasingly anxious. He started to doubt himself and got more and more confused as he went on. He was sure he'd fail, but he kept on trying."
+"Provide a genre that fits the given story. Alex had been studying for weeks for his big math test. He was nervous, but he felt confident that he'd ace it. As the test began, he became increasingly anxious. He started to doubt himself and got more and more confused as he went on. He was sure he'd fail, but he kept on trying."
+"Rewrite the given story in a different style, such as formal or humorous. Alex had been studying for weeks for his big math test. He was nervous, but he felt confident that he'd ace it. As the test began, he became increasingly anxious. He started to doubt himself and got more and more confused as he went on. He was sure he'd fail, but he kept on trying."
+"Edit the given story to shorten the story length to less than 150 words. Alex had been studying for weeks for his big math test. He was nervous, but he felt confident that he'd ace it. As the test began, he became increasingly anxious. He started to doubt himself and got more and more confused as he went on. He was sure he'd fail, but he kept on trying."
+"You are provided with a brief description of a product feature. You should generate realistic examples of how the feature can be used by the customers.
+Output 3 examples. The product feature is a search engine that allows customers to quickly find the answers to their questions."
+"Given a list of product features, classify which of them are primary features and which of them are secondary features. Ease of Use, Price, Brand Recognition, Automation"
+"Analyze what are the differences between two products and provide a conclusion on which one is better. Product 1: Automatically synchronizes data across all the users.
+Product 2: Allows users to share files, with automatically synced versions."
+Suggest 3 items of clothing based on the given context. Going to a formal outdoor black-tie event in the evening.
+"Given a news article and its categories, generate 2 questions that could be used to discuss the news article. News Article: Doha, Qatar (CNN) — On the eve of the 2022 World Cup in Qatar, FIFA President Gianni Infantino launched a tirade against Western critics of the controversial tournament in an explosive hour-long monologue.
+
+Categories: Sports, Politics, Soccer, World News"
+"Given a customer review, provide 4 examples of questions that could help improve customer service. The customer service team did not answer my questions and did not provide helpful solutions."
+"Given two customer profiles, identify the key differences between the two customers. Customer 1: Age 26, Married, Uses Android Phone
+Customer 2: Age 32, Single, Uses iOS Phone"
+Identify five characteristics of a good team leader. 
+"Categorize the following common objects into two categories: natural and man-made. mountain, satellite, lake"
+Edit the given program to create a loop that prints numbers from 1 to 10. for (int i = 1; i < 10; i++):
+Create a script that sends out automatic email notifications to customers. 
+Generate five funny knock-knock jokes. 
+Generate a slogan for a startup company that focuses on providing eco-friendly services. 
+Create a program that parses natural language and provides an appropriate response. 
+Create a poster that explains why pollution is bad. 
+"Translate the sentence ""Je suis française"" to English ""Je suis française"""
+What is the most important factor to take into consideration when writing SEO content? 
+"Add the verb ""runs"" to complete the sentence correctly. The school bus"
+How can a company protect its data from cyberattacks? 
+Name the most intrusive type of cyber attack. 
+"Generate an HTML code that creates a checkbox form with the text ""Subscribe to newsletter"" "
+Identify the differences between a processing unit and a control unit. 
+"Edit the following sentence to make it grammatically correct: ""The patient had to put on a ventilator to surgery"" "
+Describe how a bubble sort algorithm works. 
+Write an example of a Twitter post that promotes your business 
+Describe what an AI chatbot is and how it works. 
+"Make up a sentence using the vocabulary words: collaboration, detestable, moral "
+Name two plants that can be used as herbal medicines 
+Give an example of a functional group in chemistry 
+What is the main purpose of the American with Disabilities Act? 

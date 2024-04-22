@@ -1,0 +1,100 @@
+prompt
+French: Les gens célèbrent."
+"Given this sentence, generate the stem for each word in the sentence. The cats are playing in the garden"
+"Given two sentences, output the subject-verb-object structure of the second sentence. John is eating pizza. He is drinking beer."
+"Given two strings, output a string that combines the two strings into one sentence. This house
+overlooking the lake"
+"Create an English sentence using the given list of words. skateboard, red, on"
+"Given a sentence, output the number of syllables for each word in the sentence. A delicious meal"
+"Given a list of ingredients and the instructions, compile them into a recipe. Ingredients: olive oil, diced tomatoes, whole wheat spaghetti
+Instructions: Heat 2 tablespoons of olive oil in a large pan over medium heat and add the diced tomatoes. Cook, stirring occasionally, until the tomatoes are softened. Bring a large pot of salted water to a boil, then add the spaghetti and cook until al dente."
+Rewrite this sentence in a more formal manner while maintaining its meaning. I didn't want to take the class.
+Generate a set of common questions related to this sentence. She decided to drive to the store.
+"Given a word in English, output the translation of this word into Spanish. Help"
+Analyze the following text and tell whether the tone of the text is positive or negative. The weather has been unpredictable lately.
+Paraphrase this sentence to have the same meaning. We have had a prolonged period of extremely cold weather.
+Brainstorm 3 ways to reduce noise pollution. 
+Describe the conditions in a classroom when the students are actively engaged in learning. 
+Write a query to retrieve the information about the top 5 fastest cars. 
+Analyze the effect of a certain action. The government has recently abolished the death penalty in the country.
+"Identify the type of figurative language used in the phrase. ""The heat built up like a pressure cooker"""
+Explain why the author chose this particular setting. The story takes place in a small town in the 1950s.
+Judge the accuracy of a statement. The human body is composed of over 70% water.
+Explain the symbolism in the phrase. The wind whispered secrets to the trees.
+"Given a spreadsheet, find the median of the numbers in the first column. Column A: 14, 3, 111, 7, 1, 4"
+"Given a restaurant menu, recommend one item. The menu contains items like Butter Chicken, Fried Rice, Tandoori Chicken, Chicken Tikka Masala, Dal Makhani, Egg Curry, Vegetable Biryani, etc."
+Create a title for a story centered around a warrior fighting a dragon. 
+Rewrite the following sentence to match the tone of inquiry. I don't understand why my assignment was rejected.
+Develop a marketing strategy to sell a product. 
+Explain the impact of rising sea levels on coastal areas. 
+"Given a programming language, explain the syntax for a function. Python"
+Give examples of ways to reduce pollution. 
+Name a popular TV show from the 2000s 
+Write a short statement emphasizing self-care. 
+Identify the two colors that make up the American flag. 
+Name three adjectives that describe the character of Sherlock Holmes. 
+Name three religions/belief systems. 
+Differentiate between mass and weight. 
+Formulate a query to find all the documents containing the term public health. 
+Convert 1.5 kilometers to yards 
+"Write a CSS selector to apply a style to all the list items with the class ""highlight"" "
+Who won the most Oscars in the 21st century? 
+How far is Paris from London 
+Imagine the best resort you have ever been to. 
+Generate a narrative from this single sentence. The sky was a brilliant blue.
+"Arrange these musical notes in ascending order. D, C, F, A"
+Generate a children's story with the following title: The Magic Violin. 
+"Sort these animals by their habitat. owl, leopard, whale"
+"Evaluate the quantitative data provided in this table Product     | Units Sold
+---------------------
+Shoes      | 1000 
+T-shirts   | 500  
+Jackets    | 150"
+Identify the type of emotional support given to the speaker My colleague gave me an honest compliment.
+Rewrite this sentence to simplify it The end result of the project was very successful.
+Judge the validity of this statement Humans have a better sense of smell than any other animal.
+Generate a list of wildlife conservation strategies 
+Describe the benefits of using GPT for natural language processing tasks. 
+List 3 types of environment effects of fossil fuel emissions. 
+"Given the input, name the movie. A young Severus Snape attending Hogwarts"
+Provide a list of traits common to a given profession. Emergency medical technician
+"Describe the steps needed to solve this system of equations. x + 4y = 7
+5x + 2y = 7"
+Create a list of 5 interesting facts about the United States. 
+"Write a short summarization of the following text. Smartphones are one of the most popular devices currently used by many people all over the world. They not only offer different types of communication but can also be used to listen to music, take pictures and videos, watch movies, and play games."
+"Which of the following best describes a microcontroller? A. A gaming console
+B. An embedded computer
+C. A satellite dish
+D. A laptop"
+How does an oscillator work? 
+Name a gender-neutral pronoun that can be used to refer to someone. 
+Complete this sentence with an example of a homophone. 
+"Given an input sentence, find and replace the adjectives with stronger adjectives. She was a happy girl."
+Think of a metaphor for technology. 
+Rewrite the following sentence to express a stronger negative emotion. She was disappointed when she found out.
+"Explain this metaphor: ""Time is a thief."" "
+Create a multiple-choice question based on the following statement. The European Union is a political and economic union of 27 member states.
+Discuss the questions to be considered in developing a business plan. 
+"Analyze the implications of the following statement: ""Competition is essential for success in life."" "
+Compare and contrast the moral values of the protagonist and antagonist of To Kill a Mockingbird. 
+Write an opinion piece on the topic of environmental conservation. 
+"Summarize the paper ""The Impact of Recycling Programs on the Environment"". "
+Describe the defining characteristics of the Byzantine Empire. 
+Give several examples of ethical considerations related to Artificial Intelligence. 
+Outline the evolution of search engine technology over the last decade. 
+Generate an algorithm to calculate the end balance of an investment over a given period of time. 
+Identify the main characters in the book To Kill a Mockingbird. 
+Write a news article on the topic of the current trend of automation. 
+Describe the components needed to build a custom gaming computer. 
+Describe the teacher-student relationship in different educational settings. Educational Settings: an elementary school classroom and a college seminar.
+"Given a phrase, find synonyms that make the phrase more interesting. Phrase: ""Strong desire"""
+"Given an article, make a summary in a single sentence. Article:
+New research has found that chocolate consumption can have health benefits such as reducing inflammation and improving blood flow."
+Generate an example context for a conversation between two people. 
+"Given a historical event, explain its cultural or political significance. Historical Event: The Fall of the Berlin Wall"
+"Given a phrase, rewrite it in the form of a rhetorical question. Phrase: Education is the key to success"
+Paraphrase the following sentence using a different vocabulary. Sentence: Teaching is a rewarding occupation.
+"Given a phrase and a context, write a sentence that uses the phrase in a correct context. Phrase: Toe the line
+Context: A supervisor talking to her employees"
+"Given an article, classify it into a specific genre. Article:
+

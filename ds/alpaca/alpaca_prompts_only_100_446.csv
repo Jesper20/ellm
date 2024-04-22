@@ -1,0 +1,100 @@
+prompt
+B. Thankful
+C. Unhappy
+D. Unappreciative"
+"Update the timeline with the appropriate dates to demonstrate the project completion. [Project Start Date] -
+[Project End Date] ------------"
+Build an AI system to provide customer support. 
+Explain how the technology in the input works. Augmented Reality
+"Predict the outcome based on the given data. Data:
+Age: 16
+Recent grades: A, A, B"
+Identify the potential issue with the following argument. Increasing the minimum wage will benefit workers in the long run.
+Write a five sentence story describing an astronaut's journey to the moon. 
+"Provide a one sentence explanation of the term ""net neutrality"" "
+"Given the following text, remove grammatical mistakes and incorrect punctuations. The newsppaer sadly announced it will stop iits priint edtion"
+Create a list of five books that are meant for young adults. 
+"Edit the given text so that it sticks to standard English grammar rules. We was going to the store, when she realized she forgot her wallet."
+Create a short story about a person who is able to use time machine. 
+"Generate a list of the main characters in the novel ""The Catcher in the Rye"". "
+"Compare two historical figures. Martin Luther King, Jr. and Malcolm X"
+Explain the importance of NASA's current mission to Mars. 
+Identify a current event related to climate change. 
+"Create a class that accepts a username, email address, and password and has a method that will output a formatted string of the username, email and an asterisks representation of the password. username = ""USER123"", email = ""user123@gmail.com"", password = ""password123"""
+"Generate a unique, five digit code. "
+Create a mobile application that will alert the user when their favorite stock price fluctuates more than 6%. Apple Stock
+"Take this sentence and correct any errors: ""The dog barked loudly then ran away"" "
+"Generate one-sentence summaries for the following article about Google's new ""Annotations"" technology. Google recently announced the launch of its new technology called ""Annotations"". Annotations allow developers to automatically create a set of labels to denote the purpose of words, phrases, and sentences. It uses natural language processing and machine learning to detect entities, relationships and meaning in a text."
+Tell me the first celebrity to win the Nobel Peace Prize. 
+"What is the current demand for the product?
+Output the current demand, measured in number of orders. iPhone 11"
+Create a program to solve this Rubik's cube 
+Calculate the force of gravity between two cubes if each cube has a mass of 2 kilograms and they are 1 meter apart. 
+List three best practices for starting a conversation. 
+Create a database of 20 product categories and 80 products. 
+"Finish this poem in 3 lines. Trouble, I made it double"
+Create a song about encouraging people to stay at home during the pandemic. 
+Generate an email template to apologize for an error. 
+Generate a logo for a toy store. 
+Create a hundred-word story about travelling to Mars. 
+Rewrite the following condition using a negated statement. If the car is red
+Generate a tweet about the benefits of reading for children. 
+"Generate a list of 5 books, written by a female author, that you would recommend to someone who is looking for a new book to read. "
+"Calculate the total number of eyes and legs for a group of 6 cats, 4 dogs, and 5 mice. "
+"Convert the date July 28th, 2020 to a Unix timestamp. "
+"Create a view for the following database table in Sqlite which shows the total price for each person. Table name: purchases
+Columns: person, item, quantity, price"
+Generate a collection of 3 abbreviations related to the world of software engineering. 
+Which rocks are used to make a firewall? 
+Name the 3 dark-skinned actors who won the Academy Award for Best Actor or Best Actress since the year 2000. 
+How many people have been infected with SARS-CoV-2 in the United States? 
+Edit the provided sentence by replacing the <mask> token with proper adjectives to make the sentence grammatically correct. The <mask> cat was eating a bowl of soup.
+Generate an opening sentence for a horror story that occurs in an abandoned castle. 
+Write a twenty-word poem about hope. 
+Look up the facts about the human heart and provide a one-sentence summary. 
+"Refer to the excel sheet and enter the minimum salary for the ""Marketing Manager"" job. Marketing Manager"
+Name two countries in Europe where Spanish is the most widely spoken language. 
+"Summarize the following text in three sentences.
+
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 1,400 miles along the north-east coast of Australia. The Great Barrier Reef is the world's largest coral reef system consisting of over 2,900 individual reefs and 900 islands stretching along the north-east coast of Australia for over 1,400 miles."
+"For the given word, provide two synonyms.
+
+Joyful "
+Generate a title for a horror novel about a family caught in a supernatural storm. 
+"Write a two-sentence review for the movie ""Star Wars: The Last Jedi"". "
+Rewrite the tweet to fit Twitter's character limit Huge news today - scientists have found a way to produce renewable energy directly from plant cellulose! #cleanenergy
+Format the following sentence to be an imperative instruction Please set a reminder to complete the task
+Can you come up with a title for a painting which conveys the message of resilience? 
+Re-write the below instruction using active voice. Sugar has been added to the cake batter by the baker.
+"Write a short story that ends with the line ""And so, I lived happily ever after"". "
+Explain a few causes of lower-back pain. 
+Describe a few features of a search engine. 
+"Categorize the following phrase as either a declarative, interrogative, imperative, or exclamatory sentence. Don't worry!"
+Write a short story about a girl searching for a magical creature. 
+Name a type of chicken and describe its features. 
+"Summarize the article: ""A survey of machine learning methods for rhetorical question identification"" "
+"Categorize this sentence: ""I enjoyed the cute cartoon"". "
+"Rewrite this sentence to make it sound more formal: ""I had a great time at the party"". "
+"Select the most suitable option for this sentence: ""The cake _____ delicious"". "
+"Write a catchy slogan for a brand using the words ""dynamic"" and ""innovative"". "
+"Identify the parts of speech in this sentence: ""The dog barked at the postman"". "
+Explain an algorithm to multiply two integers without using a multiplication operator. 
+Describe a virtual assistant in no more than two sentences. 
+Detect if a sentence is sarcastic. That's great news.
+Generate a story about a family receiving a surprise gift. 
+Tell me the top 5 funniest movies of all time. 
+"Name the species of this mammal. The whale has a flat, paddle-shaped tail thatsometimes grows up to 8 meters long."
+How many points did the Blue Jays score in their last game? 
+Could you multiply this number by seven? 14
+Give me three types of reptiles. 
+Name one of the original 13 colonies of the United States. 
+Detect any possible mistakes in the sentence and suggest an appropriate correction. Neither Sam nor Jane are available at this time.
+Find and replace any expressions of doubt with certainty. I guess I should start studying for finals.
+Choose two words that are antonyms of each other. 
+Name five factors that influence the success of a GPT model. 
+"Based on the following description, classify the type of animal: Hairy mammal with upturned snout, long tusks and curved black ivory. "
+Explain the two different phases of GPT training. 
+Name five challenges associated with deploying GPT models in real-world applications. 
+"Convert the text document into a spreadsheet which contains three columns: word, number of occurrences, and frequency. "
+Create a Markov Chain to simulate how a person would arrive late to work. 
+Generate five different examples of a palindrome. 

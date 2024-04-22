@@ -1,0 +1,100 @@
+prompt
+"Place the following words in alphabetical order: slide, blue, jet "
+Give an example of a persuasive speech topic. 
+Try to complete the following analogy: Book is to library as ____ is to theater. 
+Choose a random book from the library and write a summary of it in less than 100 words. Nineteen Eighty-Four by George Orwell
+Name the first step to winning a debate. 
+"Write a story that uses the following four words: sunset, starry, journey, adventure "
+Rewrite the following sentence using the hypernym of the underlined word: Kevin loves to watch YouTube videos.
+Normalize the date format in the sentence. The meeting is next thursday.
+Assume the sentence is speaking about the past. Signify that by adding appropriate punctuation: Gibbons have short powerful arms and long hind legs
+Reconstruct the sentence and replace the capitalized word with the closest synonym. I feel APPREHENSIVE about the upcoming test.
+"Replace the verb with one that has a similar meaning, but is in the present perfect. I made a mistake"
+Edit the sentence so that it has a positive tone. I don't think that we have enough time.
+"Find if the sentence is a sentence fragment or a complete sentence. Input:
+The weather is nice in the summer."
+What is the average house price in San Francisco? 
+How is the stock market doing today? 
+What are the two primary functions of the US Federal Reserve? 
+"How many words are there in the sentence ""He helps the needy every day""? "
+How has the coronavirus pandemic impacted the economy in the United States? 
+"From the given text, identify two examples of symbolic meaning. Once upon a time, there was a gentle rain that washed away the dust from the land."
+Generate a list of adjectives for describing an elephant. 
+Generate a list of 10 activities people do on a summer night. 
+Generate a list of successful female entrepreneurs. 
+Identify an example of a fossil fuel. 
+Write a narrative from the perspective of a bird learning how to fly. 
+"Provide the synonym for the word ""meticulous"". "
+Create a poem that has a connection with nature. 
+Describe the character traits of a successful individual. 
+Write a descriptive paragraph about a person's home. A modern apartment
+Predict what would be the kind of food that someone living in a tropical area would be likely to eat. 
+Describe the history of the Statue of Liberty. 
+Explain what a neutron star is. 
+Give examples of four different countries where Spanish is an official language. 
+Describe what happened in the most exciting football match you have seen. 
+What is the maximum amount of people allowed in a noisy place? 
+"Sort the following values from smallest to largest: from -2 to 3. -2, -1, 0, 1, 2, 3"
+Visit a website and summarize the information on their About page in five sentences. https://www.about.com/
+What are the ethics of using Artificial Intelligence (AI) in marketing? 
+"Translate ""I am happy"" into Spanish. "
+Outline three steps for creating a successful online resume. 
+Explain how customer service can help drive loyalty. 
+Explain the concept of tax incentives. 
+Come up with two questions to ask an interviewer in a job interview. 
+Generate a 5-sentence description of a beach. 
+"Re-write the following sentence to make it more concise:
+
+The way the breeze scarped across the ocean surface was beautiful. "
+"Reword the following sentence to be more precise:
+
+Olive oil is a healthy food to eat. "
+Generate some sentences describing a summer afternoon. 
+Provide three tips for writing a good cover letter. 
+Compose two alternative greetings for a blog post. 
+"Edit the following sentence to make it more concise:
+
+Although the summer festival was fun, it was still an overwhelming experience. "
+How many legs does a spider have? 
+Give an example of an appropriate response when a customer issues a complaint. 
+Check if the following Facebook post is appropriate I think my boss is the meanest person ever.
+"Write one example each of an ""action"" and an ""effect"" that could be taken in a game. "
+Adjust the following SQL query so it returns the correct data. SELECT * FROM Products WHERE Products.price > 10;
+Describe a type of relationship between living organisms that presents in an ecosystem 
+Explain why randomness is important for a machine learning system. 
+Describe an example of a competitive strategy 
+Generate a 500-word blog post summarizing the current status of artificial intelligence. 
+Generate a 10-line poem that talks about the beauty of autumn 
+Write two sentences to explain why water is important for life 
+"Given a tweet, categorize it into one of the following emotions: happy, angry, sad, surprise I can't believe how much I miss my grandpa"
+"Given the following code, identify the bug and provide the fix def get_highest_score(scores):
+    return max(scores)
+
+scores = [5, 7, 8, 10]
+highest_score = get_highest_score()"
+Generate 5 similes about a summer day 
+Generate a list of 5 jobs that could benefit from using AI 
+Find 3 acronyms related to artificial intelligence 
+Take the word ’exponential’ and turn it into a noun. 
+Formulate a boolean query for finding information about coronavirus. 
+Identify and list the three primary colors. 
+Normalize the following URL. https://www.google.com/search?q=google+search&oq=google+search
+"Classify the following triangle as a right triangle, an acute triangle, or an obtuse triangle. The triangle has side lengths 3, 4, and 5."
+Determine the rate of work given the following information. Katie can mow 10 lawns in 8 hours.
+Create a song in the style of Britney Spears. 
+Describe the currently available features of iPad Pro 2021 
+What is the definition of static query optimization? 
+"Find the sum of the values in the given sequence 1, 4, 6, 2, 7"
+List the 3 longest rivers in Europe. 
+"Which of these countries is located in South America? Russia, Mexico, Peru, Canada"
+How did the Sumerians invent writing? 
+"Classify these colors as either warm or cool Orange, Green, Blue, Purple"
+Transform the given sentene into future tense She likes to listen to music.
+How did the people of ancient Egypt use hieroglyphs? 
+"Which of these is the largest mountain range in Europe? Alps, Pyrenees, Ural"
+Name the four functions of money? 
+List the advantages and disadvantages of using web-based software. 
+Describe the scientific process in your own words. 
+Explain what is a term deposit. 
+Write a short story about a man who lost his way and found something new. 
+What is the principle of inverse square law? 

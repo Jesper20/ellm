@@ -1,0 +1,100 @@
+prompt
+Develop a script to call a function. Function name: add
+"Write a code that inserts the provided text in the middle of the given string. Given string: ""My name is""
+Text to be inserted: Bob"
+Generate a Lewis dot structure for carbon dioxide. 
+"Write an introductory email to a potential employer. My name is John Smith, and I want to apply for the Software Engineer Internship."
+"Describe the weather conditions in the given location. Amsterdam, Netherlands"
+Categorize the given type of plant. Cyperus alternifolius
+Name a project management tool that has an online version. 
+"Reformat the following paragraph into bullet points. The Porsche 911 GT3 is a performance variant of the 911 model, redesigned with a more powerful engine, rear-wheel drive, active suspension and lightweight body shell. It also features revised aerodynamics, enhanced brakes and sports-focused interior features."
+Write a journalistic article that summarizes the climate crisis. 
+Provide three techniques to motivate yourself to exercise. 
+"Determine the 4th special element given the following 4 elements. Iron, Nickel, Lead, Mercury"
+"Given the type of words below, provide three examples of each. Adjectives"
+Categorize the given sentence according to grammar Most of them have succeeded
+Help this user understand what is the importance of backlinks. 
+Outline the characteristics of a persuasive writing 
+Create and describe a scenario in which two people can apologize for their past behavior. 
+"Generate a math equation with 4 unknowns (X,Y,Z,W) using the 4 basic operations (addition, subtraction, multiplication and division). "
+Describe how machine learning algorithms are used to detect fraudulent transactions. 
+List the elements of a SWOT analysis and give a brief description of each one. 
+Give me an example of a catchy headline for an article about the benefits of meditation. 
+Describe a situation in which a team succeeded despite tight deadlines. 
+Create a SQL query to list all the customers from Chicago. 
+Write a thank you letter to a colleague for helping you with your project. 
+Describe two ways in which artificial intelligence can improve marketing efforts. 
+Describe the three main perspectives of sustainable development. 
+Submit a report about the impact of 2020 pandemic on the restaurant industry. noinput
+"Determine if the following sentence is grammatically correct: ""John an Mary was late."" noinput"
+Rewrite the following sentence using active voice instead of passive voice: The game was watched by hundreds of viewers. noinput
+"Generate a story beginning with the phrase ""Once upon a time"". noinput"
+"Edit the word ""delishious"" to form a correct word. noinput"
+Rewrite the following sentence with correct punctuation: she said what were you thinking noinput
+"Select the best definition of ""attribute"": noinput"
+"Confirm the host's schedule for a meeting. The host would like to schedule a meeting for Thursday, June 10th at 10am."
+"Fill in the blank to make a complete sentence: ""He ____ his dinner."" "
+What's the purpose of a strategic plan for a company? 
+Describe the importance of developing an effective data analysis strategy. 
+"Insert a missing word to make a complete sentence: ""The question is difficult to _____."" "
+Name ten authors who have written works of science fiction / fantasy. 
+Create a new word to describe a person who likes being around people. 
+"Take a 40-word phrase and turn it into a 30-word phrase. The phrase is: No matter how many times you fall, always stand up and keep going."
+"Sort the following list into two groups: Apples and Oranges Fuji, Honeycrisp, Granny Smith, Navel, Valencia"
+"Rewrite this sentence in the future tense: ""The sun is shining brightly."" "
+Write an article about the importance of using a facial recognition system in businesses. 
+Describe the setting of a bar at 6pm on a typical Wednesday night. 
+Name a professional organization that a software engineer would be interested in joining. 
+List five things that define human-centered design. 
+Explain artificial neural networks and why they are used. 
+Write a script for a commercial about a new type of phone. 
+Write a few sentences highlighting the main features of a new software. 
+Describe what a typical summer day is like in the desert. 
+Write an email to a customer service asking for a refund on a defective product. Product: XYZ blender
+What is an effective strategy for improving customer engagement? 
+Convert the sentence to camel case. the cat and the dog
+Spell out the numerical phrase in English. 60
+Write two similar sentences using synonyms for the words provided. He closed the window
+Split the sentence into its component words Iamadoglover
+Find the most similar word in the sentence from a list of provided words. The teacher taught music to the class
+Format the following sentence into an xml tag This is a sentence
+Output a summary of the following passage (max 30 words). Design thinking is a creative problem-solving process. It helps people to understand the perspectives of users and empathize with them to address the challenge at hand.
+Detect hate speech in the following sentence: We should hate all those immigrants.
+"Generate a sentence using the provided adjectives that follows this pattern: Adjectives: energetic, punctual"
+"Rewrite the following sentence to make it more concise: 
+
+The easiest way for you to learn about this topic is to read many books about it. "
+"Correct the spelling in the following sentence:
+
+A great number of reasearhers are looking in to this phenomenon. "
+Generate ten questions to investigate how often people brush their teeth. 
+"Generate an example of a JSON object containing the same information as the given table.
+
+Number  | Name     | Age
+--------|----------|-------
+1       | John     | 16
+2       | Sarah    | 19 "
+"Modify the HTML document below by replacing the two comments with an appropriate heading tag
+
+<!DOCTYPE html>
+<html>
+<!-- Heading -->
+<!-- Subheading -->
+<body>
+
+Some text
+
+</body>
+</html> "
+"Take the following sentence and make it into an emphatic statement that displays urgency: 
+
+You should try to get it done as soon as possible. "
+Generate the number 6 using only the numbers 3 and 5. 
+What year did the movie Titanic release? 
+"Generate 2 meaningful sentences in French using the following words: parler, plaisir, bienvenu. "
+"Compose a tweet of no more than 280 characters that mentions the keyword ""automation"". "
+Explain why stocks are a good form of investment. 
+"Given the input, what is the output of this function? Input: 2"
+List 3 strategies for dealing with procrastination. 
+Name the most common types of nuclear reactors. 
+Generate a list of five animals found in Antarctica. 

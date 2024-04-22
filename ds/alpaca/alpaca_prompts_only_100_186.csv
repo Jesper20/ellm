@@ -1,0 +1,100 @@
+prompt
+Make a list of the three longest rivers in Africa 
+"Convert this number in scientific notation   9,000,000 "
+Create a list of at least five different types of fruits 
+Write an equation to calculate the sum of the first 10 natural numbers 
+"Read this short passage and identify the main idea. The train generally leaves the station at 8 am each morning, but recently it has been leaving at 8:15 am due to mechanical issues."
+Name a popular musical artist from a given country. Japan
+"Illustrate the phrase ""no way out"". No input required"
+What is conditional probability? No input required
+"Which figure of speech is used in the sentence ""The fish was singing in the bathtub""? No input required"
+What is the coefficient of thermal expansion? No input required
+"Rank these animals by their lifespan. Elephant, Dolphin, Dog, Cat"
+What is the median age of all the US states? 
+"What is the cultural meaning behind the expression ""raining cats and dogs""? "
+What is the average number of days a person spends in the hospital after heart surgery? 
+"Design a logo according to the brand guidelines given below. Brand name: The Grand Hotel
+Brand colors: Navy blue and gold
+Font: Quattrocento Sans
+Tag line: “Experience Luxury”"
+Outline the key components of a business plan. 
+Compose a short critique of the following artwork. https://www.moma.org/collection/works/814
+"Imagine you are a tourist in Rome, what would be your favorite sights? "
+Create a custom password based on the following phrase: The birds fly
+Describe the cultural differences between Granada and Madrid. 
+Find one historical event in the 15th century (1400s) and describe it briefly. 
+Convert the following basic math equation into another equivalent equation: 8 + 5 = x 
+Explain the concept of absolute advantage. 
+Create an email marketing campaign to promote a new product. 
+Describe the relationship between the characters in a given movie. The Notebook
+Create an animal-themed creative story No Input
+"For the given query, find out five relevant websites. How to make a website"
+What event triggered World War I? No Input
+Similar to the input enquire about other school rules No running in the hallways
+Explain who is eligible to vote in the US No Input
+Generate a list of five valid reasons to go vegan No Input
+Find five recipes for preparing vegan chili No Input
+What did the Declaration of Independence state? No Input
+"Retrieve the relevant details from the news article. The Daily Star- 30th May 2021
+A massive fire broke out in Sunamganj, near Dhaka."
+"Classify the tweet based on sentiment. Output ""positive"", ""negative"", or ""neutral"". Just had the best ice cream of my life!"
+Delete the tweet if it violates the rules. I hate all girls who are taller than me!
+Insert words to make the sentence make sense. The teacher asked the students their thoughts their opinions on the lesson.
+Change the second sentence to make the following two sentences compatible. Tom is going on a trip with his friends. Mary is planning her vacation.
+Name three signs of depression. 
+Generate a travel guide for Tokyo. 
+Suggest three fun activities for a day trip to the beach. 
+Edit the given text so that it follows APA formatting style. Writting in the APA style is important in order to make sure that your work is correctly documented
+What is the minimum z-score for accepting a hypothesis at 95% confidence level? 
+Describe the Five W's of journalism. 
+Construct a query to select all the sales data from 2019. 
+Explain how to debug a C program 
+Suggest a data visualization technique to visualize the given dataset. [Dataset containing the sales of a product in each month for the past year]
+Construct an SQL query to query the average age of all customers 
+In what ways do you think technology is changing the way we learn? 
+Describe how cloud computing works 
+"Provide an output to the following function def words_in_sentence(sentence):
+  sentence = sentence.lower()
+  words = sentence.split("" "")
+  return len(words) 
+
+Input sentence: ""This is a sample sentence"""
+Find the frequency of the word ‘the’ in a given text The quick brown fox jumps over the lazy dog
+Create a SQL query to select all the customers records who have purchased more than 5 items 
+Describe the 4 fundamentals of Object Oriented Programming 
+How would you be monitoring and evaluating the performance of a GPT model? 
+Generate a story about a journey in space. 
+What is the maximum temperature that plutonium can handle before melting? 
+When and why did the Vietnam War start? 
+Summarize this sentence in one word: She loved the way he always made her laugh. 
+Identify the homophone in this sentence: The bee bee's in the tree. 
+Write a classification essay about pet animals. 
+Find an example of a metaphor in this sentence: My life is like a river flowing inexorably. 
+Rewrite this sentence to make it more formal: She had so much fun. 
+What are the best practices to protect your online identity? 
+Explain why you should be chosen for this role. Technical Writer | Company XYZ
+Create a theory of why this event happened. Recent mass protests in Chile
+What can be done to improve cross-cultural communication? 
+Create a policy that would help solve this problem. Increasing air pollution in cities
+Come up with a business idea that could be profitable. 
+Describe a system that would help increase employee engagement. 
+Create a list of best practices that should be followed in this field. Healthcare information technology
+Calculate the full price. Product price is $5. Quanity is 2.
+Generate an optimistic statement about life. 
+Find an interesting quote related to design. 
+Make a comparison between 2 items. Items: iPhone X and Google Pixel 2
+Describe a summer scene. 
+Create a rhyming phrase. Word: Clock
+Make a judgement about the claim presented. Claim:All scientists agree that climate change is a real issue.
+"Complete the sentence below, trying to use similar language as the original sentence. The teacher explained the lesson with"
+Rewrite the following sentence to make the information more compact The reason why we decided to go ahead with the decision is because we felt it was the best choice for our company.
+Analyze the sentence and identify the type of sentence it is. The snow was melting.
+Calculate the cost of 3 kg of apples if the cost of 1 kg is $2. 
+Categorize the following word into its corresponding word class. Pretty
+"Find the place value of the given digit in the number. Number: 3758
+Digit: 7"
+Correct the spelling for the given word. Affter
+Fit the input text into the given structure. John went to the store to buy some apples.
+"In a gist, summarize this article. The article deals with the debate surrounding genetically modified crops and its effects on society and the environment."
+Name three figures of speech used in this sentence. The night is as dark as a raven's soul.
+Compare the two works of art. ![alt text](https://i.imgur.com/XzrAxTc.jpg)

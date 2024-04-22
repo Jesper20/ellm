@@ -1,0 +1,100 @@
+prompt
+"Generate a story on the topic ""A strange journey"" Noinput"
+"Given a textual description of a user interface, describe what actions come next The page shows a list of search results."
+Generate a list of steps to complete an assignment The assignment is to write an essay about how technology has changed society.
+Write a short story about a poor person finding success. 
+Write the HTML code to create a simple web page with a heading and a paragraph. 
+Generate a random story about a robot escaping a scientific lab. 
+Generate a list of five interview questions which can be asked to a software engineer. 
+Explain an algorithm for solving the problem of sorting an array of numbers in order from least to greatest. 
+"Given a chemical reaction, write an equation for the reaction based on the given reactants and products. Reactants: aluminum + oxygen
+Products: aluminum oxide"
+Create an SQL query to select all the records from the table with id greater than 1000. 
+Describe what data science is. 
+Solve the math equation: 10 - 4 x 2 
+Write a C# program that prints out the lyrics of the ABC song. 
+Create a thesis statement on the topic of racial profiling. 
+"Identify which of the following regions are in South America: Argentina, Brazil, China, Mexico. "
+Create a data table to compare the average price of a house in Arizona and Nebraska. 
+Compose a melody for a duet with two flutes. 
+Create a data model for a driver on a car-sharing platform 
+Design an app that helps people focus on a task and resist distractions. 
+Construct a conversation between two people about the following article. A recent study from the University of Southern California found that the amount of online time consumed by people exposed to the Internet doubled from 2009 to 2019.
+Construct a conversation between two people about what they believe is the biggest issue facing the world today. 
+Create a game where a player has to catch fruits with their mouth 
+Create a data model for a shopping cart. 
+Describe a dinner for a special occasion. 
+Name two elements of a successful email marketing strategy. 
+Write a sports headline describing the popular football event. 
+"From the given sentence, construct a question that requires yes or no as an answer. The meeting was cancelled."
+Create a story of 200 words under the given prompt. Prompt: The world as you know it has changed
+Generate an example of how the given technology is being used in the industry. AI in healthcare
+Find five words that are related to the topic. Octopus
+Name three advantages of using the given product. Internet of Things
+Provide two pieces of advice related to the given topic. Email etiquette
+"Summarize the most important points of the article ""The Benefits of Living Abroad"". The article, written by Elizabeth Fiedler and published in the New York Times, discusses the benefits of living abroad."
+Tell me the meaning of the phrase “the crème de la crème” 
+Tell me a synonym of the word “strident” 
+Tell me how a computer interacts with other pieces of hardware 
+Tell me any three uses of Artificial Intelligence 
+"Put the following adjectives in order from strongest to weakest: cute, adorable, pleasant "
+Summarize the article's main points. A new study found that people who eat more plant proteins tend to live longer than those who eat more proteins from animal products.
+"Create a JSON request with the following fields. username: John012
+password: Pass1234"
+Name two common diseases in humans. 
+Generate a sentence with appropriate grammar and usage. 
+Formulate 1 real-world prediction problem that can be solved using supervised machine learning. 
+"Explain what data preprocessing is, and provide one example. "
+"Write a discussion section analyzing the results of a recent article on NLP Article Title: ""State-of-the-Art Performance in Text-to-Image Synthesis with Pre-trained GANs"""
+How can a GPT model be used in question answering? 
+Explain how adversarial examples can reduce the performance of a machine learning model. 
+Name one data augmentation technique and how it works. 
+Generate a sentence that describes the purpose of a convolutional neural network. 
+"Group the following list of animals by size. Output the names of the animals in each group. 
+
+Hippopotamus, Elephant, Lion, Giraffe, Gorilla, Ocelot, Beaver "
+"Edit this sentence so that its meaning is clear.
+
+John and Alan took the teapot from the kitchen the teapot. "
+"Reword this sentence in your own words.
+
+They want to use the plan as soon as possible. "
+"Classify this sentence as ""question"", ""statement"", or ""command"".
+
+What is the capital of France? "
+"For each statement provided, classify whether it is true or false.
+
+1. French is the official language of France.
+2. The currency of France is euro. "
+"Change the text so that it follows the humorous tone.
+
+John and Amy bought a new car. "
+"Construct a new sentence using the given words 
+
+happy, sandwich, lunch "
+"Form a meaningful sentence using the words given.
+
+Daddy, Sunday, rain "
+Explain what a black hole is in less than 50 words 
+"Delete words from this sentence and rewrite it so that it remains grammatically correct.
+
+My friends and I were planning to play tennis later "
+"Is the following statement true or false?
+
+Hummingbirds can fly backwards "
+"Organize the given list alphabetically. Cake, Coffee, Bread, Milk"
+Convert 25m to km. 
+List four reasons why people learn a second language. 
+Compare and contrast coffee and tea. 
+Convert 3 hours to minutes. 
+Explain why some people like to watch horror movies. 
+Generate a computer science project based on Python language. 
+"Give a brief explanation of the term ""variable"" in computer science. "
+"Using SQL, create a command to make a new table. The new table will be called ""customers"" and should have columns for: id, name, phone, email."
+Cite 3 steps to start a web hosting business. 
+Identify the correct response to the situation. Your supervisor has asked you to complete a project and set you a tight deadline of two days.
+Analyze the political forces behind the president's decision. President B. just declared a new initiative to decrease the unemployment rate.
+Clarify how a certain company implements a certain policy Company XYZ has implemented a strict hiring policy.
+Formulate an argument for or against a given action. Banning plastic bags.
+Calculate the number of cups in 5 pints. 
+Provide three examples on how technology is changing our lifestyle. 

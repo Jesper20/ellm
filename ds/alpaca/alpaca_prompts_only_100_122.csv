@@ -1,0 +1,100 @@
+prompt
+"Put the following words into an example sentence. happy, eat, cheese"
+"Generate a connective to link the two statements. Statement 1: I like to listen to music. 
+Statement 2: I read books in my free time."
+Construct a dialogue where you ask a friend to loan you a book and your friend responds negatively. 
+Give an example of a compound sentence that uses subordination as a method of combining sentences. 
+Describe how two different cultures could view the same topic in different ways. 
+Explain the concept of positive reinforcement with an example. 
+Find the adverbs in the following sentence and identify their purpose. I will quickly run to catch the bus.
+"Give an example of a valid English sentence that contains the word ""philanthropy"". "
+What color best represent the feeling of serenity? 
+"Give a suitable alternative for the phrase ""a fly in the ointment"". "
+"Describe the meaning of the phrase ""once in a blue moon"". "
+"Explain the meaning of the proverb ""A miss is as good as a mile"". "
+Create a Twitter bio for a fictionalized character who has the superpower of flight 
+"Generate a story based on the following three words: spaceship, detective, choir "
+"Given a text about a foreign country, list 5 major cities in that country Japan is an island nation in East Asia. It lies off the eastern coast of the Asian continent and stretches from the Sea of Okhotsk in the north to the East China Sea and the Philippine Sea in the south."
+"You are provided with the following text: ""It was a cold December morning, the sky was grey and snow was lightly falling. Describe the atmosphere of the morning"" "
+Describe the living room of your home 
+"For the following sentence, edit the spelling mistakes: The concersion was very intens"
+List the ingredients needed to make a peanut butter and jelly sandwich 
+Tell me one fascinating fact about dogs 
+"In the following sentence, describe the mood of the protagonist:
+
+He was walking home late at night, feeling scared and alone "
+"You are given three words and you need to generate a joke from them. The three words are: lawyer, vampire, cellphone. "
+Compare the lifestyle of a student to a parent 
+"Given the following text, list 5 facts about dolphins:
+
+Dolphins are one of the most intelligent animals on Earth and have fascinated humans since ancient times. "
+Provide three facts about Poland. 
+Suggest two negative consequences of the overuse of technology. 
+Convert a numerical value in days to its corresponding value in weeks. Numerical Value: 57
+"Given a set of characters, write a function which checks whether the given set contains the character 'A'. Character Set: [W, X, Y, Z]"
+"Calculate the net force on an object of given mass at a given acceleration. Mass: 10 kg, Acceleration: 5 m/s^2"
+"Merge and sort two given arrays. Array 1: [89, 34, 55] 
+Array 2: [67, 1, 84]"
+Identify if the given number is odd or even. Number: 48
+"Given a sentence, classify the sentiment in the sentence as 'Positive', 'Negative' or 'Neutral'. Sentence: I have had a wonderful day."
+Remove all the negative signs from the given number. Number: -458
+Parse the given text to extract a list of all the nouns. The teacher asked the students to do their homework carefully.
+"Given two temperature values in Fahrenheit and Celsius, convert the Fahrenheit value to Celsius. Fahrenheit: 212, Celsius: 100"
+"Generate a haiku with the given list of words. List of Words: Morning, leaf, moon, wind"
+Determine if the given number is prime or not. Number: 97
+"Given a natural language query, generate a SQL query. Natural language query: Show me the number of people aged over 20 in the database."
+Generate the factorial of a given number. Number: 7
+"Given a product's price and tax rate, calculate the product's price with tax Price: $120, Tax Rate: 0.05"
+Generate a 200-word story using the given input. Max was walking down the street when he noticed a small yellow glow up ahead.
+Find the country with the lowest population density? 
+"Identify the functions of table columns ""age"" and ""salary"". "
+Weigh the pros and cons of protectionism. 
+Describe the political situation and geography of Taiwan. 
+Predict the weather for tomorrow in San Francisco 
+"Generate 50 words associated with the word ""baseball"". "
+"Edit the following sentence to correct any grammar mistakes and make it more concise: 
+
+""The phone has a not charging issue because it ran out of battery."" "
+Generate a model to predict the stock market. 
+Provide the list of ingredients to make a carrot cake. 
+Design an airplane seating chart. 
+Summarize what you know about the Industrial Revolution 
+Analyze the similarities and differences between communism and socialism 
+"Extend the story by producing a plausible continuation. Tina stopped at the store to buy milk, but when she arrived the store was already closed."
+"If the given sentence is a statement, mark it as a fact. If the given sentence is a question, mark it as an opinion. Do humans have the same number of teeth?"
+Detect whether the sentence is a metaphor or not. He was a rock in a troubled sea.
+Create a short story/story prompt given the following context. Setting: Middle of a snowstorm
+Change the parts of speech while retaining the meaning of the sentence He had to endure a hard time.
+Add an appropriate figure of speech He runs like the wind.
+Construct a mathematical equation based on the given statement. The sum of three consecutive numbers is equal to 135.
+Develop a survey question targeted to a specific audience Audience: Elderly
+Describe the difference between an artist and an illustrator. 
+Create an outline for a blog post about the advantages of using home automation. 
+"Find the third highest priced item in this list. Apple: 3.95, Carrot: 2.25, Pear: 5.95, Orange: 4.25"
+Write a question asking for a customer's first name. 
+Estimate the time required to walk 1 km. 
+"Re-write the sentence: ""Jack jumped over the fence."" "
+Create a list of three tips for creating content on social media. 
+"Classify this sentence: ""I am thirsty."" "
+Write a description for a website about a furniture store. 
+"Edit the phrase: ""We will succeed if we try"" "
+Write a paragraph about the importance of goal setting. 
+"Classify this sentence as either a simile or a metaphor: ""The wind howled like a wounded animal."" "
+Tell me about a place in France that is known for its beautiful landscape. 
+Name at least 3 different events that make up a triathlon. 
+Explain the term computer memory. 
+Name two reasons why a person might seek therapy. 
+"For what kind of activity is the soundtrack of ""Beauty and the Beast"" used? "
+"Rewrite the following sentence in straightforward language: Despite the fact that he had run a marathon, he was not exhausted. "
+List the rights of an accused person in a criminal court case. 
+Name two different types of polygons. 
+A customer is asking for a refund. Write a polite response. 
+Explain the role of environmental context in the development of a person. 
+Explain the difference between mass media and direct communication. 
+Find a list of ten adjectives that describe a good leader. 
+Rewrite the following sentence using a causative verb and a participle phrase. He was walking through the forest.
+Write a short story about a girl who discovers a secret about her family. 
+"Find the location of the given element in 2D array. arr = [ [ 1, 2, 3, 4], [ 5, 6, 7, 8], [ 9, 10, 11, 12]]
+element = 10"
+"Group the given list into 3 Groups. [""a"", ""b"", ""c"", ""d"", ""e"", ""f"", ""g""]"
+"Come up with a riddle based on the given semantic keywords related to money. Hoarding, Spend, Bill"

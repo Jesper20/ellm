@@ -1,0 +1,100 @@
+prompt
+Convert this number to hexadecimal representation. 255
+What should you do when you are stuck on a problem? 
+List all the vegetables that are rich in Vitamin C. 
+Describe the physical characteristics of a Clydesdale horse. 
+"Rearrange the following words to form a grammatically correct statement.
+Output:
+Statement: The paper published was groundbreaking new research. "
+List three software engineering best practices. 
+Create an original poem inspired by the following line. The sweet smell of roses
+"Given the following statement, come up with a marketing tagline that is 7 words or fewer.
+Output: We offer the best prices for quality shoes "
+"Given two sentences, identify any wrong grammar and word usage and revise the sentences. I love watching movies with the familities.
+I heard it was going to rain heavily."
+"Given a suitable input, generate a poem that captures the emotion of happiness. The bright warm sun"
+Describe a way to make a delicious banana smoothie. 
+"Create a program to calculate the area of a triangle given three sides. 3, 4, 5"
+"Given an inspiring word, generate a poem that captures its essence. Courage"
+Identify whether the following statement is a categorical or ordinal statement. The movie was excellent.
+"Given a subject and an object, generate a metaphor to describe their relationship. Subject: A teacher 
+Object: A student"
+Generate a story about a magical world where anything is possible. 
+"Given an event, generate a news report about it. SpaceX launched its first crewed mission to space."
+"Given the following facts, generate a story riddle. - The protagonist had a secret fear. 
+- He found a magical cloak.
+- He had a special purpose to fulfill."
+"Given two phrases, rewrite them into one concise sentence with suitable punctuation. Heaven and earth
+Unite"
+"Detect the sentiment of the following statement and categorize it into one of the following: positive, negative, or neutral. I don't really like it."
+Provide five examples of animals that hibernate in order to survive the winter. 
+What is the process of photosynthesis and how do plants use it? 
+How do environmental factors influence plant growth? 
+You need to write a job description for a chef. 
+Identify four uses of artificial intelligence in healthcare. 
+"Design a function for a web-application that will compute the total cost for a given number of items. Items: [{name: ""Chair"", quantity: 4, price: 20}, {name: ""Table"", quantity: 1, price: 100}, {name: ""Lamp"", quantity: 2, price: 45}]"
+Generate an outline for an article that explores the effects of global warming on food security. 
+What is a good way to introduce two people? John and Mary.
+"Classify the following animals into carnivores and herbivores. Tiger, elephant, deer."
+Assign a color to each of the seasons. (noinput)
+Write a short sentence about the benefits of going to the beach. (noinput)
+Provide a list of five positive and five negative effects of social media. (noinput)
+Select the correct word given the context. The world is a _____ place filled with ______ experiences.
+Assume you are a farmer. Summarize the benefits of planting your own crops. 
+"Compare and contrast the two words, ""employ"" and ""hire"". "
+Decorate the following space while staying within a budget of $1000. A bare kitchen.
+Describe why it is important to recycle. 
+Assume you are a researcher. Explain the importance of conducting a survey. 
+"Calculate the sum of each column in the following table. 2   |  3  |  4
+   5   |  6  |  7"
+"Given a location, provide a list of the best nearby restaurants. New York City"
+Describe the process for constructing a blog post. 
+Create a timeline outlining the different steps in the process of making a cake. 
+Describe the symptom of influenza. 
+Write a short story in three sentences about a mango tree. 
+"Generate a 3-sentence horror story that incorporates ""black crows"" and ""superstitious fears"". "
+Comment on the following art piece by creating 3 thought-provoking statements. 
+Design a dress code for a high school teacher. 
+Compose a poem with 5 lines that has the theme of nostalgic memories. 
+Explain how the ancient Egyptians were able to build the Great Pyramid. 
+Compare and contrast digital journalism and traditional journalism. 
+Generate a lyric for a song about being lost in the city. 
+What are the five biggest countries in Europe by area? 
+Create a story about a group of animals traveling to a distant land. 
+Explain the concept of relativity in 100 words. 
+Design a GUI application that allows users to search and purchase items online. 
+Describe the flow of oxygen in the human body. 
+Design an algorithm to find the most frequent words in a sentence. 
+What are the five largest cities in the world by population? 
+Create a program to generate a random matrix of size n by m. 
+Explain in 100 words the concept of deep learning. 
+Create a short news article summarizing the following information. A new report from the World Health Organization suggests that mental health in adolescents is declining due to increased social media and technology use.
+Consider the following sentence. Elaborate on it to make a more interesting sentence. The cat is sitting on the table
+"Write a sentence using these two words: ""octogenarian"" and ""pilgrimage"". "
+Tell me what I should do for lunch today. 
+Fix the typos from the following sentence. I struggel with my math homework
+Suggest a topic for a 5-minute presentation. 
+Make an analogy comparing two different concepts. 
+"Provide an example of a situation in which the following phrase might be used: ""It's too little, too late."" "
+"Identify the tone of the following statement: ""I can't believe you made such a bad decision."" "
+"Pick one of the following words and provide a synonym: oblivious, quandary, contrived "
+Generate a comparison between two pieces of technology. Apple iPhone and Samsung Galaxy.
+Identify which of these two technologies is more effective. Chatbot vs. Voicebot
+"How far is it from San Francisco, CA to Los Angeles, CA? "
+Tell me what the article below is about. The article is about the growth of artificial intelligence in healthcare.
+"Write a humorous story using the given set of words. Words: blue, tree, rabbit, piano"
+Explain what primary key is in a relational database. 
+Explain the concept of Big Data in layman terms. 
+Suggest a way to speed up response time on web application. 
+Name the techniques used to find data anomalies. 
+Describe a movie that takes place in outer space 
+Create an algorithm to solve the word jumble below aalw
+Write a short story featuring a character fighting a monster 
+Propose a creative solution to reducing carbon emissions 
+Compose a catchy ad slogan 
+"Estimate the cost of the items listed 1 jacket- $50, 8 shirts- $40 each"
+"Rewrite the code below to use recursion. def factorial(n):
+    result = 1
+    for i in range(1, n + 1):
+        result *= i
+    return result"

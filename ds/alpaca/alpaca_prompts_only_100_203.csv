@@ -1,0 +1,100 @@
+prompt
+Explain the difference between generative and discriminative models. 
+What are the three most important characteristics for a good literature professor? 
+"Arrange the following ingredients in the order they should be added to a recipe. Onion, Cheese, Tomato, Garlic"
+Generate a realistic scenario involving two people talking. 
+Generate a polite way of asking someone to do something. 
+Design a GPT model to generate a chatbot that helpsthe user find hotels in a certain city. 
+"Create a snippet of code using Java, that would generate a random number between 0 and 10. "
+"Given a recipe, edit the instructions to make it vegetarian. Ingredients: 500 grams of beef, 1 onion, 4 cloves of garlic
+
+Instructions:
+1. Chop onion and garlic.
+2. Heat pan over medium-high heat, add beef, and cook for 5 minutes."
+"Given a story, change the order of events and get a new storyline. John had a really bad day. He woke up late, forgot his breakfast, and had to rush to work. On the way to work he noticed a homeless person whom he wanted to help but was running late. At work, John was reprimanded by his boss for not finishing his tasks."
+"Given two similar products, create a comparison table that highlights the differences between them. Product A: Lenovo Laptop
+Product B: MacBook Pro"
+Design a GPT model to generate commands for a robot to pick up red cubes. 
+"Given the lyrics of a song, edit it to make it more catchy. Verse 1
+Brown eyes 
+Bringing me back to life
+So softly like a lullaby"
+"Given a list of books, classify them based on their genre. Harry Potter and the Philosopher's Stone, A Game of Thrones, Frankenstein"
+"Given two news articles, design a GPT model to identify whether the two articles discuss the same event or not. "
+"Given an occupation, generate a relevant job advertisement. Occupation: Veterinarian"
+Generate a headline for a news article discussing the coronavirus pandemic. 
+"Given the coordinates of two different cities, calculate the distance between them. City A: (-3.6881, 40.4217)
+City B: (-73.9714, 40.7507)"
+"Given the opening paragraph of a book, generate the rest of the story. Janice watched her children running to the fountain, squealing in delight as the water spurted and sparkled in the sunshine."
+Design a GPT model to generate chatbot conversations on the topic of travel. 
+Write a personal slogan for yourself. 
+"Translate the following sentence into French: ""I love my family"". "
+Name two similarities between a tomato and an apple. 
+Design a logo for a company that offers IT services. Company Name: Tech Solutions
+Tell me about the movie Star Wars. 
+Research and cite 3 examples of medicinal plants commonly used in traditional medicine. 
+Describe what diversity means to you. 
+Summarize the book 1984. 
+Write a short story about a man who dreams of becoming a world-renowned chef. 
+Generate a list of mechanical engineering topics 
+Explain how to solve a Sudoku puzzle in three steps. 
+Suggest a topic that could be discussed in a debate. 
+Explain why multitasking can be harmful. 
+What is the difference between a direct object and an indirect object? 
+Suggest a question to ask in a job interview. 
+Identify the incorrect English usage in the sentence She asked him to take him to the store.
+Describe the role of emotional intelligence in the workplace 
+Generate a hypothesis for how to increase engagement in an online course. 
+Give a rule of thumb for managing projects 
+Define the concept of multi-touch marketing 
+Outline the steps to achieve career success 
+"Given a product, generate 3 humorous slogans for it. Toothpaste"
+Create a poem based on the concept of regret and love. 
+Identify the key points of a speech given the text. The world is facing an environmental crisis which needs to be addressed immediately.
+Compose a letter to someone expressing gratitude for their help. 
+Compose haiku with 3 lines with 5-7-5 syllable counts. 
+"Given a context, determine if the action is legally allowed or not. A man is driving with a BAC level of 0.15"
+Explain a complicated phenomena in simple everyday language. Quantum entanglement
+Construct a story about two people with opposing motives. 
+Come up with a quiz question and the correct answer. 
+Create a complex password with a minimum of 8 characters. 
+"Make up a sentence with the words ""serendipity"" and ""opportunity"". "
+Provide 3 tips for living a healthy lifestyle. 
+"Come up with a creative name for a pet based on the given description. The pet is friendly, kind, and loves to explore"
+"Given a historical event, come up with a newspaper headline. The fall of the Berlin Wall"
+Compose a thank you note to someone who has done you a favor. 
+Compose a letter to a political figure expressing your opinion on a certain issue. 
+Write a story about a lost bird who is looking for a home. 
+"Analyze the changes in DNA sequences for a specific gene. Gene: HBA1
+DNA sequence 1: CCCTACAACCTGC
+DNA sequence 2: GTATTAACCATCC"
+Encode a text into a numerical representation. Text: The cat is running.
+"Calculate the area of an irregular pentagon. Length of sides: 3.2 cm, 4.5 cm, 8.3 cm, 9.6 cm, and 6.4 cm."
+Draft a business proposal to increase sales. 
+Describe the main differences between an engine used in a car and an engine used in a plane. 
+"Revisit the English essay to make the statements more powerful. English Essay: Environmental destruction caused by human activities has been a major problem of the 21st century, and one of the most pressing issues is climate change."
+Categorize this movie as a drama or a comedy. Movie: The Social Network
+"Calculate the total cost for a round-trip flight. Cost of one person: $500
+Taxes and fees: $22"
+Come up with a career pathway for a Data Scientist. 
+Generate a poem about the provided topic using a Markov Chain Model. Autumn
+Rewrite the provided sentences so that they use formal language. I felt confused
+"Using the provided sentence, generate a story that can be continued. The trees swayed in the breeze"
+Transform the provided sentence into a statement that is more polite in tone. Give me that book now!
+Find the errors in the reported bug and provide an appropriate solution. Bug Report: The button does not work when clicked.
+"Paraphrase the following sentence to make it more relevant to today’s world. In the past, people mostly used horses for transportation."
+Describe how a computer interprets an assembly language program. 
+Make a 3D model of a double helix. 
+Find the most popular dog breed in America. 
+Generate a report summarizing the main findings of this research paper. This paper examines the performance of students with dyslexia in different learning environments.
+Convert this string of Morse Code into text. ..-. --- -.-. .... .
+"Cite this article in APA style. Smith, J. (2020). The future of AI. AI Magazine, 21(2), 45–50."
+Generate an action plan to reduce carbon emissions. 
+What day of the week is July 4th? 
+Describe another way to make coffee. 
+Choose the most suitable word for the context. They witnessed the _______ of the sun.
+Suggest a movie that is suitable for a 6-year old. 
+Name one disadvantage of using a credit card. 
+Take the given sentence and use it to come up with a creative way to say it. He likes to read books.
+Generate a sales pitch. Robot vacuum
+Explain the concept of 'Gini co-efficient'. 

@@ -1,0 +1,100 @@
+prompt
+"Categorize the following words: [""dolphin"", ""tree"", ""dog"", ""flower""] "
+"Translate this sentence into Spanish: ""I want to learn to play the guitar"" "
+"Rearrange the words to form a sentence: ""to publicize plan new an the company is"" "
+"Find the missing word of this phrase: ""The ____ is going up"" "
+Create a regular expression that selects words that have 3 or more consecutive vowels 
+Brainstorm ideas on how to create a sustainable business model. 
+Predict the average age of a customer in a sporting goods store. 
+Come up with a creative promotion strategy to increase sales. 
+Generate an acronym for a software company. 
+Compare and contrast the benefits of online education and traditional education. 
+Suggest a popular course to offer at a coding bootcamp. 
+Come up with a creative way to reward customer loyalty. 
+Suggest a creative way to get more customers to follow the company on social media platforms. 
+Explain why a student should not run a GPT language model at scale on a laptop computer. 
+"Classify the following sentence using the following emotion categories: fear, anger, joy, sadness. I'm so proud of myself."
+"Generate a sentence which uses the following phrase: ""at the end of the day"". "
+"Generate a descriptive sentence containing the following words: ""twilight"", ""enchanted"" and ""lake"". "
+"Suggest a less common word to replace the word ""great"" in the following sentence: He had a great day."
+"Format this sentence according to Chicago Style for citations and bibliography: ""April 4, 1901 is the date of Teddy Roosevelt's first Presidential Inauguration"". "
+"Identify the stressed syllable in the word ""convincible"". "
+"Generate two ways to classify the following objects: paper, pencil, eraser, ruler. "
+Generate a description of a cat walking in a courtyard. 
+"Summarize the essay ""The Value of Games and Sport"" "
+"Use the given facts to generate a summary of the Sun. It is a star located at the center of our solar system, composed mainly of hydrogen and helium, has a diameter of 865,000 miles and a surface temperature of 10,000 degrees Fahrenheit."
+Create an algorithm for solving a Rubik's cube for beginners. 
+Find the conjugated forms for the verb 'cantar' (Spanish). 
+"Delete all punctuation marks from the following sentence: ""She said, 'I'll meet you at 4 p.m.'"" "
+Generate ideas for a travel blog for young tourists visiting India 
+"Using the input data, classify this event as a political, economic, or social event. A new law passed in France raising the minimum wage."
+Create a web page title for a page about sustainable travel. 
+Come up with 3 potential innovation ideas for a running shoe company 
+Compose a metaphor to describe the process of programming 
+"Revise the poem to make it more lyrical The sky is blue,
+The grass is green,
+The flowers are fragrant,
+It's a lovely scene."
+"Find the words in the following sentence that are related to the topic of ""family"" My extended family includes my aunt, uncle, and cousins"
+Come up with some possible topics for a research paper 
+Suggest a movie for a friend who enjoys horror films 
+"Identify the strongest argument from this paragraph. The issue of global climate change needs to be addressed now more than ever. Its impacts are being seen all around the world, from rising sea levels to extreme weather patterns. It threatens the future of our planet and all life living on it, as well as whole human societies and economies. We need to take swift and radical action to reduce emissions, invest in sustainable and renewable sources of energy, and explore more options to reduce further and mitigate the impacts of climate change."
+"Host a virtual quiz with these six songs as questions: ""Hey Jude - Beatles, ""Smooth - Santana, ""Hotel California - Eagles, ""What's Up - 4 Non Blondes, ""Piano Man - Billy Joel, ""Santeria - Sublime"
+Generate three plausible ideas for a new product or service. 
+"Define the term ""no-go zone"". "
+Discuss how modern technology has changed the way people live. 
+"Name one example of a ""social dilemma"". "
+Describe a strategy to create a blog that is successful. 
+Name two countries that border India. 
+How could a company benefit from using a customer satisfaction survey? 
+Convert 53 km/hr to m/s. 
+Construct a sentence that includes alliteration. 
+Reframe the following statement to provide a positive perspective. I am terrible at math.
+Describe the current economic situation of the given country. Japan
+Suggest three ways of dealing with pandemic fatigue. 
+Outline the advantages of using digital payments. 
+How can schools improve student safety during the covid-19 pandemic? 
+How does email marketing help a business? 
+"Prepare a address for a formal letter of invitation. John Smith, 217 Main Street, Springfield, MA 01183"
+What purpose does a database serve? 
+Evaluate the expression 5 + (4 x 10). 
+Create a list of five reasons why a person might want to learn a second language. 
+"Tell me three notable features of the operating system, Windows 10. "
+"Given the data, predict whether a patient has cancer or not. Patient A's PAP score is 5.3 and has elevated CEA count 2.8 ng/ml"
+How can I check if a given string is a palindrome? 
+"Replace the underlined words with more eloquent words. In life, you have to face many hardships and it is important that you keep going."
+"For the given text, add more details. It was a pleasant morning."
+List three methods to calculate the sum of the elements of an array. 
+"Given the data, classify whether a review is positive or negative. The food was not bad but nothing special."
+"Rewrite the sentences using fewer words. In the present time of today, digital production is becoming more popular."
+Formulate the data into a summarizing sentence. Average temperature in summer is 80 F with maximum temperature at 93 F and minimum temperature at 65 F.
+List three of the most influential leaders of the 20th century. 
+Create a website for an art gallery. 
+Decide the most suitable clothing for a person going to the beach. A person wants to stay fashionable while still protecting their skin from the sun
+Provide five examples of companies that use machine learning. 
+Generate a list of five descriptions for a given concept. Desktop computer
+"Analyze the below text and rate it for grammar, style, and tone. The sun is shining and it's a beautiful day outside!"
+"Generate a new sentence that merges two other sentences in the same way that these two sentences are merged:
+
+John went to the store. He bought some apples. Mary went to the restaurant. She ordered a pizza."
+"Given two numbers and an operator (+, - , * , /) evaluate the expression. 8, 2, *"
+Detect if the text has any sensitive information. Hi! My name is John and I work for JK Investment Solutions and my bank account number is 56789-123.
+Detect if the text is an advertisement. This is the best laptop ever! Check us out for the latest products and discounts.
+"Given a sentence, make the first word uppercase. the apple is really sweet."
+"Given a sentence, replace the verb with the base form of the verb verb. He has been running around all day."
+"Given a set of sentences, reorder the sentences to create a coherent story. John wanted to visit his uncle. He packed his bags. He took a bus. He arrived at his uncle's house."
+"Identify the type of the sentence (statement, question, exclamation, command). Can you help me?"
+Eliminate any incorrect words or phrases from the sentence. It's very kind of your of you to do this.
+"Given a list of tasks, state which task is the most important. 1. Finish the report
+2. Get more funding
+3. Improve customer service"
+"Given an article, summarize the content in one sentence. This article talks about the causes, symptoms, and treatment of depression."
+"Given a paragraph, edit the text and make it grammatically correct. John wanted go to the store so he goes there."
+Write a short example of dialog between two people discussing a recent news article. The recent news article is about a study which found that middle-aged people are more likely to suffer from mental health issues.
+Construct a mathematical equation. Output should be in the form of <answer>=<answer> Find the value of x when y=8
+"Generate the bibliography of the given article in APA format. Article title: ""The Impact of Social Media on Mental Health""
+Author: John Smith
+Publication date: Dec. 5, 2020"
+"Create a chart showing the ratios of different planets to each other. The radius of Jupiter is 69,911 km, and the radius of Earth is 6,371 km."
+Generate a couple of sentences describing an office complex. 
+Create a family-friendly recipe for pumpkin soup. 

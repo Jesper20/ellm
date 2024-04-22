@@ -1,0 +1,100 @@
+prompt
+
+A. Bicycles can be a great alternative to cars.
+B. We should consider the environmental impacts of transportation.
+C. They are more affordable and get you around quicker.
+D. Cars are the main mode of transportation for most people."
+"Given a user comment, identify whether it is a complaint or a compliment. Comment: Wow, the delivery was really fast!"
+"Given a sentences, identify the subject and the object. He has been playing soccer every weekend."
+"Given two tables, combine the tables and generate a view. Table A:  student
+
+Name   | Age  | Grade
+------------------
+John   | 20   | A
+
+Table B: score
+
+Name   | Test_1| Test_2
+------------------------
+John   | 50    | 80"
+"Given a text, use the given word to replace another word in the text. Text: The police are investigating the matter.
+Given Word: officers"
+"Given the following sentence,suggest an appropriate title. Sentence: Astronomers observed a new star in the sky."
+"Given a user query, detect the intent and respond with a suitable answer. User Query: How tall is Mount Everest?"
+"Given a song lyrics, generate a rhyming couplet. Lyrics: 
+Livin' day to day, it's so hard to find
+A reason to smile, even if it's just in my mind"
+"Given a context, generate a complete story. Context: A young girl discovers a mysterious note in her backyard."
+"Translate this sentence from English to French: ""I ate lunch at noon"". "
+Why is it important to do regular physical exercises every day? 
+"Write an apt email in 150 words, thanking your current boss for providing you an opportunity for growth. "
+"You are provided with this sentence, ""The cat is running around the house"". Convert it into a question. "
+Generate a story for the input provided: Franklin was a young veterinarian who had just graduated from college. He was excited to start a new job but soon realised that the job wasn't as easy as he thought.
+"You are given a list of words, explain the meaning of each one: Forthcoming, perseverance, grueling"
+"You are provided with the following word list, create a poem of 10 lines that explains the theme of hope: Light, heart, hope, courage, stars, dream, clouds, sky"
+"Analyze the given passage and explain how it reflects the author's viewpoint. John F. Kennedy once said, ""We are not here to curse the darkness, but to light the candle that can guide us through that darkness to a safe and sane future."""
+"You are given this sentence, ""He was lying on the couch"" and asked to create an imperative sentence. "
+"You are given a weather forecast report, classify the weather into ""warm"",""cool"",""cold"" and ""hot"". The temperature is expected to range from 22°C to 31°C today, with mainly sunny skies."
+"Analyze the given story and provide two comments on its theme. Once upon a time there was a young musician who wanted to share his music with the world. Despite his family's discouragement, he traveled around the world, performing to strangers and finding new friends."
+Find the errors in the following sentence and rewrite it using the correct grammar: I have used the program for months and it's working great.
+What environment variables are necessary to run a Java program? 
+Describe a healthy meal plan for the day. 
+Generate a programming exercise for someone learning C. 
+Compare and contrast regulation and deregulation. 
+"Reorganize the following paragraph into a cohesive structure. Social media has changed the way we communicate. People can now connect in real-time and interact with friends and family no matter where they are in the world. Businesses use social media to advertise and promote their products and services and to connect with customers. Social media has allowed us to share our lives with others, to receive news and updates in an instant, and to express our opinions."
+"Given a list of cities, classify each city as either a developed or developing city. Sydney, Rio de Janeiro, Cairo"
+"What is the meaning of the phrase ""never judge a book by its cover""? "
+Edit the following sentence so it reads correctly. I had ate my breakfast
+Who are the current members of the United Nations Security Council? 
+Describe a social event you recently attended. 
+Describe the Water Cycle. 
+How can companies use artificial intelligence (AI) to increase their profits? 
+How can you make sure your voice is heard at work? 
+Insert the following sentence in the correct grammatical form. We had lunch yesterday
+Name one use of a hacksaw. 
+Name a feature of a hammer 
+How does the human nervous system function? 
+Look up a famous figure and summarize their life and accomplishments. Louis Armstrong
+Identify the type of text and provide an example. A review of a restaurant
+Describe a person in three adjectives. Bob
+Create a checklist to help a person stay organized. Noinput
+"Generate a product review with the following information Product: Headphones
+Rating: 4.5/5"
+Generate a criteria chart to evaluate different types of headphones. Noinput
+Write a sample tweet based on the keyword Budget
+Find the relation between two words Laptop and Monitor
+"Edit the following synopsis Amy is an ambitious and hardworking woman, but she is always struggling to make ends meet."
+Create an original metaphor 
+Generate an appropriate headline Scientists discover link between air pollution and heart health
+Come up with an appropriate pun 
+Create a function which takes two arguments and returns the result of multiplying them. 
+What is the GDP per capita of United Kingdom? 
+"What is the meaning of the phrase ""to make a fool of oneself""? "
+Rearrange the following words to make an English sentence. went I shopping
+What type of triangle has three congruent sides? 
+Come up with a sentence introducing this topic: Cybersecurity 
+Create a mood board for a project about a beach vacation 
+Label the following animal as either an invertebrate or a vertebrate Tiger
+Compare and contrast the two systems of government: democracy and communism 
+Rewrite this sentence so that it is two sentences The professor taught the students lessons on the effects of climate change.
+Classify this type of tree: Oak 
+How can artificial intelligence be used in healthcare? 
+Generate a list of 8 jobs in the information technology sector 
+Write a reaction to this news article: Nigeria’s President Muhammadu Buhari has called for tougher sentences against people who commit acts of hate speech and fake news.
+"Imagine you have to tell someone about the job description of a data analyst and explain why it is a desirable career, what would you say? "
+Create a response for a customer who has an issue with the product delivery. A customer has emailed to report he has been waiting for 5 days and still has not received his product.
+Generate three different customer service questions and answers. 
+"Classify the sentiment (positive, neutral, negative) of the following text. The product I got is not the one I wanted."
+Provide 3 examples of customer service FAQs. 
+Generate a headline about electric vehicles for a news article. 
+Summarize the sentence using 6 words or less. Electric vehicles are better for the environment because they do not produce any harmful emissions.
+Generate an appropriate response to a customer who is asking for technical support. I'm having difficulty logging in to my account.
+"Generate an example of a customer service conversation involving the keyword ""shipping"". "
+"Categorize the following passage as either fiction or non-fiction. The world of Agartha is a mysterious underground realm. It is a hidden land filled with a variety of bizarre creatures, both benevolent and malicious. Legends tell us that Agartha is a place of utopia, where knowledge and technology are plentiful and advanced beyond our understanding."
+"Given an article, summarize the main points in 5 sentences. Article:
+AI chatbots are computer programs that use natural language processing (NLP), artificial intelligence, and machine learning (ML) technologies to simulate human conversations with customers. AI chatbots have become increasingly popular in the customer service industry, as they can quickly provide answers to customer questions, offer product and service advice, and guide customers through complex procedures. AI chatbots can also save businesses time and money by automating repetitive customer service tasks, such as account management and support, and helping reduce customer service costs."
+Generate a simple task-oriented conversation up to 5 turns. 
+"Explain what this quote means: ""The best way to predict the future is to create it."""
+"Given the two passages, compare and contrast their concepts. Passage 1: Agile methodology emphasizes rapid iteration and quickly responding to change.
+
+Passage 2: Waterfall methodology is an action-oriented approach to project management which follows a linear progression from beginning to end."

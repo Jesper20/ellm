@@ -1,0 +1,100 @@
+prompt
+List five spiritual practices 
+Give four examples of data analysis techniques 
+Describe a pro-social behavior 
+Grapple with the concept of friendship 
+"Given an input sentence, remove all the unnecessary words and make the sentence succinct. He called her up at 10 PM and asked if she wanted to join him for dinner."
+Rearrange the sentence to make it a valid sentence in English. apples three basket a in
+"Classify the following utterance into one of the following categories: inquiry, request, or compliment. This app is really easy to use!"
+Replace the <mask> in the following sentence with the most appropriate synonym. The horse whinnied in <mask>.
+"Assign labels to the following sentence. The labels can include 'person', 'location', 'object', etc. James climbed a tall tree."
+Generate a new sentence with similar meaning to the input sentence. The cat was playing in the garden.
+"Given a set of two sentences, combine them into one sentence such that the output sentence still makes sense. He visited Paris. It was a long time ago."
+Paraphrase the sentence to express the same idea in different words with proper grammar. The little boy was very thrilled.
+Distinguish between the two similar words and provide a proper example sentence for each of them. Effect vs. Affect
+Convert the following number from Roman numerals to Arabic numerals. XIV
+Generate a proverb that illustrates the given situation. A person who likes to surprise others.
+"Given a sentence and a search query, return a sentence that accurately conveys the meaning of the search query by replacing one or more words in the sentence. I have a pet cat. Search Query: dog"
+"Given a body of text, highlight important terms and concepts. Artificial Intelligence (AI) is the process of making machines that can think and act like humans."
+"Compare a given sentence to one written by a famous author and rewrite the sentence to make it more like the famous author's writing style. The sunset was breath-taking.
+Famous Author: Ernest Hemingway"
+Take the given sentence and transform it into a haiku. The cold winds are blowing.
+"Create a rap-like phrase using given two words. energy, flow"
+"Given two pieces of text, find the differences between the two. Text 1: The cat was sleeping.
+Text 2: The dog was sleeping."
+"Given two facts, generate a plausible hypothesis. Fact 1: Plants grow better when exposed to sunlight.
+Fact 2: Plants are unable to produce their own food."
+"Generate an appropriate dialogue for two characters with a given conflict. Characters: Alice and Bob 
+Conflict: Bob accusing Alice of being too competitive"
+"Given a short story, adapt it in the form of a poem. It was a cold winter day. She was walking outside in the snow, thinking about how life could be different."
+"Paraphrase the following statement in a different way, but keep its meaning. It's imperative that we finish the project by the deadline."
+"Given a definition, explain it in own words without looking it up, Organic farming"
+List five effects of global warming. 
+"Explain the concept of a ""heartbeat"" in terms of database management. "
+"Create a password for the account with at least 8 characters, 1 uppercase letter, 1 lowercase letter, and 2 numbers. "
+Name five functions of the immune system. 
+"Analyze the data in the table and identify the fastest growing country in terms of Gross Domestic Product in the past 5 years. Country  | 2013 | 2014 | 2015 | 2016 | 2017
+China    | 8.5  | 8.3  | 7.5  | 8.0  | 8.5
+Canada   | 2.9  | 2.4  | 2.7  | 3.1  | 3.4
+Russia   | 3.3  | 2.2  | 3.2  | 3.7  | 4.1"
+Reword the sentence using a synonym for the word 'alarm'. The alarm went off at 6am.
+Add a comma after the introductory element in this sentence. After a long day I was exhausted.
+"Generate a story that involves two characters, a bear and a fox. "
+Take the following sentence and expand upon it. He had a difficult decision to make.
+"Remove all parts of a sentence that are not necessary. I bought a new dress, even though I didn't really need one."
+Generate a person's name from a set of symbols. symbols: 👠 🐈 🐮 🌏
+Change the verb in the sentence from the passive to an active form The glass was stained with fingerprints.
+Edit the content to make it compliant with the style and tone of a formal speech. This is not good enough for a professional presentation.
+"Given a piece of artwork, guess the artist Image: https://tinyurl.com/yag4jdyg"
+"Generate a brand name from the given adjectives Adjectives: agile, creative, friendly"
+"Given a setting, write a sentence with a metaphor Setting: A ship in the middle of a stormy sea"
+"Given the products, find the most cost-effective combination Products: Chair, Table, Sofa
+Cost of each product: 
+Chair: $50 
+Table: $100
+Sofa: $150"
+"Given the characters, create a dialogue Characters: John and Annie"
+"Find the surface area of a cylinder Radius: 5 cm
+Height: 7 cm"
+Describe what a character is feeling Character: Peter
+"Given a text, add an opinion The new movie is getting rave reviews."
+Determine the Celsius equivalent for a given temperature in Fahrenheit degrees. 75 degrees Fahrenheit
+Generate a list of benefits that cycling has on the environment. 
+Come up with three basic guidelines for using a social media platform. 
+Name the three official languages spoken in Belgium. 
+"Identify the difference between a ""static"" and ""dynamic"" website. "
+"Rewrite the following sentence into an interrogative sentence: ""People are afraid of speaking in public."" "
+"Come up with 5 different movie titles that start with the word ""The"". "
+Construct a multiplication table for the number 5. 
+Come up with five common ingredients found in Italian cuisine. 
+Explain the difference between a double and a single entry bookkeeping system. 
+Come up with five tips for maintaining a healthy lifestyle. 
+Replace underscores with the correct pronouns. Jane___ a teacher.
+Write a story according to the preamble provided. Once there was a girl named Sarah who was lost in the woods.
+How do we increase focus? 
+Tell me a metaphor related to swimming. 
+Plan a 7-day vacation to Prague in the Czech Republic. 
+How would you explain the concept of Internet of Things (IoT) in simple words? 
+Tell me a common idiom. 
+Discuss the implications of capital punishment. 
+Explain the concept of descriptive writing. 
+Generate a story about a hardworking scientist who builds a time machine. 
+Paraphrase the sentence to alter its meaning. I walked across the street.
+"Analyze the text and provide a conclusion about its implied message. The sky is so vast that it can often make us feel both small and insignificant, but also extremely lucky to be alive."
+Suggest a way to address the issue raised in the statement. The increasing number of car accidents is a serious concern.
+Develop an algorithm for sorting a group of numbers. 
+Determine what type of figure of speech is present in the sentence. She was a diamond in the rough.
+Restate the sentence in Modern English. Our sea voyage beside the whale was a disquieting one.
+Categorize the following statement into either a fact or an opinion. The earth is round.
+Identify which type of sentence structure this phrase belongs to. I cannot understand why.
+Write 3 questions that a student can ask their teacher about a given topic. 
+Complete the sentence with a suitable phrase. The tickets for the game sold out ___.
+Re-organize the sentence and make it a question. She was excited about the upcoming celebration.
+Put the words in the correct order to make a sentence. fun had they day
+Create a sentence that starts with the word “industry”. 
+"Calculate the average temperature from the following list. Output the result as a number. {32, 20, -4, 30, 24, 40}"
+Convert the following words into a hashtag. Output the hashtag. mountain view
+Output the name of a popular restaurant in the city you provided. Boston
+Find the volume of a cube with side lengths of 6 cm. Output the answer in cubic centimeters. 
+Provide a 3 sentence description of the following painting. Output your description. Painting of a giraffe standing in a grass savannah.
+Create a story about a robot with odd behavior. 

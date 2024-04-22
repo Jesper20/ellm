@@ -1,0 +1,100 @@
+prompt
+How would you calculate the average of two numbers? 
+Name three ways to optimize a website for search engine rankings. 
+"Rank the following three cities from best to worst according to the weather. New York, Miami, Los Angeles"
+"Explain what the term ""infrastructure"" means from the perspective of public policy. "
+Rewrite the sentence while maintaining the same meaning but using a different synonym. I usually utilize my free time to read books.
+Describe a potential consequence of global warming. 
+"Categorize the following three items as either fruits or vegetables. Cucumber, Apple, Broccoli"
+Edit the text such that it follows the Associated Press (AP) style guide. The manager of the store Mr. David Jones inaugurated the new store today.
+Choose the correct answer: Is Pluto considered a planet in the Solar System? 
+Imagine you received news of an impending natural disaster. What are the three most important items you would need to prepare for the disaster? 
+Identify a geographic feature in Beljium. 
+Generate a persuasive argument to convince someone to read a book Harry Potter and the Sorcerer's Stone
+Construct a question about the topic AI
+Give an example of how a person could be kind 
+Guess what someone is thinking 
+Describe the mood of the sentence It was raining outside
+Infer what the person may be feeling from the sentence The exam we had to take was really hard.
+Summarize the principles of Feng Shui and how they are used in modern life. 
+"Categorize the following item into one of the 7 animal categories (mammal, amphibian, bird, fish, reptile, insect, arachnid): Earthworm"
+Summarize the article  'Discovering the Science Behind Manta Ray Flying' 
+Name a brilliant scientist. 
+Describe three different approaches to estimating the effectiveness of an organization's training program. 
+Give an example of a situation where you have to delegate tasks 
+What are the similarities between Hinduism and Buddhism? 
+Generate five examples of metaphors used in poetry. 
+Edit the following sentence: 'He realized he master the subject' 
+How is nuclear energy generated? 
+Describe the history and current application of genetic engineering 
+Explain the concept of self-actualization. 
+Name a famous US President 
+List five challenges faced by refugees. 
+Rewrite the sentence in the form of an interrogative sentence. I bought a new laptop yesterday.
+Identify the word of the sentence with the wrong spelling. The appilcation was sucessful.
+"Suggest one synonym for the word ""eliminate"". "
+"Identify the two words that rhyme with ""flame"". "
+"Quote the last sentence from the given paragraph. The 2021 Nobel Prize in Physiology or Medicine was awarded to Gregory S. Mendel, a scientist who made several significant contributions in the field of genetics. He is best known for his discovery of the laws of heredity, which is the basis for modern genetics."
+"Write four sentences about pandemics starting with the word ""Pandemics"". "
+Rewrite the sentence in the first-person point of view. He was made to wear the dress.
+"Make up a sentence with the word ""Omnipresent"". "
+Rewrite the sentence so that it contains an appropriate metaphor. It appears that the sun is trying to break through the clouds.
+"Generate a story of 5 sentences, given the following premise: Three siblings find an old kite while playing in the yard."
+"Summarize the text to 50 words. Output should contain only one sentence. Colcord Hotel is an esteemed 19-story, 310 foot tall building standing sentinel in downtown Oklahoma City, as it has since 1911. In its heyday, the Colcord was not just the most fashionable address in the city; it was also the tallest building west of the Mississippi River, the most modern, and the first fireproof building in Oklahoma, a “skyscraper” with the latest in steam elevators and electricity."
+Generate 3 unique questions on a given topic. Topic: Artificial Intelligence
+"Sort the following words alphabetically and output the sorted list. Car, Cat, Ball, Bag"
+"Given a list of words, remove duplicate words and output the list with unique words. Elephant, Elephant, Mouse, Cat, Rat, Rat"
+"Identify if the following sentence is formal or informal. Output ""formal"" or ""informal"". Sup, how's it going?"
+"Given a sentence, change it to past tense. I am eating an apple."
+Determine if the following statement is true or false. Output 1 for true and 0 for false. Smiles are contagious.
+Change the following sentence from present perfect to past perfect tense. I have finished the project.
+Recast the following sentence in a positive tone. I don't have time for this.
+"Given the following words, create a descriptive sentence. Rose, sweet, fragrance."
+Brainstorm a relevant title for the following article. The Benefits of Utilizing Recycled Materials
+Create an example for the following instruction. Output should be an example. Write a metaphor for courage.
+"Identify if the following statement is a fact or an opinion. Output ""fact"" or ""opinion"". Eating healthy is an important part of a healthy lifestyle."
+Generate a statement to motivate someone to study hard. 
+Turn the sentence into a title with maximum 5 words. We are deciding how to allocate the budget for the coming year.
+Take this sentence and rephrase it in a way that has the same meaning but makes it more persuasive. You should turn the lights off when you leave the room.
+Detect if this sentence contains any incomplete thoughts and provide a corrected version. He was worried about passing the test but smiled.
+Find the answer to the following trivia question. What is the capital of Zimbabwe?
+"Create a password combining a random word, a special character and a number. "
+Find the most appropriate synonym for the following word. Gauche
+Come up with an opening phrase to approach a potential client. 
+Rewrite the following sentence to emphasize the unit of measurement. She weighed over 200 pounds
+Identify and correct the subject verb agreement error in the sentence. The box of tools are in the garage.
+Generate a memorable story that the audience can relate to. 
+Generate a list of steps for starting a new business. 
+Write a persuasive essay about why everyone should eat a plant-based diet. 
+Generate a list of tips for a healthy lifestyle. 
+Describe the concept of artificial intelligence (AI) in two sentences. 
+Generate a short sentence that would make a great tagline for a company. 
+Generate a list of ways to foster creativity in the workplace. 
+"Automatically generate a story given the following premise and context. Premise: In the distant future, a mad scientist creates a device that allows people to travel back in time.
+Context: The protagonist, John, is an undercover government agent tasked with uncovering the truth about the scientist's invention."
+"Generate a valid JSON object for the following data expressed in natural language. The article contains three parts. Part 1 is about the history of the subject, Part 2 is about its present applications, and Part 3 is about its future potential."
+"Generate a song using the following context and melody. Context: A love song
+Melody:"
+"Automatically generate a design given the following description and color palette. Description: An abstract flower pattern
+Color Palette: #f61900, #d24000, #a4ae01, #78c706, #0168f4"
+"Automatically generate a logo given the following business name and design guidelines. Business Name: Awesome Cafe
+Design Guidelines: Abstract design with an emphasis on vibrant colors."
+"Generate a valid HTML page given the following content. Header: Welcome to My Website
+Content: 
+This is my website where I feature my photography work. I hope you enjoy looking through my portfolio!"
+"Generate a list of 10 natural numbers between given two numbers. Numbers: 5, 25"
+"Generate a chessboard with the given size and with pieces at the specified positions. Size: 8x8 
+Piece positions:
+White Rook at H8
+White Pawn at B3
+Black Pawn at A3
+Black Rook at H2"
+Find a word in the sentence that is used as a noun. Sentence: She went to the store to buy some apples.
+Write pseudocode for a Merge Sort algorithm. 
+"Provide a evidence explaining why the following code is incorrect. def add(a, b):
+    return a + b"
+Compare and contrast Object-Oriented Programming and Functional Programming. 
+Compose a tweet explaining why Python is a popular programming language. 
+Rewrite the following statement using formal English. She ain't got no money.
+"Find and explain the fallacy in the following argument. All birds can fly, so all mammals must be able to fly as well."
+Explain the difference between gradient descent and a genetic algorithms. 

@@ -1,0 +1,100 @@
+prompt
+Describe an artificial intelligence system in short. 
+Name five animals with stripes. 
+Describe two strategies for preventing data loss. 
+Generate a film title that matches with the theme of forest conservation 
+Provide statistics related to the total number of people in the world who use mobile phones. 
+Explain the dangers of uncontrolled wildfires 
+Summarize the socioeconomic impacts of modern technology. 
+Generate a regular expression to validate a six digit ZIP code. 
+"Construct a to-do list from the following input. Complete the report
+Check emails
+attend online meeting
+organize files
+call john"
+Propose the equation for the general solution to the quadratic equation. 
+Compare and contrast Type A and Type B personalities. 
+Build a search engine that targets the medical field. 
+Construct a ten-minute HIIT routine. 
+Generate a JDBC query to retrieve a customer's phone number. customer_id = '74ADB'
+Give a tagline to the product. Product - Face masks
+Compose a signup form for a newsletter. 
+Follow these specific steps to install the software. 
+Create a table mapping temperatures in Celsius to Fahrenheit 
+"Construct a dialogue between two people ordering food at a restaurant. Person A: Hi, I'm ready to order. 
+Person B: Sure, what would you like?"
+Write a joke about someone going to the dentist. 
+"Refactor this code snippet to make it more efficient. for(i=0; i < arr.length; i++) {
+    if (arr[i] > 10) {
+        console.log(arr[i]);
+    }
+}"
+"Categorize the following items according to whether they are vegetables, fruits, or grains. Potatoes
+Kiwis
+Rice"
+Suggest a good financial decision for someone in their 20s. 
+Generate a set of rules to follow in order to perform better at work. 
+How many animals live in the rainforest? 
+Generate a strategy to boost engagement on a company’s website. 
+Find the wavelength of a sound wave with a frequency of 4.0×10^4. 
+Summarize the US' approach to climate change during Trump's presidency. 
+Explain the purpose of principal component analysis 
+Explain how to debug a function in Python. 
+Create an example of a physics problem that involves projectile motion. 
+Describe the idea behind reinforcement learning. 
+What is an integer overflow? 
+Compare K-Means and Hierarchical Clustering. 
+Compose a pitch for the given business: Ice Cream Shop
+"Construct a hypothetical conversation between two characters given their objectives. Character 1: Wants to find out more about the mysterious character
+Character 2: Wants to keep their identity a secret"
+Generate a story synopsis for the given starting sentence. He wakes up to find himself in a strange place.
+"Pick one of the given objects and illustrate it in a creative way. Sea, sun, tree"
+Create an agenda for the upcoming meeting. Team Meeting
+Construct a simple greeting 
+Explain why birds fly south during the winter 
+What is the world population? 
+Explain why people gossip 
+Find the sum of the first 10 multiples of 7 
+"Arrange the following words to make a meaningful sentence:
+
+Word: window - opened - the "
+Where can the Berlin Wall be found? 
+Name four human emotions. 
+Create a Twitter post about the upcoming US presidential elections. 
+Compare and contrast news magazines and daily newspapers. 
+Develop a list of interview questions for a computer science job. 
+Describe an organised crime syndicate. 
+Generate a web page for a book review website. 
+What word describes a person who finds joy in the misfortune of others? 
+Explain why the Stock Market crashed in 1929. 
+"Design an algorithm to compare the words in two strings and determine the similarity between them. String 1: ""backpack fabric""
+String 2: ""fabric pack"""
+What are the five freedoms protected by the First Amendment? 
+"Using the given text, replace the blanks with the most appropriate words.
+
+I really love _____ to the _____ with my friends. going, beach"
+"What is the main theme of the short story ""The Most Dangerous Game""? "
+"Construct a sentence using the phrase ""once in a while"" "
+"Tell the story from the given input in first person point of view. Mia was walking through the woods when she saw a large black bear. The bear was about ten feet away from her, and it was clearly aware of her presence."
+Re-write the passage into a lively dialogue that could have happened between two people. The rustic architecture of the old castle has attracted many tourists to visit the surrounding town.
+Write a father's day wish for a son. 
+Generate a metaphor that effectively conveys an emotion. 
+Take the sentence and restructure it in a way that clearly communicates the intended meaning. His goal was to make sure that they could do it.
+Identify the nearest airport to the city Boston
+Create a tweet about workplace inclusivity. 
+"Given a list of numbers and the letter ""a"", sort the list in the following order: All the even numbers followed by ""a"" followed by all the odd numbers. 5, 2, 9, 12, 8, 6, a, 11"
+"Create a new word that has the following attributes: 1. verb, 2. can be used in everyday conversation, 3. consists of 4 letters "
+"Describe what the following words have in common Apple, Orange, Carrot"
+"Rewrite the following sentence with active voice:
+""The form was filled out by me."" "
+"Translate the German sentence ""Sie hat das gemacht."" into English. "
+Create a poem that is related to the season of Fall. 
+"Complete the following sentence with a proper verb:
+The teacher ____ the results of the exam. "
+"Create a new sentence with the words ""rat"", ""forest"" and ""busy"". "
+"Rewrite the following sentence in the future perfect tense:
+""We will finish the race."" "
+"Match the words to their respective parts of speech:
+""food"" "
+Generate a tweet about a book you read lately. 
+"Identify if the following sentence is present perfect or present simple. Output 1 for present perfect, and 0 for present simple. I have heard this song before."

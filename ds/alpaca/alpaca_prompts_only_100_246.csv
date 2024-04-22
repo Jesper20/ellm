@@ -1,0 +1,100 @@
+prompt
+Describe how to write an effective resume. 
+Name a Mediterranean Sea island. 
+Describe your favorite character from a movie. 
+Explain why renewable energy sources are important. 
+Create a fictional story that involves a magical creature. 
+What is the name of the world's deepest river? 
+Name an English idiom 
+Suggest an appropriate title for this article. This article is about the importance of a healthy lifestyle and how to achieve it.
+Generate an intro for this article This article is about the importance of sleep and its benefits to the body.
+"Given a search query, identify the intent of the query. ""How to get a passport in the US?"""
+Describe a person with the trait 'generous' 
+Explain the significance of the poem “Dream Deferred” by Langston Hughes. 
+List four types of sports. 
+Name three champions in the field of Artificial Intelligence. 
+"Describe the main character of Shakespeare's play ""Hamlet"". "
+"Arrange the following list of animals based on their size. Lion, Elephant, Frog, Rat"
+Tell us about a time when you took an initiative to do something. 
+Write an email to persuade your manager to grant you a pay raise. 
+Re-phrase the following sentence in a shorter form. The train is expected to arrive at the station at 4 o'clock in the afternoon.
+Generate an example use case of how an AI system can improve customer service. 
+"Write a JavaScript function to calculate the total cost of an item and applicable taxes. Item cost = $10
+Tax rate = 5%"
+Write a paragraph summarizing one of the stories in the Bible. 
+"Write a blog post titled ""Five Reasons You Should Invest in Stocks"". "
+Tell me one positive aspect of the current world. 
+"You are given a list of ingredients, tell me what type of dish you can make with the ingredients. 1 onion, 4 tomatoes, 2 cups of rice"
+"You are given a news article, summarize it in one sentence. The news article stated that the U.S. President had made a statement regarding ongoing tensions in the Middle East."
+"You are given an example sentence, rewrite it with a different word order. The dog barked loudly."
+"Given a list of books, recommend a book that would be suitable for someone with a particular interest. The Catcher in the Rye, The Great Gatsby, 1984"
+Give 3 reasons why a certain animal should be saved from extinction. Tiger
+"You are given an example sentence, provide two synonyms for one of the words. He ate the delicious cake."
+"You are given one blog post, condense the post into a tweet. The blog post discusses ways to reduce stress during the holidays."
+"Given the following sentence, add a transition word to make the sentence better. He cooked breakfast early."
+"You are given an example sentence, rephrase it without changing the original meaning. I am tired because I didn't sleep well."
+Write a code snippet to demonstrate the usage of a specific library. Library Name: Scikit-learn
+"Generate names for a list of dishes given some ingredients. Ingredients: Pesto, Penne, Cheese"
+"Explain why the following statement is true: ""Successful management of diversity is good for business."" "
+Paraphrase the phrase below A great number of people
+The following sentences contain spelling errors. Find and correct them. I wanted to viset the museumg but it was closed.
+"Given some binary classification data, identify a suitable machine learning model that can be applied to this task "
+Create an entity recognition system for a given dataset. 
+"Based on the given sentence, provide two appropriate synonyms. Coveted"
+Generate some travel headlines related to France. 
+"Find ways to improve the following code snippet. def leap_year(year): 
+    if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0: 
+        return True 
+    else: 
+        return False"
+Write an algorithm to search an element in a list. 
+"You are given some text data, summarize it in 5 sentences. The Portuguese Tourism Board reports that Portugal is one of the most visited countries in Europe, welcoming more than 15 million tourists in 2019. Lisbon remains the most popular tourist destination in Portugal, drawing around 12 million visitors in the same year. Other popular cities include Porto, Faro, Lagos, and Coimbra. Portugal is well-known for its beautiful beaches and its warm climate, with the temperature averaging at 23°C throughout the year."
+Design a KB-QA system for an online travel website 
+Output the result of the division 34 divided by 5. 
+Analyze the essay and suggest grammar & style improvements. Today's generation of youth are becoming more and more undisciplined.
+Output the time one hour from the given time 5:00 PM
+"Using the given keywords, create a Twitter slogan Keywords: Fun, Adventure, Technology"
+What type of electrical resistors are available? 
+Create an outline for an article about the Amazon rainforest. 
+Vaccinations are important for our health. 
+Convert 4 inches to centimeters. 
+Which type of energy is produced when salt dissolves in water? 
+Find the volume of a cone with height 10 cm and radius 5 cm. 
+Write a short story where a character goes through a transformation 
+Insert an appropriate or suitable word for the given context. I went to the store to buy ____.
+List at least 3 reasons why it is important to keep a budget. 
+Summarize in 120 words the key concepts discussed in this article https://en.wikipedia.org/wiki/Deep_learning
+"Execute the following SQL command SELECT first_name, last_name, SUM(sales) 
+    FROM employees
+    GROUP BY first_name, last_name
+    ORDER BY 3 DESC;"
+Compose a song that tells a story 
+Arrange the following sentence properly into regular night shift weekend I a had started very
+Generate a passphrase of 8 words 
+"Evaluate the following statement "" The world is better now compared to 10 years ago."" "
+Generate a phone number with the format (xxx)-xxx-xxxx 
+Suggest an action the user can take to improve the response time of their website. 
+"Classify the dialogue into one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical issue with website or app. - Agent: I am sorry we will cancel that order for you, and you will get refund within 7 business days. 
+- Customer: oh that takes too long. I want you to take quicker action on this."
+Generate a product description for a red sweater. 
+Compose an email to a customer acknowledging their complaint and apologize for the inconvenience caused. 
+Suggest an action plan for a customer who is struggling to set up the product. 
+"Fill in the blank with the best word to complete the following sentence:
+
+""It was raining ____ so I decided to stay inside."" "
+Explain the concept of machine learning algorithms in three sentences or less. 
+Edit the sentence below to make it more direct and clear in tone. I was wondering if you could possibly help me with this.
+Compose an email to a customer apologizing for the delayed shipment and provide a potential solution. 
+Generate a list of five items that a customer could use to improve their website. 
+Generate a sentence explaining the concept of a decision tree algorithm. 
+Generate a sentence that explains the concept of natural language processing in three words or less. 
+"Compose a poem using the following words: Dream, Passionate, Bliss. "
+Generate a product mockup of a gardening tool. 
+Categorize the following type of animals as either mammals or reptiles: Turtle
+Planet Earth has 3 oceans. List them. 
+What is the next step needed to make a cake? 
+In what country was President Roosevelt born? 
+Create a graphic illustrating the concept of biodiversity. 
+Create a list of 4 programming languages used for mobile development. 
+Classify the plant as either herbaceous or woody. Maple Tree
+Provide a few examples of animals that live in wetland habitats. 

@@ -1,0 +1,100 @@
+prompt
+Explain the usage of the indexing operator in Python. 
+"Create a regex expression that excludes words containing the letter ""x"". "
+Create a function to round a number to two decimal places. 14.659
+"Create a new sentence based on the following words: moved, step, new"
+"Select the correct verb form in this sentence. Many people agree that John's painting has (see, saw) by the public."
+Find the irregular verb in the sentence and write its past tense form. She swims every day.
+"What is the gerund of the verb ""run""? "
+Write a sentence that expresses an opinion about robots. 
+Generate a response for a question about the climate type of a city. What is the climate type like in Manchester?
+Classify the given sentence using the following categories - Fact or Opinion. Drinking coffee can give you energy.
+"Given a string, reverse it in-place. Hello world"
+How would you greet someone in a formal way? 
+Tell which of the two given numbers is smaller. 12 and 5
+"Does the information provided in the article support a vegetarian diet? You can answer ""Support"" or ""Unsupport"". Article: According to the USDA, following a vegetarian diet can be nutritious and healthy. Eating a variety of fruits and vegetables, whole grains, legumes, nuts and seeds, and other plant foods can provide all of the nutrients you need, including protein, vitamins, and minerals. Similarly, research indicates that consuming vegetarian foods (or foods low in saturated fat) has many health benefits such as lowering the risk of heart disease, reducing the risk of type 2 diabetes, and promoting a healthy weight."
+Generate a response for a question about a famous landmark. What is the Golden Gate Bridge?
+"Reformulate the sentence so that the meaning remains true, but the sentence structure is different Video games are becoming increasingly popular with teenagers"
+Order the following words in to a grammatically correct sentence cat the likes my
+What is histogram equalization? 
+Describe the differences between type I and type II errors. 
+Create a text editor command to search for words that start with the letter 't' 
+"Given a numerical vector 'x = [5, 4, 3]', calculate the sum "
+Resolve the following problem A tank has 3 liters of water. There are two pipes. The first pipe can fill the tank with 9 liters of water in 5 minutes while the second pipe can empty it in 7 minutes.
+Identify the type of the function y = x^2 + 3 
+Explain the concept of 'Normal Distribution' 
+"Generate a fun skit with the following four characters: a coach, an athlete, a referee, and a mascot. "
+How did the European Union (EU) respond to the Brexit referendum of 2016? 
+Provide an example of a limit of a function at a point. 
+"Create a mixture of colors given the following components: bright yellow, lilac, sky blue, and buttercup yellow. "
+Describe your dream job without mentioning a specific occupation. 
+Convert the following time to 12-hour format: 21:35 
+Create a poem about nature using at least two literary devices. 
+Give a description of the setting of a horror movie. 
+Generate a password of 8 characters that contains one uppercase letter and one number. 
+Create a story for a five-year-old about a person who moves to a new city. 
+Calculate the value of four plus seven. 
+"Cut the passage by half and replace the omitted portions with an ellipsis. A healthy lifestyle includes exercise, healthy eating habits, and proper rest and relaxation. It also involves maintaining a positive outlook and strengthening self-esteem."
+"Select all the even numbers from the list. 17, 8, 3, 22, 9"
+Adapt the following sentence to use the second person point of view. The man took a walk in the park.
+Name two animal species that live in the ocean. 
+"Identify the main idea of the following article:
+https://en.wikipedia.org/wiki/Agriculture "
+"Summarize the following in two sentences:
+
+The increasing commercialization of our environments is having a major impact on our lives. "
+"Edit the following sentence so it follows proper English grammar.
+
+Sarah and I walking to the store "
+"Write a headline for the following article: 
+
+https://www.huffpost.com/entry/how-social-media-affects-mental-health_b_5ba7c9f9e4b008ab8041fd3d "
+Name two products made from animals. 
+"Given a paragraph, identify the sentiment expressed in the paragraph.
+
+Helping others is a great thing to do. It makes you feel good, and it shows that you care. "
+Write a paragraph that describes the benefits of using technology. 
+Generate a story where the protagonist goes to a giant door and unlocks it using a magical key. 
+"Identify the main point of the following article:
+
+https://www.bbc.com/news/business-54050430 "
+"Write a headline about the following article: 
+
+https://www.npr.org/sections/goatsandsoda/2018/07/09/627487416/experts-children-benefit-from-early-exposure-to-language "
+"Given a sentence, punctuate it correctly. 
+
+We shall overcome "
+Generate a list of five tips for reducing stress levels. 
+"Rewrite the following sentence so that it is free of gender bias:
+
+The doctor will see his patients. "
+Generate a list of five activities that people can do to help promote environmental conservation. 
+"Describe what is the meaning of the saying ""practice makes perfect"". "
+"Given two strings, find if one string is a sub-sequence of the other. String 1: abcd
+String 2: abcde"
+Analyze why some people find it difficult to stay motivated. 
+Suggest three healthy snacks to pack on a hike. 
+Explain the relationship between mass and weight. 
+Design a virus-scanning program. 
+"Find the average of a list of numbers. 1, 2, 4, 5, 10"
+Analyze the following sentence and mark all the nouns. The fish jumped out of the river.
+"Calculate the cost of purchasing 3 apples, each costing $1. "
+Replace the noun in the given sentence with a pronoun. Adam is a very creative person.
+Create a description of a famous historic landmark. Eiffel Tower
+Write an article about ways to save money. 
+"Give me a unique sentence using the word ""dazzle"". "
+How do you check the accuracy of a machine learning model? 
+"Summarize the article ""The Role of Artificial Intelligence in Everyday Life"". "
+Explain how natural language processing can improve customer service. 
+Describe a real-world application of reinforcement learning. 
+Create a list of correct punctuation and grammar rules. 
+"Optimize this query for maximum recall: SELECT * FROM  table WHERE column1 = ""value1"""
+Design a process for classifying text into two categories. 
+Describe an example of how sentiment analysis is used in customer service. 
+Explain the difference between a random forest and a decision tree. 
+"Generate a creative headline that summarizes the given paragraph. Airbnb is an online community marketplace that connects people seeking short-term rental accommodations with hosts who rent out their room, house, or apartment. Airbnb enables homeowners to make money and travelers to benefit from budget-friendly accommodations."
+"Find the number of students who participated in the survey The survey was conducted to investigate the shift from physical to virtual classrooms. It was sent out to 500 students, and 89.4% replied with satisfactory results."
+Generate a call-to-action statement that encourages people to donate to an animal shelter. <No Input>
+"Create a valid JSON string from the following: name: Joe Smith
+age: 33
+occupation: Software Developer"

@@ -1,0 +1,100 @@
+prompt
+"Given the following code, find the output and explain the logic behind it: x = 5
+y = 10
+if x > 3 and y > 5:
+    print(""True"")"
+Generate a political opinion piece on a given news event. The newly-elected group of representatives have proposed a different approach to trade policy.
+Generate a computer program to output the Fibonacci sequence up to nth number. n = 10
+"Categorize the given dataset into two classes. Dataset:
+
+1. Response time = 14ms
+2. Response time = 19ms
+3. Response time = 22ms
+4. Response time = 18ms"
+"Write a technical report summarizing the insurance coverage benefits for the given data. Required coverage: Health, Life, Auto
+Annual premium: $1,000
+Deductible: $500"
+Detect if there is any implicit bias in the sentence and suggest an alternative if needed. He was a real “man’s man”.
+Generate a conversation between a customer and a tech support representative about resetting a password. Customer: I need to reset my password.
+Generate a convincing argument in favor of the given statement. Video games should be treated like any other form of art.
+Write a few sentences to explain why marketing plays an important role in business. 
+List five benefits of the internet. 
+Create a list of five goals you have for the next month. 
+What hardware components are needed to build a basic computer? 
+Find the answer to the following equation: (3+3)*3 
+Write a sentence to describe a sunset 
+Find three examples of irony and explain why it is ironic. 
+Enrich the given input by adding at least 3 more elements to it. Kobe was an exceptional basketball player.
+Hypothesize what could happen if the given input is true. Humans are getting smarter
+"Create a three line poem that uses the given words. Sorrow, forgotten, friends."
+Change the given sentence to a more direct command. Please don't forget to bring the books.
+A new restaurant has opened up in town. Come up with six menu items that the restaurant could serve. 
+"Insert the following words into a sentence: barn, destroy, fierce. "
+Create a numeric expression that equals 9 when evaluated. 
+Generate an interesting quest for a role-playing game. 
+Create a fun game for two people. 
+"Generate a witty retort. Person A: ""You don't know what you're talking about."""
+Design a painting for a museum. 
+What is the most effective way to protect your computer from being hacked? 
+Create an algorithm to find the greatest common divisor for two positive integers. 
+Compose an email to your supervisor to explain why you were late for work. 
+Create a Multilayer Perceptron (MLP) Neural Network with three inputs and one output that can predict an output based on the input variables. 
+"Translate this sentence to Spanish: ""I would like an apple juice."" "
+Name five drugs commonly used to treat depression. 
+Construct a 3x2 matrix with integers from 1 to 6 in ascending order. 
+Design a high-level architecture of how an autonomous car works. <no input>
+Explain the flow of a reinforcement learning loop. 
+"For the given dataset, develop a Reinforcement Learning Algorithm to predict the future value of the stock. Dataset: Daily closing prices of Apple Inc. stock over a period of 12 months."
+Generate a paragraph summarizing the Big-O notation. 
+Design the architecture for an object detection system. 
+Generate a table showing the comparison of Machine Learning and Deep Learning techniques. 
+Generate a paragraph featuring a character with a tragic backstory. 
+Generate a thesis statement for a paper on the importance of early childhood education. 
+Describe a strange dream you have just had. 
+Generate a story featuring a castle with a hidden secret. 
+"In the given scenario, recommend an appropriate range for the cost of the item. The customer is an average, middle class person with moderate purchasing power. They need a small appliance for their home, like an air purifier."
+Restate the following sentence using a powerful and energetic vocabulary. The task is difficult.
+"Draft a response to the following message in a friendly and respectful tone. ""Dear customer, thank you for submitting your feedback. Our team is looking into your complaint and will get back to you soon."""
+"Can you find the sentence fragment in the following text? The new law will make it easier for people to access health care, as well as providing more support for those in need."
+"Create a works cited entry for the following article. Baker, Keith A. “Unpacking the Digital Divide Mesearch: Taking Stock and Looking Forward.” The Information Society, vol. 25, no. 2, 2009, pp. 135-143."
+"Come up with a title that conveys the purpose of the article ""The Economics of Cyber Security."" "
+Come up with 3 alternative synonyms for the word “adept”. 
+"Create a poem of 6 lines by taking inspiration from the following words: joy, warmth, laughter"
+What would you say to motivate a friend who is about to face a difficult challenge? 
+"Given the following input, describe a life lesson they can learn from the experience. Failing a final exam"
+Find two quotes related to the given keyword and explain their meanings in your own words. Success
+"Given the following input, provide an example of a type of organization. Non-governmental organization (NGO)"
+"Tell me antonyms for the following words. Strife, fear"
+Make the following sentence sound more formal for an essay. This is really great.
+Generate a self-introduction given the following input. My name is Ann. I am a software engineer.
+"Rewrite the sentence removing all forms of the verb ""to be"". This is a difficult task."
+Generate a sentence about a person's experience with a new technology. 
+Generate an interesting random fact. 
+Explain the importance of physical activity for teenagers. 
+What type of voice does a tiger have? 
+"Summarize the definition of ""criminal justice"". "
+"Rewrite the following sentence using appropriate grammar and using the word ""difficult"". It's hard to do."
+"Describe the phenomena of ""mirage"". "
+Create a headline for a news article discussing plans to reduce air pollution. 
+Give an example of a traditional folk tale. 
+"Edit the following sentence to increase clarity:
+
+I decided to go for a walk because it was nice out. I decided to go for a walk because the weather was pleasant."
+Convert the given temperature from Celsius to Kelvin. 25 C
+Suggest two potential solutions to the problem described in the text below. The number of homeless people in the United States is increasing each year.
+Look at the following sentence and determine what kind of punctuation mark is needed. It's time to get started
+Identify two potential interpretations of the sentence. I said goodbye to my parents.
+Expand the sentence for more detail. He asked for help.
+Suggest a scenario where this sentence could be used. It's time to get to work.
+"Suggest a meal to make using only the following ingredients. eggs, spinach, red onion, garlic, tomatoes."
+Transform this sentence using a synonym for the word 'Great'. This is a great achievement.
+Generate a short vacation story that takes place in a forest. 
+Create a marketing plan for a new ice cream product. 
+Design a user interface for a platform of your choice. 
+Imagine you were a professor and you had to grade an essay on the positive effects of globalization. <no input>
+Generate a paragraph about the importance of networking for job seekers. 
+Identify the term that best summarizes the following definition: The practice of changing the meaning of a word or phrase by abbreviating it
+Generate a recipe to make strawberry muffins. 
+Create a persuasive argument on why schools should offer more computer science classes. 
+Summarize the key features of JavaScript. 
+Describe a way to encourage students to interact more in a virtual classroom setting. 

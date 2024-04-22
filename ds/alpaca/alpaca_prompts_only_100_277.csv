@@ -1,0 +1,100 @@
+prompt
+"Please classify the following as either a noun or a verb. Output either ""noun"" or ""verb"". Help"
+Describe the contributions of a famous scientist. Output the description. Marie Curie
+Generate a creative story about a student’s summer holiday. Output the story. Alexa is a 14-year-old student from Los Angeles.
+Anticipate some consequences of the following action. Output a list of consequences. Cancelling public transportation services
+Write a recipe for a steamed pudding. Output the recipe. No Input
+Generate a metaphor to describe the following situation. Output the metaphor. Failure
+"Summarize the following text. Output the summary. Covid-19 has wreaked havoc throughout the world, causing massive economic disruption, health crises, and loss of life. Governments and citizens alike are struggling to cope with its impacts, from trying to contain its spread to dealing with the effects of shuttered businesses and collapsed supply chains."
+Compose an appropriate apology for the following situation. Output the apology. You accidentally posted a rude comment about someone on a public forum.
+Design a difficulty-based punishment for a crime. Output the punishment. Robbery
+Pose a riddle based on the following information. Output the riddle. A small creature that lives in water
+Create an original list of questions for an interview with a famous person. Output the list. No Input
+Write a story about a robot travelling to the moon 
+Create a unique username using only lowercase letters and numbers 
+Briefly explain what is the Flesch-Kincaid reading ease score 
+Compose a sentence in Future Perfect Continuous Tense 
+Describe an interesting article you read recently. 
+Give me an example of a product you considered buying but decided not to. 
+"Generate a paragraph with the topic ""Digital Transformation"". "
+Give a recommendation for a movie to watch. 
+Write five different questions about the novel Animal Farm by George Orwell 
+"Given the data points (x= 10, y=20, z=15) calculate the mean. 10, 20, 15"
+Give me an example of an observation you made about human behavior. 
+Pretend you are advising a friend who is going through a difficult situation. Create a positive message to give them. 
+"Given two animals, create a alliterative phrase to describe them. tiger, tree"
+"Given the input, explain why revenge is considered a negative emotion. "
+"Generate two analogies related to the word ""pen"". "
+Suggest five tactics for increasing website conversions. 
+Outline the basic principles of Newton's Law of Universal Gravitation. 
+Compose a short story about two friends from different walks of life. 
+Write a Python script to generate random numbers between 1 and 10. 
+Compare the characteristics of a manager and a leader 
+List two techniques for establishing trust with customers. 
+"Construct a query with a JOIN clause to retrieve data from two related tables. tbl1: Customers;
+tbl2: Orders;"
+Explain why it is important for organizations to establish organizational goals. 
+"Given a string, flip it upside down and output the result. Hello"
+"Given a string, delete all instances of the character '@' and output the result. H@ello"
+"Given two strings, output 'true' if they are anagrams of each other else output 'false'. view-veiw"
+"Based on the description, determine if the following text is positive or negative sentiment. It was a disastrous event."
+"Given a table of data, determine if it follows the normal distribution. Table:
+Score	Frequency
+3	3
+4	9
+5	14
+6	15
+7	8
+8	2
+9	0"
+Write a story in 30 words or less describing the given photo. Image of a person standing at a window with a city skyline in the background.
+Name five jobs that use technology. 
+Describe the sound an owl makes. 
+Write a wedding announcement of the given couple. John and Sarah Smith
+Calculate the area of a rectangle of length 2 and width 5. 
+Describe a double helix shape. 
+Generate a movie title that is 5 words or less. 
+Take the following sentence and complete it according to the given context: He was so surprised that his mind __
+"Classify the following sentence as belonging to the category ""advantage"" or ""disadvantage"": Having access to the internet can be expensive."
+"Add 10 valid words to the following list Horse, dog, cat"
+Extract the subject of this sentence. Many people watch TV shows.
+"Classify the 4 countries below by continent. Kenya, Australia, Mexico, Canada"
+Which Nobel Prize was awarded to Nelson Mandela? 
+Generate a name for a new brand of colorful sugary cereal. 
+Outline the four main reasons why environmental pollution is harmful. 
+"Put that list of books in alphabetical order by author. The Catcher in the Rye, Harry Potter and the Prisoner of Azkaban, 1984, The Great Gatsby"
+Describe the events leading up to World War I. 
+Provide an example of a metric system unit of time. 
+What is the current status of the coronavirus pandemic? 
+What countries were members of the Axis Powers in World War II? 
+Take the given phrase and create a pun. Picture perfect
+"Given a set of words, create a compound word from them. blueberry, crunch"
+"Replace the words with antonyms. happy, nice"
+List three defining characteristics of the given item. Hawks
+"Take the two given words and combine them to make a new word. man, whale"
+What are the three most important skills that a computer programmer should have? 
+"If the given input is ""Apple"" and you are asked to rearrange the letters to make a new word, classify the task as an example of what? Apple"
+What problems could arise if a software development team does not have a tester? 
+Write down one task that you can complete using a spreadsheet. 
+Name the commonly used software development methods. 
+"If the given input is ""[Apple, Orange, Lemon]"", write a line of code to list all the elements in reverse order. [Apple, Orange, Lemon]"
+How can one determine the similarity between two biological sequences such as DNA strings? 
+Provide an example of a code written in Java that prints out the current date and time. 
+How would you retrieve specific information from a database? 
+Generate three questions that could be used in an interview with a machine learning expert. 
+"In the provided table, identify which words represent data features and which represent labels. | Age | Height | Weight | Gender | 
+| 30 | 5'8"" | 160 lbs | male |"
+Compose a short poem of four lines about the theme of nature. 
+Which type of clause best describes the following sentence? She wanted to see the movie.
+"From the following list of words, select the one that describes the line of poetry best. ""Smoke rising, darkness falls."""
+Write a descriptive headline for the given piece of news. Researchers have found a new way to treat cancer using nanoparticles
+"Create a poster that conveys the message: ""Love your Mother Nature"". "
+Write a doctor's prescription for the following prescription for the following patient: fever and cough. 
+Generate five resolutions for living a healthy lifestyle 
+Explain why the US economy experienced a recession in 2008 
+"Identify which of the given choices best represents the definition of 'equilibrium'. (A) a force of attraction
+(B) a balance between two or more opposing forces
+(C) a state of motion
+(D) a state of rest"
+Create five questions from the following statement: Increasing deforestation is having a negative impact on the environment
+"Categorize the following sentence: ""The teacher wrote on the board."" "

@@ -1,0 +1,100 @@
+prompt
+Classify this as either an object or an action. running
+"Edit this sentence to use figurative language: ""The journey was long and difficult"". "
+"Fill in the blank using the correct verb tense: ""I have been _______ running every morning"". "
+"Make the following sentence more concise: ""I was surprised when I heard the news because I had not been expecting it"". "
+Suggest a title for this painting: [Picture of a city skyline at night painted in oil]
+"Arrange the words to form a compound adjective: modern, light"
+Suggest a course of action based on the following circumstance: Your friend got into a car accident and needs help paying for the repairs.
+"Improve the grammar of the given text. It was a dull and boring morning, the sky was grey and the school it was empty"
+How does the phrase “The apple doesn’t fall far from the tree” relate to the concept of genetics? 
+Predict which of the following words is most likely to come next. The cat curled up
+Respond to the given comment. I can't believe he said that.
+Change the given set of words into a complete sentence. the growth of online shopping
+"Group the following words based on their thematic categories. Pizza, telephone, pasta, internet"
+"Rank the given list of countries from most populous to least populous. India, China, Mexico, Russia"
+Generate an opening sentence for an article on fashion trends. 
+List the names of the three states that share borders with Colorado. 
+Convert the given number into words. 56
+Rewrite the sentence to use proper grammar and punctuation. i am looking forward to learning
+Name the currency used in Canada. 
+Name four benefits of jogging. 
+"Classify the following sentences as either declarative, imperative, or interrogative. Can you help me?"
+"Select the word that does not belong in the list. blue, pink, green, yellow"
+Compose a tweet about GPT-3. 
+Name 3 search engine algorithms 
+Compose a poem that represents the given theme. Theme: Sadness
+Break the given cipher and tell me what it says. QWAHU PMVXU VH JJIVA
+"Summarize the given text using five sentences. The World Wildlife Fund (WWF) is an international organization committed to conservation of the world's natural resources, wildlife and ecosystems. Established in 1961 as the International Union for Conservation of Nature and Natural Resources, WWF has since grown to become one of the largest conservation organizations in the world. Their mission seeks to conserve and protect nature and reduce the most pressing threats to the diversity of life and the planet. To protect the environment, WWF works on various levels, from grassroots and local initiatives to international agreements."
+"Now re-write the same sentence using fewer words. The World Wildlife Fund (WWF) is an international organization committed to conservation of the world's natural resources, wildlife and ecosystems."
+Name three countries that speak French. 
+Describe the characteristics of an ideal leader. 
+Suggest a web interface design to improve usability. 
+Suggest a solution to reduce air pollution. 
+"Rewrite the sentence using ""away"" instead of ""off"". She took her coat off."
+Describe what a computer virus is. 
+Outline the key features of the web application for a car rental business. 
+What are some strategies for teaching mathematics to elementary school children? 
+Create a list of 10 items for an outdoor camping trip. 
+Suppose you are managing a marketing campaign. What are some methods you can use to measure the success of the campaign? 
+Explain what machine learning is. 
+Describe the main characteristics of a fair coin. 
+Name three specific techniques for reducing the memory requirement of a neural network. 
+What are the benefits of using a task-oriented chatbot? 
+Design a system to classify movie reviews as positive or negative 
+Come up with an example of a metaphor. 
+"Compose a limerick using the following words: star, deep, Earth, night. "
+"Can you come up with a pun related to the word ""tingle""? "
+"Classify the following items as clothing, food, and toys: shirt, banana, doll. "
+Generate a scenario where a customer and service provider might interact. 
+List 5 adjectives that describe an elephant. 
+"Generate a movie quote using the following words: adventure, destiny, courage. "
+"Given the input sentence, rewrite it to make it more concise without changing the meaning. Many studies have been conducted that have explored the effects of television viewing on children's behavior."
+"Suggest two Twitter hashtags related to this article. WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows."
+"Evaluate the argument in the given paragraph. In today's modern world, public education should be free for everyone regardless of their socio-economic status. Even if some people are wealthier, everyone should get an equal opportunity to an education."
+What is the two-letter acronym for the Organization of American States? 
+Congolese culture is heavily influenced by which antropological phenomenon? 
+"Write a poem using the following words: climate, transform, and nature. "
+Compose a story about a farmer who is living in a rural village. 
+Turn this statement into an open-ended question. Animals are affected by climate change.
+"Find the shortest path from point A to point B using a GPS trajectory. Point A = (41.65407° N, 91.53147° W)
+Point B = (41.65104° N, 91.52863° W)"
+"Given a logical statement, output the negation of the statement in propositional logic. P implies Q"
+"Given a set of instructions, output the instructions in order of priority, from the highest priority to the lowest priority. Answer phone, book flight, write report"
+Extract all the nouns from the sentence and output them in a list. The quick brown fox jumps over the lazy dog.
+"Given two strings, find out if the second string is a substring of the first string. Output true or false. String 1: The quick brown fox
+String 2: brown"
+Output the different parts of speech that the given word belongs to. Write
+Explain how the concept of learning rate is used in machine learning. 
+Rewrite this sentence so that it sounds more formal. People are becoming increasingly dependent on technology.
+Give me an example of a musical genre which combines elements of jazz and pop. 
+Design an AI-based game which can be played on a phone. 
+Propose a system design for a virtual assistant which can adapt to its user's needs. 
+Determine how to measure the performance of a GPT model. 
+Generate a specific example of a data structure that can be used in a web application. 
+Compare the advantages and disadvantages of using a recurrent neural network versus a convolutional neural network. 
+Compare Amazon SageMaker to Tensorflow. 
+Describe the concept of attention mechanisms. 
+"Reverse engineer this algorithm. Input: An array A of N integers A[1], A[2], …, A[N]
+Output: A new sorted array B of N integers B[1], B[2], …, B[N]
+
+For i = 2 to N
+    j = i
+    while j > 1 and A[j] < A[j-1]
+        swap A[j] and A[j-1]
+        j = j-1"
+Convert the number 18 to hexadecimal 
+Rearrange the following into past perfect She lost her job
+Generate a list of 10 countries 
+Write a small program that prints the numbers from 1 to 10 
+"Generate a word association for the word ""dog"" "
+Edit the given sentence to change the tense He is visiting his parents tomorrow.
+Describe the color of the sky 
+Categorize the given post as either a news article or a blog This post from National Geographic talks about the effects of climate change in the Arctic
+"Translate this sentence into German: “That is a very nice car"" "
+Describe the sound of a car engine 
+Generate a list of ten objects related to the beach 
+"Determine the most common word in the text. Humans are created in the image of God, from a spiritual perspective and from a physical perspective."
+Generate a metaphor for strength. 
+How does the federal government manage its budget? 
+Rewrite the sentence in the past tense: He was walking to the store. 

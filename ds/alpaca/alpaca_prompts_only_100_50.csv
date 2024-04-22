@@ -1,0 +1,100 @@
+prompt
+Explain the cause of this event. The tree in the backyard suddenly caught fire.
+"What would be an appropriate response to this comment? ""This is so boring!"""
+Convert a temperature in Celsius to Fahrenheit given the temperature in Celsius. 25°C
+"Find the total price for the items in the given list, given that each item in the list is $10. List: laptop, cellphone, computer mouse"
+"Classify the following two sentences into either positive or negative sentiment. I love this product!
+I don't like this product."
+Convert the following statement into a code snippet. Print the sum of 1 and 2.
+"Given the internet domain ""https://abc.com"", generate a full URL for the page ""about"". "
+"Find the missing number from the list. [3, 4, 7, 8, ?]"
+"Generate the quivalent hexadecimal code of the RGB color code given below. rgb(255, 47, 147)"
+Create an API endpoint for retrieving information about the latest book. 
+Convert this decimal number into a binary number. 62
+"Rewrite the following paragraph in Clear Text format. My skills include notifying SMS messages, development of artificial intelligence services, and quality assurance."
+Select the adverb from the sentence. He sang loudly at the party.
+Insert three line breaks in between the following two paragraphs. This restaurant is a favorite with locals. Prices are reasonable and the food is always fresh. The atmosphere is very pleasant and service is prompt.
+Describe a sunset you have seen in the past. 
+When did the Second World War end? 
+Generate a list of ten items needed for camping. 
+Make a presentation about the history and culture of Germany. 
+Create a story from the following sentences. The sun was setting and the birds were singing.
+"Sort the following items in order of cost from most to least. Soap, Toothbrush, Toothpaste"
+Generate a short bio for a professional chef. 
+"Explain the concept of ""opportunity cost"". "
+List the components of an Ethernet cable. 
+Rewrite this sentence correctly John and I likes to listen to music.
+Create a headline for an article about electric cars. 
+Calculate the surface area of a sphere with radius 5 
+"Generate a correct C++ program for the following logic. Given a positive number N, print the numbers from 1 to N in reverse order."
+"What is the past tense of ""run""? "
+"List three words related to the word ""apple"" "
+Generate a novel sentence of 5 words 
+"Summarize an article on the effects of fossil fuels on the environment. The burning of fossil fuels has caused air pollution, water pollution, and land pollution. It has also accelerated climate change, leading to more extreme weather conditions and sea levels rising."
+Provide three guidelines for a healthy lifestyle. 
+Estimate the size of the object. A pea
+Express this quantity in a different unit. 15 centimeters
+Give me an example of a device that uses electricity. 
+"Generate a list of emergency resources in a specific area. Boston, MA."
+Name two benefits of using collaboration software. 
+"Rank the following tasks by their importance. Send monthly customer satisfaction survey.
+Deliver customer feedback to relevant departments.
+Respond to customer queries quickly and accurately."
+List two ways companies can manage their online reputation. 
+Compose a tweet that encourages social distacity. 
+List five popular AI technologies. 
+"Rank the following programming languages from the most to least difficult to learn. Java 
+Python
+C++"
+Generate a list of options for a customer satisfaction survey. 
+List the five most essential features for a website. 
+Create an appropriate user interface for an online store that enables a user to buy items. 
+Make a funny analogy about a cloud. 
+Find out the population of Canada. 
+Generate a metaphor to contrast technology and nature. 
+Brainstorm 5 potential topics for a beginners guide about AI and machine learning 
+Find a specific product or service that uses AI. 
+"Generate 5 questions from the following essay. The pandemic has created a wave of unprecedented challenges for us as a global community, from a medical crisis and health risks to economic and social impacts."
+Construct a story of love and loss. 
+Equate hope and resilience. 
+Identify 3 ways tech has improved healthcare. 
+Develop a story with a moral about animal conservation. 
+Reword the following sentence to reflect a negative sentiment. It's wondeful to have such a great team.
+Brainstorm 5 ideas for a blog post about employee engagement 
+List 5 elements that make up an effective mission statement 
+"Write a sentence using the phrase ""the possibilities are endless"". "
+Describe the role of Data Science in AI-enabled decision making 
+Come up with a lyrical headline to summarize the theme of a given poem Poem: The Rime of the Ancient Mariner
+Summarize the core message of the given TED Talk The Power of Introverts by Susan Cain
+"Suppress the warning message when running the following code: print(""Warning: Failed to load"")"
+Write a thank you note for a friend. 
+Create a list of 5 verbs that all start with the letter P. 
+"Describe the functionality of the Python built-in function ""range()"". "
+Create an algorithm to convert decimal numbers to binary numbers. 
+Compare and contrast the features of React Native and Flutter. 
+Evaluate the following arithmetic expression: 8 + 10 * 2 
+Should I invest in stocks? 
+"Given an article, identify the main actors and summarize their roles. In the highly acclaimed film The Godfather, Marlon Brando plays the head of a criminal organization, Don Vito Corleone. His son, Michael Corleone, is a returning World War II hero who initially wants nothing to do with the family business."
+Explain the concept of random forest. 
+Describe a use case for recommender systems 
+Name three characteristics of a healthy diet. 
+"Given a dataset of movies, recommend the top three movies to a user based on the user's preferences. User Preferences: Action, Romance, Drama"
+Describe the purpose of a neural network. 
+"Given a company website, suggest two design changes to improve the user experience. Company website: https://www.jefferson.edu/"
+Automatically summarize a text. Alice is a 25-year-old financial analyst who recently moved to San Francisco. She loves to go hiking in the nearby redwood forests and has a passion for photography. On her days off she enjoys exploring the city and trying new restaurants.
+"Given a news article, explain the key points and implications. News Article: Google is launching a new cloud-computing service."
+Are tulips perennials or annuals? 
+Make a list of vegetables suitable for planting in summer. 
+Suggest a recipe that has less than 500 calories per serving. 
+What colour is the ocean? 
+Provide a suggestion for a cold snack that is suitable for a child. 
+Generate a computer password with at least 8 characters. 
+Explain how to differentiate between a butterfly and a moth. 
+Suggest a type of exercise that someone can practice indoors. 
+Describe the current social distancing guidelines. 
+"Help him set up his email account. John's name and a preferred password
+
+John,Password123"
+"Find the next number in the following sequence: 1, 3, 6, 10, 15 "
+Generate an example of personification. 
+"Identify what type of pronoun this is: ""It has been raining for hours."" "

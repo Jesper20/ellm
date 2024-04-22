@@ -1,0 +1,100 @@
+prompt
+- 3 slices of bacon
+- lettuce
+- tomato"
+"Convert the following steps into a Python program. 1. Ask the user to enter a positive number
+2. Calculate the logarithm (base 10) of the given number
+3. Print the calculated value"
+"What will happen if this code reaches the breakpoint? ```
+for i in range(10):
+  if i == 5:
+    break
+  print(i)
+```"
+Describe the following model architecture. Model architecture consists of 4 convolution layers followed by a fully connected layer and a softmax layer.
+"Change the font style and size of the text in this document. <p style=""font-family: Arial; font-size: 12px;"">This is a test document.</p>"
+"Create a custom color palette for this website design. <img src=""https://placeimg.com/640/480/nature"">"
+"Construct a mathematical proof for this statement. For all positive numbers a and b, a+b>a"
+"Identify the data type of this variable. x = ""Hello world!"""
+Create a graphic representation of a dichotomous key. 
+"Rewrite these four sentences into a single sentence. John likes eating pizza.
+He often buys it from the store.
+He never cooks it at home.
+John likes to share pizza with his friends."
+Write a Morse code for the following sentence: I am learning to send a message.
+Put the following sentence into idiomatic form. I completely finished writing the essay
+Design a recipe for protein waffles. 
+Create a cryptographic code using a substitution cipher. 
+Develop a plan to write a 1500-word essay in 3 hours. 
+Compose an email to a professor to make an appointment. 
+Find the difference between two months in the same year. April to October
+Name a language spoken in Africa. 
+Share a fun fact about cats. 
+Name one ozone-depleting substance. 
+Identify 3 potential concerns with using data surveillance. 
+What were the benefits of the data surveillance used during the pandemic? 
+Rewrite the following sentence using different vocabulary to keep the same meaning. This cooking pot is very large.
+Explain the primary role of artificial intelligence in contact tracing. 
+Describe three possible ethical considerations when using facial recognition. 
+How can facial recognition systems be improved? 
+List some applications of contact tracing. 
+Identify 3 ways to encourage individuals to practice social distancing. 
+Write a funny piece of advice in 3-4 sentences. 
+Describe the primary role of contact tracing in limiting the spread of disease. 
+What factors should consider when building an AI-enhanced camera system? 
+Describe a safety measure that can be implemented on public transportation to support essential workers. 
+Explain how to design a logo 
+Name a small mammal 
+Write a personal statement 
+Describe the exoplanet Proxima Centauri b 
+Generate a hypothesis about the cause of climate change 
+Generate an idea for a mobile app 
+Make a webpage dedicated to the services your company offers. 
+"Write a poem using the following words: fog, sorrow, distance, dream. "
+Explain why our company’s product is superior to the competition. 
+"Detect any cyberbullying in the following conversation. Friend 1: You are so dumb, why do you even bother trying?
+Friend 2: That's not nice"
+Create a strategy to increase the number of new customers by 30%. 
+Suggest two resources to learn about the history and impact of digital technologies. 
+Create a detailed plan for hosting a large-scale event. 
+Come up with two scenarios for how artificial intelligence could be used to advance public health 
+Please generate a to do list for writing a 10 page research paper. 
+Suggest some techniques to improve concentration for studying math. 
+Suggest some tips for engaging an online audience during a virtual presentation. 
+Summarize the book in four sentences. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+Create a Twitter account for a tech startup. 
+Come up with an example of a test question to use in a quiz. 
+Describe the value of education. 
+Convert the given measurements in Metric units. 1 gallon = 3.7854 liters
+Create a chart showing the comparison between COVID-19 cases and deaths in different countries. 
+Create a tag line for a website that sells books. 
+Brainstorm five unique ideas for a gift box. 
+Make a list of five items that can be used to make a successful presentation. 
+"Let's write an email to make an appointment for an interview. Hello _______,"
+Why does a human need to breathe oxygen? 
+How would you explain the concept of a 'memory leak' to someone with no background in computing? 
+Create a basic plan to implement a customer feedback system. 
+Describe an interesting conservation you had with someone you met for the first time. 
+"How would you explain ""dark matter"" to an audience with no scientific background? "
+Construct a proof of the following theorem: Theorem: The sum of two odd numbers is even.
+Rewrite the sentence with a negative tone. He was performing well in his assignments.
+Write a code snippet to implement the algorithm described in the text. Create a function to generate the nth Fibonacci number.
+Write an alternative sentence using the same words. She rode her bicycle to school.
+Detect and correct all the spelling errors in this sentence. The quik brown fox jums over the layzy dog.
+"Generate an appropriate explanation to the comment in the code. def tweet_id_extraction(tweet):
+    # TODO: Explain what is going on here"
+Which algorithm is best for predicting stock prices? 
+Explain the importance of HTML to website design. 
+Write a script for a 3-minute stand-up comedy act. 
+"Create a case study about the following topics, focusing on the advantages and disadvantages of using machine learning. "
+Write a procedure for creating a vegetable soup. 
+Identify the literary device at work in the following proverb. A stitch in time saves nine.
+Describe the main characters and premise for a story set in the future. 
+Design a two-player game that can be played with a set of 20 cards. 
+Classify this sentence according to the type of emotion it conveys. I'm so mad I could scream.
+Rewrite this sentence in a way that conveys the same meaning but does not contain the same words. I cannot stand the heat.
+"Based on the input, provide a suitable title for the article. In this article, we discuss the current trend of using virtual reality (VR) technology in the classroom."
+"For the two inputs, find the common element between them: (1) Football (2) Basketball"
+Change the language in this sentence from first person to third person. I am going to the store.
+"Find the summary of this paragraph: A birthday is considered a special day for each of us and it is celebrated in numerous ways around the world. In some cultures, the day is marked with celebrations, such as a large party or an intimate gathering of friends and family members. Some people prefer to celebrate with a lavish dinner or even a weekend getaway. Other traditions include lighting candles on a cake and exchanging cards, gifts, and other tokens of appreciation."
+Write a question that can be answered yes or no: 

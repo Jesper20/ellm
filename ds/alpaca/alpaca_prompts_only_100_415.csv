@@ -1,0 +1,100 @@
+prompt
+"Given a set of numbers and an operation, calculate the result 2, 4, +"
+"Given a set of instructions, explain how to use a system How to create an account on Twitter"
+"Given two cities and their distances, calculate the total distance Berlin to Munich, 284 km; Munich to Dresden, 294 km"
+Create a mobile friendly user interface. 
+"Classify the given document as either a novel, a poem, or an article. Document:
+The Great Gatsby is a novel by F. Scott Fitzgerald. It tells the story of Jay Gatsby, an interesting and mysterious man, and his tragedy during the summer of 1922."
+Give me an example of a recent major data breach. 
+"Generate an original sentence that begins with “If only"". "
+Find a quote from a famous philosopher that captures their main teachings. Friedrich Nietzsche
+Split this compound sentence into two simple sentences. Lisa was tired but she still went to the gym.
+"Calculate the perimeter of this rectangle Length = 3, Width = 4"
+What type of simulation is used to model natural systems? 
+Describe a computer virus and its effects. 
+Create a short story featuring a movie star as a main character. 
+"Classify the following information according to its type: ""The customer bought a blue shirt."" "
+Follow the given example and create a poem about a passionate sunset. 
+Describe a dystopic future. 
+"Create a game given two characters, a challenge and a reward. Characters: A wizard and a knight
+Challenge: Cross a treacherous canyon
+Reward: A magical amulet"
+Come up with a main character and a conflict they experience. 
+"Design a fitness routine given some cardiovascular and strength exercises. Cardiovascular exercises: jumping rope and running
+Strength exercises: push-ups and crunches"
+"Given two people and a relatable situation, compose a dialogue between them. People: A parent and a child
+Situation: The child needs to be disciplined"
+Make up a poem about a violent storm. 
+Come up with a moral lesson and an example to demonstrate it. 
+"Given two things, create a metaphor to compare them. Things: A roller coaster and life"
+"Given a setting and a dynamic character, come up with an exciting opening sentence for a story. Setting: A deserted island
+Dynamic character: A brave explorer"
+Suppose you are writing a story with the protagonist Sally. Describe her family. 
+What are the best strategies to complete a project on time? 
+Insert the appropriate punctuation marks in these sentences. She said I m hungry
+"Sort these items into categories.
+
+Books, Pen, Pencil, Calculator, Chair "
+Suggest a good place for a summer vacation. 
+Compose an email to invite your friends to a party. 
+What are the social and ethical considerations in artificial intelligence? 
+Provide two examples of open source software. 
+Evaluate the following equation and write an answer. 15*10 =
+Produce a classification report of the following model. Model has an accuracy of 90%
+Generate a list of three consecutive prime numbers 
+Describe what you like most about the city you live in 
+Find the hypotenuse of a right triangle with the legs of 5 and 9 
+"Write a letter of recommendation for John Doe based on the information provided. John Doe has been a valuable contributor on my team for the past 3 years. He has consistently demonstrated excellent problem-solving skills, going above and beyond when faced with challenging tasks. I believe he is a great candidate for any position."
+Generate an HTML page that calculates the area of a circle from a given radius. 
+Develop a data-driven algorithm to categorize people based on their income levels. 
+"Reverse engineer the following code and explain the logic of it. def find_smallest_multiple(n):
+    x = n
+    while True:
+        if isDivisible(x, n):
+            return x
+        x += n"
+Write a web crawler in Python. 
+"Debug the following code and make sure it prints the sum of all values in the dictionary. data = {
+  ""A"": [1, 2, 3],
+  ""B"": [4, 5, 6],
+  ""C"": [7, 8, 9]
+}
+
+def sum_dict_values(d):
+  total = 0
+  for v in d.values():
+    total += v
+  return total"
+Write a function to count the occurances of a given character in a string. 
+"Rewrite the following sentence in a way that changes the tense: ""I am drinking tea."" "
+Name a human sense. 
+Describe the population of the United States in one sentence. 
+Create a four-word phrase that describes a bright sunny day. 
+"Add a noun that describes the following attributes: kind, generous "
+"Edit this sentence to make it more concise: ""A computer stores and retrieves digital data."" "
+Provide a list of tips on how to improve accuracy while using a natural language processing model. 
+Please suggest a film that appeals to teens between the ages of 15 to 18. 
+Create a plan that could be used to help someone quit smoking. 
+"Given an array of integers, return the two indices of the two numbers such that they add up to a specific target.
+Output two integers. arr = [2, 5, 11, 15], target =13"
+Create a customer segmentation report for a fashion store. 
+"Given the input, generate a sentence starting with the words ""She thought to herself"". She had to make an important decision."
+Generate a creative slogan for a company that uses renewable energy sources. 
+"Given the input, generate a sentence using a simile. "
+How did photography change the world? 
+"Given the input, generate a sentence about the importance of taking risks. "
+"Rank the importance of the three items from 1 to 3 (1 being the most important). Car, shoes, basket"
+Replace the [verb] with a more suitable one given the context. People [consider] that the best way to improve their lifestyle is to find a well-paid job.
+Design a logo for a tech startup. Output a visual logo design. <No input>
+"Using the given pieces of text, output a new sentence which combines the two using appropriate transition words. The results were bad. We need to take action."
+Combine the two parts of the sentence using an appropriate conjunction. He declined my offer. I asked him again.
+Find the missing punctuation and add it to the sentence. She was excited that her project was finally accepted
+Make a short sentence about a Halloween costume. 
+Replace the words in italics with another that has a similar meaning. The teacher was obviously frustrated with the students' apathy.
+Compose an AI-powered story. 
+Design a game level in a platformer. 
+What is the primary ingredient in a fish taco? 
+"Categorize the following list as either animals or plants.
+
+Camel,daisy,horse,rose "
+Design an AI-powered chatbot. 

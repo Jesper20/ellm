@@ -1,0 +1,100 @@
+prompt
+Create a sentence that incorporates the following word: behold 
+Form a hypothetical question 
+Rewrite this sentence to incorporate an antonym She always speaks softly.
+Elaborate on this sentence He was a successful businessman.
+Prepare a presentation that compares two versions of a product. The two versions of the product are an Apple iPhone 11 and an Apple iPhone 12.
+"You are provided a design and asked to rewrite it such that it is more effective Content: 
+Create a project outline to help organize and plan your project
+
+Design:
+
+1. Brainstorm ideas
+2. Choose project goal
+3. Choose resources and time-frame
+4. Define steps necessary to complete"
+"In two sentences, explain what this data set is about This data set contains information about different countries and their corresponding literacy rates"
+"Write an appropriate comment that supplies additional detail to the code # get user input
+name = input(""What is your name? "")"
+Create an input that triggers a response from the assistant. 
+"Correct the given code by fixing the syntax errors def sum_squares(num: int)
+    total = 0
+    For i in num
+        total = total + i * i
+    return total"
+Edit the sentence such that no word is repeated This sentence contains contains repeating words.
+"Design an algorithm to add two positive integers Integer1: 8
+Integer2: 5"
+Generate a list of technology-related terms that are associated with Artificial Intelligence. 
+"Edit the following sentence, ""I runs every morning"". "
+"You are playing a game. Calculate your final score after taking the following into account: starting score is 50, earned 4 points and lost 2 points. "
+Suggest one way to address cyberbullying. 
+Describe a constructive way to pass time during self-isolation. 
+"Edit the following sentence, ""She don't like this movie"". "
+"You are asked to rate the following restaurant based on a scale of 1 to 10, with 10 being the highest.
+""The restaurant has a great atmosphere, friendly staff and delicious food."" "
+Identify 4 websites that can be used to find a job. 
+"Rewrite this passage in 15 words or fewer. The ocean is vital to regulating Earth's climate, and it plays an important role in many ecosystems around the world."
+List 5 emerging technologies in the field of computer science. 
+Explain what is meant by 'creative problem-solving'. 
+Write a description of an electric car. 
+Write a classified advertisement 
+Create a headline for a business article 
+Describe what a successful business plan should include? 
+"Rank the following vacation destinations in ascending order Venice, Dubai, New York"
+"Choose one example to explain the concept of ""diversification"" "
+Describe the company culture of Amazon 
+Create a call-to-action for a website 
+Provide three tips to improve communication skills 
+How to enhance website user experience? 
+Generate a cognitive-behavioral therapy (CBT) technique 
+Compose a magazine article targeting young adults 
+What challenges does artificial intelligence present for society? 
+Generate a random integer between 5 and 10. 
+Explain why we use statistics in data science. 
+"Summarize the poem ""The White Cliffs of Dover"". "
+"Given a customer's feedback, write a reply to address their issue. Customer feedback:
+""The delivery process was quite slow compared to my past experience."""
+"Given the setting, create a humorous poem about it. Setting:
+A visiting professor from Africa is teaching a course at University."
+Edit this sentence so it has better grammar. He walking quickly up the hill.
+Create a recipe to make grilled cheese sandwich. 
+"Evaluate this statement: ""The film was entertaining but not informative."" "
+Predict what will happen if an airplane exceeds the speed of sound. 
+Design an experiment to measure the reaction time of a person. 
+"Given the topic and the research question, create a hypothesis. Topic: Learning
+Research question: How can we improve student learning?"
+"Rewrite this proverb in your own words: ""An apple a day keeps the doctor away."" "
+"Suppose you heard some news about a pandemic, how would you express the concern in one sentence? "
+"Change the verb tense of this sentence to the Future Perfect tense: ""He will finish his homework."" "
+"Reword the following sentence in another way: ""This person wore a face mask."" "
+"Translate the following phrase into German: ""It is a beautiful day."" "
+Create a dialogue between two people having a conversation about going to the beach. 
+"Edit the sentence to make it more concise: ""This new thing that has happened is causing a lot of people to be concerned."" "
+"Paraphrase the following sentence in your own words: ""I feel excited about the upcoming event."" "
+Describe what sustainable agriculture is. 
+Name five reasons why you should use a password manager 
+List five reasons why using organic food is important 
+Create a chat bot personality 
+Explain why good communication skills are important 
+How can I get rid of dust mites in my house? 
+Provide instructions for changing a bicycle tire. 
+Explain to me the concept of relativity. 
+How many players can play a game of dobble? 
+What are some disadvantages of global warming? 
+Name a benefit of modern technology. 
+Name two instances where a person could be guilty of intentionally abusing a legal system for self-gain. 
+"Given a set of points, determine if it forms a triangle. Point A (1, 2, 3), Point B (2, 3, 4) and Point C (3, 4, 5)"
+Create a mechanism that would allow a robot to move around a 2D environment. 
+"Calculate the area of a rectangle with a length of 8 m and a width of 12 m. Length: 8 m, Width: 12 m"
+Explain the affect of global warming on the Arctic region. 
+"Given an input string, find the length of the longest palindrome within the string. ""racecar"""
+Create a mobile app that allows people to track their daily water intake. 
+What is the most popular clothing item sold during the summer? 
+Choose a creative approach to solving the given problem My desk is always cluttered
+Identify a potential harm caused by the given situation The internet was used to spread false information
+Pick the sentence that most closely reflects the given opinion I prefer to do other activities than shop on the weekends
+What kind of mental health issue is the person in the given situation experiencing? He is always worried and anxious
+Brainstorm five features that an e-commerce website should have. 
+Generate a short story about a time-traveler exploring the past. 
+How would you improve the following marketing slogan? We make the best products.

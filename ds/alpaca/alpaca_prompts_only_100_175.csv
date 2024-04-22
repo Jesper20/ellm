@@ -1,0 +1,100 @@
+prompt
+"Identify a rhyming word for the word ""eyes"". Output the word. "
+"For the term ""Web Development"", identify the definition. Output the definition in full. "
+Generate a list of possible job titles related to web development. 
+Convert the following temperature from Fahrenheit to Celsius. Output the temperature in Celsius. 104°F
+Name a disaster movie. Output the title of the movie. 
+"For the following list of numbers [1, 5, 9, 4], output the sum. [1, 5, 9, 4]"
+"Group the following animals into two categories - mammals and birds. Output the grouped animals. Sparrow, Dog, Penguin, Cat"
+"Given the following sentence, identify the compound adjective. Output the compound adjective. The owner drove an old, rusty car."
+"Create an antonym for the word ""Early"". Output the antonym. "
+Rewrite the following sentence in passive voice. Output the new sentence in passive voice. The children threw the ball.
+Generate some ideas on what the protagonist in this story could do next. John had just moved to a new town and was exploring around.
+Rewrite the following sentence so that the words remain the same but the meaning changes. She did it.
+Describe the artistic style of the painting below. ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg/220px-Monet%2C_Claud%C3%A9_-_Le_Matin_%28Banks_of_the_Seine%29.jpg)
+"Write a formal letter of apology for delivering a late assignment. Dear Mr. Lee,"
+Provide a detailed explanation of Pythagorean Theorem. 
+Rewrite the following sentence in allowing for more concision. There is a high probability that the weather will be sunny.
+"Choose the most appropriate alternative word or phrase in the context of the sentence. The lake was ____ because of the heavy downpour.
+
+(A) perky
+(B) perspicacious
+(C) inundated
+(D) occupied"
+"Decide if the following two sentences are equivalent, and if so explain how the second sentence derives meaning from the first. Sentence 1: It was a dark and stormy night.
+Sentence 2: The sky was ominous."
+Name 3 things to take into consideration when creating a positive learning environment in the classroom. 
+Write a brief description of the work being done. We are working on a project to develop a mobile application for a local company.
+What should I look for when hiring a graphic designer? 
+Describe a tradeoff between investing in security and cost reduction. 
+What can businesses do to make the customer experience more seamless? 
+Describe the scene of a cat with its owner. 
+Reread the article and provide two insights about it. The article discussed the latest trends in customer service and how customer experience is being transformed by technologies like AI.
+Devise a plan to help children engage with online learning. 
+Rewrite this piece of text to include a more active tone. The climate has been changing in various parts of the world.
+Provide the name of a famous person who had a positive influence in the world. 
+Rewrite this sentence with a more positive connotation. The professor's lectures were quite boring.
+Create a slogan to represent a charity that helps the homeless. 
+Generate an interesting fact about a given topic. Elephants
+Generate a headline for a news story about the recent changes in the art world. 
+Rewrite the headline to be more concise. Increasing Awareness of the Growing Problem of Cybercrime
+Explain how the sun is different from other stars 
+Classify the following text into one of the emotions She had been feeling so alone
+Generate a role-playing scenario 
+Can you cite a headline from a recent news article? 
+Suggest a title for a story about a young girl who moves to a new city 
+Name three iconic landmarks in California 
+Name three of the world’s most populous countries 
+"Write a new ending to this sentence: ""The sky was painted in bright hues of orange and pink"". "
+Suggest an original idea for a poem. 
+"Rearrange this sentence to make it more dynamic: ""I always knew that I would make it."" "
+Write a story about a tree which is 1000 years old. 
+Create a metaphor for a broken relationship. 
+Create a list of 5 things that make you feel happy. 
+"Rewrite this sentence to make it more impactful: ""She just walked away."" "
+Summarize this article in 3 sentences: https://www.theatlantic.com/magazine/archive/2018/09/the-case-for-reparations/565718/ https://www.theatlantic.com/magazine/archive/2018/09/the-case-for-reparations/565718/
+"Rearrange this sentence to make it sound more natural: ""It's impossible for me to do this"" "
+"Rewrite the following phrase in a more positive way: ""It is what it is."" "
+"Generate a humorous adaptation of the original sentence. It was a calm, quiet evening."
+"Summarize the sentence in two sentences, each containing fewer than 7 words. The movie was interesting, but had too much plot twists."
+Identify the verb in the sentence and tell the past form of it. He visits his cousin every weekend.
+"Rewrite the sentence so that it has the same meaning, but no two words start with the same letter. The flowers in the garden were blooming brightly."
+"Write a story in three sentences, each with a different tense. "
+Describe a sunset in five sentences. 
+Offer five different tips for staying organized. 
+Compile a list of five rare string instruments. 
+Describe the definition of courage. 
+Retell the story of Robin Hood in one sentence. 
+"Edit the following sentence for clarity: ""People receives awards for completing activities that demonstrate excellence People receive awards for completing activities that demonstrate excellence."
+Write five questions about the US Constitution. 
+Generate five historically significant people of the 21st century. 
+Explain the importance of taking breaks while studying. 
+Draft five customer service email subject lines. 
+Summarise the effects of social media on society. 
+"Translate the following proverb into English: ""Siamo tutti nella stessa barca."""
+"Write a summary for the paper given in the input. Abstract: Fine-tuning continuous prompts for target tasks has recently emerged as a compact alternative to full model fine-tuning. Motivated by these promising results, we investigate the feasibility of extracting a discrete (textual) interpretation of continuous prompts that is faithful to the problem they solve. In practice, we observe a ""wayward"" behavior between the task solved by continuous prompts and their nearest neighbor discrete projections: We can find continuous prompts that solve a task while being projected to an arbitrary text (e.g., definition of a different or even a contradictory task), while being within a very small (2%) margin of the best continuous prompt of the same size for the task. We provide intuitions behind this odd and surprising behavior, as well as extensive empirical analyses quantifying the effect of various parameters. For instance, for larger model sizes we observe higher waywardness, i.e, we can find prompts that more closely map to any arbitrary text with a smaller drop in accuracy. These findings have important implications relating to the difficulty of faithfully interpreting continuous prompts and their generalization across models and tasks, providing guidance for future progress in prompting language models."
+Generate a movie review for the movie A quiet place. 
+Generate a sample lesson plan for teaching Maths to elementary school students. 
+Generate an opening statement for a presentation on the healthcare system. 
+Generate a list of items to take on a hiking trip. 
+"Analyze the following poem, rhyme scheme and structure. ""The world is too much with us; late and soon,
+Getting and spending, we lay waste our powers"""
+Create an appropriate hashtag for the following phrase. Live life to the fullest
+Generate a complex password that follows all security rules. 
+Create an infographic summarizing the following data. Unemployment rate in the United States: 5.4%
+Create a timeline for the following history event. The fall of the Berlin Wall in 1989
+Rewrite this short introduction to make it more engaging. This paper explores the potential impact of privacy regulations on data security.
+Write a sentence using a simile. 
+Provide a name and a brief description of a fictional character. 
+Create a movie title by combining two words that share a connection. 
+Take these two words and write a compound word. soccer + ball
+Create a poem using a haiku structure. 
+"Classify these three words as a noun, a verb, or an adjective. diligent, conception, sweet"
+Explain the difference between a penalty kick and a free kick in football/soccer 
+Draft a code of conduct for online learning. 
+Write an algorithm with pseudocode for searching through a list of numbers for a particular value. 
+Create a character profile for a protagonist in a 1930s heist movie 
+"Compare two scientific methods by their accuracy and identify which one is more reliable. Method 1: Bayesian Inference
+Method 2: Maximum Likelihood Estimate"
+"Combine the following two recipes to get a delicious meal. Recipe 1: 2 tablespoons olive oil, 1 onion chopped.
+Recipe 2: 4 cloves garlic, 1 red bell pepper diced."

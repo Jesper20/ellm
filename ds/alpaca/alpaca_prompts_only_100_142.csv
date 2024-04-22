@@ -1,0 +1,100 @@
+prompt
+"Summarize the story in the given excerpt. Matilda was a bright young girl who was not only extremely intelligent, but was also a very kind and caring person. Her parents, however, were selfish, and did not treat Matilda kindly. As she grew, Matilda developed powerful mental abilities, which she used to help her teachers and her classmates, as well as to stand up to her terrible parents."
+"Run the program with the given input. Program: 
+def add_two(x):
+    return x + 2
+
+Input: 5"
+"Regulate the temperature based on the given input. Current Temperature: 70°F
+Desired Temperature: 70°F"
+"Write a function that will return the maximum of the following numbers. 1, 5, 23, 9"
+Who is the author of this book? The Catcher in the Rye
+Explain the theme of this book. The Catcher in the Rye
+Write a function that will return a rounded number. num = 4.5
+Give me three examples of countries in Europe. 
+State one interesting fact from the text. The human brain is capable of making 35 million billion calculations every second.
+Generate a positive quote about success. 
+Identify if this sentence uses an analogy. Her hatred for him was like a raging fire.
+Group the following words into a sentence that is grammatically correct and expresses a complete thought. so excited; finally hiking; the mountain
+Provide an example of a hyperbole to describe a very strong wind. 
+Summarise how to boil a potato in 5 steps. 
+What are the raw materials used to make a soft drink? 
+What are the main ingredients of a guacamole recipe? 
+Create a list of five ways to save water around the house. 
+"Re-write the following sentence to have a different meaning: ""I ate the apple."" "
+"Edit the sentence ""She walking to school."" "
+Design a shopping list for a one-week vegan meal plan. 
+Generate a creative and clever title for an essay exploring the power of hope. 
+How is a blockchain different from a database? 
+List five benefits of using online banking services. 
+Name one health benefit of drinking green tea. 
+Write a story about a nomad in a faraway land. 
+Generate an example of how the given technology works. Machine Learning
+Give me a strategy to cope with stress in the workplace. 
+Generate a new song lyric. 
+Explain why a hypothesis is valid. Increasing customer spending will increase company profits.
+"Identify the most important point in the following text. The ongoing global pandemic has dramatically changed the way we work and live. From working from home to social distancing and reduced travel, the pandemic has had a tremendous impact on our routines."
+Generate ideas on how to celebrate a special day. 
+What questions should be asked before starting a new project? 
+Give three examples of an environmental issue. 
+Compare the benefits of a given product to its drawbacks. Electric Cars
+Find a website that lists all the natural disasters currently affecting countries around the world. 
+"Take the input string of numbers below and add the numbers together. 1,2,3,4"
+Find a website where you can watch documentaries. 
+Replace all the verbs in this sentence with synonyms. He walked home quickly.
+Write a short story of 200 words around the input phrase. Life is an adventure
+Describe the advantages of using trees for data storage 
+Describe what happens when a web page loads 
+"Create a conclusion paragraph for the following essay In this essay, I have discussed the importance of education in reducing poverty."
+"For the equation 3x2 + 2x + 5 = 0, use the quadratic formula to solve for x "
+Provide 3 examples of animals that lay eggs 
+Describe the physiological effects of caffeine 
+"Divide the following group into pairs John, Sarah, Tom, Rachel"
+Write a function to implement a binary search for a list of integers 
+Generate a list of natural disasters in the last decade. 
+How does DNA replication work? 
+Analyze the trends of the S&P 500 in the last year. 
+"Identify the name of the song given a short clip of the lyrics. ""We can really turn it on, boy..."""
+Generate a potential revenue stream for a mobile game. 
+Describe how to make pancakes. 
+Explain the concept of predictive analytics. 
+"Create a compelling title for a research paper. ""The Impact of Social Media on Education"""
+Categorize the given object into an appropriate category. Cheese
+Generate a recipe that involves apples. 
+Report the amount of energy required by a given device. Laptop
+Generate a list of common ingredients that can be used for making vegan food. 
+"Categorize this sentence as either sarcastic or non-sarcastic: ""I'm so excited for more boring school work."""
+"Generate a password that has 10-15 characters, including one uppercase letter, one lowercase letter, one symbol, and one number. "
+Create a document title describing the following sentence. The effects of climate change on biodiversity
+Give advice about how to keep oneself healthy. 
+Detect if this sentence contains any misspelled words. The teachere gave us homwork to do
+Generate a plan for a road trip from San Francisco to Los Angeles. 
+Create a title for a blog post about reducing waste for a greener planet. 
+Create a short story with a twist No input
+"Read the following article and summarize it in a maximum of 50 words The world of finance can be both fascinating and intimidating, especially if you’re not sure where to start. A good financial guide can provide direction and help you plan your goals and investments. The financial advisor should have the expertise to advise and guide you on topics like budgeting, tax planning, investments, and retirement planning."
+Create a scientific statement based on the following data The study found that there were more cells expressed in the presence of the mutant peptide compared to the wildtype peptide.
+"Update the following recipe to feed 10 instead of 8 people Preheat oven to 350F. Grease an 8-inch spring-form pan with butter. Cut 8 apples into small pieces and combine with 3/4 cup of sugar, 1 teaspoon of cinnamon, 1/4 teaspoon of nutmeg, and 1/4 teaspoon of ground ginger. Mix together the ingredients and spread them in the pan. Sprinkle an additional 1/4 cup of sugar over the mixture and bake in the oven for 40 minutes."
+"What is the origin of the phrase ""keeping up with the Joneses?"" "
+Generate an essay on the following topic The impact of technology on society
+"Edit the following code to include a while loop for (i = 0; i < 10; i++)
+{
+    console.log(i);
+}"
+Determine the name of the compound given the following chemical formula C6H12O6
+What is the chemical reaction that occurs when vinegar and baking soda are mixed together? 
+Brainstorm five slogans for a business 
+Describe an alien species. 
+Write a code snippet in Javascript that assigns a value to an array. 
+State four environmental consequences of climate change. 
+Name two computer languages suitable for web development. 
+Generate a script to greet a customer online 
+How does technology help improve communication? 
+Generate 3 questions you can ask an interviewer. 
+Write a command line in Bash to display the working directory. 
+How can we provide better healthcare in India? 
+Please describe the difference between micro and macro-evolution. 
+Generate a 5-sentence paragraph discussing the role of play in children's development. 
+Identify the prime suspect in the following murder case The police have obtained video evidence showing a person entering the victim's house with a knife and leaving shortly thereafter
+Make a list of the key benefits to using artificial intelligence 
+Make a list of 5 tips for effective communication 
+"Suggest a project that can incorporate the skills of Python, Machine Learning, and Web Development "

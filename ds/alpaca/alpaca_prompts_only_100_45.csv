@@ -1,0 +1,100 @@
+prompt
+Identify three of the natural elements present in the given region. The Arctic
+Describe the characteristics of the main character. The protagonist of The Hunger Games
+Generate a parable about friendship. 
+"Given the given description, classify it as either a historical figure, a myth, or a literary character. Sherlock Holmes"
+Compose a haiku about the wonders of technology. 
+Generate a new type of monster using the given description. Description: A monster made of sand and sea shells.
+"Generate the next line in the story. It was a stormy night, and she was standing by the window watching it."
+Explain the concepet of a “worst case scenario”. 
+"Reshape a given dataset from a 3*2 matrix to a 1*6 vector [[1, 2], [3, 4], [5, 6]]"
+What does “algorithm” mean? 
+List some famous works of art from the renaissance period. 
+"Consider the following sentence: ""I was born in the United States"". Provide the part of speech for the word “born”. "
+Describe the process for creating a PowerPoint presentation 
+Brainstorm new ideas for an upcycling project. 
+Create a cocktail recipe. 
+"Create a program to find the sum of the numbers in a given list. [1, 2, 3, 4, 5]"
+Convert the following measurement from cups to ounces. 2 cups
+Write a function to print out the first letter of each word in a sentence Welcome to the world.
+Brainstorm ideas for a new business. 
+"Find the average number in a list. [4, 3, 6, 10, 8]"
+Create an algorithm to check if a number is prime or not. 7
+"Replace the word ""rendering"" in the following sentence with another word that means the same without changing the sentence structure. The rendering was done on a canvas before it finally made it to the museum."
+Create an analogy to describe a neural network. 
+Write a query to sort 2D array in ascending order of the first elements. 
+Write a Python program that prints the sum of two numbers. 21 and 9
+Describe AI in one sentence. 
+Give an example of a data mining task. 
+Construct an HTTP request that retrieves information from an API. Example API endpoint: https://example.com/api/v1
+"Given a sentence, find all the misspelled words I swimmed in the lake."
+Generate a unique random number between 0 and 1. 
+"In the sentence below, identify the part of speech for each word. He quickly dashed across the street."
+"Given a transition matrix, calculate the stationary distribution Transition matrix:
+[[0.7, 0.3],
+[0.3, 0.7]]"
+Categorize the following sentence into a subject classification The soybean prices have risen steadily.
+Create a query to find the maximum price in a given table. 
+"Given a photograph, provide three tags to describe it "
+"Summarize the paragraph below in one sentence. Joseph Thompson was a dedicated member of the community; he often volunteered his time to assist those in need. He had a deep love and passion for helping others, and even in the face of adversity he continued to do so."
+Rewrite the following sentence using a different verb to generate a new meaning for the sentence. I drove to the store.
+"Given the following dataset, find the median value. {2, 4, 6, 7, 8, 9, 10, 12, 14}"
+"Analyze the given ethical dilemma and explain the potential consequences of each available decision. You are the manager of a fast food restaurant and there is an infestation of mice in the kitchen. Your options are to inform customers, ignore the situation, or lie about the problem."
+"In the given context, explain what the term “natural language processing” means. Context: Natural language processing is an important tool for a business to understand customer needs."
+"Given an array of three-dimensional points, calculate the center of mass. [[1, 2, 3], [2, 3, 4], [3, 4, 5], [4, 5, 6]]"
+Convert the text document to a structured data format. John is 35 and he lives in New York.
+"Generate a graphic using the content provided. Three circles of the same radius in a row. The first one is green, the second one is blue and the third is pink."
+Write a short persuasive passage about the effects of climate change 
+How did Ancient Egyptians build the pyramids? 
+Describe a typical day in the life of an NBA player. 
+Recommend a streaming service I like watching horror movies
+Generate a Mad Lib 
+Create an outdoor scavenger hunt 
+List 5 computer programming languages 
+Explain the concept of quantum computing 
+Design a drinking game 
+What is the blockchain 
+Output whether there are 5 divisors for an integer. 72
+Output its second letter of the most frequent word from a sentence. We can all make a difference.
+Describe in one sentence the mood in the room. The guests were chatting and laughing while the late-night rain pattered against the windows.
+Convert the given sentence into a single word. The fox jumped over the fence
+"Sort the sentences by length. I brought lunch
+It is already noon
+Let's have lunch"
+Change the words with similar meanings. The climber began the ascent of the mountain
+"Output which of the 3 figures is biggest. Figure 1 is 27 cm, Figure 2 is 15 cm, and Figure 3 is 10 cm"
+Provide two measures to reduce stress. 
+"Calculate the average value from the given numbers 2, 4, 6, 9"
+"Answer a quiz question Who painted ""The Starry Night"""
+"Rank the given ingredients according to their nutrition per 100 gram in descending order. Mushroom, Cottage Cheese."
+This sentence has an error; identify it Writting is not as hard as it looks.
+What strategy would you recommend for a company looking to target a new market? 
+Suggest five features for a photo editing application 
+How do you recommend applying for a new job? 
+Describe how a computer vision based application could be used in medicine 
+Convert the given Celsius temperature to Fahrenheit. -6.2
+Rewrite the statement into a form suitable for a headline. Recent studies have shown that the structure of the moon’s interior is much like that of the Earth.
+Explain the concept of reinforcement learning in a simple and understandable way. 
+Select the best word that completes the sentence. Jill is so ____.
+"Categorize the given phrase into one of the following classes: Positive, Neutral, Negative. They are very disappointed."
+Explain what would be the most suitable machine learning algorithm that can be used for the given problem. Computing the time of flight for aircraft.
+Provide an example of a common application of AI. 
+Formulate a question that can be used to trigger the given answer. I want to watch a movie.
+Predict what would be the outcome of the given situation. Alice was invited to a party but she refuses to go.
+Paraphrase the sentence making it sound more formal. They all thought she was crazy.
+Change the given sentence into the past tense. Bob is running to the store.
+Rewrite the sentence so that it makes more sense. The progress of the project is going to good.
+Generate a list of 3 names for a fictional character. 
+Paraphrase this sentence in simpler language. A system composed of complex algorithms may be used to automate the process of decision making.
+"Given the following text, detect if the sentiment is positive, negative, or neutral. The food was terrible."
+Construct an explanation of the definition of the word 'bounty'. 
+Define the term 'machine learning'. 
+Describe the concept of query optimization. 
+Find the hypotenuse of a right triangle with sides 3 and 4. 
+Provide a forecast for the weather in Chicago for the next week. 
+"Summarize the content in the following passage. The American alligator is a large semi-aquatic reptile found in the southeastern United States. Alligators spend most of the time in freshwater rivers, lakes, swamps and marshes. Alligators are an important part of their ecosystem, controlling the number of small animals like birds and fish, and maintaining the health of the plant community by keeping the waterways clear."
+Educate the readers about the water cycle in a concise manner. 
+Brainstorm 5 ways to reduce stress. 
+Explain the series of events leading up to the fall of the Roman Empire. 
+"Sort the following words alphabetically. Sports, dance, basketball"
+Determine the percentage decrease between the two quantities. 37 and 24

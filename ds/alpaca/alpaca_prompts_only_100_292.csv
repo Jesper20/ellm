@@ -1,0 +1,100 @@
+prompt
+String2: ""Hello World!"""
+"Create a new variable that contains the value of variable1 multiplied by variable2. variable1 = 5
+variable2 = 10"
+"What would be an appropriate response to the following quesiton: ""What do you like to do in your spare time?"" "
+"Refer to the given list and calculate the average. [5, 10, 15, 20]"
+"Concatenate the two strings together String1: ""Hello""
+String2: ""World!"""
+"Write a compile time error regarding the given code. def someFunction():
+    print('Hello')"
+Create a function to check is a list is sorted in ascending order. 
+"Given a list of numbers, find the 3rd largest number. [1,7,9,11,12,14,18,21]"
+You need to provide a summary of the following article. Recent studies have suggested that people who consume more fresh fruits and vegetables have significantly reduced risks of cardiovascular and other chronic diseases.
+You are asked to provide a list of ideas to improve the product. 
+You have to provide an example of an invocation of the given command. flip coin
+"You need to explain the significance of the following quote. ""If you want to go fast, go alone. If you want to go far, go together."""
+Explain what is a GPU and what is its purpose. 
+Provide a list of different tasks a GPT language model can complete. 
+"Translate this sentence into Spanish: ""I will be arriving in a few minutes."" "
+Generate a story about a young girl who moved to a new town 
+"Identify any five problems with the given passage The wind was rustling in the trees, and her fingers felt the chill as she rest them on her lap."
+Describe the protagonist in a story Name: Alice
+Create a list of five questions about the ocean 
+Compare and contrast the Republican and the Democratic party. 
+Identify the gerund of the following sentence: He was walking to school. 
+Edit the following sentence to make it more concise: We regret to inform you that we are unable to accept your proposal. 
+Design an invoice template using HTML. 
+"Find the largest number among the following numbers: 5, 10, 3, 7 "
+List the steps to register a domain name. 
+Retrieve the second paragraph from this article. [Link to article]
+What is the gravitational force between two objects with a mass of 5kg and 7kg and a distance of 10m apart? noinput
+"Summarise this paragraph in less than 50 words. Social media has become an integral part of modern life. It is used by people of all ages and backgrounds to communicate, share information and express their personalities. However, with its ubiquity has come criticism of social media’s effects, including cyberbullying, lack of privacy and its role in addiction."
+"What would be the output of the following code? int x = 10
+int y = 5
+int z = x + y"
+Give me three adjectives to describe this photo. [photo]
+Classify a chameleon as a reptile or bird. Noinput
+"Given the following data points, what is the equation of the line? (-2,5) (2,-3)"
+Complete the sentence by replacing the blank. Mount Everest is the highest mountain _______ Earth.
+Identify the continent where the following mountain is located. Mountain: Mount Kilimanjaro
+Classify the following object according to the temperature type it can withstand. Object: Rock
+Generate a set of six questions that can be asked to investigate the following topic. Topic: The geological formation of mountains
+Identify the type of terrain that corresponds to the following description. Description: A landform with sharp edges and steep sides
+Generate a story line that is capped at 100 words. No input
+Write an algorithm to print a multiplication table. No input
+Generate a list of adjectives that describes the given person. Person: Doctor
+Suggest two new features for an e-commerce website No input
+Summarize what happened in the movie 'Star Wars' 
+Generate a motivational quote 
+Identify a real-world application of AI. 
+"Write a poem using 3 words: love, moon, and fire. "
+Summarize the postcolonial theory. 
+Generate a story about a human astronaut and an alien from a distant planet. 
+Rewrite the sentence so that it expresses a strong opinion instead of a fact. Traffic lights help keep traffic flowing safely.
+Divide the sentence into two and make them grammatically correct. I always wanted to travel the world.
+"Sum up the following article in one sentence. The European Union has proposed a plan to tackle climate change and its environmental impact. It involves implementing the Paris Agreement, improving energy efficiency, reducing emissions from transport, and investing in green energy sources."
+Why should companies invest in product personalization? 
+How did the fossil fuel revolution change the course of history? 
+"Create a story about two friends, who must solve a mystery. "
+Evaluate the following argument and explain why it is valid or invalid. The government should increase taxes to fund social programs because people should contribute to the greater good.
+"Summarize the following text regarding online personal finance services. Online personal finance services help simplify the process of tracking spending daily, budgeting for the future, making predictions about income and expenses, and keeping up with bills or investments.
+These services aggregate financial data from various bank accounts, credit cards, and investments. They provide insight into spending patterns, cash flow, and how to plan for the future."
+List steps for making a simple chocolate truffle cake. 
+Answer the following query correctly. What is the longest river in South America?
+Write 10 lines expressing why people should visit Egypt 
+Create a list of 8 questions to ask prospective online tutors. 
+Explain the features of the following mobile phone. Iphone 12 Pro Max
+Create a list of 5 questions to ask before investing in stocks. 
+"Parse the HTML page and return the title of the page. <html>
+  <head>
+    <title>My web page</title>
+  </head>
+  <body>
+    <p>This is my web page.</p>
+  </body>
+</html>"
+"Find the area of the triangle using the length of its three sides A = 4, B = 9, C = 8"
+Make a function to convert Celsius to Fahrenheit No Input
+Rewrite the code below using postfix notation a - (b + c)
+"Construct an if-else statement based on the given conditions if number is greater than 10, return ""Greater than 10"".
+Else return ""Less than 10""."
+"Find the correlation of the two given inputs X = [1, 2, 3, 4, 5]
+Y = [2, 4, 6, 8, 10]"
+Create a loop to print the odd numbers in the given range range: 2 - 8
+"Summarize the article ""Why Cats Make Bad Pets"". Cats make bad pets for a variety of reasons. Their natural hunting instincts can lead to destruction in the home, they are often independent, and require constant upkeep when it comes to grooming and vet care."
+What are the best strategies for managing stress? 
+Write a short story about overcoming adversity. 
+Generate a list of five positive qualities a good leader should have. 
+"On a scale of 1-10, rate the customer service you received. No Input"
+Name two ways to activate a machine learning model. No Input
+What is the most common type of machine learning used for natural language processing? No Input
+Name one machine learning technique used for time-series forecasting. No Input
+Rewrite the following in language more suitable for a customer announcement. We are launching a new product.
+What action is the government taking to reduce air pollution? No Input
+Name one way to control the data quality for a machine learning model. No Input
+"Add a variable in the code to store a user's name. def greet_to():
+    print(""Hello!"")"
+Describe how to assess a machine learning model. No Input
+Generate a list of 5 action items to take when handling a customer's complaint 
+What is the range of the human visual spectrum? 

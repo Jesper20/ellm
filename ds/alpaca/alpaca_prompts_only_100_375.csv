@@ -1,0 +1,100 @@
+prompt
+list = [1,2,3,4,5,6,7,8]
+for i in list:
+    if i % 2 != 0:
+        print i"
+Rewrite the following sentence to change the verb forms. Julie eats cereal for breakfast every morning.
+Generate a list of two security risks of cloud computing. 
+"Read the following list and pick out the verbs. Input, output, calculation, storage"
+"You are given a set of numbers. Write the code to count how many numbers are divisible by 3 and 5. [5, 9, 10, 15, 16, 20, 25, 30]"
+How can you keep your hands warm in cold weather? 
+Explain the relationship between bacteria and sickness in humans. 
+What is the difference between interactive and non-interactive user interfaces? 
+Name ten countries with a population greater than 50 million. 
+What are the four marketing techniques used to gain customer attention? 
+Describe the impact of ocean acidification on coral reefs. 
+How can we lower the rate of food spoilage? 
+What is the main benefit of having a healthy lifestyle? 
+Name five principles of sustainable development. 
+Convert 150 milligrams to kilograms 
+Find the maximum of the function y = x^2 - 5x +6 
+Find the title of this book given the ISBN. ISBN: 978-1-5247-3855-7
+Which US state has the second smallest population? 
+"What is the meaning of the proverb ""look before you leap""? "
+"Evaluate the performance of a GPT model given the output. The output of the GPT model is: ""The model has successfully completed the instructions with accuracy of 80%""."
+"Classify this musical artist as either ""classical"" or ""pop"". Beyoncé"
+Describe the main antagonist in the movie Ocean's 11. 
+"Summarize the article ""Google Research Focuses on Neuroevolution"". "
+"For an online e-commerce store, come up with an effective way to track customer behavior and customer lifetime value. "
+Create a query that finds the average price of all products in a store. 
+Genereate a list of five movies that you would like to watch. 
+Suggest a web hosting service that fits the needs of a company that requires high security and optimum uptime. 
+Craft a headline for an article on the effect of the pandemic on mental health. 
+Develop a list of five tips for writing a successful resume. 
+Formulate an experiment for testing a new bot for making appointments. 
+Refactor the following code fragment to square a number without using multiplication. int result = number * number;
+"Come up with a succinct summary of the article ""The Power of Dreams"". The Power of Dreams is an article by psychoanalyst, Sigmund Freud."
+Create a Random Forest classifier to predict the sentiment of a given sentence. The food here is really amazing.
+Explain what is I/O in operating systems. 
+List some of the benefits of using AI in business. 
+Divide 887 by 3 using Python. 
+"Construct a family tree with the following individuals: John, Lucy, David, Sam, and Adam. "
+Evaluate the expression 3x - 3 when x = 4. 
+"Analyze the given sentence: ""This sentence does nothing extraordinary"". "
+"Rewrite the phrase ""throw away garbage"" in a formal tone. "
+Describe the HTTP protocol. 
+Assign a value for x if 4x + 16 = 48. 
+Identify the currency symbol of Canada. 
+"Implement a function to sort a list of strings according to their length. listOfStrings = [""a"", ""long"", ""string"", ""verylongstring""]"
+Determine the appropriate letter grade for a student who got an 84 on a test. 
+"Convert the string ""My name is Jane"" to a list of words. "
+Discuss the merits and drawbacks of artificial intelligence. 
+Construct a for loop to count from 1 to 10. 
+Rewrite a sentence to take out its negative tone. It is impossible to make money online.
+Generate a list of ideas on how to improve customer service. 
+Guess what is the best practice for customer service? 
+Identify a potential area for improvement for your favorite website. 
+Explain the difference between a data scientist and a machine learning engineer. 
+Design a survey to gather feedback about a new product. 
+Generate a list of topics that could be covered in a blog about startups. 
+Summarize a news article about the current state of the economy. https://www.marketwatch.com/story/americans-are-saving-more-in-may-than-at-any-time-in-decades-despite-record-unemployment-2020-06-03
+Arrange a series of steps to explain how to cook a microwave recipe. Microwave Mac and Cheese
+Suggest an alternative to using plastic bags. 
+Suggest a method for teaching English as a second language to children. 
+"Compose a short essay on the topic ""Exploring the Life in a City"" "
+"Write a critique for an artistic work. A painting by Vincent Van Gogh titled ""The Starry Night"""
+Generate a persuasive speech about decreasing the use of plastic 
+List ten items on a grocery list. 
+Compose a letter to a friend describing a recent vacation 
+Select a type of weather and explain the features of it in 5-7 sentences. Rain
+Please name a traditional holiday meal in Korea 
+"Fill in the blank of the following sentence: 
+
+""Global warming is ___ to have serious consequences on our environment."" "
+"Summarize the following paragraph in one sentence.
+
+The US government has pledged to reduce emissions and investments in clean energy but experts argue more needs to be done if the US wants to meet their climate targets. "
+Convert the metric measurement from mm to cm. 90 mm
+"Rewrite the following sentence in a more formal way:
+
+""I am getting bored of this."" "
+"Brainstorm 3 possible solutions to the following problem: 
+
+Pollution levels in a heavily populated city have increased. "
+"Classify the following statement as true or false:
+
+Chocolate is an ingredient of a salad. "
+"What would be the most logical next step in the following conversation?
+
+Person 1: I'm not sure what I should do.
+Person 2: "
+"Rewrite the following sentence using a synonym of the word ""astonished"":
+
+He was astonished by the outcome. "
+"Generate a summary of the following article in one sentence:
+
+https://www.bbc.com/news/technology-45496375 "
+Come up with a new way to use the following item: a teaspoon. 
+"Reverse the order of the following sentence to change the emphasis
+
+He was very careful with his words "

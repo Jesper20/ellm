@@ -1,0 +1,100 @@
+prompt
+Prepare a cheat sheet for a unit conversion problem. Convert 375 millimeters to inches.
+Create a content outline for a course on evolution. 
+Generate an original limerick poem given an input topic A funny giraffe
+"Classify the genre of a given song Song: ""Gangsta's Paradise"" by Coolio"
+"Personalize an automated email given an input data. Subject: Welcome to ABC Industries!
+Dear [Name],"
+Rearrange given instructions in order to optimize a given process. Take prints of documents > Submit documents > Scan documents
+Generate an artwork given an input theme. Peace
+"Given a dialogue, identify the sentiment of the conversation Person 1: I want to cancel this order
+Person 2: Sure, I will do that right away."
+Fact-check a given statement. The blue whale is the largest mammal on earth.
+"Given an input sentence, create a metaphor. The sky is beautiful"
+Edit a given text by deleting the unnecessary words. She went to the market to buy oranges and apples and bananas.
+"Given a website, suggest three optimisations. www.example.com"
+"Compose a tweet about a given news article Article Title: ""Volcano Eruption in Hawaii"""
+"Arrange these three words in alphabetic order Cat, Banana, Apple"
+Give me a list of reasons why people overeat. 
+Write a short letter to your best friend and share some of your thoughts and feelings. 
+List five ways to stay healthy during the winter. 
+Analyze how this decision will affect the people. The town is planning to build a new shopping mall.
+Name five questions someone might ask before starting a business. 
+"Given two pieces of text, how can you identify which is the fifth sentence of each? Text A: My name is John and I like to play basketball. I have played on a few teams in my life and I really enjoy the feeling of being part of a team.
+
+Text B: She loves to go on long walks in the park. Her favorite place to go is Central Park. She loves the feeling of spending time in nature."
+"Write a python program to generate a random character from the string ``""abcdefghijklmnopqrstuvwxyz""``. No input"
+What are three potential problems for running a Linux system in a Virtual Machine? No input
+Create a bingo game using the numbers 1 - 75. No input
+How would you architect a database to store customer survey responses? No input
+"For a given array arr, write a program to sort the array in-place without using any sort function. arr = [5,7,3,9,10,1]"
+"Identify the title of a song given the lyrics: ""How many roads must a man walk down, before you call him a man"". No input"
+"Reverse a string without using any built-in functions. Input string: ""Hello World!"""
+"Given three points A, B and C, calculate the angle ABC. A=(1,2), B=(3,4), C=(5,6)"
+What are two advantages and two disadvantages of using relational databases? No input
+"Create an example input given the instruction, ""Find the average temperature of Los Angeles on a given date"". Date: December 15, 2020"
+How can we estimate the time complexity of an algorithm? No input
+Calculate the number of days in one year. 
+Create a haiku that conveys a feeling of joy. 
+Create a palindrome sentence. 
+"Who wrote the novel ""1984""? "
+Generate a view-point divergent and coherent sentence that still conveys the same information as the original sentence. A recent survey revealed that more than half of the people around the world believe climate change is caused by humans.
+"Generate a classifier that accurately predicts whether a given house is expensive or not based on input features. number of bedrooms | number of bathrooms | square footage
+3 | 2 | 2,000
+3 | 2 | 4,000
+4 | 3 | 2,500
+4 | 4 | 5,500"
+Look up the top three results for the query “cheap phone cases” and return the name and price of each product. 
+Convert the adjectives in the given sentence into nouns. The car was fast and luxurious.
+Create a sentence comparing two objects submarine and motorbike
+Construct a question from the given statement Cats have stripes
+"Classify the following sentence as belonging to the era before, during or after World War II. The art of abstract expressionism flourished in the 1950s."
+What were some of the major advances in technology during the Industrial Revolution? 
+"Choose two words from the following list that are antonyms: happy, slow, big, luxurious"
+Discuss the significance of the internet in regards to promoting democracy. 
+Name three of the most impactful inventions of the 19th century. 
+Name some of the ways in which technology has made our lives easier. 
+"Write a short story beginning with ""The sun had already set in the west when..."" "
+"Generate an original poem with the title ""Life"" "
+What are the top 5 countries with the largest population? 
+Generate a new song in the style of Taylor Swift. 
+Create a list of 5 tips for people who are looking to maintain a healthy lifestyle 
+Reshape the following user query for better understanding. How do I complete the task on the portal.
+How would you respond to this user question? User: How do I get in touch with customer service?
+How would you address an email to a professor? 
+Calculate the following expression: 11*(5 + 8) 
+Write three lines of dialogue that best reflect the scene Two friends reuniting after a long time
+Construct a multiplication table with 5 rows and 6 columns. 
+Generate a function to search for an element in a list. 
+Create a blog post about the importance of having a fitness routine. < noinput >
+Generate a correct program to output the summation of two numbers. 
+Classify a given type of sports: basketball. 
+"Find the determinant of a given matrix. [1 8 3]
+[2 7 9]
+[5 1 6]"
+"Compose a love song using the words ""heart"", ""moon"" and ""stars"". "
+Generate a correct python program to shift all the letters in a given word by two characters ahead. Input word: apple
+"Rewrite the given sentence, “She is a kind woman” in third-person. "
+Generate a correct java program to find the nth term of an arithmetic sequence. 
+"Classify each of the following as either a “Carbohydrate”, “Fats”, or “Protein”. Whole grain bread"
+Name a scientific law that applies to humans. 
+Name a verb associated with the word “hike”. 
+Describe the importance of empathy in leadership. 
+Generate a sentence that uses the phrase “behind closed doors”. 
+"Rewrite the following sentence without changing its meaning: 
+He was not up to the challenge. "
+"Given a complex mathematical equation, solve for a specific variable. Solve for x: y = 4x^2 + 3x - 10"
+"Construct a compound sentence using the words ""otherwise"" and ""charged"". "
+Generate a memorable metaphor 
+Describe the process of selecting a document from an inverted index. 
+"Categorize the given sentence as belonging to the field of biology, computer science, or psychology. Output should be one of the three fields. The use of MRI has revolutionized the medical field."
+Convert the given sentence written in the active voice to passive voice. John is running the marathon.
+"Given the following input, generate a tagline related to health care. "
+Explain the four essential features of object-oriented programming. 
+"Given the following input, generate a title for an article related to basketball. "
+"Given the following input, generate a synonym for ""chaos"". "
+"Translate the following sentence from English to Spanish: ""He was so tired that he fell asleep during the meeting."" He was so tired that he fell asleep during the meeting."
+What types of flora is found in the temperate rainforest? 
+"Create a painting using the colors yellow, blue and white. "
+Describe the flavor of strawberries. 
+What was the most significant event in the history of philosophy? 

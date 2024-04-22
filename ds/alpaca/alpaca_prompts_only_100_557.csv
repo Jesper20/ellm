@@ -1,0 +1,100 @@
+prompt
+Develop a list of 3 strategies for healthy eating. 
+Generate a new sentence that makes sense grammatically and logically. 
+Change the first word of the sentence to make it passive. I wrote the essay.
+"Classify a set of data as valid or invalid. Apple, Amazon, Google"
+"Combine two text inputs and output a single valid sentence. Text 1: I like eating.
+Text 2: Apples are delicious."
+"Determine which choice is correct and output it. A) Ants
+B) Flies
+C) Mosquitoes"
+"Calculate the total cost of three items and output the result. Item 1: Pizza: $12.00 
+Item 2: Burger: $10.50 
+Item 3: Soda: $1.75"
+"Combine two texts and transform them into a persuasive speech. Text 1: Climate change is happening. 
+Text 2: We need to take action now."
+"Given a set of data, edit the entries to change the text to capitalize the first letter of all words. apple, banana, pear"
+Generate an appropriate response to the question 'What is life about?'. 
+"Calculate the average of four numbers and output the result. 15, 20, 35, 25"
+"Given two strings, return a combination of both strings while maintaining the format of the input strings. String 1: hello
+String 2: world"
+Generate a recipe for a vegan-friendly smoothie. 
+"Given a dialogue, identify the speaker. - I need help
+- Sure, what can I do for you?"
+Find the meanings of the acronym SEP. 
+"Given a text document, identify every proper noun in it Elon Musk is the founder of Tesla and SpaceX."
+"Given two arguments, analyze and compare them Argument 1: Technology has enabled us to stay connected to our friends and family.
+
+Argument 2: Technology has caused us to become more isolated from each other."
+Detect the spelling mistakes in the following phrase A pritty picture.
+"Summarize the main takeaway from the following quote ""It is not the strongest of the species that survives, nor the most intelligent, but the one most adaptable to change."" -Charles Darwin"
+Correct the false fact in the following statement The Nile River is the longest river in the world.
+"Create a response to the following statement: ""Homework is a burden for students."" "
+Generate a script in Python that takes two integers and prints the sum of these numbers. 
+Describe the importance of a healthy lifestyle. 
+Reword the following sentence so it has the exact same meaning and is still grammatically correct. She is going to college in the fall.
+"Determine the output category of the following Document. Output should be 1 for: 1) Action; 2) Principle; 3) Process; 4) Technology Information technology (IT) is the use of computers and networks to store, retrieve, transmit, and manipulate data."
+"Make a projection of the expected income for the next five years, given the following data. Income in 2019: $50,000
+Income increase rate in past 2 years: 5%"
+Give 5 examples of common family values. 
+Compare Renaissance art to modern art. 
+Brainstorm new ways to use technology to save time. 
+"Evaluate the given websites according to their usability and functionality. Websites: website1.com, website2.com"
+List 3 economic principles. 
+"Come up with a clever marketing slogan for a new financial management app. Financial management app:
+MoneyCap"
+Describe the main components of Darwin's theory of evolution. 
+"Compose a script of a customer service call using the given input. Company: ABC, Customer: Jane"
+Name five common spices used when preparing Indian cuisine. 
+Explain how a machine learning algorithm can be used to recommend products to customers. 
+Create a table of three sports teams and their win/loss records. 
+"Generate five ""fill in the blank"" questions about the D-Day invasion. "
+How can you improve air quality indoors? 
+Write a post promoting physical activity 
+Identify the most common health conditions in seniors 
+"Finish the quote from Albert Einstein ""Imagination is more important than knowledge,"
+Create a list of 3 work-related skills 
+"Compare and contrast the methods used in the two examples Example 1:
+A car can be repaired using a mechanic
+Example 2:
+A TV can be repaired using a technician"
+Compose an email to your boss about the status of your project. 
+Imagine you are an elderly person who is at a grocery store. Describe your experience. 
+"Help a student create a research paper title about ""Public Education in the US"". "
+Suggest at least three qualities of a good leader. 
+Convert the following decimal into a percentage: 0.43 
+"Explain the meaning of the proverb ""If a job is worth doing, it's worth doing well."" "
+Give three examples of ways to stay healthy. 
+"Write a sentence using the idiom ""raining cats and dogs"" <No input>"
+Describe the atmosphere of this room <An image of a living room with comfortable furniture and warm colors>
+Tell me two adjectives that describe this painting <Image of an abstract painting>
+Identify the chemical element contained in this substance <Image of sodium chloride>
+"Classification Task: Given the following text, what topic does it belong to? The development of deep learning algorithms and artificial intelligence is changing the way we think about computing"
+Describe the costumes of African tribes 
+"Develop an algorithm to sort given 10 numbers in ascending order {8,5,1,7,13,9,11,0,10,2}"
+Name a movie directed by James Cameron 
+Suggest a YA fiction novel 
+"Provide a short summary of the short story, ""The Tell-Tale Heart"". "
+List three tips to save money. 
+Write an article about the impact of machine learning on society. 
+"Given a string of text, generate a keyword list. AI is changing the world with its many applications."
+"Given two people, suggest a restaurant for them to visit. John and Jane"
+Suggest a programming language to start learning. 
+Suggest how can a student prepare for the upcoming exam? 
+Give instructions for making scrambled eggs. 
+Re-write the sentence according to the rules of punctuation. The doctor said the fever which the boy had is not serious and the boy can go home
+Describe a modern mobile phone 
+"Write down the reactions of the characters in the given situation. During a discussion, Bob accused George of lying."
+How does online shopping benefit consumers? 
+What is a resume objective? 
+Summarize the history of the World Wide Web. 
+Construct the the following sentence improving its flow. The number of paper books being read is decreasing and digital book readers are on the rise.
+Compare the density of H2O and H2S. No input.
+Construct a haiku that follows the traditional 5-7-5 format. No input.
+Describe the feeling when opening a present 
+Introduce the idea of Open Source Software 
+Formulate a valid hypothesis There is a correlation between studying and academic performance
+Design a customer survey for a restaurant 
+Formulate a chemical formula Calcium oxide
+Construct a valid third-degree equation 
+"Given a product review, use sentiment analysis to determine the sentiment of the review. The product was quite bad and inefficient."

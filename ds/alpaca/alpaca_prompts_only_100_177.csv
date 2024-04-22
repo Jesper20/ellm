@@ -1,0 +1,100 @@
+prompt
+Classify this sentence as either a simile or a metaphor: The moon was a light in the darkness. The moon was a light in the darkness.
+Write a 200-word story about a robot lab assistant. 
+"Given the two strings, output the longest common subsequence: ACDCDE 
+AZDE"
+Write 50 words about a family trip to the beach. 
+Output the base-10 logarithm of 100. 
+"Given the following sentence, output the root word of the verbs: The chickens were clucking and pecking. The chickens were clucking and pecking."
+Describe a peaceful meadow in 50 words. 
+"Generate a sentence using the following words: rose, birthday, summer. "
+Output the ASCII value of the character 'M'. 
+Edit this sentence to make it sound more natural: The students competed to running the race. The students competed to running the race.
+Output the names of the US states 
+"Give a synonyms of the word ""pungent"". "
+Find and list the names of five common spices used in Asian cuisine. 
+Explain the use of a specific word in a sentence. I just stumbled across a great opportunity.
+Write a few sentences to provide a description of the input. John likes to play badminton with his friends every weekend.
+Identify the sentiment of the sentiment. I had the worst experience with their customer service.
+Predict a numerical value that best represents the input. The company saw a 40% increase in revenue this quarter.
+Write a definition of a specific term. Natural Language Processing
+Generate a one sentence summary that answers a yes/no question. Does McDonald's offer vegan items in their menu?
+Insert the appropriate punctuation. John is going to buy tickets for the movie
+Write code to show the output of the code. print('Hello World')
+Change the sentence to reflect the given aspect. John went on a trip. (Change aspect to past perfect tense)
+Create a short story about the last day of summer. 
+"What kind of triangle is defined by three sides with lengths of 12 cm, 24 cm, and 36 cm? "
+How much is 4x3+3x2? 
+Describe how plants help humans. 
+What was the name of the first novel written by Charles Dickens? 
+Make a housing recommendation for a person with a budget of $ 1500 per month. 
+"Train a machine learning model to detect sarcasm in tweets. This is a collection of tweets from a Twitter handle @sarcastic_tweets.
+
+Tweet_1: What a beautiful day!
+Tweet_2: So glad I have to work on a Saturday
+Tweet_3: My cat is so cute when he sleeps"
+Explain why a blockchain application is suitable for this use case. This is an application that tracks the movement of medical supplies from the distribution centre to the store.
+Suggest a suitable product category for the given scenario. This is a clothing store that caters to teenage girls.
+Create a timeline for tasks needed to complete the project. This is a project to build a prototype for a mobile app.
+Suggest one improvement for the given website. This is the website for an online book store.
+Give an example of a situation where the given AI technology would be useful. This is an AI-based image recognition technology.
+"Identify the implied message in the following tweet. ""Smile and the world smiles back at you!"""
+Create a list of 10 vocabulary words related to the given topic. Robotics
+Describe a climatic condition such as monsoons. 
+Find the oldest person in text. Serah was born in 1995 and her brother John in 1988.
+Provide five examples of words that use the '-ous' suffix. 
+Describe the moon's appearance on a clear night. 
+Make a list of the six continents. 
+Suggest some tips for writing an essay. 
+Name one city in China. 
+Convince the customer to buy the product. Apple iPhone
+Name three features of a good customer service representative. 
+Come up with a list of kitchen utensils. 
+Come up with three words that end in 'ion'. 
+"Given a news article, generate a summary to inform the reader quickly. The United Nations issued a statement in response to recent tensions in the Middle East. The statement urged for negotiations, de- escalation of conflicts, and a commitment from both sides to refrain from violence."
+"Given a Twitter post, classify the sentiment of the post. It's been a long day and all I want is to relax and have some bubble tea."
+"Given a financial statement, detect any discrepancies in the entries. RevenueStatement
+Total Sales: 1000
+Total Cash Inflows: 100"
+"Compose a poem using keywords such as love, beauty and sorrow. "
+"Given an article about investment, explain the key principles of investment. The article is about risk diversification in the investment market."
+"Given a dataset of customer data, generate insight about the overall customer base. The dataset contains customer demographic data such as age, gender, and location."
+"Given the code for a software, generate a debugging report. def add (a, b):
+    return a + b"
+"Given a set of instructions, design an algorithm to complete the instructions. Instructions: Given an array of integers, find all the pairs that have a sum of k."
+"Given a customer complaint, explain how you would resolve the issue. Customer: The product is not working as expected."
+"Assess the security risk of a system given a set of data. The system includes antivirus and anti-malware software, firewalls, encryption, and regular security patches."
+"Given a legal document, identify the relevant laws and regulations that apply. The document is an agreement between two companies to enter into a business partnership."
+Edit a resume to include job-specific keywords and make it more visually appealing The resume is for a job in software engineering.
+Generate a list of key topics to be discussed in a meeting. 
+"Given a table of data, calculate the mean, median, and range of the data. The table includes data about the yearly income of a group of people."
+In what way is the use of artificial intelligence beneficial for individuals? 
+Rearrange the following words to make a sentence: yesterday - went - kids - to - zoo 
+How does the stock market work? 
+"Create a short story involving a car, a tree and a river. "
+"Classify the following statement as True or False.
+
+People cannot be both introverted and extroverted. "
+Write a paragraph describing the features of a house 
+Name three animal species that are threatened due to human activity. 
+"Rewrite the following sentence using the active voice:
+
+The assignment was finished by the student. "
+Analyze the benefits and limitations of using GPT-3 for natural language generation. 
+"Rewrite the following sentence using the passive voice:
+
+She completed the task. "
+Create a short allegory about the power of knowledge. 
+"Choose the correct synonym for ""immense"". "
+List three qualities of a good teacher. 
+"Calculate the average value of {25, 100, -21, 5, 6}. {25, 100, -21, 5, 6}"
+Write a short story about how one wrong decision can lead to long-term consequences. 
+"Identify the nouns in the sentence: ""The cat jumped down from the tree."" ""The cat jumped down from the tree."""
+List 4 ways to reduce plastic waste. 
+Summarize the key steps to problem solving. 
+Create a plausible computer password with 10 characters. 
+Compare and contrast primary and secondary research. 
+Find the most significant event that happened in the year 2002. 
+Analyze this sentence and provide a grammatically correct rephrase. My brother is not clever enough as my sister.
+How would you classify this article? This article discusses the current state of the economy and the impact of the coronavirus pandemic on businesses.
+Please add additional information to this article. The World Health Organization has warned of a potential second wave of coronavirus cases if countries do not continue to take preventive measures.

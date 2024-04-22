@@ -1,0 +1,100 @@
+prompt
+"Predict the housing prices of the following cities. Buffalo, NY
+Raleigh, NC
+Oakland, CA"
+"Analyze the following statement and identify the logical fallacy. ""If he is elected, taxes will go through the roof! He cannot be trusted."""
+Suggest a method to protect against SQL injection attacks. 
+Analyze the following Tweet and provide an accurate sentiment score. Weather today is really bad :(
+"Generate a plausible story involving a fox, a cat and a brick. "
+Name the five brightest stars in the night sky 
+"using the following text, classify the sentiment from -5 to 5 The food was awful"
+"Given the following items what would be the total cost? Apple=$2.50, Orange=$1.50, Banana=$2.00"
+"Choose the title for the following story. Fred and Mike were old friends, they had grown up together on the same street. Mike had recently gone off to college, but upon his return he found that not everything was the same as he had left it."
+Explain the cause of global warming in one sentence. 
+"Find root mean square (RMS) of the following numbers. 3, 5, 8"
+Suggest a title for a self-help book about overcoming anxiety. 
+"Rewrite this sentence using the same meaning, using different wording. He is eating an apple."
+Compress the following paragraph using fewer words and write it in the form of a sentence. I am feeling tired because I stayed up too late last night.
+Create a list of three adjectives to describe a lion . 
+Rap a story about a movie character. 
+Write a code to print the first 6 digits of Pi. 
+Analyze what kind of effect this painting has. https://upload.wikimedia.org/wikipedia/commons/f/fa/No_ID_by_Charles_Banks_Wilson.jpg
+Insert a transition word at the beginning of this sentence. He found the treasure after searching for a long time.
+Write a story set in a distant future in which humans no longer exist. 
+List at least five traits associated with being an obedient student. 
+Develop a new non-alcoholic drink that is perfect for a hot summer day. 
+"Given a number expression, identify the mathematical operation(s) needed to solve it. 8 x (7 – 4)"
+"Generate a jingle of length 8 lines, with each line 4 syllables, for a new type of soft drink. "
+"Describe the physical appearance of a character, including their clothing and accessories. Gerald, a rebellious teenager"
+"Given a musical clip, describe the musical structure in detail, such as key signature, pace, and dynamics. https://www.youtube.com/watch?v=hFc_T9ic1fU"
+Generate a list of five bloggers who write about educational topics in English language. 
+Write a blog post advocating for teaching students coding skills in school. 
+"Given a research paper, discuss the implications of the findings highlighted. https://www.nature.com/articles/s41598-019-47932-3"
+"Given a piano piece, explain how the dynamics of the piece change throughout. https://www.youtube.com/watch?v=q3rocGGTfmE"
+"Given a political party, name one policy associated with it. Republican"
+In what language was the first printing press invented? 
+"Create a 10 second jingle that has a positive, uplifting tone. "
+Name at least three popular animals in the United States. 
+Generate a 100 word story about a family adventure. 
+"Given a math equation, generate the answer. 10 * 5"
+"Given a list of five items, categorize them. pen, paper, food, book, computer"
+"Compare the cost of the two items and tell which one is more expensive. Apple: $2
+Banana: $1"
+"Given a movie summary, provide a film rating. The movie follows a man who moves to a small town to find peace only to discover the town is filled with secrets."
+"In this task, you need to fix the following sentence by adding punctuation and capitalization. we went to the store after school"
+Describe the experience of eating ice cream. 
+Convert the following measurement into the equivalent in meters. 2.5 feet
+Propose three tips for working from home. 
+Write a story about a time traveller who has just arrived in the future. Time Traveller | Female | Age: 20
+Explain the given myth. Egyptian myth of Osiris
+Tell me about the African savanna elephant. 
+Think of a catchy slogan for a company. Company: Internet Security Service
+List 5 benefits that an AI assistant can offer businesses. 
+Create a quiz question and answer. Topic: World War II
+Describe a scenario in which AI can be used for increasing efficiency. 
+Create a paragraph that corresponds to the given piece of news. IBM and the AI Foundation have joined forces
+Design the output according to the given example. Example Output: I love to eat ice cream
+Provide an example of asymmetric encryption 
+"Given the provided headline, create a catchy subheadline ""The Benefits of Natural Medicine"""
+"Explicate the implications on the environment of the given statement ""Humans use massive amounts of energy"""
+Name a machine learning problem that can be solved using neural networks 
+"From the given sentence, generate a sentence that implies the use of a proverb She thought if he worked hard he'd eventually be successful"
+"Group the given items together. Strawberry, apple, banana"
+Create an appropriate title for a song. 
+"Calculate the average of 3 numbers. 4, 7, 12"
+Rewrite the sentence replacing the incorrect phrase and forming a meaningful sentence. She missing school during the weekdays.
+Summarize a Wikipedia article about the history of bookbinding. https://en.wikipedia.org/wiki/Bookbinding
+Write a blog post about the pros and cons of replacing boring lectures with interactive presentations. 
+List five types of online shopping carts. 
+Describe the smell of an old book. 
+"Classify the given words according to the structure of their respective roots. Flower:
+Music:
+Canoe:"
+Make up an analogy to explain electricity. 
+"Given a fact about artificial intelligence, create an article with a title that provides an accurate summary of the article topic. Fact: AI will be responsible for 47% of job displacement in the next decade."
+Create a recipe for oatmeal raisin cookies. 
+Program a chatbot to answer the following query. What books should I read if I'm interested in learning about machine learning?
+Create a character profile for a main character in the fantasy novel. 
+"Given a business problem, create a to-do list for the steps necessary for a successful solution. Problem: Increase traffic to company website."
+Come up with a unique way to decorate a bedroom. 
+"Rewrite the following sentence: ""Cats love to eat fish."" "
+"Come up with a creative way to say ""happy birthday""! "
+List the top 10 countries by population. 
+"Edit the following sentence so that it is grammatically correct: ""The books in the store was on sale."" "
+"Using the facts given, classify the car as a sedan, hatchback or suv. Passenger capacity: 5 people
+Interior room: cargo come"
+Come up with a short story about a pet turtle. 
+Create a 100-word dialogue between two friends. 
+"Transfer the following sentence from the active to the passive voice: ""I am writing a book."" "
+Generate a list of six philosophical questions. 
+"Write a sentence that starts with the words ""the truth"". "
+Detect the most frequent digit in a given text. The answer is 1041.
+"Fill in the blank using a verb in the past tense. After a long day of work, I _______ home."
+Answer this true-or-false question. Aardvarks are native to South America.
+Create an opening line for a story set in the future. 
+"Generate a code that prints the words Hello, World! "
+"Generate the output given the program code. num1 = 2
+num2 = 4
+print(num1 + num2)"
+Convert this temperature into Fahrenheit 32 Celsius
+Generate an output that prints the squares of the numbers from 1 to 5 

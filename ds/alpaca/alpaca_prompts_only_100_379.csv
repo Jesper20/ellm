@@ -1,0 +1,100 @@
+prompt
+"Rewrite the sentence without using the phrase ""in order to"". I went to the store in order to buy some milk."
+"Convert the following time to UTC, 12:30 pm Pacific time. "
+"Give me two chemical elements that start with the letter ""S"". "
+Name two galaxies other than the Milky Way. 
+Change the verb tense of the sentence to simple past. I am studying at the library.
+Explain why a manager should consider implementing a reward system in their team. 
+Pen a short story (less than 100 words) about a delivery driver who got lost in a large city. 
+Suggest two technical improvements to enhance security for a website. 
+Rewrite the sentence using antonyms for the words in bold. The apples were small and round.
+"Suggest a creative way to use the following objects: toothpaste, a balloon, and a banana. "
+Generate a password with a minimum of 10 characters that contains at least 3 digits and 1 special character. 
+Summarize the article in one sentence (less than 10 words). The article discusses the challenges of using renewable energy sources and the potential solutions.
+Create a growth plan for a company that sells consumer electronics. 
+"Calculate the average of the numbers 24, 39 and 15. "
+Create a headline for an online blog article about a struggling high school student. 
+Find a specific Wikipedia page. The page should be about the life of Joan of Arc.
+Create a passphrase that contains five words with at least 10 characters without repeating any character. 
+"Pick the correct grammatical category for the word ""good"". "
+Write a prologue for a fanfiction about superheroes. 
+Format the given sentence in proper APA style. The research findings indicate that nature-based activities can be beneficial for mental health.
+"Generate an analogy to describe the phrase ""catch a break"". "
+"Categorize the countries for a given economic status. Countries with an annual per capita income between $5,000 and $10,000."
+Find the area of a sphere with radius 7 cm. 
+Create a valid username for a dating website. 
+Sketch a comic strip of five panels about someone buying a new phone. 
+"Analyze the following quote: ""Education is the most powerful weapon which you can use to change the world."" "
+"Arrange the words to form a complete sentence.
+words: book, on, shelf, the "
+"Classify the following statement as positive or negative.
+statement: Life is a duty. "
+Write a story about a person living in the future. 
+Find the most efficient way to store a large set of data in a database. 
+Convert the text below into figures of speech. My laptop works like a charm
+"Given a piece of text, identify the types of figurative language used in the text. Life is like a roller coaster, with its highs and lows"
+"Given a string of text, reverse the order of words in the string Hello World"
+Describe the purpose of sorting algorithms. 
+"Given the below list of strings, remove the duplicates and sort the list in descending order. [“Apple”, “Orange”, “Apple”, “Banana”]"
+Create an argument in favor of homeschooling. 
+Compare and contrast printed newspapers and online news outlets. 
+"Given a sports story, explain the details of how the game was won. The Golden State Warriors beat the Milwaukee Bucks in overtime by a score of 117-113 last night."
+"Rewrite the following sentence so it is more concise and clear:
+
+The research findings indicate that the experimental group did better than the control group on the test. "
+Describe the purpose of social media 
+"Given the definition of a sport, describe the sport in more detail A sport is an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment."
+"Given a political cartoon, explain the message being conveyed. ![Image](https://upload.wikimedia.org/wikipedia/en/8/8a/Political_cartoon.jpg)"
+Write a marketing email to encourage more people to buy a particular product 
+Generate a set of directions for assembling a desk 
+Design a plan to reduce operational costs. Business Information: Small manufacturing company producing automotive parts
+Identify three digital marketing tactics. 
+Create a detailed timeline for a software development project. Project Overview: Developing a mobile app for an online payment system
+Write a script to query a database. Database Information: Database containing user information
+"Calculate the price after discount. Regular price: $100, Discount: 15%"
+Generate a unique travel plan for a weekend trip. 
+Give an example of a person who has achieved greatness in their field. 
+Compare the features of a modern camera with those of a traditional camera. 
+Generate a class schedule for a college student focusing on Biology and Math. 
+Identify the three main characters in J.K. Rowling's Harry Potter series. 
+Compose an haiku about autumn. 
+"Generate adjectives that describe a powerful, wealthy person. "
+Give two characteristics which distinguish a professional from an amateur. 
+Build a dialogue that demonstrates persuasive writing. 
+"Calculate the total cost for the following items.
+Output should be an integer number. - 2 bananas, $1.75 each
+- 4 avocados, $0.50 each"
+Generate a headline for a new article about the following events. Google and Apple are teaming up to release a new app.
+"Write an essay summarizing and explaining the following topics. - The role of social media
+- Impact of fake news"
+Take the following input and create a national parks slogan. National Parks
+Edit the sentence so that the two underlined words are replaced with synonyms. The mighty giant fell to the ground in a swift movement.
+Generate a blog post title which is related to the given topic. Potatoes
+Write a sentence expressing the surprise of seeing a celebrity. 
+Explain why filing an income tax return is mandatory. 
+Identify and describe three important features of a project planning tool. 
+"Rate the given article in the range of 1 to 5 in terms of content, grammar and readability. The article ""The Importance of Planning in Business"""
+Describe why blockchain technology is important. 
+Paraphrase the given sentence into simpler words. He adroitly maneuvered around the roadblock.
+Identify and explain two scientific theories from the given list. Cell theory and heliocentric theory
+Generate a list of five actionable steps to reduce stress. 
+Explain why it is important to form a Research and Development department in a company. 
+"Identify if this is an arithmetic or a geometric sequence. 1, 2, 4, 8, 16..."
+Generate a code snippet to store information in a dictionary data structure. 
+"Choose the correct phrase based on the context. I am going to ____ a new car soon.
+A. bought 
+B. buy"
+Generate an algorithm to calculate letter frequency in a given sentence. 
+"Construct a valid SQL query to update data in a table. Table Name: users
+Column Names: user_id, age"
+Generate a sentence that captures the emotion of being surprised. 
+Identify if the content is factual or opinion based. Gold is the most valuable metal in the world.
+"Construct a mathematical expression that uses the operator ""%"" "
+Select the correctly classified form of the verb “go” 
+"Determine the correct sequence of the words. accidentally, liked, thought, she"
+Output a full sentence that uses this phrase correctly. in the nick of time
+"Generate a sentence which correctly uses the homophone ""fair"" "
+Write a sentence which uses this idiom correctly. Apiece
+"From the given text, identify the noun. The students are working very hard on their project."
+"For the given sentence, rewrite it in a negative form. She nodded her head."
+"Describe how an algorithm can be used to find the closest pair of points. Two points, A(2, 3) and B(8, 5)."

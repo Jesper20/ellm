@@ -1,0 +1,100 @@
+prompt
+"Given a recipe for a product, list the ingredients and the exact level of ingredients required. Recipe: Chocolate Cake"
+"Given two countries, find out one change they have made over time to better the environment. Countries: Germany and Chile"
+Outline the major differences between a mammal and an amphibian. 
+Identify two different ways of using a Drone 
+"Given the company itself, compare and contrast its strengths and weaknesses Company: Apple"
+"Given a scientific term, explain what it means in simple terms. Term: Photosynthesis"
+"Given a list of sports and equipment required, develop a new game or sport. Sports: Football, Basketball, Tennis 
+Equipment: two nets, one ball"
+Write a brief report about the benefits of outsourcing 
+"Given a product, categorize four ways it can improve the user's life Product: Alarm Clock"
+"Given two start-ups, explain their impact on the economy Start-ups: Uber and Airbnb"
+Answer a short-answer question Question: What is the definition of machine learning?
+Separate the text into individual words. ThisIsDistracting
+Rewrite the entry in the correct form of English The student good in math.
+Summarize how technology has impacted education. 
+Create a list of all the countries in Asia 
+How can you make a classroom more interactive? 
+Find and list five cities in Japan. 
+Generate a code snippet to show the current date and time. 
+Explain why a blockchain system is secure. 
+Code a basic 'Hello World' program in Ruby. 
+What is a cloud computing platform? 
+"Find the area of a triangle with three sides of 12,4,7 "
+Generate code to take user input and print it. 
+"Create a dictionary of 5 items, with keys being numbers and values being strings. "
+Code a program to output a given string in upper case String: Hello World
+Generate a code snippet to print all elements of a list. 
+Generate a user interface for an online shopping app. 
+Report the temperature in degree Celsius given an input of the temperature in Fahrenheit. The temperature is 95 degree Fahrenheit.
+"Classify the type of triangle given the length of its sides. The sides of the triangle have length 3, 4, and 5."
+Explain one of the ethical considerations for machine learning models. 
+Come up with a joke about artificial intelligence. 
+Summarize the article ``AI-powered Change Management in the Workplace''. 
+Write a pseudo-code that can detect whether a given sentence is positive or negative. 
+Generate three alternate titles for a story about the power of friendship. 
+Categorize this statement as a positive or negative statement. I'm not convinced that this is the right choice.
+Develop a system that can detect cyberbullying. 
+Write a personal ad for a character searching for a life partner. an adventurous astronomer
+Suggest three ideas for an interesting mobile game. 
+Suggest five ways a business can increase customer satisfaction. 
+Provide three important software engineering principles. 
+Imagine you are stranded in the wilderness. List five items you would completely need for survival. 
+Rewrite an existing text to include vivid descriptions. Alice sat down in front of the computer and started typing
+List ten scientific names of animals. 
+Develop a algorithm for recognizing a conversation partner's native language. 
+Create a program to identify whether a person is speaking English or Spanish. 
+Tell me a poem that is 8 lines long and has a theme of springtime. 
+"Write a short explanation of the given art piece. The painting ""The Potato Eaters"" by Vincent van Gogh."
+"Identify the sequence of words that create the most meaningful pattern. Lovely, Ugly, Hilarious, Deep"
+Describe the sales pitch for this product. A device that lets you control your home appliances from afar.
+"Construct an example sentence using the given adverb and verb. cautiously, drive"
+Compose a short three-line poem about the given topic. The beauty of the night sky
+Summarise the implications of an ageing population on the health-care system 
+Create two additional questions for a customer satisfaction survey 
+Create a recipe for a vegan version of Shepherd's Pie 
+Generate a C++ program to find the minimum and maximum value of a given array 
+Compose a 500 word essay discussing the pros and cons of genetically modified food 
+Name the five stages of team development 
+Write a SQL query Find all products in the database with a price over $100
+Create a program in Python to classify a given dataset 
+"In one sentence, summarize what the paragraph is about. A new study shows that the use of problem-solving strategies can help children learn to better manage challenging emotions."
+Find the best headline for this article. Social media is widely seen as one of the leading drivers of the current political climate.
+"For the following paragraph, create a hypothesis and a prediction. Recent studies have shown that artificial intelligence can be used to reduce the environmental impact of certain industries."
+"Classify this article as one of these three topics: politics, science, sports. A new study by the National Institutes of Health shows that drinking green tea helps reduce the risk of cancer."
+Analyze this statement: “Global warming is the most serious issue of our time.” 
+Select the correct answer from a list What is the second planet from the Sun?
+Name two countries that use the Euro as their currency. 
+Change the sound of the word ‘piano’ 
+Give an example of a browser compatibility issue in web design. 
+List three ways in which technology has transformed the field of education. 
+Describe the importance of water for humans. 
+Identify three trends in digital marketing that are gaining traction. 
+Describe the mission and vision of a company. 
+Compare and contrast the cultures of China and Japan. 
+Create a story about a space explorer using at least 100 words. 
+Generate a headline for an article about a new business opening in a small town. 
+"Analyze the following book excerpt and explain how irony is used. He was only trying to help his family, but instead he caused more harm than good."
+Create a poem (3 verses max) that expresses your feelings about nature. 
+Name two US Presidents that served in the 20th century. 
+"Generate a news headline that communicates the story below. The strong academic performance of students participating in the Science, Technology, Engineering and Mathematics (STEM) program at Loyola Highschool was recently highlighted by local media outlets."
+"Translate the phrase ""les filles mangent"" into English. "
+"Identify the main idea in the paragraph below. Plants produce their own food through the process of photosynthesis, which requires sunlight and carbon dioxide. The process allows the plant to convert the sugars into energy, while also emitting oxygen as a waste product."
+"Write a function to sort an array of integers in ascending order. [3, 7, 2, 1, 6]"
+"Find the missing number in the list: 2, 6, 8, 10, 12, __ "
+Generate a keyword list that suits the content of the article. The article is about understanding the economic growth of India over the last 5 years.
+"Categorize the items according to season. Apple, Pumpkin, Watermelon, Onion"
+"Combining thinking and creativity, come up with at least three different solutions to the following problem. You need to complete a project for work but you have very limited time."
+Generate a list of ideas for activities for a business meeting. No input.
+Write a metaphor to compare a cloud in the sky to something else. 
+Generate a list of 5 activities you could do with a group of kids on a summer day. 
+"Come up with a creative example of using the following idiom ""the best of both worlds"". "
+"Generate a thesis statement that summarizes the following document. Civic education and engagement are two important practices in democracy, though their effectiveness has been disputed by some. Civic education efforts—including social studies in schools, teacher training, and civics-related youth programs and camps—aim to create a society of informed citizens who are skilled in and interested in civic engagement. But success in these efforts has been difficult to measure and there have been some critics who argue these activities have minimal impact."
+Write an algorithm that checks if a given sentence has sentence fragments. 
+Classify the following item as either a tangible item or an intangible item: A promise
+Generate a list of 5 vocabulary words related to art. 
+Compose a call to action to motivate people to help the environment. 
+"Come up with an appropriate title for the following document. WASHINGTON (CNN) -- A wide-open presidential race and a willingness by candidates, interest groups, unions and corporations to buy TV time will lead to historic spending for political and issue-advocacy advertising in the 2008 election cycle, an analysis shows. Former Massachusetts Gov. Mitt Romney has spent the most on TV advertising so far among presidential contenders. The cost to try to influence the 2008 election could exceed $3 billion, according to TNS Media Intelligence/Campaign Media Analysis Group, CNN's consultant on political television advertising. This is nearly twice as much than what was spent in 2004 when political and issue-advocacy television advertising rang in at $1.7 billion. In 2006, $2.3 billion was spent on political and issue-advocacy TV commercials. Just about every candidate running for an office from dogcatcher to president is spending the money, said Evan Tracey, CMAG's chief operating officer. The costs to produce a TV commercial are no longer prohibitive for local and state candidates, who are turning more and more to the airwaves to reach voters. See how spending breaks down for this year » . And interest groups have spent $6.2 million on TV ads so far this year for state and local ballot measures. On the national level, the cost of issue-advocacy television ad spending was $270 million in the first nine months of this year. Subjects ranged from the Iraq war to telecommunications reform. Television ads on health care alone total $60 million. CMAG estimates more than $3 million of the $270 million spent to air issue-advocacy ads this year has gone for commercials in states and districts that are likely to have competitive House and Senate races in 2008. Tracey said he thinks this is just the beginning of interest groups ""pivoting from legislative advocacy mode to political mode."" ""What we expect to see between now and the end of the primaries, and through the general election, is groups will take a more aggressive stance on their advertising and actually target candidates,"" he said. With 17 Democratic and Republican candidates running for president, CMAG predicts that more than $800 million will be spent on TV ads in the battle for the White House. Up to now, the political commercials have been largely focused on the early states of Iowa, New Hampshire and South Carolina. Voters in some of the 20-plus states holding nominating contests on February 5 will start seeing ads in the coming months."
+"Given the following words, come up with a one-word synonym for each word: engaged, evident"
+Describe a funny joke that is clean and appropriate for kids. 

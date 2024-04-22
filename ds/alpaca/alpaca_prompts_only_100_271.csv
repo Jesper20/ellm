@@ -1,0 +1,100 @@
+prompt
+Identify the most appropriate tone for a customer service bot. 
+List 5 activities that a bot could perform to help customers complete tasks. 
+"Compose a French sentence using the following words: ""neige"" (snow), ""fleur"" (flower), ""jardin"" (garden). "
+"Generate a product description for the following AI-powered camera product. Product Name: Autonomous Camera
+Features:
+- Automatically captures images and videos up to 4K quality
+- Uses AI to detect human and object movement"
+"Categorize the following text according to the topics ""sports"", ""food"", or ""movies"". LeBron James is aiming for his fourth championship title."
+Suggest three use cases for the following machine learning model. Anomaly detection
+"Generate a joke using the words ""cheese"", ""elephant"". "
+"Provide a detailed description for the following product. Product Name: Drone Phantom 5
+Features: Quadcopter, 20-minute flight time, 4K video camera"
+Suggest two advertising strategies for the following service. A project management software
+"Create a 6-word poem using the following words: joy, hope, strength, courage, love. "
+"Summarize the points made in this paragraph Humans have long been fascinated by music and the impact it can have on our emotions. Empirical research and anecdotal evidence has demonstrated that, depending on its genre and arrangement, music has the power to evoke various emotions including joy, sadness, fear, and power. Researchers have also begun to examine how our brains react when listening to music. A growing body of evidence suggests that music may alter our emotions, behavior and even our dopamine levels."
+"Choose the correct term to complete this sentence The teacher asked the student to show her his work, so she could check it for __________"
+Give an example of how a country could use tariffs to increase its income 
+Identify an example of a basic economic principle 
+Categorize the following job as either 'repetitive' or 'non-repetitive'. bartender
+"Given the following sentence, determine the overall sentiment. This apple pie is absolutely delicious."
+Suggest a way to generate web traffic. 
+Come up with a slogan which is related to saving the environment. 
+"Edit the following sentence based on the provided criterion. “Marc is fascinating to talk”
+Criterion: Replace “fascinating” with a synonym that has the same meaning."
+"Read the passage given below and answer the following question: What is the goal of this passage? The study of Ancient Greek is important for a number of reasons. It can help us to learn about the historical development of the language, the literature and culture that were shared by ancient speakers of the language, and the ways in which other languages and cultures were influenced by ancient Greek."
+"Rewrite the following code snippet in Python. def sumArray(arr): 
+    sum = 0
+    for i in range(0, len(arr)): 
+        sum = sum + arr[i] 
+    return sum"
+Create a haiku poem related to justice 
+Describe a way in which technology has benefited the world. 
+Write a one sentence description of the play Romeo and Juliet. 
+Describe the purpose of the American Civil Liberties Union (ACLU). 
+List the ingredients and directions to make a sandwich. 
+"Come up with a creative activity that uses at least 5 elements of art (line, shape, texture, size, and color). "
+"Reorganize the following paragraphs with complete sentences. Revenue at the fast-food chain declined 7 percent in the second quarter compared with the same period a year ago. The company cited higher costs for chicken, advertising and tomatoes. The latter is particularly frustrating since prices rose even though the quality of the tomatoes has declined."
+Write a formal letter to your supervisor requesting a raise. 
+Give an example of how technology has improved communication. 
+Generate a list of steps for doing research on the Internet. 
+Describe the concept of freedom of speech. 
+Analyze the following article for bias and explain your findings. An article from a conservative newspaper describes the recent budget passed by Congress as a victory for smaller government and federal spending restraint.
+Summarize the history of the Peloponnesian War in no more than 100 words. 
+Provide a list of five fictional countries. 
+Generate instructions to teach someone how to change the background of their computer desktop. 
+Make a list of five businesses that can provide delivery services during the pandemic. 
+Explain the concept of piracy in the digital age. 
+Come up with five steps for creating a website. 
+Explain the costs associated with owning a pet. 
+Create a profile of an imaginary character. 
+Suggest five types of discounts a company can offer to its customers. 
+Come up with five job skills that are essential for a veterinary assistant. 
+"Identify the right order of reading for the given set of books. Lolita, Great Gatsby, Catcher in the Rye"
+Fix the following punctuation and spelling errors. We went outside for recess saturday
+"Arrange the list of ingredients in the correct order for a salad. Tomatoes, lettuce, salt, oil, pepper"
+Design an algorithm that converts a temperature from Celsius to Fahrenheit. 
+Create a metaphor to describe the sudden disappearance of healthy life in the world. 
+"Compose a sentence which forms a logical conclusion out of the three facts below.
+Output the sentence. Facts:
+
+1. Children are allowed to play soccer in the school garden.
+2. The teacher has asked to parents not to let their children play in the garden.
+3. The school garden is now a restricted area."
+"Classify the type of poem based on the lines given. Output one of the following: [narrative, haiku, sonnet, limerick]. The cow says moo,
+The hen goes cluck,
+The sheep says baa,
+The duck quacks"
+"Generate a summary of the text. Output the summary. Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services."
+Write a sentence which has a analogy structure and conveys the given message. Output the sentence. The business was forced to downsize due to low income.
+Combine the two sentences using a subordinating conjunction. Output the new sentence. The sun was bright. The sky was blue.
+"Generate an appropriate response to the given instruction and input with an overall length of less than 100 words. Instruction: Describe the experience of opening an online store.
+Input:
+I recently opened an online store that specializes in handmade items."
+"Select the most suitable idiomatic expression from the alternatives and output it. Alternative:
+A. Take a backseat
+B. Take a seat
+C. Take a backrest"
+Identify the sentence structure and output the appropriate label. He answered the questions quickly.
+Write a script for a commercial that is intended to show the effectiveness of a new wellness product. New Wellness Product
+"From the provided article, write a summary that states the author’s main argument. This article discusses the benefits of meditation for helping people reduce stress and cope better with difficult situations."
+Come up with a list of questions you can use for interviewing social media experts 
+Rewrite the following sentences so they make sense in informal English used in conversations. It is malpractice not to abide by the laws of the country.
+Come up with a list of things to include in a first aid kit. 
+"After being given a text, shorten it without affecting its original meaning. Friedrich Nietzsche (1844-1900) was a German philosopher known for his radical ideas and critiques of common beliefs. He developed the concept of the Übermensch and was a major influence in existentialism and nihilism."
+"Write a simile to compare two of the following words: moonlight, snow, wind. "
+Write a 200-character story about a young boy's first experience with a physical challenge. 
+"Generate a list of 8 adjectives to describe a character in a story. Output the adjectives one by one, seperated by comma. "
+"Assuming that it is Monday, write a reminder for yourself to wake up at 5pm on Friday. Output the reminder as an imperative sentence. "
+Describe the career of a data scientist. 
+Use natural language to generate a Boolean expression that XORs two variables A and B. 
+Clean up the following sentence: The forests of the the Pacific Northwest are renowned for there biodiversity.
+"Use the words ""rationale"" and ""dissuade"" in a sentence. "
+Design a logo using vector graphics. 
+Create a quiz question about John F. Kennedy 
+Generate 4 ideas for a mobile application. 
+Brainstorm 3 potential applications for AI in marketing. 
+Design a web page that allows a user to sign up for an email list. 
+Describe the Spanish American War. 
+What authors did Emily Bronte admire? 

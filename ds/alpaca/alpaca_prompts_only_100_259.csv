@@ -1,0 +1,100 @@
+prompt
+Generate a report summarizing the key statistics from the given dataset. https://data.worldbank.org/indicator/SP.POP.TOTL
+Analyze the given financial report and identify any potential problems or risks. The company's total income has declined by 15% in the past quarter
+Predict the next best word given a sentence. Everybody loves the
+"Given a list of nouns, generate a logical 5-word phrase that starts with an adjective. Nouns: cat, computer, window"
+"Given a phrase and a seed word, generate a new phrase using the seed word. Phrase: 'amount of money'
+Seed Word: invest"
+"Given a sentence, edit the sentence to make it more expressive and engaging. The dress was made of silk."
+"Given a satirical news article, write a 1 sentence summary of the article. Article: A new study finds that eating pop tarts can help children score higher grades in school"
+"Given a sample conversation, continue the conversation. A: Hey, what's up?
+B:"
+"Given two words, come up with a compound word that joins the two words together. Words:Life and Scientist"
+"Given a sentence, parse it and generate a summary. Sentence: The seemingly simple task of boiling eggs can be surprisingly challenging."
+Design a conversation tree that leads to an actionable item by the end. A conversation tree that leads to planning a trip
+"Categorize the given list of fruits as either berries or citrus fruits. Bananas, strawberries, oranges, limes"
+Imagine you are visiting a foreign country. Describe what type of vacation activity you would like to do. 
+Generate a list of musical instruments. 
+Suppose you are given a topic and you have to brainstorm one or more article titles related to the topic. Topic: benefits of yoga
+Imagine you are organizing a birthday party for a friend. Create a checklist of items to bring. 
+Re-write the given sentence using figures of speech. I am feeling so alive.
+Create an outfit for a job interview. 
+Brainstorm a list of tips for taking great photos. 
+"Given a product, describe its features and benefits. Product: Headphones"
+Generate a persuasive essay arguing for a particular point of view. Topic: Benefits of Online Education
+Suggest a new activity or hobby that a person could try out. 
+Please provide an example of a time when you have seen a demonstration of kindness. 
+Create a haiku that describes the feeling of freedom. 
+What is one way to measure the success of a business? 
+Transform this sentence into a question: I like to bike to the beach. 
+"Create a situation where a person might use the phrase ""don't count your chickens before they hatch"" "
+Express the following idea in different format. Rose is red and Violet is blue.
+"Restructure the poem by adding rhyme and meter. I have a dream
+I want to succeed
+I won't stop till I'm fulfilled"
+"Generate a series of meaningful sentences using the given phrase. ""making my way downtown"""
+Select the most accurate meaning for the given word. Adroit
+Infer a conclusion from the given facts. John had 7 apples and he gave 5 away.
+Rewrite the sentence using a different type of sentence structure. I had to work late last night.
+"Write a narrative speech to promote a product. Sirius XM Satellite Radio is a service that broadcasts over 130 news, entertainment, talk, sports channels. It is also commercial-free, offering entertainment and content without interruption."
+Generate a creative datapoint tagline in 4 words or less. Pain management
+Generate an effective opening sentence to an essay about the importance of conserving the environment. No input
+Compose a tweet that encourages people to reduce their energy consumption. No input
+Write a lyrics of a song that talks about the importance of sustainable living. No input
+"Generate a sales pitch for a product using the following facts. - Product: Smart water meter
+- Uses: Save water and money"
+Describe the average temperature of Hungary. 
+Develop scoring criteria for assessing a student's project. 
+"Categorize the following words into animals and plants. Cat, Banana, Potato, Snake"
+Turn the following text into active voice. The decision was made by the president.
+Find out the nearest star from the Earth. 
+Calculate the sum of the series 1 + 4 + 7 + 10 + ... + 91 
+Generate a summer bucket list. 
+Change the verb to plural in the following sentence. The cat jumps on the bed.
+Construct a timeline of the Renaissance period. 
+Create a sentence with a relative clause 
+"In a given sentence, underline the subject once and the verb twice. They went to the store."
+Generate 5 writing prompts. 
+Write a summary of 50-100 words about the novel Frankenstein. 
+"Given 4 words ""apartment"", ""building"", ""store"", ""clean"", rank them according to the most important to the least important "
+"Given the sentence ""I ran as fast as I could"", output the verb of the sentence. "
+List 5 favorite books. 
+What do scientists mean when they say that something is abstract? 
+"Given a sentence, list all the adjectives, ""The beautiful girl at the party smiled."" "
+Name 5 search algorithms 
+Give the temperature in Celsius when the temperature in Fahrenheit is 32. 
+"Using the input integer and string below, replace every even index of the string with the integer. integer=4, string=""Weird"""
+Write a Chinese proverb about freedom. 
+"Convert the RGB color (255,153,0) to a hex color code. "
+"From the list below, find all unique integers. [3.14, 6, 2, 8, 9, 8, 2]"
+Create a function that takes two parameters and returns its addition. 
+"According to the input sentence, create a list of words. ""The cat is black and white"""
+Generate a 5-digit random password. 
+"Given a shape as input, return its area. Shape: Triangle
+Base: 3
+Height: 4"
+Describe the atmosphere at a summer evening barbecue 
+Design a device that can process requests from natural language 
+Design an AI-based system to detect suspicious activity in an office building 
+Identify the problem with this sentence Sam and Sarah went school together.
+Design an AI-based system to predict customer satisfaction 
+Design a mobile app that helps people shop more responsibly 
+Compute the value of 7/8 + (1/4 x 9) 
+"Define the term ""syntactic structure"". "
+Suggest a new channel for YouTube. 
+"Categorize the following foods into proteins and carbohydrates. Chicken, Rice"
+Translate this text into Spanish. We are excited to work with you on this project.
+List the director's credits for this movie. The Godfather
+Rewrite this text in third person perspective. I can't believe how much I have accomplished in such a short amount of time.
+"Align the following two passages. Passage 1:
+Air travel is the process of travelling by aircraft, either of commercial airlines, charter planes, or private planes.
+
+Passage 2:
+Flying is the transportation of people or goods by air."
+"Inevitably, some items are out of stock due to various circumstances. Rewrite the sentence to make it more convincing. Unfortunately, some products are unavailable because of various situations."
+"Given a text about a famous figure, output the text with a captivating title. John Wanashe is the captain of the Costa Rica national football team. He is the most capped player in the history of Costa Rica, having represented his country an astonishing 157 times."
+Translate the phrase into an appropriate idiom. Write it down before you forget
+"Given a list of three words, create a sentence to discover the hidden word. Suit, Tie, Wedding"
+"Given a list of interesting facts, provide a creative title. Facts:
+- Elon Musk was the first to propose colonizing Mars.
+- The world's first university was established in Fez, Morocco in 859 AD.

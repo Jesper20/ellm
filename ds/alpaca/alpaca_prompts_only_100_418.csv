@@ -1,0 +1,100 @@
+prompt
+Myself, John and Joe and Andy went to the store "
+"Create an if-then statement based on the provided conditions:
+
+IF the temperature is below freezing, THEN put on a coat "
+"Classify the following sentence according to its sentiment:
+
+I had a terrible experience at the restaurant "
+"Rewrite the following sentence according to the provided tone:
+
+The restaurant had a bad rating Tone: Optimistic"
+"Calculate the median of the following set of numbers:
+
+4, 15, 22, 32, 43, 54 "
+"Given a given text, identify the part of speech of the underlined word:
+
+He studies hard every day. hard"
+"Create a summary of the following passage:
+
+London is the capital city of England and the United Kingdom. It is a leading global city with strengths in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism, and transport all contributing to its prominence. It is one of the most populous cities in the world, with an estimated population of 8.9 million in 2019. "
+"Given the code snippet, identify and fix any syntax error:
+
+def findSum(a, b):
+    return a+b "
+"Find the observed frequency of the letter ""s"" in the sentence
+
+The cat ran up the stairs "
+Calculate the surface area of a cylinder with the radius of 4.3 centimeters and a height of 9.2 centimeters 
+"What is the use of ""continue"" statement in Python? "
+Describe the weather outside. 
+Which country is the biggest producer of oil in the world? 
+Calculate the area of a rectangle which has a width of 4m and a length of 6m. 
+Find out who the president of the United States is. 
+"Construct a sentence that uses the words clutch, intricate and trifling. "
+How can you use a magnifying glass? 
+"Translate ""What's your name?"" into French. "
+Write an essay on why outdoor activities are beneficial. 
+"Arrange the following ingredients to make an omelette. Eggs, soy sauce, green pepper"
+Give advice to someone going through a difficult time. 
+Make a list of techniques for managing stress. 
+Write an argumentative essay about why artificial intelligence should be regulated. 
+Write an example of a positive story you can tell in an interview. No input
+Create two different webpages about motorcycles. No input
+Describe the different stages of the waterfall model. No input
+Generate a recipe to make a simple omelet. No input
+"Given a string and a search term, find the index of the first occurrence of the search term in the string. String: hello world
+Search term: wor"
+Generate a story that describes the adventure of a man and his pet dog. No input
+Describe how deep learning can be used in medical diagnosis. No input
+Write an example of a short creative story with a twist. No input
+"Sort the following list of elements by a given criterion. apple, banana, mango, grapefruit
+Criterion: Alphabetical order"
+Calculate the given mathematical expression. 2 + 3x - 5
+"Recognize the given emotion. Rising voice tone, clenched fists"
+"Craft a sentence around the given words that conveys the given emotion. Words: sullen, betrayal
+Emotion: Anger"
+"Create a specific scenario where you would use the word ""ubiquitous"". "
+Generate a list of 3 things that a doctor should do when diagnosing a patient 
+"Find the 3rd term in this sequence:  2, 5, 8, 11 "
+"Given a positive integer, evaluate the sum of its digits. 58"
+"Paraphrase the following sentence without changing its meaning:
+
+The lecture went on until the professor was satisfied. "
+Replace the underlined words with equivalents that have a negative connotation She had an incredible performance.
+Generate a list of questions a doctor should ask a patient to assess their general well-being 
+"Grade the following essay out of 100 The purpose of this essay is to explore the impact of technology on society. Technologies such as the internet, artificial Intelligence etc. are changing the way we live, work, and interact with one another. They are making life easier and creating new jobs, but they are also creating new risks and challenges."
+What color is an orange? 
+Create a popular hashtag slogan related to the theme of saving energy. 
+What are some social and environmental implications of fossil fuels burning? 
+Format the text by changing the font size and style. This text should have a new style.
+What is a factor of 20? 
+Tell me what is the purpose of the given product. A smartphone
+"Categorize the given news story as politics, science, entertainment, or business. The new Apple watch will be released this fall."
+Name three aspects of customer service. 
+Generate a set of instructions to assemble the given object. Lego set
+Offer three suggestions to improve customer service. 
+"Given a sentence, what is the word that carries the most emotion? The boy was filled with anger when he was scolded by his father."
+"Given a sentence, what action verb is used in it? The factory workers protested against their employer."
+Rewrite the sentence using imperative mood. Please pick up the book from the shelf.
+Output appropriate response to the following instruction using a GPT model. Write down three characteristics of a successful entrepreneur.
+Modify the sentence to use the third person pronoun. I am going to the store.
+Convert the measurements into tablespoons. 3 teaspoons
+Tell the antagonist in the story. 
+List three countries with the highest disposable income. 
+Generate a set of instructions for a task requiring the assistant to compile a list of all known facts about a given issue. 
+Does the following statement contain the appropriate use of grammar? We need to speak louder so everyone can hear us.
+Find the age of Cynthia's daughter if the difference between their ages is 3 years. Cynthia is 38 years old.
+Generate a list of 5 steps to start a YouTube channel. 
+Explain why the death penalty should be abolished. 
+Name a successful politician. 
+Write a family code of ethics. 
+Produce a list of 5 strategies to conserve water. 
+Create a list of 5 best practices for teaching remotely. 
+"Find the amount of tax that the person should pay given their gross income. Gross income = $45,000"
+"Classify the given article as either politics, sports, or science. Humans have discovered evidence of liquid water on Mars."
+"Rewrite the sentence in reported speech. He said, ""I want to go for a walk."""
+Come up with a short story revolving around the given theme. The theme is 'love in adversity'.
+Suggest a recipe for a classic Italian dish. 
+Classify a fish as either an anadromous or a catadromous species. Sockeye Salmon
+Generate a captivating story of a student attending a prestigious school and grappling with personal moral issues. 

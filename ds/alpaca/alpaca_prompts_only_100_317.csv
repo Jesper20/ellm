@@ -1,0 +1,100 @@
+prompt
+The app was downloaded by more than 1 million users. "
+"Convert this code to Java def power_of_two(x):
+    if x > 0:
+        return x * power_of_two(x-1)
+    else:
+        return 1"
+Can you design a logo for a fashion brand? 
+Generate a list of activities for a day out with family. 
+What is the area of a rectangular room if its two sides are 10 meters and 7 meters? 
+Describe the most used transportation device in Egypt 
+"Given a list of movie genres, assign each genre a similarly themed but different genre. Comedy, Action, Thriller, Romance"
+Identify three benefits of working from home. 
+Generate three questions to ask a new interviewer. 
+Edit the following sentence: He attending the party. 
+"Classify the following items as a vegetable or a fruit: Apple, Broccoli "
+Compare and contrast dolphins and whales. 
+What is the purpose of multi-label classification? 
+Generate a metaphor to describe someone as courageous. 
+Explain polarity in sentiment analysis. 
+Describe the background of the author of a book Name of Author: H.G. Wells
+What is the name of the company that develops the nVidia GeForce? 
+Compose a tweet which summarises the content of the article. https://www.bbc.co.uk/news/business-56148105
+"Classify the following statement as an opinion, fact or folklore. ""An apple a day keeps the doctor away."""
+Categorize the type of work done by _________ Donald Trump
+Help me make a plan for when I'm running late 
+"Match each item to one of the four seasons. Snow, Camping, Beach, Grapes"
+Give me a list of songs that are popular right now. 
+Envision a place in nature that would make a good vacation spot 
+Name three types of conversations used by artificial intelligence systems 
+What are some ways to improve cybersecurity for businesses? 
+Name three of the most popular programming languages. 
+Generate 3 alternative phrases that have the same meaning as the following Practice makes perfect.
+Write a passage to persuade a reader to recycle 
+Identify a way in which technology has changed society. 
+Generate a hypothesis for why different cooking times are needed for foods of varying texture. 
+Brainstorm a list of 5 items that could be used to create a robot. 
+"Assess the validity of the following statement: ""Computers are more efficient than humans for data entry tasks."" "
+Compare and contrast the artistic styles of impressionism and expressionism. 
+"Define the term ""data literacy"" and explain why it is important. "
+Compare the uses of Machine Learning and Deep Learning. 
+"Find the longest common subsequence between two given strings. String 1: ABCDEF
+String 2: AEBCDG"
+Explain why a person should use a credit card responsibly. 
+Describe how to make a simple cake. 
+Assassess the validity of the given statement. Humans have the largest brains amongst all living organisms.
+Create a plan for composting food scraps. 
+Construct a regular expression pattern to match all URLs. 
+What kind of impact has social media had on the way people communicate? 
+"Generate 5 different alternative summaries for the given text. Biomass is organic material that comes from living or recently living organisms. It can be derived from both land-based and aquatic biomass. Common sources of biomass are plants and their byproducts, energy crops, waste from agriculture and forestry, and byproducts from food processing sectors. Biomass can be used for energy in the form of solid, liquid, or gaseous fuels. It can also be used to produce bioplastics, biochemicals, and biofuels. Biomass is an important source of renewable energy and a major contributor to the fight against climate change."
+Describe the benefits that artificial intelligence brings to the healthcare industry. 
+What are the benefits of using blockchain technology in the finance industry? 
+Compare two companies and their products. Apple and Samsung
+Rewrite this sentence using different words and a synonym. She worked tirelessly on the project.
+"Find a movie/TV show that fits the following criteria: released before 1990, set in a small town, and has a happy ending. "
+Suggest a book title for a fantasy novel about a group of outlaws travelling around a magical world. 
+Create a cool science project for a 5th grade student. 
+"Given the lyrics, arrange them in the correct order. Lyrics:
+It's like I'm the only one here 
+But I'm screaming alone
+But I'm screaming alone
+It's like I'm the only one here"
+"Given the following poem, replace the words in bold with ones that make the poem more meaningful. Lonely days, 
+Lonely nights, 
+The stars and the sun, 
+Shine brightly as it was my right."
+Explain the following metaphor: “Life is a marathon”. 
+"Given the following instructions, decide which one is ethical. A robot is programmed to obey orders from its human masters."
+"Given the following data about a person's income, rank the countries in terms of wealth. India: 3000
+China: 2500
+US: 8000
+Japan: 4000"
+"Given the following words, determine the most appropriate definition. Occipital"
+"Explain the meaning of the following idiom: ""Bite off more than you can chew"". "
+Find the value of y given x=-1: y=-2x+3. 
+Write a funny anecdote about baking a cake. 
+Summarize the main reasons why small businesses need a website. 
+Generate a list of current trends in interior design. 
+Construct an argument that outlines the benefits of working from home. 
+Describe how a budget can help you achieve your financial goals. 
+Explain why writing clear user instructions is important. 
+Identify three potential global issues that need urgent solving. 
+Create a timeline that demonstrates the history of artificial intelligence. 
+Make a list of three ways to reduce water usage. 
+What would be a good gift for a five year old? 
+What are the countries that make up the G7? 
+Write an argument in favor of gun control laws. 
+"Identify the correctly capitalized sentences below. A- The sky is blue
+B- The sky is Blue"
+Come up with a creative slogan for an environmental NGO. 
+Name two methods of preventing cyber attacks. 
+"Classify the populations in the table below. Country 	Population
+Japan 	126.3 million
+China 	1.4 billion"
+"Rewrite the text to be concise and concise yet informative. Since the invention of the wheel, many things have changed and improved in transportation technology. Automobiles, planes, trains, and even boats have been significantly improved over the past centuries, making it possible for us to easily and effectively travel from one place to another."
+Formulate a comparison between two sports. Sports: Soccer and Basketball
+Summarize this article about the COVID-19 virus: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html
+"Create an example of dialogue in a story. Characters: Jack and Sarah
+Setting: Cafeteria"
+Estimate how long it will take to complete the task. Task: Building a website from scratch

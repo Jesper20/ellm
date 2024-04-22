@@ -1,0 +1,100 @@
+prompt
+Create a 5-step process to write a blog post. 
+"Classify the following words as either mammals or birds pigeon, tiger"
+Name five web browsers 
+Provide an example of a use case for Machine Learning 
+Edit the following sentence (highlight changes in bold) We use computers for gaming and entertainment
+Describe the sound a dog might make 
+What is the most important rule of etiquette when dining at a restaurant? 
+How many ounces are in two liters? 
+"Which element will become the results after the following mutation operation is applied? [1, 2, [3, 4], 5, 6] -> [1, 2, 3, 5, 6]"
+"Describe the overall purpose of the code snippet. def quick_sort(arr): 
+    if len(arr) <= 1: 
+        return arr 
+    else: 
+        return quick_sort([x for x in arr[1:] if x < arr[0]]) + [arr[0]] + quick_sort([x for x in arr[1:] if x >= arr[0]])"
+"Rewrite a sentence by replacing the words denoted in brackets with appropriate words. ""The [bus] conducted [many] trips throughout the day."""
+Analyse the sentence for errors in grammar and provide the corrected version of it. Proposals were made by the school committee for encourage more engagement in the classroom.
+"Identify what is wrong with the given list and provide the correct order. 3, 4, 1, 6, 8"
+"In the given example, generate a new, syntactically correct sentence. I went to the store, and bought some orange."
+Append the next sentence to the given sentence in a grammatically correct manner. I was so tired that
+Convert the given sentence into its passive form. Sam caught the fish.
+Merge the two sentences given such that the resultant sentence is grammatically correct. She is sitting. She is reading a book.
+"In the given sentence, identify the independent clause and the dependent clause. Although it was raining, she decided to go out."
+"Choose the best choice of words among the given options that fill the blank in a grammatically correct manner. The patient _______ taken to the intensive care unit.
+Options: was, were"
+"Classify whether the following sentence contains an example of assonance, consonance or alliteration. She sells seashells by the seashore."
+Give a plausible explanation for the following statement The movie was an instant classic
+What is the probability that a flip of a coin lands heads up? 
+Reword this statement to reflect a positive sentiment I sincerely believe that this project cannot be completed in time
+Generate a sentence defining the term natural selection 
+Give an example of a common bathroom cleaning product 
+Identify three characteristics of human skin 
+"Construct a sentence using the words blue, apple, and school "
+What’s the difference between an oak tree and a maple tree? 
+"Write a classification algorithm to detect spam emails. This is an email example:
+
+Subject: Promotional offer
+
+Dear Customer,
+
+We have a special offer in store for you! Get 50% off when you shop today. 
+
+Click the link below to find out more."
+Design a chatbot to help customers order food. No input
+"Generate an email to a friend, asking them to join you in taking an online course. Course Name: Introduction to Machine Learning"
+"Assume you are a web designer, create an HTML layout using CSS classes. No input"
+Describe the natural language processing tasks you can do with GPT-3. No input
+"Based on the given category, recommend three books. Category: Science Fiction"
+"Given a number, generate a poem with the same number of syllables in each line. Number: 8"
+Create a blog post that explains public-key cryptography. No input
+Create a chart to describe the process of converting a sentence to a vector. No input
+Improve the given sentence in terms of grammar. She doesn't like them apples.
+Generate a list of the 10 most valuable companies worldwide. No input
+Write a structured query in SQL to get all orders created in the last week. No input
+"Rearrange the sentence to convey the following meaning: ""I'm not a fan of homework."" Homework fan I'm not a of."
+What makes a great leader? 
+"Compare and contrast these two values: 8 and 12 8, 12"
+Rewrite the sentence to use the same vocabulary: I'm not pleased with the decision. The decision displeases me.
+Tell me a short story about a race between a rabbit and a fox. 
+Provide three examples of popular streaming services. 
+Create a list of five ingredients for a broccoli soup. 
+Rewrite the sentence in active voice: The study was written by Dr. Susan Smith. 
+List three negative effects of air pollution. 
+Change this sentence to make it more concise: She was always an obedient girl and was never late. 
+"Describe a character named ""John"" in 3 sentences. "
+"Shorten the sentence without changing the meaning: Even though Jennifer studied a lot, she performed very poorly on the test. "
+"Categorize these four items as either a mammal, bird, reptile or fish: elephant, dolphin, snake, parrot Elephant, dolphin, snake, parrot"
+"Provide a translation of this sentence: ""El tren llegó a la estación."" "
+Create an outline for a blog post on mental health. 
+Generate a song lyric related to nature. 
+Name at least 3 benefits of using public transportation. 
+Write a story that centers around a snowboarding competition. 
+Write a letter to a friend about a bad experience you had. 
+Rewrite this sentence to use adjectives and adverbs. The man ran quickly.
+Generate a simile related to a flower. 
+Explain the difference between a public and a private IP address. 
+List 3 common elements of a strong password. 
+"Define the term ""assembly language"". "
+Describe the design principles of a relational database. 
+List 3 reasons why data visualization is important. 
+What is Dependency Parsing? 
+"Create a regular expression to match strings containing the word ""hello"" and ending in ""abc"". "
+Describe the steps to take when debugging a program. 
+Rate the following restaurant on a scale from 1 to 10 where 10 is the highest. The Bistro
+Generate a random five-digit integer. 
+Compute the sum of the prime numbers from 2 to 19. 
+Name 3 items that cannot be recycled. 
+"Alphabetize the following countries South Africa, Nigeria, Zimbabwe"
+Take the following sentence and rephrase it in a formal way This project has gone off the rails
+"Write a C++ code to calculate the sum of the following numbers 2, 4, 6"
+Replace all the numeric values in the text to its corresponding word form. My phone number is 888-123-4567 and I made a payment of $1000.
+Generate a poem using the text as starting material. The stars were twinkling in the night sky.
+insert a comma after the modifier. A bright yellow parrot flew past the window.
+Discuss one key difference between abstraction and encapsulation. 
+Design Pseudocode for a program that takes in 2 numbers from the user and prints their sum. 
+Change the word 'annoying' to 'irritating'. The sound of the alarm was really annoying.
+Recommend an appropriate follow-up action. We've received a customer complaint about a delivery delay.
+Generate a code snippet that will print out a welcome message. 
+"Analyze the following text and provide 3 major takeaways. Organizational efficiency can help save time, money, and resources."
+Generate a creative anacrostic poem for the word 'autumn' 

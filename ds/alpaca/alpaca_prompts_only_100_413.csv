@@ -1,0 +1,100 @@
+prompt
+"Summarize the following article:
+
+https://www.nationalgeographic.com/travel/destinations/north-america/united-states/tennessee/great-smoky-mountains-national-park/ "
+Identify the personification used in the sentence: Winter's icy breath curled the trees. 
+Explain how to bake an apple pie. 
+"Parse the following sentence to identify the subject, verb, and object: The cat chased the mouse. "
+List at least three of the top-rated airports in the US. 
+Convert 3/2 to a decimal. 
+Name a retail store that is owned by Walmart. 
+"Write a sentence using the words magnetism, gravitation, and stars. "
+Change this sentence from past tense to future tense. He walked away from the conversation.
+List two properties of a mineral. 
+Find the temperature of Boiling Point of Water in degrees Celsius 
+Name two other types of renewable energy besides solar. 
+What is the concept of the eutrophication of a lake? 
+Summarize complex carbohydrates in one sentence. 
+Generate an encouraging message for a student who has failed a test. 
+"Given some user data, predict whether or not the user will purchase a product. Output true if the user will make a purchase, output false if otherwise. User A is 35 years old, single, college graduate, earning the median salary for their job, with no prior purchases."
+"Given a sentence, fill in the blank with the most suitable noun from a selected list of nouns. The teacher was teaching the students ________ 
+Nouns: mathematics, history, chemistry"
+Output a story involving a character who travels through time. 
+"Given a sentence, add a suitable adjective from a given list. They served the meal 
+ Adjectives: steaming, spicy, sweet"
+Generate a list of creative ideas to use recycling materials. 
+"Given a string of text, identify the sentiment of the text. Output 'positive', 'negative' or 'neutral' I feel so frustrated right now"
+Generate an employee feedback based on performance. 
+"Given some context and a list of words, identify and generate an acrostic poem. Context: Education
+Words: reading, researching, writing"
+"Given a sentence and a list of adverbs, modify the sentence using the adverbs. He walked slowly
+Adverbs: reluctantly, hesitantly"
+"Given a sentence, modify it such that it becomes a rhetorical question. She ate the entire cake"
+"Given a number, generate a sequence of prime numbers up to that number. 10"
+Generate a musical piece with a duration of 5 minutes and a key of C Major. 
+"Using basic HTML code, create a table with three columns and four rows. "
+Construct a linear equation in one variable. 
+"Write a short story of maximum 100 words including the keyword ""treasure"". "
+Connect the given words with correct relationship. Answer: question
+"Calculate the surface area of a cuboid with length 8 cm, width 4 cm and height 9 cm. "
+"Given two sentences, combine them into one without changing the meaning. This year was difficult. But I'm still hopeful."
+"Based on the presentation, summarize the main points. "
+"In the following sentence, identify and explain the three figures of speech. He was as smart as a whip."
+What year did Microsoft release the Windows XP operating system? 
+Make a checklist of the items needed for the upcoming camping trip. 
+"Please generate a paragraph on the topic of ""Data Science"". "
+Can you list 5 benefits of eating healthy? 
+Use the input to describe a historic event. The Battle of Verdun
+Tell me something you think everyone should know about climate change. 
+Describe a successful digital marketing strategy. 
+Design a new product for a niche audience City commuters
+Explain why communication is vital to strong relationships. 
+State three ways in which technology can be used to improve the education system. 
+How can machines be used to reduce carbon emissions? 
+Narrate your experience spending a day at the beach. 
+Please make a list of 10 technologies that have transformed the communication industry. 
+Describe three advantages and three disadvantages of using a laptop computer. 
+State three tips for staying organized. 
+List three reasons for using encryption technology for data storage. 
+Create a sample output to the following task: Analyze the impact of climate change on water resources in the USA. 
+Come up with three advantages of having a pet 
+List the advantages and disadvantages of solar energy. 
+Edit this sentence so that the verb tense is consistent. He are eating a large slice of pizza.
+Generate a sentence with two adjectives. 
+What is the third person singular conjugation of the verb to eat? 
+How does the Patriot act affect civil liberties? 
+Describe the primary source of energy for plants. 
+Create a valid regular expression. 
+Which figure of speech is used here? She was as fit as a fiddle.
+"Given this paragraph, select a key sentence that captures the central theme of the text. It is no secret that the current COVID-19 pandemic has created a whirlwind of challenges and disrupted the normality of day-to-day life. As such, many businesses have had to make significant changes to their operations to stay afloat and adjust to the “new normal”. Those businesses unable or unprepared to make quick changes are seeing their revenue and customer base erode."
+"Given this passage, edit it to be more concise and informative. The Amazon rainforest is one of the most biodiverse areas in the world. It includes over 16,000 species of trees, tens of thousands of species of plants, and millions of species of animals. The Amazon is located in South America, covering an area of more than twelve billion acres. It's an important source of natural resources, providing many local communities with sustenance, medicine, and their livelihoods."
+"Find the total price of a purchase, given the number of items and item price. Number of items: 5
+Item Price: $ 10"
+Create a sentence detailing the effects of global climate change. 
+"Given this text, tell its main purpose. There is a great deal of debate around climate change, with scientists in both sides of the equation trying to back up their statements with evidence."
+"Given this query, find the answer from the following passage. Output the answer. Query: What does Istanbul the city of business?
+Passage: It’s no wonder that Istanbul is often mistaken as the capital city of Turkey. It is the largest city, and the city’s total area keeps expanding due to the population increase. It’s the city of business. It’s also the historic center of different empires, and it’s the only city in the world on two continents: Europe and Asia."
+Compare and contrast the US Constitution and the Declaration of Independence. 
+Explain why it is important to reduce your carbon footprint. 
+Rewrite the text to avoid any gender bias. The police officer entered the bank and the robbers immediately surrendered.
+Train a GPT model to generate book titles with a consistent theme of “magical animals”. 
+To what extent is gentrification beneficial to a city? 
+Give an example of an AI-related ethical dilemma 
+"Suggest places to visit near Rome, Italy. "
+Please explain the difference between innovation and invention. 
+Suggest three strategies to boost morale in the workplace. 
+List three symptoms of a broken air conditioner. 
+Compose a short story about a family traveling across the country. 
+Design a mathematical model to predict house prices. 
+Generate a folktale about a fox and a crow. 
+"What would be an appropriate response to the following text message: ""Let's catch up this Sunday""? "
+"What would be an appropriate response to the following email: ""I have an extra ticket to the show, would you like to come?"" "
+Find the top three movies according to IMDb score. 
+"In three words, describe the color orange. "
+Create a table of the top 10 countries with the highest population density. 
+"Identify the most common word used in the following paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis risus erat. Quisque eget facilisis velit."
+Provide instructions on how to accurately perform a bicep curl. 
+Change the following sentence to use a commonly confused pair of words. The their station was on the other side of town.
+Compile a list of five career paths for an individual with a degree in Computer Science. 
+"In one sentence, describe the importance of color in design. "
+"Evaluate a patient's health information and provide a diagnosis. Patient Name: John Doe

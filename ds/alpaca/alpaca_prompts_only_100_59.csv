@@ -1,0 +1,100 @@
+prompt
+Name five factors causing air pollution. 
+Find a suitable euphemism for ‘died’ 
+List three animals that can be found in the Arctic region. 
+Explain the concept of natural selection by providing an example. 
+Write a short paragraph summarizing the history of ice cream. 
+Explain the concept of energy security. 
+Rate this phone on a scale of one to five. Xiaomi Mi 10 Series.
+Explain the differences between two different things. Differences between customer service and customer support.
+What countries speak Spanish? 
+Tell me the method of transportation available between two cities. Bangalore and Mysore.
+Provide a list of data science libraries in Python. 
+Classify the following word into a category. Tractor
+Find the average salary of data analysts in the USA. 
+Name three manufacturing processes. 
+"Classify the following object according to the following categories: Object: Bird
+Categories: Mammal, Insect, Fish, Bird"
+Find and replace the incorrect word in the following sentence: I taking a class on web designing.
+Rewrite the following sentence changing the adverb to an adjective: She happily accepted the invitation.
+Give an example of a compound sentence using the following two sentences: John ate breakfast. He went to work.
+"Given two strings, identify the one that is palindrome. radar, flight"
+Generate three valid English words in alphabetical order. 
+Name two types of musical genres. 
+"Given the following string, remove all white spaces. Hello   world"
+How many players are there in a typical football match? 
+Summarise the article in 10 sentences. The article discusses how businesses can successfully employ Artificial Intelligence (AI) to improve their customer experience.
+"Create a program that takes an array and outputs the largest element [1, 3, 15, 20, 8, 9]"
+"Generate a story beginning with the phrase: ""It was the coldest night of the year"". "
+"Come up with a mathematical equation that when solution can give the average population of a village. VillageA has a population of 100, VillageB has a population of 50 and VillageC has a population of 200"
+Reword the sentence below using a different structure. The book is on the table.
+Identify two components of the Dewey Decimal System. 
+Design a basic algorithm of a game of rock-paper-scissors. 
+Categorise the given species as either vertebrate or invertebrate Squirrel
+Write an email to the new trainee to welcome him/her. ABC Company
+"Describe the type of task carried out by the following algorithm. def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quicksort(left) + middle + quicksort(right)"
+"From the following poem, provide a summary of the last two lines. The waves would leap up to the sun
+And tell of our joy and fun"
+Output the result of the following boolean operation. True or False
+"From the following list, select the items which are examples of unstructured data. images, audio clips, tweets, spreadsheets"
+"Summarize the main idea of the following article in one sentence. The question of when self-driving cars will be available on the market has been up for debate. Some say as soon as next year, while others think that it may be much further off. There are several factors that will affect when self-driving cars will be available, including economic considerations, technological feasibility, and social acceptance."
+"Complete the following sentence: ""In an ideal world, scientists would be able to _______"". "
+Come up with a possible scenario in which two people fall in love with each other. 
+Name a holiday in Japan and explain why it is celebrated. 
+"Create a poem using the words ""sun,"" ""moon,"" and ""stars"". "
+"Create a news headline based on the following event, ""A student won a competition in quantum computing"". "
+"Edit the following sentence: ""She was walking quickly down the street."" She was walking quickly down the street."
+"Classify the following fruits as ""citrus"" or ""non-citrus"": Orange, Apple, Banana, Lemon Orange, Apple, Banana, Lemon"
+Name 5 important components of a successful marketing campaign. 
+Come up with three creative ways to encourage people to buy environmentally friendly products. 
+Explain why technology can be beneficial in education. 
+Imagine a scenario in which robots take over the world. 
+Describe a perfect weekend getaway. 
+Name two popular web browsers and explain why they are preferred. 
+Describe why artificial intelligence is important. 
+Explain how the concept of the multiverse might work in theoretical physics. 
+"Write a sentence that expresses the theme of the following short story. ""Once upon a time there was a brave knight who loved to fight dragons. Every day he would go on a new quest to slay the fearsome dragons and save all the people of the kingdom."""
+"Read the following text and generate a 3-5 sentence summary. The Incan civilization was the largest indigenous civilization in the Americas, covering a vast area at the height of their power in 1532. At its greatest extension, the Incan empire spanned from the northern parts of Ecuador and Colombia and through northern Chile, ranging from the Pacific coast to the Andes peaks. Their major contributions can be seen in the areas of engineering, architecture, and politics."
+"Using the following words, make riddles or jokes. Chicken, monkey, moon"
+"Generate a scenario with dialogs between 2 characters given their identifying traits. Character 1: Intelligent but unmotivated adolescent
+Character 2: Caring and enthusiastic teacher"
+Create a story arc that introduces a character given a short description. You may provide more details and events. A 5-year-old boy who loves to ask questions but hates following rules
+"Given a seed sentence, generate a story that includes a moral. Once upon a time, a fox was walking through the forest."
+"Generate dialog between two characters given their traits. Character 1: Know-it-all and judgmental
+Character 2: Shy and self-conscious"
+"Edit the following list so that the items are in parallel form. Jogging, walking the dog, and jump rope"
+"Generate a fully fleshed out character profile given their qualities. A brave, honest young woman with a strong sense of justice"
+"Given a scenario, design a game level. The hero must rescue their comrade from an ancient temple"
+Come up with a title appropriate to the following scenario. A group of brave adventurers embark on a quest to save the world
+"Generate a story that follows the following arc. Protagonist learns a lesson, then triumphs over adversity"
+Predict what would happen if two different chemical compounds are combined. Hydrochloric acid and baking soda
+"Based on the given input, write a short story. A farmer and a scientist were walking through the fields."
+"Given a description of a person, give 3 character traits that define them. John is an outgoing and energetic person."
+Edit the following sentence to better express the idea. Lying is bad because it damages relationships.
+"Group the objects into two categories. Ball, shoe, pen, flower"
+Determine the correct definition of the given word. Abundant
+"Given the two terms, decide which one has the higher value. Velocity vs. Acceleration"
+"Given a recipe, change the number of servings from 8 to 4. 8 large eggs"
+Explain the concept of 'intellectual property rights'. 
+Summarize the purpose of the given song. Young Money's Bedrock
+"Edit the sentence, simplify it but retain the same meaning. I take full responsibility for any shortcomings pertaining to the project."
+"Generate a creative story that conveys the message, 'Every act of kindness makes the world a better place.' "
+Create three questions on the given topic that can be used as an assessment tool. The topic is Human-Computer Interaction (HCI)
+Identify which description best fits the given term. Cloud Computing
+Choose the best definition of the given term. Context Awareness
+Suggest a better alternative using synonyms for the given word. expressive
+"Explain the relationship between the nouns and pronouns in the sentence ""Jennifer shared the simple recipe with Tom and she."" "
+Describe the relationship between the following two numbers: 730 and 810 
+"Rewrite the following statement making it more concise: ""Suzanne works as an engineer, and she is currently employed by XYZ Corp."" "
+"Create a positive spin to the following statement: ""The federal government is considering the possibility of canceling the summer internships."" "
+"Compose a sentence using the following words: organize, activities "
+"Rewrite the following statement in the future tense: ""I am rethinking my career plans."" "
+"Rewrite the following statement in the past tense: ""They are planning to launch a new website."" "
+"Describe the relationship between the nouns and pronouns in the sentence: ""She invited Joe and he to dinner."" "

@@ -1,0 +1,100 @@
+prompt
+"Rewrite the given statement into an order form: ""I would like to buy 100 yellow notebooks."" "
+"Given the sentence, ""The cafe serves some of the best coffee in town,"" generate a slogan for the cafe. "
+"Construct a sentence describing a person with the following adjectives: generous, reliable, and humorous. "
+Describe the experience of eating at an Indian restaurant. 
+Identify three elements of a successful business strategy. 
+"Rewrite the sentence in the interrogative form: ""He is an engineer."" "
+"Given the following list of colors, find a combination for an eye-catching wall decoration. * Blue
+* Green
+* Red"
+"Compose an email to share the news about a promotion. John Smith, the CEO of ABC Ltd, has been promoted to the head of the Asia-Pacific region."
+Write an article describing a new technology. The new technology is called AI-Powered Image Recognition.
+Name 6 animals that live underwater. 
+Convert the integer 12345 to a binary number 
+Convert the binary number 101101 to an integer. 
+"Compare two different albums. Beyonce, Lemonade and Rihanna, Anti"
+"Categorize the following into a family tree. Grandpa, Mom, Sister, Son"
+Create a CSS style. 
+Create a script to generate a Mad Libs story 
+Generate a slogan for a brand of face wash that emphasizes natural ingredients. 
+"Given a list of shopping items, select the ones that are necessary for a camping trip. 3 cans of beans, 6 bottles of water, 2 t-shirts, flashlight, map"
+Find an example of a painting that incorporates the use of geometric shapes. 
+Compile a list of 5 questions that could be used in a job interview for a customer service position. 
+Find an example of a graphic design project that uses black and white colors. 
+"Edit the following sentence to make it shorter and more concise: 
+
+""Most of the internal projects that are created for the accounting department are completed during the actual work hours of the employees"" "
+Create a marketing campaign that promotes ethical and sustainable items. 
+Identify 5 key components of a good email. 
+Write a tweet to share the benefits of using a specific brand of hair products. 
+"Edit the following sentence to write it in the active voice:
+
+""A new policy regarding customer service has been implemented by the company."" "
+"Generate a meme using the phrase ""fashionably late"". "
+Write a paragraph that describes the main character of a story. 
+"Rewrite the following sentence to make it more concise: 
+ 
+""In order to increase the profit of the company, it is expected that the sales will increase."" "
+Describe a technique to predict trends in consumer behavior. 
+Add two sentences your post to make it more interesting. I had a great day at the beach yesterday.
+Find the price of a great pair of shoes. 
+"Find the lyrics to a specific song. Song: ""Whole Lotta Love"" by Led Zeppelin."
+Generate a title for a story about a person who interviews for a job. 
+Re-write the sentence and make it more polite We need this done yesterday
+Suggest two ideas for how to reduce pollution. <noinput>.
+Categorize the following item to which department it belongs. Basketball
+Calculate the product given two numbers. 4 and 8
+"Name three main characters in the movie ""The King's Speech"". <noinput>."
+Generate a Shakespearian-style insult. 
+Should I take a vitamin B supplement? 
+Find and describe a website that offers free online books. 
+What is the difference between foreign policy and domestic policy? 
+Provide an example of a sentence using parentheses. 
+"Find the fact from the following text. This winter, India reported the highest number of tiger sightings since its first tiger census."
+Can you explain how to calculate mean median and mode? 
+How did the discoveries of Copernicus challenge the traditional view of the universe? 
+"Summarize the article, ""The Surprising Benefits of a Good Night's Sleep"". https://www.webmd.com/sleep-disorders/features/surprising-benefits-good-nights-sleep"
+"What is the meaning of the following proverb: ""A friend in need is a friend indeed"". "
+Generate a series of multiplication questions from 1 to 10. 
+Why is knowledge management important? 
+How can customer satisfaction be improved? 
+Suggest a new vocabulary word. 
+Name 3 things that a person needs in order to have a well balanced diet. 
+"Given the input, find the length of the longest word in the sentence. The picture hanging on the wall has a beautiful blue sky and the river in the background."
+Write a 500-word essay about the benefits of a healthy lifestyle. 
+Generate a list of activities for a 5-year-old's birthday party. 
+What action should be taken to reduce plastic waste? 
+Create a social media post about the importance of a balanced diet. 
+"Add a citation for the source of the following quote: ""The greatest wealth is health"". "
+Generate a title for an article about the importance of spending time outdoors. 
+"Write a summary of the story ""The Three Little Pigs"". "
+Create a recipe for zucchini fritters. 
+Design a fitness plan for someone who wants to improve endurance. 
+What are the components of a well-balanced meal? 
+"Provide a definition of the term ""self-care"". "
+Convert the following number from its fractional representation to the equivalent percentage. 37⁄100
+"Offer an example to illustrate the following proverb. ""Time is money."""
+"Organize the words in the sentence to make it read correctly.
+Output the sentence directly. for at anyone capital can city punishment"
+Fill in the blanks Stretching every day helps keep __________. 
+Describe the character of the protagonist in the movie 'Pursuit of Happiness'. <no input>
+"Construct original English sentences using the following words. Caribbean, travel, exploration"
+"Categorize the following kinds of animals dog, parrot, spider"
+Describe the primary setting of the movie 'E.T'. <no input>
+"Given some facts related to animals, categorize the type of animal. * Has a smooth coat
+* Feeds on insects
+* Lives in small family groups"
+"Given some technology related facts, categorize the type of technology. * Connects various devices
+* Can stream data quickly
+* Centralized storage"
+Name three ways artificial intelligence is used in healthcare. 
+Identify the elements of the below sentence structure. We should take the time to appreciate our surroundings.
+Edit the below sentence to make its meaning more accurate. We should take the time appreciating our surroundings.
+Describe what a neural network is in three sentences. 
+List two benefits of using artificial intelligence (AI) in the healthcare industry. 
+"Write a function to filter a list by items that contain a certain string. list = [""apple"", ""orange"", ""banana"", ""watermelon"", ""cherry""]
+string = ""an"""
+"Merge the two lists below into a list of tuples list1 = [""apple"",""orange"",""banana""]
+list2 = [""red"", ""green"", ""yellow""]"
+What is a feature in supervised machine learning? 

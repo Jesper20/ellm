@@ -1,0 +1,100 @@
+prompt
+"Given a search term, find a short summary about the subject. Search term: quantum computing"
+"Given a sentence and a new sentence, generate a sentence that has the same meaning with the new given sentence. Sentence: He wasn't able to get the job.
+New sentence: He failed to land the job."
+"Given a genetic condition, write a paragraph explaining its description and potential symptoms. Condition: Cystic Fibrosis"
+Create 10 multiple choice questions and answers on a given topic. Topic: United States Constitution
+"Study the two sentences below, and rewrite them in a more concise and powerful way. The meal was delectable. All in attendance thoroughly enjoyed it."
+Name 5 flowers found in a tropical rainforest. 
+Analyze the data and report the most important insights. The data is a survey of 200 people regarding their opinions on the new movie.
+"Calculate the average monthly salary for the sales team. The sales team has 10 people. The salaries range from $2,000 to $6,000 per month."
+Determine the most efficient method for the online store to ship orders. The online store sells a variety of products and operates in multiple countries.
+"Categorize each type of animal based on its physical characteristics. Pigeon, Gorilla, Cheetah"
+Generate an original story about a character who finds a mysterious red door. 
+List five things you should consider before starting a business. 
+"Create a painting of a sunset using a specific color palette. The requested colors are blue, orange, yellow, and pink."
+Name three chemical elements that are found in water. 
+"Given the following ingredients, come up with a delicious dish. Ingredients: Rice, onions, chicken"
+"Insert the name of a fictional character to the following text. Once upon a time there was a valiant knight named ____, who set off on a noble quest to save the kingdom."
+Guess the missing word in the sentence given the context. The market was so volatile that months of ____ came down to a single day.
+"Design a board game, featuring natural disasters, that can be played by up to 5 players. "
+Come up with a classification of types of articles which would appear on a news website. 
+"Create a poem about friendship using the words ""smiles"" and ""inspiration"". "
+"Given the context and keywords, come up with a funny, non-offensive joke. Context: Interview
+Keywords: Cows, Monkeys"
+"Present the following facts in a clear, organized way in a paragraph. Facts:
+- PersonX is from India
+- PersonX is a self-taught programmer
+- PersonX is the founder of a successful startup"
+"Create a cultural proverb or saying that reflects the idea of ""one small decision can change your life"". "
+Generate a conversation in a natural language like a journalist interviewing an expert on the topic of artificial intelligence. 
+"Given the title, write a short paragraph summarizing the content of an academic paper. Title: Applying Fine-Tuning to Enhance Language Model Performance"
+Find the longest rivers in India 
+What are the strategies to effectively use digital marketing? 
+Suggest a few tips for working from home. 
+Describe the ideal outdoor workout 
+Create a menu for a Caribbean themed party 
+"Refer to the input. Rewrite it in a more concise format During the month of October, it is traditional to decorate your house with pumpkins, gourds, and scarecrows in order to celebrate Halloween."
+Please explain the concept of international trade 
+Describe a traditional Italian dish 
+Create a list of 5 key points from the given article. Article: https://www.npr.org/2020/08/25/904005823/how-should-colleges-navigate-reopening-during-the-coronavirus-pandemic
+Describe a way to reduce global warming. No input
+Read this sentence and suggest two corrections. I am going to the the store.
+"Report the average temperature in Scottsdale, AZ on January 17th, 2021. "
+How do wind turbines work? 
+Generate a list of the most popular dog breeds in the US. 
+What is a virtual private network (VPN)? 
+"Identify the theme of Pablo Neruda's poem ""If You Forget Me"". "
+What is the average lifespan of a Labrador Retriever? 
+"Write a blog post titled ""Tips for Living a Healthy Lifestyle"". "
+"Categorize this movie into one of the following genres: drama, comedy, horror. The Revenant"
+Specify the uses of the following item: Bluetooth which permitts wireless connection between two devices 
+Convert the following string into full lower case letters. HelL o
+"Change the structure of the following sentence while keeping the meaning intact: ""Life is beautiful."" "
+"Change the following sentence into a question: ""I always carry my phone."" "
+Brainstorm a creative idea for a team-building exercise. 
+Write a funny shape poem about a circle. 
+Summarize what HTML is in 1 sentence. 
+Generate an example of a practical application of the Monte Carlo method. 
+Describe in 1 sentence how to write an effective business report. 
+Describe a blockchain in layman's terms. 
+Describe the differences between BDD & TDD 
+"Given the following string 'a1b2c3', convert it to 'abc123' a1b2c3"
+Provide a review for the restaurant in200 words or less. Wild Elephant
+Compare and contrast the differences between the United States and Japan. 
+"Create a new dish using the following ingredients: carrots, garlic, onion, broccoli. Carrots, garlic, onion, broccoli"
+"Classify this statement: ""Whales are mammals"". "
+"Convert this sentence into a question: 
+
+Massachusetts was the first state to legalize same-sex marriage. "
+Explain why water is important to human life. 
+"Using the text you wrote, create a headline for the blog post. Virtual reality is quickly becoming one of the most important emerging technologies in today’s world. It has a wide range of potential applications, from business to education to entertainment. VR is already changing the way we shop, learn, and work, and its potential is only just beginning to be realized."
+"Provide an input to the following instruction: Write a story about a boy who travels to a magical world. Billy, a young outcast who loves to read fantasy books"
+"Find patterns in the following numbers: 8, 16, 32, 64 "
+"Rewrite this phrase without using the word ""like"":
+
+I am exactly like you. "
+"Rewrite this sentence using a different verb:
+
+John wrote a book. "
+Describe a character's physical appearance. 
+Generate a persuasive argument for a new school policy. 
+How many significant figures should be used for the value 0.000187? 
+Identify three strategies to conserve energy. 
+Create a high-level timeline for building a house. 
+How we can measure trustworthiness for a certain candidate? 
+Offer a 3 step solution to fix a broken bike chain. 
+Construct a chatbot dialogue for a customer service that is looking to help customers order a particular product. Product: Nike Air Max Shoes
+Offer 3 advantages of using Machine Learning in data analysis. 
+Investigate the world's smallest mountain. 
+Generate a list of activities for a vacation in Australia. 
+Answer the question: What is an artificial neural network? 
+Generate an appropriate response to an angry customer. Customer: Your customer service is terrible!
+Offer a 5 step plan for managing a crisis situation. 
+How do scientists measure the growth rate of an organism? 
+Explain the process of wind erosion. 
+"Select and sort the following numbers from largest to smallest. 9.6, -13.4, 0"
+Identify a data structure that would be appropriate for storing employee records. 
+Read through a given article and summarise its main points. https://news.stanford.edu/2021/06/07/stanford-unveils-bold-experimental-solution-to-food-insecurity/
+"Detect if there is any fake news in the text. If so, mark the sentence false and provide a source for further verification. Humans evolved from monkeys."
+Generate a list of 5 ideas for a story based on the given details and descriptions. The story is set in a post-apocalyptic world where mankind lives in underground settlements. Most of the technology is non-functional due to exposure to extreme weather conditions.

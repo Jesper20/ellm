@@ -1,0 +1,100 @@
+prompt
+Name two pairs of complementary colors 
+List the steps needed to use a graphing calculator 
+"Generate a unique nickname for the name ""John"". "
+Determine the base and the height of a triangle given its area. Area: 20 cm2
+"Given the following list of animals, determine the average population of each species. Cats: 10, Dogs: 8, Horses: 4"
+Create a function that displays all the prime numbers from 1 to n. n = 10
+"Given a word, determine the number of vowels in the word. word = ""apples"""
+"Given a number, find the two prime numbers that add up to the number. number = 16"
+"Create a Python program that prints all the prime numbers in the given range. Start: 5, End: 15"
+"Create a holiday itinerary that visits the following three cities. Delhi, India, Siem Reap, Cambodia, and Tokyo, Japan"
+List 5 ways to reduce the number of car accidents. 
+Provide a list of components for a computer system. A computer system meant for light gaming and professional work.
+Create a table of nutritional value for the following food item. Strawberries
+"Develop a plan to fix the bug with the given error message. Error Message: ""Cannot connect to the database"""
+Calculate the area and perimeter of the given figure. A rectangle with dimensions 7cm by 4 cm
+"Create a for loop for the given list of items list = [“a”, “b”, “c”]"
+Generate a password that is at least 15 characters long and contains numbers and special characters. 
+Find the assembly instructions for creating the given product L-shaped computer desk
+"Reformat the given text according to the given style guide Hello, my name is Jane Smith. I am a writer.
+Style Guide: APA Format"
+"Calculate the compound interest on the given sum of money Principal: $1000
+Rate: 5%
+Time: 8 years"
+List 5 common bacteria species. 
+Describe an example of a real-world application of the given technology. Technology: Machine Learning
+Brainstorm at least 5 possible solutions to the given problem. Problem: Traffic congestion in urban areas.
+Estimate the temperature of given substance. Substance: Water
+Identify 3 qualities that a good leader should have. 
+"Change the following sentence to past tense: ""Jim studies physics at college"". "
+Create a mathematical equation that shows the relationship between the area of a square and the size of its diagonal. 
+Write a new sentence that has a simile in it. 
+"Rearrange the words to make a grammatically correct sentence: ""the student was extremely tired the exam"". "
+"Write a sentence that contains the phrase ""do away with"". "
+"Change the following sentence to passive voice: ""The fire destroyed the building"". "
+Fill in the blank with an appropriate preposition: I like to stay ____ top of my work.
+"Replace the word ""catastrophe"" with a less serious word "
+Create a persuasive sentence about solar energy. 
+"Given a list of numbers, add them up and provide the result 2, 4, 7"
+Is it possible to get a back-up for water tanks? 
+What is the SCUBA acronym and what does it stand for? 
+"Given two colors, provide a third color to make a combination Yellow, Purple"
+How can I improve my customer service skills? 
+Combine two sentences together He likes to play basketball. She enjoys reading books.
+"Explain why this algorithm works. def binary_search(list, target):
+  lower = 0 
+  upper = len(list) - 1
+    
+  while lower <= upper: 
+    mid = (lower + upper) // 2  # Floor Division
+    guess = list[mid]
+    if guess == target:
+      return mid
+    if guess > target:
+      upper = mid - 1
+    else: 
+      lower = mid + 1
+ 
+  return None"
+Change all of the words to past tense. I jump high in the sky.
+Generate a thesis statement for this essay topic. Examining the reasons why people migrate to other countries.
+Identify the main point of this passage. Recent studies have examined the impact of climate change on crop yields. The results consistently show that temperatures are rising and that there is an overall decrease in yield potential.
+"Summarize the steps needed to solve this problem. Given a string of 10 characters, print the character at index 3."
+"Read the following sentence and generate an output revised sentence to reduce the complexity and/or improve readability. John, who was a scientist known for his achievements in the field of quantum mechanics and artificial intelligence, passed away suddenly."
+"This time you are provided with a sentence and a corresponding pos tag. For each word of the sentence, give an example of a word with the same pos tag.
+You should provide at least two examples. The opinion piece cleverly argues its point.
+POS tagging:
+The (Determiner) opinion (Noun) piece (Noun) cleverly (Adverb) argues (Verb) its (Pronoun) point (Noun)."
+"Given the following input, name five different kinds of musical instruments. "
+"Generate an example for a binary classification problem, and also an appropriate labels for the classification. "
+Generate a business report that has a professional tone. 
+"Given an input sentence, write a new sentence that is grammatically correct and conveys the same general message. That cat looks happy when feed him."
+Generate a unique and thought-provoking idea for a children's story. 
+Write a compelling summary in 5 sentences of the following article: https://www.nytimes.com/2021/02/11/business/tesla-stock-elon-musk.html
+Add detail to the following sentence using five adjectives. He was the best at what he did.
+"Learn the following text, and generate a new output that has the same meaning as the input. John had gone to the store to get some tea."
+"Given an input sentence, generate an output sentence that is 10 words longer than the input, and conveys the same general meaning. Joey read a book last night."
+Read the following sentence and generate a new output that rephrases the sentence without changing the overall meaning. He ate a lot of food at the restaurant.
+"Given the following input, generate a question about the text that requires an open-ended answer. The organization held a fundraising event to raise money for research."
+"Given the text, produce a compelling story summary in five sentences. Two sisters, Joan and Trudy, embark on a journey to explore the unknown and discover the secrets of the world."
+What are the environmental benefits of using alternative energy sources? 
+What is the difference between quantum physics and classical physics? 
+Name three features of a zombie film. 
+"On a scale from 1 to 10, rate the following song. ""We Will Rock You"" by Queen"
+Identify the use of specific sounds in the following film clip. <video clip>
+Tell a story about a fire breaking out. 
+Develop the following ideas into a short story. A vampire cursed to never get satisfaction from drinking blood.
+Write a 100-word article discussing the effects of stress on physical health. 
+Design a web page layout suitable for an online library. 
+Generate a valid HTML code for a web page with a table. 
+"Write a synopsis of the given text. Shrek is the tale of a large, green ogre called Shrek, who lives a solitary life in a swamp which other fairytale creatures find creepy. After the sinister Lord Farquad conquers his land,our reluctant hero embarks on a daring quest to save his swamp and reclaim his freedom. Along the way, Shrek crosses paths with a charmingly attractive donkey, a dragon and a foolish wannabe-knight, whilst battling lords and witches."
+"Use Heuristic search to find the way the PacMan should traverse to reach the goal node. PacMan is located at (1,1), and the goal node is at (3,3)."
+Convert the following Australian Dollars (AUD) to US Dollars (USD). AUD $25.57
+"Classify the following sentence into one of the categories: descriptive, narrative, expository, persuasive, or general. Technology has changed the way we communicate."
+Rearrange the following words to form a grammatically correct sentence: almost/trees/no/fall/leaves 
+"Edit the following sentence to make it more concise: ""It is not necessary to be extra careful in this situation."" "
+Name at least three of the five major oceanic gyres. 
+"Edit the following sentence to make it more informative: ""Global climate change is an issue."" "
+Output one example of a culture that uses an abugida writing system. 
+Generate a list of health benefits associated with drinking green tea. 

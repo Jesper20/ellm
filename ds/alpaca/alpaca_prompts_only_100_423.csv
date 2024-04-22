@@ -1,0 +1,100 @@
+prompt
+Chorus 2
+Always be with me, it's what I pray
+Singing all my songs, love and stay"
+"Generate a joke that is related to physics.
+Output the joke. "
+You are provided with a medical condition. Write a 3-5 sentence description of the medical condition: Moyamoya Syndrome
+"Arrange the following sentences so that they make a story. Output all the arranged sentences, seperated by period. He had gone to the lake. There he found lots of ducks. It was a lily-pad lake. The lake was very still and quiet."
+"Given the following inputs, generate an editorial that discusses the pros and cons of the situation. Output the editorial. Topic: Working from Home
+Pros: Flexible hours, can focus on work better without distractions
+Cons: Isolation, lack of team collaboration"
+"Given the following inputs, identify the theme of the passage. Output the theme. George was a kind man who thought of others before himself. He worked hard but rarely reaped the rewards of his efforts. Each time something good happened to him, it never felt deserved. He was the type of person who always let the people around him have the glory."
+Rewrite the following sentences in a way that maintains a formal tone. Output the rewritten sentences. I really dug the essay that I read yesterday. It made me think about a lot of stuff.
+"You are provided with the following title. Write a summary of the article with a length of no more than 60 words: ""5 Reasons Music Education is Important for Young People"""
+"You are provided with the following sentence, Change the sentence to use a more specific and precise verb. Output the edited sentence. She started to run"
+Create a definition of the following word. Output the definition. Flux
+You are provided with the following content. Write a poem about it. Output the poem. The night sky is full of stars
+"Given the following sentence, replace the underlined word with a synonym. Output the edited sentences. The window pane was decrepit."
+Generate a 3 by 3 grid of random numbers between 0 and 9. 
+Describe the challenges and opportunities of mobile phone use in developing countries 
+Generate a blog post discussing the importance of healthy eating habits. 
+Provide a list of topics related to renewable energy. 
+Write an original joke 
+"Write a short narrative that includes the following three words: ""lonely"", ""magnificent"", and ""embrace"". "
+"Given the following verbs and nouns, create a sentence that is grammatically correct: Laugh, House. "
+Compare and contrast Pandora's Box and the Garden of Eden 
+Create a brand name which stands for a product. Product: Laptop
+Classify the given news article into its topic. Most of America is in the grips of a deep freeze as temperatures drop below freezing across much of the nation.
+Create an analogie for the process of learning. Noinput
+Rewrite the following text in future tense. I am a computer science student learning programming.
+Compare the given two objects or ideas. Reading a book and going to the movies.
+"Find 3 keywords related to the ingredients used in a given recipe. This recipe calls for 2 tablespoons of butter, 1/4 cup of honey, 1 teaspoon of ground cinnamon, and 2 cups of water."
+"Rewrite the following sentence in a less formal way:
+
+The exhibition will take place from the third to the fifth of August. "
+Create a holiday greeting message in fewer than 25 words. 
+"Given a list of integers, create a program that will print out the sum of the values of the list. [4, 8, 10, 15]"
+Write a business email with the following information: Subject: Project status update
+"Given two strings, find and return the longest common substring. str1 = ""abcdef""
+str2 = ""abcxyz"""
+"Edit the following sentence to make it more concise:
+
+The more active an employee is in their job position, the better the overall results will be. "
+"Given a set of numbers, create a program to print out a boolean value (True/False) to tell if one of the numbers is a perfect square. nums = [2, 3, 4, 6, 7]"
+Write a brief summary of the given song lyrics. This song is about the importance of facing our fears and insecurities. It is an uplifting anthem that encourages us to be strong and persevere even in the face of adversity. It also provides insight into the things that hold us back and how understanding ourselves can empower us to overcome these challenges.
+"Given a sentence and two words, create a new sentence with the words the same but in the reverse order. This apple is sweet, apple this"
+Analyze the given words in terms of parts of speech. Spider
+Name a popular household item. 
+List 3 breakfast food items. 
+Explain the concept of taxes for an 8 year old. 
+Suggest ways that a business can reduce their CO2 emissions. 
+Compose a brief description of the Grand Canyon. 
+Name 5 health benefits of exercising. 
+"Summarize the article ""Rational Thinking During Crisis"" in one sentence. The article explains the importance of rational thinking and taking a scientific approach when dealing with crises."
+Classify the following activity as physical or cognitive. Jumping rope.
+Suggest two methods of finding the area of a triangle. 
+Give an example of the use of robotics in the medical field. 
+"Write a paragraph about the concept of ""machine learning"". "
+Generate a list of five popular apps to use for online education. 
+Write a brief overview of Canadian independence. 
+"Create a commonly used phrase using the following words: storm, sea, break "
+Explain the basic premise of evolution by natural selection. 
+Provide three steps for creating a budget. 
+Create a dialog between two characters discussing their favorite hobbies. 
+Generate a new recipe for chicken Parmesan. 
+What kind of text should you use in an email to reach out to a potential employer? 
+"You are in the middle of a brainstorming session at work and need to encourage the other participants. Give an example of a positive, constructive statement you can use. "
+"Classify the following sentence as either a commonly used phrase or an idiom. ""Money talks."""
+"You saw a really cool item you want to buy online, but you are not sure if it is a good choice. Explain a method you can employ to help you make the right decision. "
+Name one way to improve customer service. 
+Compare and contrast the two styles of writing: writing for outdoor media versus writing for academic purposes. 
+You are expected to attend a virtual meeting but don’t know the right way to do it. Describe the ideal approach. 
+Write a letter of application to apply for your dream job. Position: Lead Software Engineer
+"Write 4 multiplication equations using the numbers 3, 7 and 10 "
+Make a prediction about the role of AI in the near future. 
+Write a tweet describing the importance of protecting the environment. 
+Generate an example of a (non-trivial) function in Python. 
+Explain the relevance of the Pythagorean Theorem in the real world. 
+"Generate a sentence using the scientific term ""thermodynamics"". "
+"Parse the following HTML code and create a DOM tree <html>
+    <head>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <p>This is a paragraph</p>
+        <div>This is a div</div>
+    </body>
+</html>"
+"Classify the following text as opinion, fact, or non-credible This new book is amazing!"
+Write a function to calculate the root mean squared error (RMSE). 
+Read the following text and detect any potential spam comments Hey there! This is a great website for shopping.
+"Given a sentence, identify all parts of speech The blue bird was singing sweetly."
+"Find the number of ways to make change for a given amount using coins of given denominations. Amount = 8
+Denominations = {1,2,4}"
+"Compute the sum of two given numbers without using the + operator A=5, B=3"
+"Given an array of objects, create an object with the property and its corresponding counts [“a”, “b”, “a”, “c”]"
+Identify any three issues related to the ethics of using artificial intelligence in comparison to using manual labor. 
+Write down a set of practices that a fast food restaurant can implement to reduce food waste. 
+What advice would you give to someone considering a career in Artificial Intelligence? 
+Describe a feature a smartphone could have that would make it easier to take care of the environment. 

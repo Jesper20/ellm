@@ -1,0 +1,100 @@
+prompt
+Formulate a hypothesis for a given experiment. Investigate the effect of fertilizer on the growth of plants
+"Write a job posting for a program assistant. Company Name: ABC
+Location: Seattle, WA"
+Name ten animals that live in a tropical rainforest. 
+"Find the most cost effective way to ship these goods from China to the United States. 4000 lbs of goods, shipping time is 10 days, shipping cost must not exceed $5000"
+Write a short story about a rivalry between two people 
+Read the instruction below and rewrite it to make it more concise Apply sunscreen before heading outside.
+"Convert the word document below to a HTML format Hello World!
+This is a sample document."
+Create a list of three facts about cats 
+Construct a proverb about the importance of learning 
+Suggest a pop song that I should listen to. 
+Give me a list of useful websites for C programming. 
+"Summarize the following company's mission statement. At our company, we strive to make the world a better place by connecting people with technology and providing innovative solutions that meet global needs."
+Write four rhyming lines in the form of a poetic couplet. 
+"Identify the tone of this essay. The world of technology is constantly shifting and evolving before our eyes, and it is essential to continuously evolve and take advantage of the possibilities that come with it."
+"Classify this situation as a common real-world problem. A family of five moves to a new city, but quickly finds that their living expenses cannot be covered by their dual incomes."
+"Describe the type of person who would be successful in this position. This is a remote customer service position that requires empathy, patience, and problem-solving skills."
+"Evaluate the following student's essay. The novel Jane Eyre is an exploration of themes such as grief, family, and power. It follows the character Jane through her journey of losses and heartbreaks and how she manages to overcome them. She discovers her strength and finds a light at the end of the tunnel despite all the hardships she faces."
+"Find the tone in this poem. Looking out the window, 
+Seeing the beautiful blue sky. 
+My heart begins to fill with joy, 
+Almost in a state of bliss."
+Explain how artificial intelligence can be used in GPS navigations. 
+"Select a medical condition for this patient. This patient is experiencing a fever, chills, and body aches."
+Reword this sentence in a more accessible form. Categorical imperative states that one should act only on that maxim by which one can at the same time will that it should become a universal law.
+Give me a strategy to increase my productivity. 
+Suggest a business idea to earn passive income. 
+"Write code to find the maximum value in an array [2, 4, 5, 7, 1]"
+"Rewrite the following algorithm using pseudocode. function simpleSum(n: INTEGER)
+// calculates the sum of the first n natural numbers
+var sum, number: INTEGER
+sum := 0
+number := 0
+
+while number < n do
+  sum := sum + number
+  number := number + 1
+end while
+
+return sum"
+Generate a Python script that performs the following task. Print the second largest number in a list of numbers
+Rewrite the following expression into a more readable format x > 0 or (y == 0 and z != 0)
+"Convert the following unicode text to ASCII ""\U0001F608"""
+Compose a short song that is 20 seconds long. 
+Generate a restaurant review for this restaurant. Panera Bread
+Brainstorm three ideas that could improve invoice management. 
+Explain the differences between an operating system and a program. 
+Calculate the volume of the sphere with the given radius. Radius: 12
+"Identify the hyperbola that passes through the given points. Points: (3,4), (2,-6)"
+Resolve the following problem: 9 - 2 x 3 
+Record a 30 second review of the following restaurant. The Elbow Room Cafe
+Create a list of items needed to organize a successful virtual meeting. 
+Create a function that takes two numbers as arguments and divides the first one by the second one. 
+Add 10% tax to the following amount: $100 
+"Convert the following computer code from Python to Java. def greet(name):
+  print(f""Hello, {name}!"")"
+Translate this phrase from Spanish to English: El sol no brilla hoy. 
+"Generate the output of this code snippet in Python 3. name = ""Jill""
+print(""Hello "" + name + ""!"")"
+Can you give an example of a word that is a homophone? 
+How was the American Revolution fought? 
+"Create a headline for this article: ""The rise of online shopping during the pandemic."" "
+Name a popular coniferous tree. 
+Describe the auditory cortex. 
+What is the maximum speed of sound in the atmosphere? 
+Create a CSS rule that changes the background color of a link when the mouse is over it. 
+Name a mammal that can fly. 
+"Rank these court cases in order of importance: Marbury v. Madison, Brown v. Board of Education, Roe v. Wade. "
+Identify the passive voice in this sentence: The cake was eaten. 
+Summarize the reading to less than 80 words. Mary walked to the park to get some fresh air. She sat on the grass and watched the children play. She heard the birds singing in the trees and the sun shining on her face.
+Edit this sentence to use proper English: I dont think so 
+"Provide a concise summary of the contents of the following passage: The Fire Nation was a nation of people and the birthplace of Avatar Roku. Located on an archipelago of volcanic islands, the immense and overpowering power of the Fire Nation was the largest and most powerful of the four nations. Fire Nation citizens were culturally and ethnically diverse, often having ancestors from two or more nations."
+Would you be able to suggest a few tips to optimize website loading speeds? 
+Give me a list of five use cases of natural language processing. 
+Please estimate the size of the circumference of the following circle The diameter of the circle is 12 cm
+"Provide the English to Spanish translation for the following phrase ""I love you"""
+"I need to change my flight but I can't remember the exact details. Can you help me look up my flight details? Name: John Smith
+Flight date: 5 July, 2021"
+Can you provide some information on the symptoms of the coronavirus? 
+Rewrite the following phrase in its interrogative form Life is beautiful
+Multiply the following two complex numbers (3 + 2i) * (2 + 4i)
+Please provide me the scientific name for the blue whale 
+I heard about medical scans being able to detect cancer. Can you explain how this works? 
+"Add a one line of dialogue that aptly sums up the situation. The family had been planning their vacation for months, but as the date got closer the excitement started to dwindle."
+Calculate the profit earned from a sale of 10 items at $4 each with a cost of $0.50 for each item. 
+"How many paragraphs does the text have? This is the first paragraph.
+
+This is the second one.
+
+And finally, the third."
+Change the sentence from indicative to interrogative. The dog is running in the park.
+"Construct a mathematical expression that multiplies 3 and 6, then adds 4 to the result. "
+Describe the advantages of creating a lifestyle brand 
+Write a blog post on why small businesses should invest in SEO 
+Create a tweet about the benefits of digital marketing 
+What is the best way to create a comprehensive marketing plan? 
+"Complete the following sentence: ""Software engineering is important in the technology industry because..."" "
+"Read the following quote and give your opinion ""Success comes from perseverance, courage, and creativity."""

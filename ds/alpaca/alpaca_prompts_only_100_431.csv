@@ -1,0 +1,100 @@
+prompt
+Text 2: Recent research in continuous prompts for natural language tasks has shown great success in effectively fine-tuning models with fewer training examples."
+Give an example of a real-world problem you can solve with GPT. 
+"Given a recipe, estimate the total time needed for preparation including cooking. 1. Preheat oven to 350 degrees F (175 degrees C).
+2. Grease an 8 inch round pan
+3. In a medium bowl, mix together the flour, sugar, baking soda, and salt.
+4. In a large bowl, mix together the vegetable oil, eggs, and vanilla.
+5. Mix the dry ingredients into the wet ones until combined.
+6. Pour the batter into the prepared pan.
+7. Bake for 25 to 30 minutes in the preheated oven, or until a tester inserted in the center comes out clean."
+Generate an analogy which captures the character of the person. The person is reliable and kind.
+Generate a list of emotions experienced by the protagonist in the following story. The protagonist of the story had just gotten news of her father's death.
+Identify the kind of sentence given below. He sang a beautiful song.
+"Given a description of a character, create a dialogue as if this character is commenting on a situation. The character is a famous scientist."
+"Given some example data, classify the data into clusters. [{name: ""John""}, {name: ""Sara""}, {location: ""New York""}, {location: ""Washington DC""}]"
+"Given the following lyric, come up with the melody. The sun will rise again."
+Suggest some activities for a family to spend time together. 
+Take the given sentence and add a humorous pun based on words from the sentence. She was so angry it seemed she was seething with rage.
+Categorize the following sentence according to the four categories of sarcasm. That was brilliant!
+Create a metaphor that expresses the idea in the sentence. The company is growing quickly.
+Take the given sentence and add a hyperbole for emphasis. I am really tired today.
+"Translate the sentence in the given language Bonjour, comment allez-vous? 
+French"
+Generate an appropriate story for a given situation. A young girl who is struggling to make friends at school.
+Rewrite the given sentence using a reference to a well-known personality. She has strong willpower.
+Suggest a healthier alternative for the given item. Chocolate
+Describe the given object vividly. Tree
+Rewrite the given sentence so that it acts as advice. He was too lazy to finish the task.
+Write the title for the given summary. This article talks about the importance of physical activity for maintaining good health.
+Edit the given sentence to make it appropriate for a formal context. She don't like the idea.
+"Generate a sentence that has the same meaning as this sentence: ""The man was determined to succeed in his endeavor."" "
+"Edit this sentence to make it sound more interesting: ""She took a deep breath."" She took a deep breath."
+"Arrange these words to make a meaningful short story: ""cat, midnight, bat, forest, hide"" "
+Give me 5 adjectives to describe the night. 
+"Change this into a question: ""The answer is two."" The answer is two."
+Give the name of 5 countries of the European Union 
+"Rewrite these words into a sentence: ""tired, ran, quickly"" "
+What are the 5 themes of geography? 
+How do plants convert sunlight into energy? 
+"Write a sentence that uses the metaphor: ""The sky was a blanket."" "
+"Given the price of a product and the list of available discounts, calculate the final price after discounts. Price: $100
+Discounts: 20% off, 10% of the remaining"
+Output the name of the day of the week for a given date in MM/DD/YYYY format. 08/15/2020
+"Find the independent clause (main clause) of a given sentence. I went to the store, but it was closed."
+"Given two strings, identify the string with the longest common substring. hello = hallo"
+"Given a sentence, output whether the phrase is in present perfect or simple past. He has arrived."
+Convert a handwriting script into machine-readable text. I went to the store.
+"Given 3 integers a, b, c, compute a+b+c. a = 2, b = 3, c = 4"
+Generate a list of all the words in the sentence except the conjunctions. John and I were having lunch together.
+"Given a problem, identify the trigonometric function to be used. Find the angle of elevation of an object from the ground."
+"Given an article, identify the main author's point of view. An article entitled ""The Impact of Technology on Modern Society"""
+"Find the cheapest flight to London, UK. "
+Generate two adjectives that describe the given noun. Tree
+"Write a story using the given words in your story. desert, moonlit, violin"
+"Describe the character described below in maximum of 100 words. Tom is a young man in his twenties who has blue eyes, a slim build and wavy brown hair"
+"Deploy website with given requirements. The website has to be deployed on WordPress, with 3 pages (Home, About, Contact) and should have a mailing system."
+"Configure the computer with the given information. Operating system - Linux Ubuntu, RAM size - 8GB"
+Summarize an article about the impacts of technology on education https://www.educationsuperhighway.org/blog/technology-is-transforming-modern-education/
+"Given an input of a product title, classify it into a category. Apple iPhone 11 Pro Max"
+Demonstrate the use of a for-loop in Python 
+Re-tell a children's story 
+Analyze the effectiveness of the US COVID-19 testing strategy 
+Determine the average air temperature for the city of Houston in June 
+Identify the primary contributing factors to climate change 
+Come up with a marketing slogan related to the given product. Electric cars
+Create a lesson plan for a high school science class about plants. Lesson plan for a high school Biology class
+Come up with lyrics for a rap song about ice cream. No input
+Lead a business strategy meeting. Issue at hand: Market research strategy
+Develop a chatbot conversation for a customer services chatbot. Question: How can I return my purchase?
+Come up with a design for an online banner ad. Product: Outdoor Perfume
+Come up with a healthcare marketing strategy. Objective: To promote the services of a medical practice to a younger demographic
+Make a list of materials and procedures for an experiment. Experiment: Growing plants in the dark
+"Create an interesting story using the following words. Words: pot, moon, enormous, green"
+Name 5 advantages of cloud storage. 
+Compare and contrast two different search engine algorithms. 
+Create a list of 10 adjectives describing Paris. 
+"Write a poem using the phrase ""the stars"". "
+Name five plants that grow in rainforests. 
+"What word sounds the same as ""roar"" "
+"Calculate the maximum value from these numbers: 22, 18, 9, 12 "
+Create 5 sentence long paragraph about the importance of education 
+What steps would you suggest to improve a website's SEO? 
+"Change the following sentence to use passive voice:
+
+The report showed that the number of people living in poverty had risen. "
+"Suggest a VPN service that meets the requirements: Requirements:
+1. Secure browsing 
+2. Unlimited data 
+3. No logs 
+4. Affordable pricing"
+Please give an example of a 20th century writer from Japan 
+Give an example of a fashion trend that was popular in the 1980s 
+What can I do to become a more efficient writer? 
+How can I improve my persuasive writing technique? 
+"Identify the mistake in the following sentence:
+
+The employees was given a raise "
+"What is the correct pronunciation of the following word:
+
+Kafka "

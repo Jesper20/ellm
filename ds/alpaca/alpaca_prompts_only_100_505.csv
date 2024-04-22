@@ -1,0 +1,100 @@
+prompt
+Entertain me with something funny! 
+Find the hidden object. [image of a room with hidden objects]
+"Compute the average grade for this class Grades:
+A - 3
+B - 10
+C - 5
+D - 2"
+Convert this pdf to an excel spreadsheet 
+Solve this algebraic equation 2x +5 = 17
+Construct a regular expression that matches a five-digit zipcode 
+Create a detailed blueprint for designing a 3D game 
+"Write a query to return all rows from a MySQL table named ""Items"" where the column ""category"" is ""clothing"" and the column ""color"" is either ""red"" or ""white"". "
+"In the provided sentence, identify and correct the faulty comparison. The house was even more big than we expected."
+"Imagine you have an hour left until dinner is ready. Based on the ingredients provided, come up with a recipe for a 3-course dinner. Ingredients: carrots, potatoes, onions, red pepper, salmon, spinach, mushrooms, eggs."
+Describe one of the benefits of using machine learning in healthcare. 
+Write a product description for an iPhone 12. 
+"Choose a random element from the following array "" [Apple, Pear, Cherry, Melon]"". "
+Suggest three content marketing strategies that real estate businesses can use. 
+Describe a scientific experiment conducted by Galileo Galilei. 
+List five books written by Ayn Rand. 
+Name two paintings by Raphael. 
+Name five famous scientists from history. 
+Name at least three environmental problems caused by humans 
+Create a 10-word code that is easy to remember but difficult to guess 
+"Generate an example sentence using the figure of speech ""metaphor"" "
+Summarize the causes of the recent shortage of food in Ethiopia 
+Generate a correct code using nested loops in Java to achieve the following purpose Print numbers 1 to 10 in ascending order.
+Is it a good idea for students to join extra-curricular activities? 
+Generate a correct program to calculate the sum of all elements of an array 
+"Express the following ""He will be there soon"" using a metaphor "
+Is using hashtags a good idea on social media? 
+Imagine a situation and then write a scenario for a conversation in a natural language. Two tourists visiting a new museum.
+Describe the given geographic location. Nepal
+"Traverse the following list with a for loop and print each item in the list. list = [ ""apple"", ""banana"", ""orange"" ]"
+Create an interactive quiz about the given subject. World War II
+Are the following two words related? Justify your answer with a sentence. Apple and Orange
+"Filter the given list of items based on the given criteria and return the result. List: [2, 5, 8, 9, 11]
+Criteria: Odd numbers"
+Find the length of the given word and add 3 to it. Mountains
+Pose a follow-up question based on given statement. Oxfam International works to combat poverty and inequality.
+Identify the most likely cause of given scenario. The pack of dogs is barking at the cat.
+"Connect the two ideas using the most appropriate transition word. He had valuable skills; however, he lacked ambition."
+Give me a recommendation for a new novel. 
+"Write two sentences using the following words: criticize, target, message "
+Write the code for printing a string in Python 
+Name three famous American presidents. 
+"What is the meaning behind the phrase ""People who live in glass houses shouldn't throw stones""? "
+How can energy be converted from one form to another? 
+Find online resources about the Indian Super League. 
+Please tell me how to create a to-do list. 
+"Compose a short story with the provided input. John, Mars, Robot"
+Please name the different animal species in this photo. <image>
+"Compute the mean and standard deviation for this set of numbers. 2, 3, 7, 5"
+Convert Feet to Meters 100 feet
+Upload this document to Dropbox. <document>
+Spell out the longest word in this sentence. Do you want to supercalifragilisticexpialidocious?
+Select a suitable gift for an 8 year old boy. 
+Sum up the rules for shooting a basketball. 
+Predict the reaction of the audience to this song: A singer is performing a beautiful acoustic folk tune.
+Generate the feedback that should be given to this student John has completed the assignment correctly but his handwriting is sloppy.
+Give a health-related tip 
+Generate a shopping list for 10 people to make grilled cheeseburgers. 
+Create a test suite in Python to check if an input string is a valid email address. 
+What is the significance of encryption in cyber security? 
+Create a function to generate random background colors for a website. 
+How do bots detect humans? 
+What is the goal of software testing? 
+Find a poem suitable as a wedding gift 
+"Transform this sentence: ""The cat sat on the mat"" The cat sat on the mat"
+Explain how to play chess 
+"Edit the following sentence: ""I have been happily living here for years"" I have been happily living here for years"
+"Classify the following phrase ""I am so cold"": I am so cold"
+Find three words associated with the color yellow 
+Construct a list of good practices for minimizing the risk of cyberattacks 
+"Write two paragraphs describing the differences between two products Product A: Kindles
+Product B: iPads"
+Describe a scenario for using the product Product: Amazon Echo
+List five unique features of the product Product: Apple iPhone 12
+"Relate the given text to the topic of Artificial Intelligence The human brain is composed of billions of neurons, each of which are connected to thousands of other neurons."
+Identify the primary benefit of the product Product: Virtual assistant
+What course of action should the company take in the given situation? A customer has lodged a complaint that his online order was never delivered.
+Explain how to use the product Product: Robo advisor
+What step should be taken to optimize the process? A manufacturing process in a factory that has low productivity
+Generate a list of hypothetical outcomes that could arise due to climate change. 
+Give me a list of fruits and vegetables that are in season during Spring. 
+"Edit the following sentence to make it more concise: 
+""We cannot do what is necessary because of the limited resources we have."" "
+Describe how an Agile approach was beneficial for a software project. No input.
+"The following poem is written in dactylic hexameter. Identify the meter of the poem. My love is like a rose that blooms in the night 
+My love's the luxury that you can never fight"
+Search the web for a valid license for the company. Company Name: ABC Industries
+Quantify the impact of virtualization on a company's operations. No input.
+"Design a new homepage for the company website. Company Name: ABC Industries
+Company Tagline: Delivering Excellence in Technology
+Company Logo: Attached"
+Name five reasons why artificial intelligence is important for businesses. No input.
+Describe a use case for using machine learning in a healthcare system. No input.
+Provide an interesting fact about penguins. 
+Classify this program as a high-level language or low-level language. Java

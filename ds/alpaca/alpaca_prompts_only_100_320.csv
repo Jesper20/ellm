@@ -1,0 +1,100 @@
+prompt
+Name a sport that is played using a ball 
+Generate a C++ program to print a triangle of stars 
+Describe the difference between a monopoly and an oligopoly 
+Produce a set of instructions to model a distinct snowflake 
+Name a US president who served during the Cold War 
+List out at least 5 stages of grief. 
+List out 3 common uses for a microscope. 
+Give 5 examples of rodents. 
+"Add the missing ingredient for a pizza dough recipe? 1 packet of yeast, 2 cups of warm water, 2 tablespoons of honey, and 4 cups of all-purpose flour"
+Draft a brief paragraph about the advantages of living in a major city. 
+Generate a 10-character PIN code. 
+Summarize the key points of the article about the space race. https://www.history.com/topics/cold-war/space-race
+Share a recipe for making apple pie. 
+"Rank the given companies in terms of profitability. Google, Amazon, Apple"
+Summarize the article about human reproductive health. https://www.plannedparenthood.org/learn/health-and-wellness/reproductive-and-sexual-health
+Generate a list of benefits for using a reusable water bottle. 
+List 3 examples of Shakespeare’s plays. 
+Classify the given animal as a mammal. Hedgehog
+Name the three main components of a hash table. 
+Name three features of HTML 5. 
+Formulate a question answered by the following passage. John F. Kennedy was the 35th President of the United States.
+Generate a sentence which reflects the emotions of a dog who has been mistreated by its owners. 
+"Fill in the blank with a word that is most appropriate in the given sentence. He is so energetic, nothing can __ him down."
+Describe the feeling of a person who is exhausted after a day of work. 
+"Produce a rhyming poem based on the following words: Laughter, joy, happy"
+Transpose the given song into a major key. A minor song
+Suggest a artwork title for a painting of a stormy beach. 
+Generate an original idea for a story based on the following characters: a scientist and an alien. 
+Pick any color from the rainbow 
+Create a slogan for SpaceX 
+Who invented the steam engine? 
+Is this coffee cold? Temperature: 65° Fahrenheit
+Format this sentence into a professional heading Gathering at The Smith's
+Tell us about the benefits of using encryption. 
+"Write an apology letter from a customer to a company. Dear Company, 
+
+I am so sorry for my rude behavior towards your customer representative last week during my attempt to return a product."
+Design a 2D character sprite. 
+"Divide 20 into three groups of seven, two groups of six, and one group of two. "
+Identify all the countries South America. 
+Describe a silly animal. 
+Name five different varieties of tea. 
+Tell us the differences between a refrigerator and a freezer. 
+You want to recommend a popular online streaming service to a friend. 
+"You are required to analyze the following financial statement for any discrepancies. The following financial statement includes total revenue of $13,000, total expenses of $10,000, and net income of $3,000."
+Draft a witty slogan for a snack bar. 
+"Create an example of a funny, yet professional thank you email. "
+Generate a new name of a local ecommerce shop. 
+Return the length of a given string. Hello world
+List three of the most dangerous jobs in the US. 
+"Replace the third $10 bill with a $20 bill. $10, $10, $10"
+"Write two possible headlines for the following article: ""A recent study shows that people who eat a balanced diet are less likely to suffer from depression."""
+Suggest three activities for a family of four to do on a Sunday afternoon. 
+List five financial benefits of owning a home. 
+"Summarize the policy implications of the following article: ""This article examines how the COVID-19 pandemic has affected health disparities in marginalized communities, including communities of color, lower-income communities, and those with limited access to healthcare."""
+Provide a plan to improve the environment of your local park. 
+Describe the difference between jargon and technical language. 
+Compare and contrast the features of a GPT model and a recurrent neural network. 
+What are two technologies used to make autonomous vehicles? 
+"Rewrite the given code in a simpler form. # Declare a list of numbers
+nums = [12, 10, 32, 3, 66, 17, 42, 99, 20]
+
+# Declare new variables
+newlist = []
+
+# Iterate nums and add numbers to newlist
+for i in nums:
+    if i % 2 == 0:
+        newlist.append(i)
+
+print(newlist)"
+What are the two main advantages of using a GPT model compared to traditional programming? 
+"Modify the given code to print out the largest number in the list. nums = [3, 4, 9, 5]
+
+# Iterate over nums
+for num in nums:
+        # Check if num is even
+        if num % 2 == 0:
+                # Print out num
+                print(num)"
+Generate 4 random English words 
+Compute the greatest common divisor of the numbers 24 and 18 
+Create an invention that would be beneficial to society. 
+"Add 3 more animals to the following list Dogs, Cats, Monkeys"
+Compose a tweet about AI to inform people about new developments in the field 
+"Create a new list that contains only the even numbers from the given list. [3, 8, 13, 4, 17, 30]"
+Which technique typically requires the most data to be effective? 
+Edit the following text in a formal style. He wanted to practice the guitar so bad but he never did it
+Name the top 3 benefits of online classes. 
+What three ingredients do you need to make a quesadilla? 
+"Using the input of an article on coronavirus, generate a creative title related to the pandemic. The novel COVID-19 pandemic has disrupted the lives of many people across the globe. Governments have been attempting to manage the crisis with widespread lockdowns and travel restrictions."
+"Using the input of a song about love, generate a chorus for the song. Verse 1: 
+I can feel the sun shine, I can feel the warmth of love 
+And I want to let you know, I will never give up"
+Put a store name to the following statement. We have the best selection of shoes in town
+Which languages does Google Assistant currently support? 
+Develop a plan for an online course. 
+Describe the key features of the latest version of the iPhone. 
+What are the three major pieces of software that are used in web development? 

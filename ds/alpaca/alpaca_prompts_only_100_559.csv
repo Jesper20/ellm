@@ -1,0 +1,100 @@
+prompt
+Create a new character for a movie based on the description given. Description: A strong and witty woman who guards the entrance to a wizard's tower.
+"Categorize the following items by their type.
+Output:
+Apple - Fruit
+Pen - Stationery
+Book - Literature "
+Describe the scene given the details. Scenario: A heated argument taking place in the middle of a busy street
+List five mobile app features 
+Create one example of how a good user experience will make users come back 
+What is a K-Nearest Neighbor algorithm? 
+Describe the five stages of design thinking 
+Explain the topic of descriptive analytics 
+Suggest five activities to help promote self-care 
+"Based on the given information, produce 5 questions that could potentially be asked in an interview. The candidate has 8 years of experience in marketing and sales."
+Apply the scientific method to the given scenario. The goal is to create a one-of-a-kind burger
+"Classify the age group the given text is most likely targeting ""Don't miss this rare chance to meet your favorite singer!"""
+"Construct a dialogue between two friends discussing how their summer break has been ""<noinput>"""
+"Rewrite the phrase ""fast food"" in five different ways ""<noinput>"""
+"Explain how using transitional words help in writing ""<noinput>"""
+"Compare and contrast solving a problem and debating a topic ""<noinput>"""
+"Summarize this concept in a single phrase. Multimodality is the ability to send and receive information through multiple input/output modes, such as text, audio, video, etc."
+Brainstorm some activities that could make an in-person work meeting more engaging. 
+Make a to-do list for a day trip to the beach. 
+Come up with a list of 10 book titles that could form a series 
+Name a historical person associated with the Civil Rights Movement. 
+Generate a fact about the London Eye. 
+Generate a 4-word proverb. 
+"Given a scenario, formulate a logical condition. Scenario: You want to grant access to a certain document to people only after they have filled out a form."
+"Create an efficient algorithm to count the number of elements in an array Array: [3, 4, 7, 5, 1]"
+"Using the data given, build a https://www.cnn.com/ CNN News Summary: ""Today, the White House announced a new action against the Syrian government for their use of chemical weapons."""
+"Narrow down the list of features to the most relevant 10 features for a given product Product: Coffee Maker 
+Features: Auto Shutoff, BPA Free, Programmable Brew Time, 12 Cup Capacity, Pause & Pour Feature, Removable Drip Tray, Water Filtration System, Digital Clock Display, Delay Start, Brew Strength Control"
+Construct a suitable python program to calculate the factorial of a number num = 4
+Construct a suitable SQL query to fetch some data from a given table Table: Inventory
+"Categorize a given set of words. Words: laptop, mouse, keyboard, mobile phone"
+Compose a tweet expressing amazement No input
+Generate a poem based on the following concept: a summer's joy. 
+Create a phrase of encouragement. 
+"Construct a problem statement based on the following information:
+A food delivery company wants to increase the quality of food being prepared by its kitchens. "
+"Summarize the given film review:
+
+The movie has a strong premise but is filled with cliched dialogue and over-the-top acting. "
+Come up with a word cloud based on the following theme: pollution. 
+Write a paragraph about the potential applications for GPT models. 
+Generate a sentence to describe the following: a person sitting on a beach on a sunny day. 
+Explain how GPT works in one sentence. 
+"Rewrite the sentence using a different verb:
+The bank robbed him of his money. "
+"Generate a article headline based on the following information:
+
+The Chinese city of Chengdu is developing a revolutionary new transportation system. "
+"Come up with an alternate rhyming phrase for the following:
+
+Time will fly "
+"Edit the following sentence to make it more concise:
+
+The woman that was running the store was very friendly and helpful. "
+Come up with a question suitable for a trivia game: 
+"Find a sentence in a given text that best describes the theme of the text. Text:
+The sky had been growing dark for hours, and far off in the east there was the faintest hint of silver."
+"Select the most suitable word from the two given to complete this sentence. The book is one of the ____ in the library.
+Options: rarest, fewest"
+"Guess the meaning of this idiom. ""Speak of the devil"""
+Reorganize the words and punctuation marks to make a correct sentence. dog the brown my is
+Write five sentences with the given word. Word: Crescent
+Find a word in the sentence that can be replaced with a pronoun. Tom waited for his friend at the cafe.
+Generate a brochure describing a beachy vacation spot. Maldives
+In your own words explain why it is important to practice yoga. 
+Name one advantage and one disadvantage of using robots in the workplace. 
+Summarize the key points of this meeting in a few sentences. <meeting minutes link>
+Tell me what the word 'adversity' means. 
+Create a conversation between two characters about going to the movies. 
+Write a news report about the latest technological advancements. 
+"Transform the sentence into a question, using the word “how”. John built a race car."
+"Summarize the paragraph in 5-8 words. Robotics is a field of engineering focused on the design and manufacture of robots. It requires a range of skills, including programming, problem solving and creative thinking."
+"Decide if this is a statement, question, imperative, or exclamation. Let’s start the meeting."
+Brainstorm three ideas for a new website that would provide valuable new services to people. 
+Write a news article about gender diversity in computing. 
+Determine whether the following statement is true or false: The temperature of water will always increase when it is heated. 
+Collect five important takeaways from South Africa's 2019 election. 
+Create an algorithm to predict future sales trends. 
+Review the following website to determine if it is a reliable source of scientific research. Http://www.example.com
+Convert the input into Morse code. SOS
+Provide the pronoun for the given sentence. He is an energetic person.
+Brainstorm three ways to become eco-friendly. 
+Get the team opinion on the following statement The decision to go ahead with the project should be made as soon as possible
+Summarize the importance of monitoring air quality 
+List three potential online security risks 
+"Find the equation of the parabola given the focus and directrix Focus: (2, 4), Directrix: y = 0"
+Create a list of 5 adjectives describing the character of Jane. 
+Cite three non-English sources for a research paper on ancient Greek mythology. 
+"Identify three differences between the two figures. Figure 1:
+ 
+Figure 2:"
+Create a report summarizing a book you read. The book “The Great Gatsby” by F. Scott Fitzgerald
+What are the different methods of communication? 
+Compare and contrast conservatism and liberalism. 
+"Subdivide the category ""living things"" into 3 distinct groups. "

@@ -1,0 +1,100 @@
+prompt
+The dog laid in the corner bored from the lack of activity.
+
+The birds chirped outside and the sun shone through the window."
+"Analyze the given computer code and list all errors. def print_word(word):
+  if word[0] == ""#"": 
+    print(word)
+  else: 
+    print(""#+word)"
+Write one limerick about a fish. 
+"Take the given quote and change it into a question. ""No one can do everything, but everyone can do something."""
+Consider the given statement and state whether it is true or false. Apples are members of the citrus family.
+"Suggest a recipe that utilizes the following ingredients. Carrots, Potatoes, and Thyme"
+"Change ""This is an easy task"" to the passive voice. "
+Re-word the following sentence in a formal manner. It's so cold inside the house
+Restate the following sentence but change its verb tense. She wrote a five page essay
+Reformulate the following sentence so it is clearer and simpler: I'm totally oblivious to the fact that I am doing something wrong.
+Generate a random set of four numbers between 1 and 10. 
+"Provide a word similar to the word ""surprising"". "
+"Describe what a ""Market Bubble"" is. "
+Reverse the text and find the output. Krebs
+Look up the definition of 'algorithm' in a dictionary and compose a sentence expressing its meaning. 
+Come up with a creative name for an ice cream flavor. 
+"Identify a common issue in your community and then propose a solution. The community is Brighton, MI."
+Design an outfit for an outdoor picnic. 
+Come up with a new sport that could be played in the Olympics. 
+Explicate the Causes and Effects of World War II. 
+Compose a haiku that reflects on nature. 
+Summarize the relevance of immigration in the US. 
+Replace every noun with a compound noun. The boy played basketball with his friends.
+Fill in the blanks of this haiku. 
+Develop a set of questions to assess someone's knowledge of machine learning. 
+Construct a factorial table for this equation. Equation: (a + b)²
+"Translate the phrase ""Yechh"" into Hindi. "
+Create a cake recipe using only natural ingredients. 
+Write a song about a family reunion. 
+What elements compose zinc oxide? 
+"Identify the odd word among the following. scream, whisper, shout"
+Name five major rivers in India. 
+Generate a list of 5 impacts of climate change on people and the environment. 
+What is a PHP superglobal variable? 
+"Paraphrase this sentence: ""The teachers always finished grading the tests before the students left the classroom."" "
+List the limitations of machine learning algorithms? 
+Helen is considering becoming an English teacher. Describe the pros and cons of this job. 
+What is the best way to maximize results when using a GPT model? 
+"Create a sample input for the task: Given a list of numbers, find the largest number [4, 12, 8, 14, 10]"
+Explain why content optimization is important in natural language processing 
+"Rewrite this sentence in a more concise way: ""Cloud computing is an emerging technology which allows businesses to store and manage data and applications on servers hosted on the internet."" "
+Name three ethical considerations when using data in AI 
+List 3 methods to validate a machine learning model 
+Share an example of real-time data analytics 
+Imagine you are creating a model to detect fraudulent financial transactions. What metrics are important to measure when evaluating this model? 
+"Reorder the list of letters to form a correct word. v, u, m, e, t"
+Describe how a water cycle works. 
+"Design a table to store the information about floral sets. Floral Sets have 6 elements (Name, Image, Type, Colour of Flower, Occasion and Price)."
+Analyse the given tweet and categorize it into the corresponding emotion class. I'm super excited for tomorrow!
+"Find the gross profit of an item after taxation given its cost price and selling price. Cost price: 50
+Selling price: 100"
+List five tropical fruits. 
+"Categorize the following list into different genres Harry Potter, Catcher in the Rye, Lord of the Rings"
+Describe a prototypical website page 
+List the four major functions of an operating system 
+Explain why it is important to manage your online privacy. 
+Tell me the evidence in support of the following statement. Gentrification can have a positive impact on local communities.
+Create an analogy for the following currency exchange. The exchange rate of the US dollar to the British Pound is 1:0.80
+Create an example of a budget for an individual who earns $3000 per month 
+Generate a list of questions to ask a customer who is interested in buying a product 
+Describe an example of how to provide excellent customer service 
+Generate three blog post titles related to the following topic. Organic farming
+Provide five tips to stay organized. 
+"Explain why the following piece of code is wrong. sum = 0
+for i in range(len(num_list)
+sum = sum + num_list[i]"
+Provide three examples of passive voice. 
+Generate five ideas that can be used in a marketing campaign. 
+Categorize the following passage into one of the five stages of the customer journey. A customer is writing a review of a product they recently purchased.
+Explain the purpose of the following line of code. x = x + 1
+"What is the name of a fictional character from the movie, Captain Marvel? "
+Describe a real-world example of a machine learning-based project. 
+"Summarize the article, “10 Ways AI is Changing Businesses.” "
+"Rewrite this sentence using the same meaning:
+He is trying to talk fast He is trying to talk fast"
+Generate a list of tips to be successful in online classes. 
+How can businesses use AI technology to optimize customer service? 
+"Rewrite this sentence using the same meaning:
+I am going to take a break I am going to take a break"
+"Classify these items under three categories: fruits, vegetables, and grains. Apples, Oranges, Carrots, Potatoes"
+"Rewrite this sentence using the same meaning:
+He had a long meeting He had a long meeting"
+How can businesses use AI technology to improve their marketing efforts? 
+Find the value of a in the equation 16 = a2 + 6a. 
+Compare the risk factors for type 1 and type 2 diabetes. 
+"Compose a story based on the prompt: ""The monster emerged from the darkness"". "
+Replace the underlined phrase in the sentence with a suitable phrase. They had incredible excited to go on the trip.
+"Pick the suitable synonym in the given list protuberance, aberration, prominence"
+Write an article about the relationship between mental health and eating habits 
+Rewrite the following statement using a passive voice John watches television every night
+Make an argument for the benefits of homeschooling 
+Explain what is data mining 
+"Group the following countries into two different regions India, Mexico, Japan, Australia"

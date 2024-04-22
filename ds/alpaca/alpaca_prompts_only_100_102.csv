@@ -1,0 +1,100 @@
+prompt
+Give four examples of natural language processing tasks 
+Convert the following sentence from one tense to another He is walking to the store.
+"Assist in debugging a Python script. The script takes two arguments, the required number of players in the game and the number of games played. It then produces a statement to report on the average number of players.
+
+import sys
+ 
+if len(sys.argv) == 3:
+    players = int(sys.argv[1])
+    games = int(sys.argv[2]):
+
+average = str( players / games)
+print(""The average number of players was: "" + average)"
+"Read the following passage and identify an example of figurative language. ""My troubles have wings and soar away into the sky"""
+Trace the given function on the x-axis to find the output. f(x) = 2x + 1
+Edit a sentence to change the sentence structure and make it more interesting. The government has imposed more restrictions.
+"Generate a creative title that summarises the following article. A new report suggests that an increase in carbon dioxide levels has led to higher temperatures, more extreme weather events and a rapid decline in biodiversity."
+"Compare the given two objects and provide a concise description of the comparison. Object 1: Apple
+Object 2: Orange"
+Write a laptop review on the given laptop Lenovo Yoga 920
+Generate a list of 10 unique houseplants that are low maintenance 
+"Expand on the given situation and create a story Once upon a time, there was a young girl living in a small village"
+"Suggest a dessert name based on the provided ingredients Chocolate, strawberries, macadamia nuts"
+Generate an advertising slogan for a given product Amazon Prime
+Construct a query in SQL for given requirement Retrieve all the records from the table 'sales'
+Summarize the key points from the given book Alice's Adventures in Wonderland
+Create a research question for the provided topic Rising sea levels
+"Summarize the theme of this novel. The novel ""The Great Gatsby"" by F. Scott Fitzgerald."
+Develop a marketing strategy for an online store. 
+"Given a list of ingredients, tell us how to prepare a simple vegan meal. Pasta, tomatoes, red onion, garlic."
+Find two examples of binary classification problems. 
+Develop a persuasive argument for why people should donate to a charity. 
+Suggest five marketing tactics for a product launch. 
+Give an example of a classification problem that requires continuous input values? 
+"Convert the following list of items into a sentence apple, banana, orange"
+Name three common adjectives that describe people 
+Write a valid comparison statement Basketball and soccer
+"Outline the following passage American astronauts have explored the moon since 1969. They have built bases, driven lunar rovers and collected samples."
+Describe three places in your city 
+"Write a paragraph describing the given characteristics about a person Name: Abigail
+Likes: Action films, french food, passionate about business"
+Name 3 applications for artificial intelligence 
+"Convert the dates into ISO 8601 format November 25, 2020"
+Write a C++ library that implements a linked list 
+Create an acronym for a given phrase Secure Digital
+Write an equation for a given problem Calculate the net force when two forces of 4N and 6N are acting in the same direction
+Generate a list of potential topics for a given blog Marketing
+Calculate the area of a given shape Rectangle with width 5 cm and height 10 cm
+"Guess the next element in a given sequence 3, 5, 7, 9, __"
+Name some common uses of a given item Screw Driver
+"Simulate the output of a given code public class HelloWorld {
+   public static void main(String[] args) {
+      System.out.println(""Hello, World"");
+   }
+}"
+Classify this article as either opinion or news Newspaper reports that the government has announced its decision to deploy additional armed forces in the region.
+What are the three most important components of an email message? 
+"Identify the different types of event shown on the given timeline. Date: May 10th to June 1st:
+- Design Sprint
+- Engineering Planning
+- Entire Team Meeting"
+Rewrite the given sentence by replacing the noun with a pronoun. The doctor looked at his patient.
+"Create an alert in the given text. The upcoming meeting has been postponed, and it has been rescheduled for Wednesday, April 1st."
+Rewrite the given sentence so that it becomes a rhetorical question. He had never seen the ocean before.
+Paraphrase the given sentence by using a different set of words. He's always trying to get ahead in life.
+Tell me a way to grow herbs in the winter. 
+Make a list of 20 macroeconomic indicators. 
+"Rewrite the sentence ""Bob lived with his family"" in passive voice. "
+Identify the impact of global warming on sea levels. 
+Determine the chemical symbol of silver. 
+Compare and contrast the painting styles of Monet and Van Gogh. 
+Classify the following number into prime or composite. 7
+Write a joke involving a book. 
+"Categorize the following poems into their appropriate style. I. I wandered lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils
+
+II. Flinging ecstatic mirth
+In the hollows of my mind,
+My heart will bless the happy earth
+For the beautiful sweet dream I find
+
+III. In the village church yard
+She stands; in her rue-brown guize,
+With the clay-cold turf of the buri'd dead
+Under neath her feet so wise
+
+IV. Stay, stay at home, my heart, and rest;
+ Home-keeping hearts are happiest,
+ For those that wander they know not
+ Where they shall find a more blest"
+Rewrite the following sentence using a technique of your choosing. I felt overjoyed when I finally passed the exam.
+Rewrite the following sentence with better English grammar and simpler language. It is the duty of every single person to ensure that as many of the bystanders as reasonably possible are unharmed in the event of an emergency.
+"Generate an example of a saying that is related to the proverb ""A stitch in time saves nine"". "
+Generate a 500-word story about a man who finds himself in an unfamiliar city. 
+Generate an example of a metaphor that is related to hope. 
+Come up with a slogan or phrase that expresses the concept of gratitude. 
+Can you change the sentence to use a synonym for the word 'acquire'? The company has been trying to acquire new customers.
+Provide an example of a task that requires logical reasoning. 

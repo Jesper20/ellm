@@ -1,0 +1,100 @@
+prompt
+"Assume you're visiting a restaurant, what would you ask the waiter for? "
+"Reconstruct the following sentence by replacing the word ""an"" with the appropriate pronoun. I need an answer as soon as possible."
+"Given a product description, come up with an advertising slogan. This electronic guitar has intuitive controls and realistic sound."
+Provide a list of activities for a three year old during a 6-hour plane ride. 
+Brainstorm three novel ideas that can be used to promote a new travel agency service. 
+"Evaluate the following article to find the strengths and weaknesses. Pittsburgh is a city that has reinvented itself and is now one of the most vibrent economies in the United States. With an ever-growing population and an equally strong talent pool moving to the city and diverse industries and an attractive quality of living – Pittsburgh is truly a great place to live, work and play.
+
+The city is a major hub for innovation and creativity with the second HQ of Google and Amazon reportedly located in the city. The vibrant cityscape and a technology driven job market makes it a great place for professionals flock to for opportunity and stability.
+
+Internationally, the city has always been a leader in the technology and innovation driven economy for the past three decades. At any given time there are more than 500 tech startups and entrepreneurial ventures in the city.
+
+The city has also been at the forefront in the green movement, with initiatives such as the GoGreen Pittsburgh program to conserve energy and reduce waste."
+Draft an email to a singer requesting her to perform in a charity event. 
+"Compare the two solutions mentioned below and choose the most suitable one Solution A: Automate the manual process to improve efficiency. 
+Solution B: Replace the existing process with a newly designed one."
+Design a questionnaire to evaluate the customer satisfaction of an online store. 
+Brainstorm three strategies to engage potential customers. 
+Classify the following items as either a fixed cost or a variable cost. Rent
+Generate a headline for the article that explains the following information: A new study from Harvard shows that students are suffering from more stress and anxiety than ever before.
+Insert a word to replace the blank. Kerry is so cautious _____ she often plans her decisions several times over.
+Rewrite the following sentence in simple English. The collection of computer programs that are used to operate a computer system.
+"Given a list of countries, find the ones with the lowest population. India, Brazil, Mexico, China, Germany"
+"Given a list of cities, determine the closest one to the equator. Madrid, Cairo, Beijing, Tokyo"
+Shorten the following sentence to be 3-5 words. She started to jog around the track before the rain fell.
+Create a question that could be used to test someone's understanding of the given information. The 2022 FIFA World Cup will be hosted in Qatar.
+Create an abstract painting. 
+Summarize the book Animal Farm in 100 words. 
+Convert this equation 7x^2 + 2x + 7 = 0 into quadratic form. 
+Find the differences between the US Constitution and the French Constitution of 1958. 
+Explain why some elements have the same properties. 
+Answer the following question: How can renewable energy be used to combat climate change? 
+Design the interior of a high-end restaurant. 
+Describe the differences between an omnivore and a vegetarian diet. 
+Find a way to make an old sweater into something new. 
+Tell us about an example of a computer virus and how it works. 
+Explain the anatomy of a bicycle. 
+"How would you classify this sentence? ""I love to play soccer."" "
+Find three examples of British English slang. 
+"Edit this sentence: ""You've done such a great job."" "
+"You are in charge of designing a company logo. Design a unique logo with colors, shapes, and symbols of your choice. "
+"You are given a list of questions, classify each into one of the following five categories: medical, history, science, business, art. Which country was first to land a spacecraft on the moon?"
+Edit the following passage so that it reads smoothly without any grammar mistakes. The discovery of the new planet surprised many astronaouts.
+"Convert this list of numbers into a comma-separated string [10, 20, 30, 40, 50]"
+Create an HTML page with a heading and a subheading 
+Create a function to calculate the circumference of a circle 
+Name two vegetables that start with the letter A 
+Select a reasonable example to show the output of a simple linear regression model. 
+Describe in detail the process of creating an API. 
+Generate a creative and challenging game. 
+Suggest ways to improve the usability of a blog website. 
+Write a security policy for storing data in the cloud. 
+Create an example input for a sentiment analysis model. 
+Generate a list of potential features that a health tracking mobile app could use. 
+Design a program for forecasting international weather. 
+Develop a system to monitor gaming servers. 
+Compose some rules for a board game. 
+"Create an input example for a text summarization model. Apple has sold more than 1 billion iPhones since the device first launched in 2007. It recently released the iPhone 8 and iPhone 8 Plus, which feature glass bodies and A11 Bionic chips."
+"Create a program that prints out a given string in reverse. ""<noinput>"""
+Create an example dataset related to the following topic. Population of European countries
+"Given the following code, write a comment about its purpose. def multiply(a, b):
+    c = a * b
+    return c"
+"Given the following set of numbers, calculate the mean. 3, 4, 6, 8, 10"
+Name five members of Shakespeare's Globe theatre. 
+Describe the art style of Vincent van Gogh in a few sentences. 
+Cell phones are bringing about a revolution in communication. Explain. 
+Create a poem that compares the sky to the ocean. 
+What are the main features of the Periodic Table? 
+Name two causes of the American Revolutionary War. 
+"Translate the following sentence into French: ""The sky is blue today."" "
+Generate five possible titles for a blog post about financial management. 
+"Categorize the following words as fruits or vegetables: blueberries, onion, tomatoes, grapefruit. "
+"Reverse engineer the following lyrics: ""Riding high on the wings of a dream"" "
+"Analyze the political implications of this news article. The President announced yesterday a plan to increase the budget for defense by 10%, amounting to over 1 trillion dollars in the next 6 years."
+Come up with an invention to solve this problem. The problem of plastic waste.
+Generate a slogan for this organization. Organization name: Save the Pigs
+Make a list of the pros and cons of this career. Career: Sports coach
+Add a single line of dialogue to react to this situation. The police officer is walking towards you with a pair of handcuffs.
+Re-write this sentence in a clear and concise manner. We received the boxes yesterday and when we opened them up all of the items inside were in a complete state of disarray.
+Design a type of clothing for a specific occasion. Occasion: Election day
+Create a profile for a new user. Username: @superfan
+Convert the given recipe from cups to grams. 1 cup of flour
+"Classify the given animal into one of these categories: mammal, fish, amphibian, reptile, or bird. dog"
+Create a fill in the blank question from the given sentence. Tom is a popular student at the school.
+Give an example explain the concept of ‘natural selection’. 
+Name the three branches of philosophy. 
+Make a list of elements from Group 16 of the periodic table. 
+Change the following to a negative form. I cannot deny it.
+Identify a musical instrument from the following description. A string instrument with a bow used to play classical music.
+Replay a user's text with a different sentiment. I'm really excited about this!
+"Find the average of 85, 44 and 102. "
+Write an e-mail to the manager to express dissatisfaction. 
+Calculate 50% of 300. 
+Explain the significance of the Berlin Wall. 
+Explain the concept of Big O notation in coding. 
+Generate a random eight-digit number using the built-in Python function. 
+Construct a regular expression to validate a string of 8 to 30 alphanumeric characters. 
+What is naive bayes? 
+"Generate a string of numbers that follows this pattern: 6, 11, 16, 21, ... "

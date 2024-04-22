@@ -1,0 +1,100 @@
+prompt
+Compile the given pieces of data into a chart. Data: population of France from year 1975 through 2020
+Create 10 topic related questions for a survey about modern fashion trends in the US. 
+"Given a list of topics, find a source or a citation for each topic. Topics: Climate Change, US Presidential Elections"
+Create a to-do list for someone who just moved into a new house. 
+Write a poem about being brave 
+Generate a conversation between two friends who met after a long time. 
+"Convert the following data into a pie chart. Technology: 80%, Entertainment: 10%, Education: 10%"
+"Explain what ""Garbage in, garbage out"" means "
+"Suggest a solution for this leetcode problem Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:
+
+Any left parenthesis '(' must have a corresponding right parenthesis ')'.
+Any right parenthesis ')' must have a corresponding left parenthesis '('.
+Left parenthesis '(' must go before the corresponding right parenthesis ')'.
+'*' could be treated as a single right parenthesis ')' or a single left parenthesis '(' or an empty string.
+
+An empty string is also valid."
+Rewrite each of the following sentences to express the same concept as a question. He made a million dollars.
+Evaluate the following sentence for sentiment: The pizza was terrible.
+Break the following sentence into clauses and identify each clause's syntactic function: The workshop had ended and the participants had gone home.
+"Complete the story by adding a suitable ending Once upon a time, there was a farmer who lived in a small town. He had a small farm with a few animals. Every morning, he would go out to tend to his animals. One day, he heard a loud noise coming from the woods behind his farm"
+What data type does the following text represent? 25.09
+"Determine which dataset is more useful Option A - Patient survey results
+Option B - Patient medical records"
+Generate a sentence about dolphins 
+Explain why we should save water 
+Spell 'HAPPY' using mathematical symbols 
+Describe an example of customer service done right. 
+Provide a 2-sentence review of the following piece of work A podcast that explores the intersection between technology and mental wellbeing
+Describe the process of natural selection in 1-2 sentences. 
+"Given a piece of news, rewrite it in a sarcastic tone. Google announced its new ""Business Suite"" for small businesses."
+Generate an appropriate love poem title based on the given input. a rainy day
+Describe what self-awareness means in 1-2 sentences. 
+Make a list of items for the perfect camping trip in the summer. 
+"Summarize the article about the new computer system at the company. The company recently invested in a new computer system, which was created to help automate manual processes and increase efficiency. This system uses artificial intelligence to interpret customer data, automatically generate reports, and automate customer billing processes."
+Can you please answer the given question? Question: How has technology changed the way we learn?
+Rewrite the sentence to use more descriptive language. The sky is beautiful.
+Come up with 5 adjectives that describe the given item. car
+What kind of food do they usually eat in Spain? 
+"Edit the sentence to use less than 70 characters. No one in the family believe what happened, the whole thing was just too hard for everyone to comprehend."
+How can an employer best motivate their employees to reach the next level of success? 
+What do you think are the consequences of using a mobile phone at school? 
+Design a trading strategy for stock XYZ with at least 5 rules. 
+"Transform the given code to use structure data type. name=""John""
+age=40
+height=1.87"
+"Choose the word that has the correct synonym for the highlighted word. The teacher taught the class about ____ of the earth
+A. crust
+B. solstice
+C. core
+D. magma"
+How do you cook fried potatoes? 
+Summarize the main topic and purpose of this article. https://www.kcl.ac.uk/news/artificial-intelligence-clinical-trials
+"Create a GUI which divides a window into four panels, left to right and up to down. "
+Suggest a strategy for solving this Rubik's cube puzzle. 
+"Add a feature in the given code so that it can accept wildcards and special characters. # Python 3 program to validate 
+# IPv4 address 
+
+# Function to validate a given IPv4 address. 
+def validate_IPv4(s): 
+    l = s.split(""."") 
+    if len(l) != 4: 
+        return False
+    for x in l: 
+        if not x.isdigit() or int(x)>255: 
+            return False
+    return True
+
+# Driver Code 
+s = ""192.168.1.2""
+if validate_IPv4(s): 
+    print(""valid"") 
+else: 
+    print(""Invalid"")"
+Edit the sentence as follows - keep the same meaning but make the sentence shorter. The athlete finished the race but was nonetheless discouraged by the result.
+"given a sentence, generate a similar sentence that has a different perspective. He was too afraid to cross the river."
+"Write a description that conveys the given information about a creature. Name: Basilisk
+Size: 6 feet tall
+Lifespan: 200 years"
+Which sentence is more polite - write the more polite version. Hey! Can you pass that to me?
+"Insert the following transition in the sentence. He was a great student but rarely received praise.
+Transition: Despite"
+Generate a story that explains why the following two facts are true - a llama and a lemur have the same number of teeth. 
+Translate the sentence into an idiomatic expression. He was amused by the situation.
+Make a list of 5 sentence starters that use the given conjunction. Conjunction: Even though
+"Make a new sentence using the words given. rose, secret"
+Create a hypothesis about why elephants have such big ears. 
+Explain what is the centripetal force. 
+Name three ways to conserve energy. 
+Provide an adjective phrase for the given noun. Table
+"Create a summary for this article. The article discusses the implications of machine learning for business applications, particularly in terms of its potential effect on operational efficiency and customer experience. The author argues that when businesses fully embrace machine learning, they will benefit from improved capabilities such as autonomous decision-making, personalized products and services, and dynamic pricing. Furthermore, they will have the potential to monetize the data they are collecting in order to gain deeper insights into their customer base."
+"Group the following types of birds into two categories. Hummingbird, Pigeon, Parrot, Hawk"
+"Create a list of possible outcomes given the following input and output. Input: ""What is the weather in Tokyo tomorrow?""
+Output: ""It will be sunny with a high of 25 degrees Celsius."""
+"Create a task instruction to classify the answers of an open-ended question into positive and negative categories. Open-ended question: ""What do you think about the new policy?"""
+Create a task to detect all the words in a given sentence that are all-caps. PowerBI IS One OF THE BEST Data Visualization TOOLS.
+"Define the word ""oxymoron"". "
+Create a new flavor of cornbread. 
+Design a logo for an online accounting software. 
+"What type of noun is ""drivers""? "

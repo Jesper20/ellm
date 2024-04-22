@@ -1,0 +1,100 @@
+prompt
+Provide a list of five species of birds found in the United States. 
+Generate a list of strategies to reduce water wastage. 
+How would you explain the definition of 'time series data' to non-technical people? 
+Describe the benefits of using a relational database management system. 
+Give an example of a data mining problem that consists of open-ended generation. 
+Convert 12 liters to gallons. 
+Provide two examples for unsupervised learning problems. 
+Generate a list of five books you think would be good for teenagers. 
+Explain the usage of an ontology in artificial intelligence. 
+Describe the characters in the movie. The Lion King
+Identify a famous scientist. 
+List five African countries. 
+Convince me to buy a product. An apple watch
+"In the following document, replace the phrase “investment program” with “business strategy” We are launching an investment program to help grow our company."
+"Review the introduction of the following article Introduction 
+
+Artificial Intelligence (AI) has made its way into businesses, computers and even mobile applications. It has the potential to revolutionize how we do things, from the way we automate our daily tasks such as grocery shopping to how we make decisions."
+Identify the correct adverb and then explain what type of adverb it is. She finished her project quickly.
+Read the following sentence and explain what type of sentence it is. I will be taking the train.
+Complete the following sentence in two or fewer words. Throwing a party requires a lot of _____.
+Find the type of metaphor and explain what it means. Love is a language.
+"Explain how the following two sentences are together grammatically. We ran as fast as we could. Still, we arrived late."
+Describe how you would use a machine learning model to predict house prices. 
+"Categorize the following news article into one of the labels 'sports','politics','entertainment','technology','finance'. Apple Holds Launch Event For Iphone 11"
+Reformulate the following sentence to express an opinion. Electric cars are the future of smart transportation.
+Describe the similarities between decision trees and random forests. 
+List some strategies for reducing our reliance on single-use plastics. 
+Invent a creative name for a new type of drink. 
+Design a game involving numbers that could be used in the classroom. 
+"Given an existing piece of artwork, come up with a title for it. An oil painting of two dogs playing fetch in the snow"
+Describe a personality trait that is essential for a successful entrepreneur. 
+Write a symphony that musically tells the story of a thunderstorm. 
+Write a task instruction that requires input and can be answered by a GPT model. 
+Design a new type of board game. 
+Describe a common mistake people make with regards to the given subject. Artificial Intelligence
+Brainstorm potential applications of the given subject Natural Language Processing
+Analyze the given sentence and determine whether it is grammatically correct or not. He had to had renewed his license.
+"In the following sentence, determine what type of word ""it"" represents John put forth his best effort, but it was insufficient."
+"According to the given text, what is the main argument being made? As technology continues to develop and evolve, it is now becoming possible to automate many mundane tasks that once required humans to perform."
+"Read the following passage and determine the tone of the author. The current trend towards automation is one that should be commended and encouraged. Now more than ever, technology is making it possible for humans to accomplish the same goals with greater precision and efficiency."
+"Based on the given text, what is the implied meaning? He was told to do it, but he never got around to it."
+What type of sentence is the given example? Have you done your homework yet?
+"For the given instruction, generate an input and output. Instruction: Generate a story about walking in a forest"
+Explain the factors that make the given technique successful Genetic Algorithm
+Create a timeline which records the key events in the development of the given subject. Quantum Computing
+Tell me why the following actions are unethical. A company is using facial recognition technology to create psychological profiles of its customers
+Generate 3 additional features that a mobile phone should have. 
+Describe how the following characters are different. Yoda and Darth Vader
+Generate a metaphor that compares a mountain and a person. 
+"Identify the main idea of the following paragraph and write it as a single sentence. We live in a time of great technological advancements. With the invention of social media and widespread access to the internet, people can now interact, exchange information, and form connections more quickly than at any other point in history."
+Identify the genre of the following novel and explain why. The Catcher in the Rye by J.D. Salinger
+Design a 5-sentence story that starts with the given first sentence. He stepped out of the house and onto the street.
+Classify the following statement as belonging to the category of either clear or unclear writing The data analysis provided insights into the text accuracy.
+Calculate the total cost if 7 items are purchased at $42 each. 7 items purchased at $42 each.
+Explain the difference between a neural network and an artificial neural network. 
+Generate sentence using word2vec 
+"Color each statement as true or false Python is a programming language
+R is a statistical language"
+Name a marketing strategy to increase brand visibility 
+Create a tagline that summarizes the following description A travel agency specializing in trips to exotic destinations
+"Identify the correct sequence A, B, C, D"
+Generate a list of three action items that can improve customer service 
+Devise an effective strategy to increase customer engagement 
+Extract four highlights from the given article. https://www.cnet.com/news/zoom-adds-security-and-encryption-in-latest-update/
+Tell whether the given statement is accurate or not. The color of sorrow is purple.
+Point out two flaws in the given argument. We should increase the tax rates for the wealthy because then they will have less money to spend on luxury items and cause less inflation.
+"Given a sentence about relationships, provide a related new sentence that emphasizes how feelings are stronger than facts. Relationships are based on shared interests and respect."
+List three things that you can do to stay calm when something unexpected happens. 
+Construct a sentence to describe the first time you saw the ocean. 
+Edit the following sentence so that it expresses an opinion: Social media can be both positive and negative.
+Provide two examples of activities that require physical strength. 
+"Provide a sentence to illustrate the following idiom: "" When the going gets tough, the tough get going."" "
+Generate a sentence to describe your favorite teacher. 
+"For the given product, generate a headline for an advertisement that benefits from alliteration. Product: Smartwatch"
+"Generate a job promotion announcement for the following candidate. Name: Elizabeth King 
+Position: Sales Manager 
+Company: ABC Corp"
+Translate the following phrase into a series of emojis. Dance all night
+"Generate an open-ended story based on the following prompts. Prompts: False accusation, Tower, Mallet"
+Generate a classification-based question about the following product. Product: Smartphone
+Generate a historical trivia question about the following topic. Topic: World War I
+Describe the different categories of data collection. <no input>
+Rearrange the adjectives in the following sentence to form a more descriptive phrase. The family had a small brown old house.
+Identify the type of conflict present in the given statement. The woman resisted her family's pressure to continue working as a maid.
+"Rewrite this sentence to correct the usage of the word ""it's"" I realized it's was a mistake."
+Rewrite this sentence to correct the incorrectly used homophones. The teacher effected the students about the importance of time management.
+Convert the following statement from plural to singular. The cars are parked outside.
+Rewrite this sentence to convey the same meaning in a more concise form. We made a decision to increase the number of people working on the project.
+"Compare the two events in the input field Event 1: The demonstrators gathered at the state capitol in defiance of the stay-at-home order.
+Event 2: The protesters led a march through the city in support of their demands."
+Elaborate on the statement in the input field The world has become increasingly connected in the modern era.
+Can you paraphrase this sentence with similar meaning? COVID-19 is having a negative impact on the world.
+Classify the sentence in the input field. Public transport has been disrupted due to the pandemic.
+"What is this sentence saying? Until a vaccine is found, social distancing is the only way to stay safe from the virus."
+Explain the significance of the text in the input field The number of people relying on government aid has risen considerably due to the pandemic.
+Suggest an improvement for the sentence The season has started and the teams are set.
+"Does the sentence use the correct tense? Answer with ""Correct"" or ""Incorrect"". My teacher have been teaching me for the last year."
+Rewrite the sentence to avoid repetition The cat jumped and the cat leaped.
+"Match up the given items in a list. Poodles, Collies, Labradors"

@@ -1,0 +1,100 @@
+prompt
+"Calculate the mean of this list [1, 5, 3, 8, 4]"
+"Transfer the styling of this sentence to the following sentence The tiger is a powerful creature
+It is also very majestic"
+What is the largest mammal? 
+Compare two types of engines Diesel and gasoline
+Compose a limerick about a snowman. 
+What are the causes of poverty in low-income countries? 
+Imagine you are on a mission to Mars and write a diary entry about the experience. 
+Define the term ‘genetic engineering’ 
+Examine the impact of technology on global warming 
+What pets would be suitable for someone who lives in a small apartment without a yard? 
+Create a story about a dog that finds a magical portal. 
+Find the derivative of f(x) = x^3 + 5x + 10 f(x) = x^3 + 5x + 10
+Write a description of a new type of computer game 
+Name three colors that create a complementary color scheme 
+"Rewrite this sentence: ""The old man smiled sadly."" The old man smiled sadly."
+Name an animal that only lives in the Sahara Desert 
+"Construct a bibliography of the book ""Alice's Adventures in Wonderland"" Alice's Adventures in Wonderland"
+"Edit the sentence: ""Unfortunately, the store will be close today."" Unfortunately, the store will be close today."
+Identify the timezone for the following city. Tokyo
+Estimate the length of the following river. Amazon
+List 3 ingredients for the following recipe. Spaghetti Bolognese
+Classify the following computer language. HTML
+"Using the input provided, write a story about a student who graduates from a university and returns home. Name: Jayden, University: UCSD, University Program: Engineering, Country: United States"
+Suggest a way to improve the user experience of an online banking website. 
+"Construct a query for a given database to join two tables. Tables: Products, Inventory"
+Generate five unique titles for a thriller novel. 
+"Adjust the formatting in the given paper, ensuring that all items in the list are correctly aligned, and the references are done according to APA guidelines. The paper is about the significance of animals in human culture.
+
+Animals play an important role in human cultures around the world:
+              1. Animals are a source of food, clothing, and shelter.
+              2. Animals are an integral part of many religious and spiritual beliefs. 
+             3. Animals have served as a source of companionship and comfort for people throughout history. 
+References:
+Armstrong, E. (2017). Animal-human relationships in history. Animal Behavior and Cognition, 4(2), 79-81."
+"Construct a query to remove a specific record from the table. Table: Customers, Record: CustomerID = 119"
+Answer the following question in 150-200 words. How does artificial intelligence technology impact the economy?
+Generate a set of instructions and input to classify online reviews as positive or negative. 
+"Using the input, create a view in the database. Table: Students"
+Construct five queries for a given database. Table: Items
+Compose a program to convert temperatures from Fahrenheit to Celsius. 
+"Given a user query, summarize the results through keyword extraction. Query about the coronavirus pandemic"
+"Given a climate change article, edit it to make it more persuasive. Climate change poses a serious threat to the environment. We are now witnessing disastrous natural events like hurricanes and floods. We should take action now to protect our planet and mitigate the effects of climate change."
+Find the 29th character in the following string. abcdefghijklmnopqrstuvwxyz
+"Given a user query, translate it into a boolean expression. Find all books published between 1980 and 1990"
+Generate a unique web page title for a blog post about wild birds. 
+Identify five good restaurants in Boston. 
+"Calculate the difference between 5,628 and 12,946. "
+Name 3 healthy food choices 
+Reverse engineer the following recipe: Tomato Bisque 
+"Craft a story from the following three words: Moon, Whale, Balloon "
+Translate the following sentence into French: I went to the store. 
+Compose a tweet about the importance of community in times of crisis 
+Create a character sketch of Luke Skywalker 
+Generate a line of code that sets two variables equal to one another. Let x = 3
+Think of an activity that parents can do with their children 
+Compose a metaphor about exploring the unknown 
+Name 3 US presidents 
+Describe the weather in France today. 
+"Give a product suggestion based on the following criteria. The customer is looking for a high-quality laptop with a 15-inch screen, and a budget of $1,000."
+Explain what a Gini coefficient is. 
+Classify the following item as a Maslow's hierarchy of needs. Feeling of accomplishment
+"Classify this email as an Inquiry or Suggestion Hello,
+
+I am writing to suggest that the store stock more organic produce.
+
+Sincerely,
+
+ john"
+"Given a list of demands, generate a statement summarizing them - An increase in the minimum wage
+- Universal health care
+- Paid family leave"
+"Compare two given sentence to find the linguistic similarities The cat chased the mouse.
+The dog chased the rabbit."
+"Given two people and their conversations, output a dialogue between them Person A: What do you like to do in your free time?
+
+Person B: I like reading books, walking and playing chess."
+"Given 3 numbers, predict what the fourth number should be 3, 7, 12"
+Get topical information from the given web page https://www.theguardian.com/world/2020/may/14/coronavirus-latest-news-covid-19-updates-south-asia-india-bangladesh
+"Given some text and a keyword, generate a sentence which includes that keyword John likes hiking.
+Keyword: trails"
+"Given some text and two people, show the difference in the sentiment John: I am so excited to go to the beach this summer!
+
+Jessica: I don't think I'm going."
+"Given the name of a movie and its genre, generate a short description of the movie Movie: Aquaman
+Genre: Action/Adventure"
+Create an if-else statement in Python. 
+Brainstorm three ideas for creating a marketing campaign for a summer movie. 
+Generate a cover letter for a junior web developer applying for a job position. 
+Generate an AI use case for a retail company. 
+List three benefits of using deep learning for healthcare applications. 
+Provide a plausible example of how AI can be used in agriculture. 
+Generate a poetic simile about the moon. 
+Generate a potential topic for a research paper. 
+Come up with a creative idea surrounding the following topic. Music
+"What is the theme of this piece of writing? She had always dreamed of going to the moon, so she took a brave step and applied for a one-way ticket to the stars."
+"Given two people, A and B, explain why A is more successful than B in one sentence. A: Business mogul
+B: Struggling entrepreneur"
+Identify the biggest challenge in using AI for medical diagnosis. 

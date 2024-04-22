@@ -1,0 +1,100 @@
+prompt
+Detect if the following sentence contains any factual errors. Output 1 for error and 0 for no error. The Australian Parliament is located in Sydney.
+Create a poem of five lines with a unique rhyme scheme. 
+"Compose a tweet in response to the following endorsement.
+Output should be lead by a hashtag followed by the text within 280 characters. We are proud to endorse Susan for the upcoming election"
+"Compile a Python program from the following code. print(""Hello World"")"
+Suggest an interesting sentence that uses alliteration. 
+"Identify the fallacy used in the following statement.
+Output should be a single word. We should not accept the refugees from Syria because they are likely to steal from us."
+Create a SQL query to get the list of customers who purchased items over $500. Given two tables: Orders and Customers.
+Generate a creative phrase that describes a foggy morning. 
+"Predict the next item in the list. Monday, Tuesday, Wednesday"
+"Construct a vocabulary list of ten words related to ""geography"". "
+Describe the species classification of a rose. 
+Convert 4.19 kg to pounds. 
+"Write a sub-heading for the topic ""electric cars"". "
+Name two cities in Canada 
+"Find the area of the triangle with sides 3, 4, and 5. "
+Classify whether the content is appropriate for Children or not. They say Monica needs to grow up. She's 18 and probably thinks she's too cool for school. She dresses provocatively and talks back to her family.
+Create a succinct introduction for an article on artificial intelligence. The use of artificial intelligence is growing in its ubiquity with applications ranging from driverless cars to neuromorphic chips for computing.
+Compare and contrast two characters in the movie The Avengers. Captain America and Iron Man
+"Summarize an article on stock trading. This article will cover the basics of stock trading and investing. It'll define stock trading, explain how to get started trading stocks, discuss the major players in the stock market and cover some of the different types of trading strategies."
+Summarize the main argument of the following blog post: This post will discuss the implications of facial recognition on our personal privacy and its far-reaching implications.
+What type of books do you recommend? 
+What is the movie rating for the movie: Dark Knight? Dark Knight
+Please create a memorable mission statement for a charity organization. 
+Please provide a business overview of ABC Corporation. ABC Corporation
+Create a script of a customer service conversation between two people. 
+Please summarize the following article about AI in two sentences. Artificial intelligence (AI) has been around for decades but its potential as an incredibly powerful tool is just beginning to be realized. AI can be used in any field from healthcare to finance to education in order to solve complex problems and speed up processes.
+Please provide some tips for writing a good blog post. 
+How did Netflix become so successful? 
+What is the average air temperature in Brazil during summer? 
+What is the Junean Calendar? 
+Give me 5 ideas to enhance customer experience while booking an air ticket. 
+What is the world record for the longest non-stop flight? 
+I want to go on a vacation. Suggest a destination. 
+"Design an automated response for a customer service chatbot. Customer: Hi, I'm looking for help with a product issue."
+Create a web page for an online pet store. 
+"Classify the following tweet as being positive, negative, or neutral: ""My textbooks are still on the way!"". "
+"Translate this sentence into Spanish: ""This flower is so beautiful."" "
+I'm going to buy a car. What is the most important factor I should consider? 
+What is the difference between an LCD and an LED monitor? 
+Generate five multiple choice options for the following question. What is the capital of Thailand?
+Write a post for a blog discussing the reasons why someone should travel. 
+Generate a metaphor describing a relentless pursuit. 
+List three of the most common chronic diseases. 
+Write a paragraph describing an event taking place at night. 
+"Given the sentence, classify it according to type. She decided to fly a kite in the park."
+Please suggest a more concise version of the sentence. This experiment that we conducted was a very interesting one and it was highly successful.
+Write a story of length 40 words based on the given input. Elephant in the House
+"Given the input, generate an appropriate title for the photo. Image of two people on a beach watching the sunset"
+Generate a limerick that rhymes with the given word. Fox
+"Given the topic, generate a story of length 100 words. The rise of artificial intelligence"
+Create a rhetorical question to encourage discussion about the given topic. Environmental sustainability
+Evaluate the soundness of the following argument. It is impossible for us to be happy without money.
+Generate five-word sentences that provide a description of a person. 
+"Construct a paragraph summarising the given events. She was invited to the party. She wasn't sure if she should attend. Eventually, she went and had a great time."
+Create a positive slogan for a weight loss program. 
+"Generate a funny summary of the movie ""Furious 7"". "
+Identify the important elements in a job reference letter 
+"Remove all errors from the following sentence ""She beleives in the poweer of words"""
+Add a few lines of dialogue to this scene A woman is sitting on a park bench and looking out into the sunset.
+"Create the ending for this story The man was walking down the street, trying to decide whether to go left or right, when he suddenly heard a voice calling him."
+"Translate ""Hello, how are you?"" from English to Japanese "
+"Write a short story with the title ""The Throne"". "
+"Given two data sets, compare the two and explain how they differ. Data Set 1:
+X: [1,2,3]
+Y: [2,2,3]
+
+Data Set 2:
+X: [3,3,1]
+Y: [3,3,3]"
+Generate a list of strategies businesses should employ to make their employees feel valued. 
+What is the difference between primary and secondary sources? 
+What is the process of becoming a citizen of a given country? India
+"Given a hypothesis, identify and explain the related independent and dependent variables. Hypothesis: Increasing physical activity can improve mental health."
+"Given a list of tasks, identify which ones are open-ended and which ones are closed-ended. - Write an essay about your favorite books
+- Rate your level of satisfaction with a product on a scale from 1 to 10"
+Generate a list of questions to ask a movie director during an interview. 
+"Given a customer feedback, detect and explain customer sentiment. ""This product was terrible. I will never buy it again."""
+"Given a customer feedback, detect any sentiment words and explain what sentiment they convey. ""This product was beautiful, I'm so glad I bought it!"""
+Explain the consequences of sleep deprivation on physical and mental health. 
+Rewrite the given sentence to convey the same sentiment with different words This is a thoroughly fascinating experience
+Generate a sentence that predicts the consequences of an earthquake on the people in a city. 
+Design a procedure to determine the area of a triangle 
+Recognize whether the following phrase is in passive voice. The ball was thrown by him
+Brainstorm three words related to the topic of “holidays.” 
+"Suggest an title for the following narrative Once upon a time there was a kingdom ruled by a wise, but ruthless king. He had two sons, one of whom was his heir and the other, his advisor."
+Greet someone on their birthday. 
+Upload a document to a website. Website URL: http://example.com
+"Turn a paragraph of text into bullet points. The town of Maplewood is located in south-central New Jersey. It is known for its small town charm, celebrated annual festivals, and convenient public transport options."
+Convert a paragraph of text into title case. the moon is much smaller than the sun
+"Identify the type of narrative writing in the following passage. Once upon a time, there was a young prince named Henry who lived in a grand castle. Every day he went out and explored the countryside, dreaming of the adventures that awaited him."
+Create an allusion to a famous work of literature in a sentence. 
+Select the correct answer. The closest river to San Francisco is: 
+"Sort a list of five events chronologically. List of events: 
+- Invention of the telephone 
+- Discovery of the Juulfen Mountains 
+- Apollo 11 mission
+- World War II

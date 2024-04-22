@@ -1,0 +1,100 @@
+prompt
+Describe a scenario in which the given technology can be used. Augmented Reality
+Compose a short story about an astronaut traveling far into outer space. 
+Explain why using unrealistic data sets in AI-based tasks can lead to inaccurate results. 
+Explain why it is important to have privacy in the context of AI. 
+Rewrite the formula $y = \frac{2x-1}{3}$ so that it can be solved for x. 
+"Generate a creative, but concise, slogan that conveys the message of rejecting single-use plastics. "
+Create a 7-day meal plan for a vegan. 
+"Create a following up email. Subject: A $3.50 transaction was made on your Citi Premier® account
+Sender: alerts@info6.citi.com
+Content: Hi, XXX. The transaction made on your Citi Premier® account exceeded $0.00. The transaction details are listed below.
+Amount: $3.50
+Card Ending In
+6211
+Merchant
+Barron Restaurant Seattle
+Date
+05/12/2021
+Time
+03:29 PM ET"
+Give a suggestion on how to save money for a college student. No input
+"Rate the following sentiment of the review given on a movie. Output 1-5, 5 being the most positive sentiment. I was so bored during this movie, it just dragged on with no end in sight."
+"Determine the type of the following text. Output 1 for narrative, and 0 for non-narrative. The movie follows the journey of a family as they face a difficult decision."
+"How much money should the customer spend on a purchase given the following input? Output the amount in dollars. Monthly budget: $500
+Purchase: a new laptop"
+"Calculate the price of the following item with the given quantity. Item: Apple iPad Pro 
+Quantity: 3"
+"Classify if the following statement is factual or not. Output 1 for factual, 0 for not factual. The COVID-19 vaccine is known to cause long-term side effects."
+"Generate a single sentence that summarizes the following passage. AI technologies are transforming the ways in which work is done. Automation of mundane tasks, streamlining of complex processes, and intelligent systems that can help employees in their daily activities are all examples of how AI is changing our workplaces."
+Return the last 4 words of the following sentence. She had an appointment today but she cancelled it.
+"Provide the title of the movie this line is from. ""Life is like a box of chocolates."""
+Who wrote the play Romeo and Juliet? 
+Describe the color of the wood in two words. 
+"Generate a sentence using the following words: urban, discord, lush. "
+Cut the sentence in two equal parts to make two meaningful sentences. She went to the store and bought food for dinner.
+Predict what the Dow Jones Industrial Average will be when the market closes today. 
+Please name two dangerous animals that live in Africa. 
+"Generate a quick story around a theme that includes the given items. Theme: Adventure
+Items: sailors, boat"
+"Calculate the age difference between the given two people. Person 1: 40 years old
+Person 2: 20 years old"
+Give a detailed description of a type of cloud. 
+Create a unique character in a fairy tale. 
+Book two tickets for the earliest flight to London. 
+Give three examples of a prescribed medication. 
+Describe a job that pays well but has no holidays. 
+You need to write a blog post discussing the effects of climate change on global bee populations. 
+You need to write a letter to your sister congratulating her on her new job. 
+"Identify the main subject of the following sentence: ""The old man went fishing."" "
+You need to write a persuasive article discussing the importance of coding education in schools. 
+Make a list of five activities people can do to reduce their carbon footprint. 
+Select the correct past tense verb for the following sentence: She ____ to the store. 
+You need to write a story about a robot that is trying to find its place in a world of humans. 
+"Identify the type of noun in the sentence: ""I ate an apple."" "
+You need to write a speech convincing people to vote for a particular candidate. 
+"Identify the type of phrase in the sentence: ""Beneath the tree. "
+You need to write a review for a popular smartphone. 
+"Sort the following words into alphabetical order: ""university, basketball, janitor"" "
+Name two deserts in the Sahara. 
+Find the price of the product specified. I want to buy a Samsung Galaxy S20 Ultra 512GB.
+Add 5px to each of the current margin values. margin-left: 20px; margin-top: 30px;
+Give me an example of a low-calorie breakfast. 
+Describe the design elements of a sports poster. 
+Name two of the world's largest companies ranked by revenue. 
+Create a multiplication table for 6. 
+Tell me about the traditional Philippine clothing for men. 
+Why is the Heisenberg Uncertainty Principle important? 
+Identify the parts of speech in the sentence “She spoke slowly”. 
+Provide a sentence with a simile. 
+Give four adjectives to describe a laptop. 
+"Construct a sentence using the provided set of words and expressions. Words: harmony, chaos
+Expressions: bring forth"
+Name one way to reduce household energy consumption. 
+Explain what a stock split is. 
+"Compile a short summary for the following passage. The Nobel Prize is a set of annual international awards still given out in the honor of the 1895 will of Alfred Nobel, a Swedish inventor and entrepreneur. These awards are given in several categories, with most going to talented individuals in chemistry, literature, peace, physics, and physiology or medicine. Winners of the Nobel Prize are given a gold medal, a diploma, and a large cash prize of up to 10 million SEK."
+Design a system to search for flights from one location to another. Departure city: Boston; Destination: San Francisco
+Identify four items related to the following category: camping gear 
+What animal is native to the region of Africa? 
+Design an automated system to discover customer buying patterns. 
+What is the role of industry in advancing the cause of artificial intelligence? 
+"Score the following statement on a scale of 1 to 5, where 1 is low and 5 is high. This article provides good quality information."
+What is one example of a type of AI task? 
+Design a system for processing customers' orders. 
+"Parse the following email, identify the actionable item, and assign it a label. Dear [person name],
+
+I hope this email finds you well. As we discussed last week, I need your help in finding the data points for our latest report. It would be great if you can retrieve the data points by Friday, 10 am EST.
+
+Best,
+[my name]"
+Reduce the length of the following sentence to a single phrase She was wearing a bright yellow dress with blue polka dots.
+"Given the ingredients, suggest a recipe Ingredients: 
+- 4 pitted dates 
+- 2 tablespoons of almonds
+- ½ cup walnuts
+- 2 tablespoons honey
+- 2 tablespoons coconut oil"
+"Reorganize the following sentences into paragraphs The holiday season is a wonderful time of year. It's a time for friends and family to gather together to celebrate. However, for those struggling with mental health issues, the holidays can be a difficult time. It's important to recognize the signs of struggling mental health in yourself and others and provide support."
+Match the following words with the corresponding synonym. Fabulously =
+Construct an appropriate title for the following product description The Cotton T-Shirt is a classic take on the everyday wardrobe staple. The loose-fit body and crew-neck design make it perfect for pairing with jeans or shorts.
+Describe the differences between political power in the U.K. and the U.S.? 

@@ -1,0 +1,100 @@
+prompt
+Explain how the global economy is affected by the pandemic. 
+Compare the newest iPhone model to the Galaxy S10. 
+"Given the following Python code, what will be the output? def sum_digits(x):
+y = 0
+for i in range(len(str(x))):
+y += int(str(x)[i])
+return y"
+Name 3 widely used software libraries for machine learning. 
+Estimate the approximate cost of a 6-day trip to Paris. 
+"Formulate a definition for the concept ""algorithm"" "
+Name 3 data structures used in programming 
+Provide an overview of the process of developing a machine learning model. 
+Compose a speech outline about the negative health impacts of smoking. 
+Describe the science behind why plants are green. 
+Generate a list of potential questions for an interviewee who is applying for a job as a data analyst. 
+"Classify an email as either ""spam"" or ""ham"". Subject: Save 80% on Vacation Packages"
+Explain why the following numbers are irrational. π
+"Provide a context-free grammar for the sentence ""Alice has a cat"". "
+Identify the tone being used and why. The new policy has been implemented to increase efficiency.
+Create a two-line story. 
+How to make fruit salad. 
+How does the Hubble Telescope work? 
+Generate a list of 3 proactive solutions for preventing Twitter bots. 
+Give styles guide on how to properly cite a source in a paper. 
+"Based on the provided information, generate a hypothesis about why elephants have trunks. Elephants have trunks that are used for grasping food and drinking water."
+Formulate a problem statement for the following scenario. Scenario: McDonald's is introducing a new type of food delivery service.
+Extend this sentence to create a story. He woke up early in the morning.
+Write the probability of an event. A single six-sided die is rolled
+Calculate the sum of 10001st number and the 10th number. 
+"Find the terms for the sequence 7,11,15,19 "
+When did the American Revolution begin? 
+Identify a historical event from the year 1989. 
+"Re-format this string in the following format: ""[capital letter][lowercase letter],..."" without any spaces Thisisastringtoreformat"
+Identify 3 advantages of using machine learning in a business context. 
+Create a query for a database that finds all countries in the world with a population greater than 10 million. 
+"Categorize the following pieces of information into either ""Politically correct"" or ""Politically incorrect"": Using the phrase ""they are retarded"""
+Construct a tweet that is a response to a tweet about the benefits of exercise. Tweet: Exercise helps with both physical and mental health.
+Create a flow chart that describes the steps for creating a PowerPoint presentation. 
+"Explain why the following poem is written in sonnet form. Wild winds of autumn blow 
+Leaves swept away with snow 
+Trees whisper gently in reply"
+"Identify the correct common phrase that reflects the sentiment in the given sentence I'll do it, but it's really not my first choice."
+"Given a sentence, append a sentence to make it humorous I ate my dinner"
+Describe what a successful customer engagement strategy looks like. 
+Generate two arguments debating whether or not a country should ban single-use plastic. 
+Come up with an innovative use for augmented reality (AR). 
+Which algorithm do you think is the most effective for solving a classification problem? 
+Write down two reasons why a company would choose to outsource its customer service operations. 
+"In two to three sentences, explain the concept of parallel computing. "
+"Arrange 10 books in alphabetical order. Harry Potter, Twilight, 1984, Lord of the Rings, Great Expectations, Game of Thrones, To Kill a Mockingbird, Moby Dick, Pride and Prejudice, Catcher in the Rye"
+"Invoke a function to find the average of an array of integers. [86, 49, 22, 24, 29]"
+Summarize the definition of Organizational Learning. Organizational Learning is a process that emphasizes the adaptation of an organization by accumulating knowledge and utilizing it to create an environment of continuous improvement and growth.
+"Given a list of ingredients and a recipe, document the ingredients in the recipe. Ingredients: sugar, eggs, butter
+Recipe: Cookies"
+Generate a unique ID for the given employee. John Smith
+Generate a weather report for tomorrow in New York City. New York City
+"Generate a sentence using the following words: yogurt, frog, apple. "
+Suggest two restaurants nearby me. <location>
+Name one benefit of using the product. Product: Solar Panel
+"Expand the given sentence using the phrase. Sentence: He studied hard
+Phrase: in order to"
+Generate a recommendation for someone looking to buy a laptop. 
+Generate a list of five courses that a college student might take in his junior year of college. 
+"Compose an email to the customer complaining about a product. Customer name: John Smith
+Product name: TV
+Problem: Display is flickering"
+Generate an SEO optimized title for an article on the top 5 summer destinations in Europe. 
+"Find the surface area of the triangular prism. Base: 10 cm 
+Height: 7 cm 
+Length: 15 cm"
+Let's say you have been asked to deploy a small web application. Make a list of the steps needed to deploy the application. 
+"Find the equation of the line that passes through the points (4,7) and (6,11). "
+Compose a rap verse that references something related to technology 
+List ten examples of artificial intelligence applications. 
+Give an example of a technology that uses probabilistic thinking. 
+Explain why science fiction is a genre of literature that is relevant today. 
+Compare and contrast the industrial revolution and the digital revolution. 
+Suggest a creative way a small business can promote their marketing strategy. 
+Explain what kinds of benefits does AI have in the healthcare sector. 
+Find a word in the article that has a similar meaning to 'elicit'. The data is collected from the 1998 National Longitudinal Survey of Youth to examine the impact of participation in a secondary school-based mentoring program on youth self-esteem and prosocial behavior.
+Use a tool like Mean-Squared Error (MSE) to evaluate the model performance. 
+Create a plan outlining how to host a successful webinar 
+Calculate the total cost of purchasing 5 laptops at the price of 899 each. 
+"Translate the following sentence into Spanish: ""The man drove the car to the store"". "
+"Change the syntax of the sentence to active voice :""The delicious dinner was made by him"". "
+"Create a story starting with the sentence: ""The day was brighter than usual"". "
+"Find a quote in the article that relates to the theme of work-life balance. In a recent survey conducted by the World Economic Forum, the organizations of more than 750 global executives and human resources officers identified a disconnect between job roles and skills."
+Suggest an appropriate topic for a presentation about the petroleum industry. 
+Complete the missing text. I really liked your latest tweet about __________.
+"Given three words, generate a sentence. cat, cake, slow"
+Pick one country and give a brief history and political overview of it. Finland
+"For a given positive integer n, generate all the possible permutations of numbers with length n. 2"
+Write a paragraph that explains what a GPT language model is. 
+"Given a musical artist and a theme, generate a song title. Coldplay, Nature"
+"Create a pastry dish with the ingredients given. Pecans, cinnamon, honey"
+Automatically generate a 10 by 10 multiplication table. 
+Determine the sum of the series 1 + 1/2 + 1/3 + ... 
+Describe a summer day using sensory language. 
+Give me a list of five adjectives to describe a playground. 

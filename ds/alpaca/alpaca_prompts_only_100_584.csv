@@ -1,0 +1,100 @@
+prompt
+Suggest a 5-step plan to develop a budget-friendly healthy meal. 
+"Create a song based on the following theme: ""love in the time of darkness"". "
+Make a list of four techniques that can be used in order to improve search engine rankings. 
+Differentiate between the concepts of artificial intelligence and machine learning. 
+Generate a story about a bear and a rabbit that live in a forest. 
+Make a list of safety precautions that people should follow if they find a wild animal in their home. 
+Explain the concepts of shallow learning and deep learning. 
+"Sum up the main idea from the passage. In late 2020, Bitcoin continues to be the most popular crypto currency. It has grown in popularity due to its security, decentralization, and low transaction cost. Despite its popularity, there are still risks associated with Bitcoin. It is still not widely adopted and its price is highly volatile."
+Convert the decimals to fractions. 0.375
+"Write a sentence describing a person's character based on the given information. Caring, outgoing, and passionate"
+Remove the indefinite article from the following sentence. A quick glance will reveal the mistake.
+"Classify the following figure. Output 1 if it is a rectangle, and 0 if it is not. "
+Identify the underlined word type. The television show was cancelled unexpectedly.
+Seek appropriate replacements for the italicized words. She was too obstinate to admit her mistake.
+"Rewrite the sentence using appropriate grammatical constructions. He done his job, but he could have done better."
+"Generate a code to perform a matrix transpose. Matrix A of size 2x3:
+A = [[1, 2, 3],
+     [4, 5, 6]]"
+Calculate the total number of hours if 6 people work for 8 hours each. 
+Explain what electrical conductivity is. 
+What is the taxonomy of a human? 
+What is a pseudocode to calculate the mean of n given values? 
+Analyze the effect of the following statement on the reader You don't deserve to be here
+Predict what the person in the following situation might do A student studying for an exam
+Choose the group of words that forms the best sentence their a stole wallet
+Say something nice about the person in the following situation A firefighter rescuing someone from a burning building
+List five methods people can use to relieve stress 
+Propose three solutions to the following issue Lack of access to healthcare
+Generate a headline describing a current news article. 
+Write a headline for a sports article about the World Cup. 
+Convert the following measurement in Celsius to Farenheit. 48 degrees Celsius
+List 5 things people can do on an airplane. 
+Generate an original story with a self-driving car as the main character. 
+Do some research and summarize the current price of Bitcoin. 
+"Name a type of dance based on the given tempo and style. Slow rhythm, jazzy style"
+Explain the carbon cycle in three sentences. 
+Arrange the given sequence of words into a coherent and logical sentence. doctors difficult the caring are
+What is the future research direction for the given topic? AI governance
+What type of visual should be used for the given analysis? Analyzing the trends of customer feedback
+Describe a design concept. Portable library
+Convert the following graphic into a text description. 
+What would happen if one twin traveled to outer space and the other stayed on Earth? 
+Name one of the disadvantages of giving more autonomy to machines 
+What is the English translation of “Bonjour”? 
+Create a story with the provided impromptus. Once upon a time there was a troll who lived under a bridge
+Calculate the total number of calories in a banana. 
+Describe the RGB representation of navy blue. 
+"Assign the following level of importance to the topics below: Fitness, Nutrition, Mental Health"
+List 3 properties of oxygen. 
+Identify three prominent scientists from the 18th century. 
+Describe the security risks of using public wifi networks. 
+"Create an algorithm to categorize a given set of clothes. Clothes = {raincoat, sweater, jacket, jogging pants, umbrella}"
+"Create a set of data based on the given criteria. Create 3 data points with the following criteria: 
+
+-- Category: Fruits 
+-- Attribute: Color 
+-- Value: Any"
+Analyze the given sentence and use the findings to construct a new sentence. The cats lounged in the sun.
+Write an article comparing and contrasting two different items. Football and basketball
+"Write a simple algorithm to rank a list of items from highest to lowest. {5000, 1800, 9001, 1100, 67}"
+Create a program that prints the multiplication table of a given number. Number = 5
+Extend the given sentence by adding additional information. John went to the store.
+Construct a valid regular expression for the words 'information' and 'influx'. <noinputs>
+Rewrite the following statement so it becomes a wish. The government should do more to help the poor.
+Rewrite the following statement as a subjunctive phrase. We should find a solution soon.
+Write a metaphor that may describe the following situation. A young boy had set out on a journey for the first time.
+"Compose a poem using ""the meadow"" as a theme. "
+Summarise the contents of this website. https://www.aa.com/
+Generate a list of interesting riddles. 
+Suggest a strategy to deal with stress. 
+What are the structures of a simple sentence? 
+Write a slogan for a new home decor store. 
+"Provide the output of code that completes the given matrix with the sum of each row. matrix = [[1, 2, 3], 
+          [2, 3, 4], 
+          [3, 4, 5]]"
+"Analyze the given song and give an overall rating. Song Name: ‘Rockstar’ 
+Artist: Post Malone"
+"You are planning a trip to Mexico City, what attractions and sights do you recommend? "
+"Create a function that takes three parameters - an array, a start index, and an end index - and reverses the order of the elements in the array from the start index to the end index. arr = [1, 2, 3, 4, 5, 6], startIndex = 1, endIndex = 4"
+Explain what is the process of standardization in a machine learning model. 
+"You are provided with a list of spelling words. Output only the words that do not contain the letter 'e'. apple, coach, tree, paper, bee, school"
+Design a logo for a new restaurant called “Taco Planet”. 
+"You are provided with a JSON. Output the array of keys from the given JSON. { 
+   ""name"":""John"", 
+   ""age"":30, 
+   ""vehicle"": ""Fiat 500""
+}"
+"Create an algorithm that removes duplicates from a given array. arr = [1, 2, 2, 3, 4, 4, 5]"
+"Given a set of statements, combine them into a single sentence. The city is bustling. Streets are packed."
+"Extract the names of the people in the sentence and provide their occupation. John, Maria, and Jack are going to the movie theater."
+"Generate a question, based on the passage, that tests user’s comprehension of the material. Having a diverse staff makes businesses more innovative and engaging. They are also better equipped to reach and serve customers."
+"Based on the following recipe, what are the ingredients needed for the dish? Ingredients
+- 2 cups of cooked lentils
+- 1 tablespoon of olive oil
+- ½ teaspoon of chili pepper flakes
+- 1 onion, minced
+- 2 garlic cloves, minced
+
+Instructions

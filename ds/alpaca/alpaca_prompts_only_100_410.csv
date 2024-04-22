@@ -1,0 +1,100 @@
+prompt
+"According to the given context, classify the following sentence into whether it is true or false Context: Life can be unfair
+Sentence: Life should always be fair"
+"Trace the program given the following snippet def add_three(x):
+    return x + 3
+
+result = add_three(4)"
+Identify the country with the most people living in poverty. 
+Identify three pressing issues related to climate change. 
+Obtain the square root of 64. 
+Describe an interesting experience related to the Given Topic Topic: Taking a Train Journey
+Pick the correct Spanish translation of “Hello”. 
+Generate a list of steps required to build a computer. 
+Develop a way to teach a computer to count to ten. 
+Create a user interface for a chatbot 
+Think of some improvement ideas for a movie review website 
+Create a function in JavaScript to check if a given number is prime 
+Design a webpage for online grocery shopping 
+Write a tweet to advertise a new computer game 
+Build a chatbot for a website 
+Analyze the effectiveness of using chatbots for customer service 
+Generate some ideas for running a successful online business. 
+Summarize the contents of an article about the importance of exercise. The article is about the importance of getting enough exercise to maintain a healthy lifestyle.
+Make a list of steps required to bake a cake. 
+Create an itinerary for a 7-day vacation in South Africa. 
+Draft a press release about a new company launching a mobile app. The app is a fitness tracking app designed to help users reach their health and fitness goals.
+Construct a list of safety rules for a school playground. 
+Make a list of questions that should be asked during a job interview. 
+Brainstorm three alternate titles for the story. The story is about a young girl who is coming of age and trying to make sense of the world around her.
+Propose a new idea in the following field. Medical Research
+Insert a relevant quote in the following text. Personality plays an important role in determining a person's success both in their professional and personal life.
+What is the most important thing to consider when writing this kind of document? A business proposal
+Summarize the website link in maximum 100 words. https://en.wikipedia.org/wiki/Inferential_statistics
+Describe an example of a time you used influence in a positive way 
+Tell me three known short-term effects of smoking marijuana. 
+Track the change in stock prices for the following company Google
+Give me two reasons why capitalism is the most effective method of organizing an economy 
+Generate a story about a robot that gets stuck in a viral outbreak. 
+Identify three major challenges of Artificial Intelligence 
+List five business ethics that should be followed by companies. 
+Tell me about the environmental crisis our planet is facing today. 
+Rewrite this sentence using the same information but using the past perfect tense The patient had taken the antibiotic for two days.
+"Explain the concept of ""Four Factor Authentication"" "
+Design a LinkedIn profile for a college freshman 
+Propose a solution to decrease pollution in the city 
+Convert this sentence from it's active form to it's passive form We will take a decision today
+Generate an example of a slogan to promote the importance of maintaining mental health 
+"Categorize this passage into its grammatical components The sun shone brightly on the garden, warming the sweet-smelling flowers."
+What is the purpose of using a script when developing a software application 
+Write a one sentence speech introducing yourself. No input
+List the US states and capitals alphabetically. No input
+"Describe the climate in Denver, CO. No input"
+State one benefit of waking up early. No input
+"Cite the source of the following quote: ""The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems"". No input"
+Summarize the changing economic situation in the U.S. 
+Localize the passage according to the language and format of the target culture. The weekend is coming and it's time to relax and unwind.
+Rate the customer service experience of an online clothing store on a scale of 1 to 10. 
+Tell me the five most important features of a chatbot. 
+Take a screenshot of the website and annotate it with 5 useful insights. <link website>
+Propose 3 changes that can be made to the user interface of this app. <link to app>
+List 10 contemporary news topics that you think would make interesting articles. 
+Analyze the strengths and weaknesses of the given product. This new e-bike promises powerful performance and intuitive controls.
+Write a 500-word article summarizing the challenges associated with developing self-driving cars. 
+Describe a healthy dietary plan. 
+Name three technological trends that are reshaping the finance industry. 
+Explain the Solar System model proposed by Copernicus. 
+Generate a secret code word. 
+Name one of the genetic disorders caused by faulty genes. 
+Add additional sentences to make the following paragraph more coherent. My grandmother loved to spend time in the garden. She was happy working with the flowers and enjoying the sunshine.
+Name the countries that are part of the North Atlantic Treaty Organization (NATO). 
+How much of Earth's surface is covered by water? 
+Write the text in past tense. They are running to the store.
+Generate a poem with at least 20 words containing the word 'beauty'. 
+Create an argument for why the given cause is true. The current pandemic is caused by climate change.
+Write a letter to a friend about your recent experiences. 
+Come up with 3 ways to improve given product. Toothbrush
+Name three advantages of a content delivery network (CDN). 
+Make up a story about a robot who has quit its job. 
+Conclude the story in one sentence. The king was sad and couldn't sleep at nights. He decided to visit the wizard in a hidden valley to find the answers.
+Give me two options that would be favourable to the seller. A seller is trying to find the best price for a used car.
+What is the probability of this event happening? A person draws 10 playing cards without replacement from a standard deck of 52.
+"Suggest an upgrade to the laptop. The following laptop is a Lenovo Thinkpad L480, with an Intel i5 processor, 8GB of RAM, and a 128GB SSD."
+Name two government policies that could be effective in reducing pollution. 
+What are the effects of deforestation on the local climate? 
+Compare the perceptual and cognitive processes. 
+"Write an email responding to this inquiry. Dear Customer Service,
+
+I am inquiring about the status of my order."
+"Generate a phrase using these words love, summer"
+"Generate a sentence that compares two objects cat, dog"
+Find the shortest path between two cities using Djikstra's algorithm. New York and San Francisco
+Connect the words in the sentence with a hyphen The dog ran through the field
+Generate a name for the new brand 
+"To find the meaning of a word, provide an appropriate definition. Anomaly"
+Generate a sentence that describes how someone would feel in this scenario The sky is a beautiful shade of orange as the sun sets
+Spell out this acronym CAPTCHA
+"Based on this information, choose two adjectives to describe the sky The sky was a deep blue with a light breeze"
+Create an ad campaign slogan 
+Create a list of 5 items to be stored in an online grocery store. 
+"Select one text from the given list for summarizing. The cat sat by the window watching the pigeons fly by and occasionally making a peep.

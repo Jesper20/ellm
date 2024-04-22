@@ -1,0 +1,100 @@
+prompt
+Character: a nurse"
+Describe a given city. Rome
+Give a concise explanation of the First Amendment. 
+Describe the process of launching rockets into space. 
+"Given a list of stock tickers, calculate their current share price. AAPL, GOOGL"
+Identify a unique solution to reduce single-use plastic waste. 
+"Fix the broken code in this block. ```python
+if x < y
+    print('x is smaller than y')
+  else:
+    print('x is larger than y')
+```"
+"Given two populations, calculate the mean, median, and mode of the populations. Population 1: 7, 8, 10, 6, 9
+Population 2: 5, 9, 4, 3, 6"
+Propose a plan to reduce air pollution in urban areas. 
+"Given this snippet of code, identify and fix the bug. ```python
+nums = [4, 8, 9, 15]
+for num in range(1, nums):
+    print(num)
+```"
+Explain the purpose behind A/B testing. 
+Name a summer activity that requires no money and at least two people. 
+Give one example of a website that hosts online courses. 
+Write two sentences describing a beach sunset. 
+Make a list of five documents a student will need for a college application. 
+Write a line of poetry that expresses gratitude. 
+Give an example of a job that requires frequent travel. 
+Give two examples of ways to save money when grocery shopping. 
+Name two endangered species of birds. 
+"Rewrite this sentence to make it in passive voice: ""Aliens visited the planet."" "
+Give an example of something that fathers usually do for their children. 
+"Describe the sentiment of the words: ""sadness and despair"". "
+Generate an email subject line related to software engineering. 
+Compose a haiku poesy related to weather. 
+Explain why people should buy a product. The product is a new eco-friendly water bottle.
+Explain the consequences of an increase in the money supply. 
+Create a technical design document for this chatbot feature. The chatbot should be able to answer questions about a company's products.
+Generate a code snippet for automating a task. A script that automates the process of sending emails.
+"Analyze this news story and explain the results. According to a study by the Institute for Sustainable Social Policies, the number of registered unemployed people in Germany increased by 42% from February to April."
+Pretend you are a customer and write a review for this product. The product is a laptop computer.
+Research a topic and provide a summary report on it. The impact of online streaming on traditional television viewing.
+Explain why would it be beneficial to use an existing classification model rather than building a new one. 
+Compose a story about two siblings going on a camping trip with their parents. 
+Generate a list of 10 everyday objects found in the kitchen. 
+Give five tips to stay healthy during lockdowns. 
+Explain the difference between text classification and text clustering. 
+Create a Coding Challenge for a beginner programmer that requires to print the first 10 numbers of the Fibonacci sequence. 
+Summarize the contents of a Wikipedia article on the financial crisis of 2007-2008 in 140 characters or less. https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008
+Suggest a Web Browser extension which can help in productivity. 
+Design a logic puzzle for 6th graders. 
+Generate data for a fictitious family of four. 
+Create a programming challenge which requires a basic understanding of an algorithm. 
+Make a comprehensive list of 5 world problems which need solutions. 
+Design a recipe for a healthy energy bar for athletes. 
+"Explain the meaning of the phrase “garbage in, garbage out” as it relates to computers. "
+"Given the hand-written text, come up with the corresponding computer text. Hand-written Text: To find the area of a triangle we need to know the base and the height."
+Come up with an example of a home automation device that has internet of things features. 
+Come up with 10 math terms and their respective meanings 
+Write 10 sports terms and their definitions. 
+"Given a list of clothing items, you need to generate an outfit. Clothing Items: dress, sandals, necklace, earrings, cardigan"
+Convince someone to try stand-up comedy. 
+Summarize the differences between an owl and a hawk. 
+Generate a fill in the blank lyrics for a rap song. 
+Suggest a plan to join a fitness program. 
+Create an algorithm to detect fraudulent credit card transactions. 
+"Perform sentiment analysis on the following tweet and label it as positive, negative or neutral. The new coronavirus vaccine is a major breakthrough."
+Create a SQL query to find the 5 most popular restaurants in a given city. 
+Create an algorithm for a text summarizer. 
+Write a story about a fisherman who lived in a small village. 
+"Given the word, list 3 synonyms. big"
+Provide 5 strategies to increase sales. 
+Describe the company's customer service policy. 
+Give an example of a time-saving device. 
+Name a type of cuisine traditionally found in China. 
+Make a flow chart representing a job application process. 
+Describe a database table for customer membership. 
+What is the best way to secure a computer system? 
+Provide a definition of a blockchain. 
+Write a script for handling customer phone calls. 
+Make a memorable slogan for a hand sanitizer. 
+"Calculate the mean from the given numbers: 2, 3, 5, 8, 9 "
+Explain the principle of parallel computing. 
+"Rewrite this sentence to make it more concise:
+It might be possible for us to do an online meeting instead. "
+Add one sentence to the paragraph describing the impact of the technology. Artificial Intelligence (AI) has revolutionized the way technology is used in our everyday life.
+Compose a short poem (between 5 to 10 lines) with the given title. Title: A Sunny Day
+Add a few words to the text to make it more descriptive. She was playing in the garden.
+"Classify the following sentence as either sarcastic, literal, or subtle. I'm so excited for the amazing weather we're having!"
+Convert the following sentence into one that uses a contraction. She will come.
+Create a list of five gift ideas that would appropriate for a business colleague. 
+"Explain what the idiom ""cut to the chase"" means. "
+Generate a list of five household items that would be necessary for a college student. 
+"Explain what the idiom ""get your feet wet"" means. "
+"Describe how a paradox is used in the following sentence. ""The more you try to reach the end, the farther away it seems"""
+"Analyze the following dialogue and tell me what it suggests about the two people. ""I think we should try something different tonight,"" said John.
+""Oh, what did you have in mind?"" asked Jane."
+"Give different perspectives on the following statement. ""Everyone should take the same test"""
+"Compare the themes of the following two poems. Poem 1
+""Heed my call, heed my warning

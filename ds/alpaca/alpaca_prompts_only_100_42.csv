@@ -1,0 +1,100 @@
+prompt
+"Create a connection between the two given concepts. Concept 1: Evolution
+Concept 2: Adaptation"
+Take the given statement and rephrase it in your own words. The sun provides Earth with an abundance of energy.
+"Create a story that uses the given keywords. Keywords: Adventure, Mountain"
+Construct an analogy to explain the given concept. Concept: The relationship between cause and effect
+"Classify the items into two categories based on the provided information. Items: Plastic bag, Newspaper, Cotton fabric 
+Information:  Natural or synthetic materials"
+Add a contradiction to the given sentence. The birds flew south for the winter.
+Create a metaphor that compares the given concepts. Concepts: Speed and sound
+"Create a headline for the given story. Story: After years of uncertainty, the endangered puma species have been seen thriving in its habitat."
+"Classify this news article according to its category. The US Fed chairman's decision to cut interest rates has sparked controversy amongst economists, as some believe it will trigger a new economic crisis."
+List three fundamental elements required for a successful business plan. 
+List five healthy eating habits. 
+Categorize the following statement according to the type of fallacy it displays. Vaccines cause autism.
+Explain why a company would choose the pay-per-click (PPC) advertising model. 
+What is the primary benefit of creative problem solving? 
+Explain what a wiki is in your own words. 
+How is Deep Learning different from Machine Learning? 
+Describe the use of an insurance policy for a person. 
+Create a new headline that summarizes the content of the following article. This article will explain how a cash flow statement can provide valuable insights into a company's financial health.
+What is the time complexity of Bubble Sort? 
+Name five benefits of practicing yoga 
+List the differences between a data scientist and a data analyst. 
+What is a virtual reality (VR) system? 
+Generate a story beginning with: “It all started when …” 
+What type of digital marketing strategies should a company use to increase its online presence? 
+Create 4 example questions for a trivia game about space exploration 
+Assign a sentiment score to this review The product was terrible and it did not work as promised.
+Describe the impact of running a social media campaign 
+"Given a database table, generate 5 useful SQL queries Table Schema:
+
+books(id,title,author,genre,price)"
+Create a task for a virtual assistant to remind you to call your mom every Tuesday 
+Create a tweet that includes a hashtag to increase the visibility of a new product announcement [Image of a new product]
+Rewrite this sentence to add more clarity The manager suggested that the staff stay late and complete the task
+"Given an array of numbers, use Python to find the sum of all the numbers arr = [3, 6, 9, 12]"
+Generate a life tip 
+What are the key elements of an effective website? 
+Convert this phrase into a metaphor Life is a race
+Find a synonym to the given word that best describes the context in which the word is used. John had an ambitious goal but he was reluctant to pursue it.
+Correct the surface level errors in the text. I'm soo sad and lonely. Nothing can cheer me up.
+"Find the sentence in the text which best describes the biggest advantage/benefit of a certain action. Cloud computing can help organizations scale up on demand and reduce their hardware costs. It provides improved system reliability and availability, and fast provisioning of new IT resources."
+Delete a part of the sentence that does not fit the context. He likes to run and painting his house.
+"Answer the question ""What is the main point of the text?"". Humans have long been aware of the impacts of climate change. However, recent research has suggested that the effects of climate change could be much more severe than previously thought."
+"Combine the sentences (marked with 1 and 2) in a single sentence. 1. Linda wanted to paint her house.
+2. She asked John to help her."
+Rearrange the given sentence to be an interrogative sentence. She moved to the United States two years ago.
+"Select the sentence in the text which best reflects the theme of the text. It is estimated that the Earth is getting warmer in recent decades because of increasing levels of gases such as carbon dioxide and methane in the atmosphere. These gases are produced mainly by human activity, such as burning fossil fuels and cutting down forests."
+"Complete the code to produce the expected output. def get_string(text):
+  words = text.split()
+  #Your Code goes here
+  return string
+
+Input: ""Hello there how are you?""
+
+Expected Output: ""Hello_there_how_are_you?"""
+"Pick up the sentence in the text which best illustrates the given concept. Concept: Interdependency 
+Text: We are all connected in some way, whether we recognize it or not. By understanding the interdependency of all things, we can make better decisions in our day-to-day lives."
+"Find the information in the text that is relevant to the given topic. Topic: Solar Energy 
+Text: Solar energy is the conversion of the sun’s radiation into usable heat or electricity. It is collected from the solar radiation reaching the earth’s surface and atmosphere."
+"Insert the missing punctuation, capitalization and other symbols in the following sentence. the rocks flew out of the volcano"
+Generate an innovative idea for a product to help people reduce stress. 
+Make a Twitter post about the importance of mental health. 
+Create an entertaining quiz to help people learn more about local wildlife. 
+Generate a poem that celebrates nature. 
+"Guess the next line of this poem: “The sun shineth bright and the sky is blue, __” "
+Make a speech about why consideration for the environment is important. 
+Create a job advertisement for the position of a project manager. 
+"Summarize the following article in 100 words: ""The Benefits of Plant-Centered Eating"" https://www.forksoverknives.com/plant-based-diet-benefits/"
+Come up with a slogan for a local conservation charity. 
+Write an article for a magazine about how the average person can reduce their environmental impact. 
+Meet with the director of a wildlife conservation center and create a short news article summarizing the experience. 
+Come up with a marketing strategy for a new sustainable clothing line. 
+Review the following website: www.somethinggreen.uk www.somethinggreen.uk
+Design a poster that encourages people to use public transportation more. 
+Rewrite the following sentence to make it more concise: “People should be aware of the negative impact of single-use plastics on the environment.” 
+Write a blog post about the importance of protecting the ocean’s coral reefs. 
+"Change the capitalized words to their opposites. LIKE -> DISLIKE
+PASSIVE -> ACTIVE"
+"Compute the sum of all the numbers in the input list [1, 2, 3, 4, 5]"
+Capitalize the first letter in each word of the sentence. there is no reason for it to be this way
+Provide an example input and an appropriate output for a classification task. 
+Write a script to determine whether the given number is even or odd. 23
+Write a function which reverses the order of words in a sentence. 
+Rewrite the sentence with a different set of words but with the same meaning. He ran quickly.
+"Generate a tweet of maximum 280 characters based on the following speech. President Obama said, ""Change will not come if we wait for some other person or if we wait for some other time. We are the ones we've been waiting for. We are the change that we seek."""
+Re-write the following speech inorder to make it more persuasive. Climate change is an issue that can no longer be ignored. We must take action to limit the damage on our planet.
+Generate a dialogue between two persons discussing the topic of artificial intelligence. 
+Complete the following sentence by filling in the <mask> I wanted to throw a party but the <mask> became an obstacle.
+Create an outline for a 5 minute speech on the topic of the upcoming election. 
+"You need to summarise the following text into one sentence. Apple debuted their newest rumors of a foldable phone, the iPhone F5, last month."
+Replace all the usages of 'she' in the following sentence with 'he'. Mary said she was going to the store and she expected to be back soon.
+Compose a song that conveys the emotion of hope. 
+Generate a list of 5 items needed to create your own website. 
+Generate a one sentence prospect for a novel about a virus outbreak. 
+"Reverse engineer the following algorithm and explain its function in one sentence. def sort_numbers(arr):
+    for i in range(len(arr)): 
+        for j in range(i): 
+            if arr[i] < arr[j]: 

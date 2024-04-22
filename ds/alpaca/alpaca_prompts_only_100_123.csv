@@ -1,0 +1,100 @@
+prompt
+"Given the coordinates of 3 points, determine if they form a right triangle. A (0, 0), B (3, 0), C (0, 4)"
+Classify the given character as a protagonist or antagonist in the story. John Doe
+Compare and contrast the difference between cats and dogs. 
+How do you classify the following item? An apple pie
+List five physical health benefits associated with playing sports. 
+How does a laptop computer differ from a desktop computer? 
+Identify the elements of this scene. A girl is walking in a park in the summer.
+Rate the following from 1 to 5 on how difficult it is to complete. Solving a Rubik's cube
+What is the main argument for why colleges should lower tuition costs? 
+"Find the words with two consecutive vowels in the article, output in the form of a list. The House of Representatives voted 218-208 Thursday to approve the new $2 trillion COVID-19 relief package."
+"Input a header and contents of a Wikipedia entry covering a movie, output an article in MLA format. Header: The Godfather
+Contents: The Godfather is a 1972 American crime film directed by Francis Ford Coppola which stars Marlon Brando and Al Pacino as the leaders of a fictional New York crime family."
+Summarize an article of your choice into five sentences. https://www.webmd.com/diet/features/the-heart-healthy-mediterranean-diet
+"Given a song, generate a few opening lines for a review about the song. Song: ""What I've Done"" by Linkin Park"
+Do sentiment analysis on the statement and output a sentiment score. The government has done a really good job in handling the pandemic.
+"Think of a word that is related to the keyword ""potato"". "
+"Take the following passage, fix the spelling and grammar mistakes, and output the corrected passage. thier are many benifits too exercizing on a regular basis that cna improve sowly our overall health"
+Generate three possible titles for a research paper about healthcare. 
+"Select all sentences in the given text that start with a gerund. Starting with a warm-up, stretching exercises help to loosen up the muscles before working out. Adding an intense workout routine to your schedule also helps to improve your overall health and wellbeing."
+Explain the difference between a US senate and a US house of representatives. 
+"Create a short story about what you think happened to the character after the story ended. John had just finished his last exam and was walking out of the college campus, happily looking forward to the summer break."
+Describe three actions you can take to help raise public awareness about the climate emergency. 
+Describe a movie scene using vivid and descriptive language. Noinput
+Rewrite the sentence so that it's in the present tense. She had worked at the company for the past 3 years.
+Explain how a virtual assistant can help you with your daily tasks. 
+Design a website header that follows accessibility guidelines. 
+Generate a list of three safety tips for kids to follow when walking to school. 
+Write a script for a 5-second advertisement describing the company. 
+Write a headline for a news article about the current state of student debt. 
+Give an example of an argument a robot might make for the following statement. Robots can be used as more reliable and efficient replacements for human labor.
+Provide the most likely result of the following equation. 10 - 8
+Generate a story about a princess on a quest for a magical object. 
+Classify the following product as organic or non-organic. Banana
+Explain why the resolution is important for a document. 
+"Identify the theme in this song. I can feel it in my bones
+Here come the tremors
+When the ground starts to shake"
+Generate an article about the current state of artificial intelligence. 
+List five benefits of using GPUs for training deep learning models. 
+Explain why self-supervised learning is beneficial in Natural Language Processing (NLP). 
+What is the best value for the hyperparameter gamma in SVM? 
+Edit the sentence for improved readability. The recent lockdown period forced people to stay inside so as to limit the spread of the virus
+What is one use case for speech recognition technology? 
+Re-write the sentence ensuring that it clearly communicates its meaning The dog jumped the fence
+Create five appropriate usernames for a photography blog 
+"Write a summary of the movie ""The Great Gatsby"" "
+Find the corresponding child’s size for a women’s size 6 
+Name two methods to reduce air pollution 
+Take this sentence and make it more descriptive: She was scared. She was scared.
+Give me a list of healthy snacks that I can eat 
+Find the five steps to meditate 
+Construct an argument to convince a friend to travel 
+Rewrite the sentence to emphasize the importance of saving money I should save money.
+What is the advantage of using an Excel spreadsheet? 
+Compare and contrast a logical fallacy and a rhetorical device 
+"Interpret this poem: Roses are red, Violets are blue Roses are red, Violets are blue"
+Write an essay about the societal implications of artificial intelligence 
+Create a fictional story about a wise old hermit who helps people in need in a forest. 
+Make a list of foods that are good sources of protein. 
+"Given the date and place, estimate the temperature. June 15th, Detroit"
+Suggest an exercise to improve agility. 
+"Given a company name, explain its purpose. Apple Inc."
+Suggest a method to improve concentration. 
+Explain how to use a pressure cooker. 
+"Given a set of people and a destination, suggest an efficient way for them to travel there. 7 people, San Francisco"
+Suggest an AI application that could improve the healthcare industry. 
+Summarize the data-driven marketing strategies from the following article. https://www.forbes.com/sites/forbescommunicationscouncil/2018/03/09/the-power-of-data-driven-marketing-strategies/#1439db717ad4
+"Compare and contrast the features of product A and B. Product A: A widget with a 10-year lifespan
+Product B: A gadget with a 20-year lifespan"
+What is the impact of SEO on a website's success? 
+Create a product of your own and explain it in 100 words or less. 
+Calculate the atomic mass for lithium. 
+What is the best way to optimize the performance of a neural network? 
+Generate a product description for a women's cotton hoodie. 
+Convert this sequence of numbers into a date. 10 20 2020
+"Using the provided sentence, create a poem by combining it with another sentence. The sky was painted in the colors of the night."
+"Compress the paragraph by summarizing the main points in two sentences. The workplace of the future is increasingly complex, requiring organizations to structure their operations around digital transformation. Consequently, this means that businesses need to establish a clear technology strategy, invest in digital marketing, and prioritize customer engagement to stay competitive."
+Enumerate some typical features of a smartphone. 
+Describe in an interesting way why people like a particular type of food. Pizza
+Evaluate a given paper with a score between 0 and 10. The paper “The Impact of AI on Education” by Janet Smith and Tom Williams.
+Explain why globalization is a good thing. 
+Classify the following action as unethical or ethical. An employee telling their manager they are leaving the company due to a better job opportunity.
+Take the following sentence and write the opposite meaning. I have enough money to make ends meet.
+Generate three sentences that describe how to use a toaster. 
+Rewrite the following sentences in the imperative. It is important to focus on your goals.
+Describe the properties of a triangle. 
+Identify a specific example of a conflict of interests and explain why it constitutes such a conflict. 
+Give three examples of weather-related natural disasters. 
+Identify three types of observational methods used in research and explain why they are used. 
+Generate a list of five things an astronaut might take to the moon. 
+Classify the news article as either real or fake. New research suggests that the current pandemic is actually a large-scale biological experiment conducted by aliens to study human evolution.
+Write two analogies that compare how two different professions achieve success. 
+Create a simulation scenario centered around the theme of online collaboration. 
+"Escalate an argument by adding additional arguments to it Person 1: We should use the SUS method to evaluate the usability of our software. 
+Person 2: But a survey cannot be used to evaluate usability accurately."
+Compare an online club meeting to an in-person club meeting. 
+Edit the given document to ensure consistent verb tense usage The company had been rapidly expanding over the past few years and has now reached a tipping point. It was decided that they must take drastic measures to ensure future growth.
+Write a statement that could be used as a company mission statement 
+Design an algorithm to solve an interesting problem 

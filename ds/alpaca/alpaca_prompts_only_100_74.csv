@@ -1,0 +1,100 @@
+prompt
+Create a search query for finding articles about artificial intelligence. 
+Tell me if the following statement is true or false. Two bars of a piano have the same frequency.
+Write a blog post about improving mental health. 
+Tell me the complete subject of the following sentence. I gave them the information they needed.
+Create a list of instructions for setting up an email account. 
+"Write a few sentences to describe a scene. Night, empty street."
+Create a task for a GPT model. 
+"Generate a fictional story with the following phrase. ""Tomorrow will be different"""
+Describe the benefits of attending a virtual conference. 
+Create a checklist of 6 steps that someone can take to relieve stress 
+Suggest a layout for a website that facilitates quick navigation. 
+What is an ecommerce website? 
+Describe the trend of mobile phone usage in the past 10 years 
+"Take the given text, identify a common phrase, and modify the text to make it more sentimentally positive. The challenge ahead of us is daunting."
+"Given some words, group the words into categories. apple, banana, orange, watermelon"
+"Given some sentences, combine them into a single sentence using appropriate language. It is an excellent idea. We should definitely try it."
+"Provide input to the following instruction and generate a response using GPT-3. Instruction: Write a story about someone who is uncomfortable in crowded places.
+Input:
+A young man named David was always anxious when it came to being in crowded places."
+"Given some adjectives, combine them into a phrase describing a person's mood. hopeless, resentful"
+"Create a css stylesheet to increase font size to 20px, give all text italicized font-style and apply 70% transparency to all elements. "
+"Model a complex sentence, with ""although"" and a noun clause. "
+Detect the sentiment of the sentence. I love cleaning my room.
+List 3 common techniques used for text summarization. 
+"Explain the concept of mean, median, and mode. "
+Generate creative ways to learn a language. 
+Generate a real world example to explain the concept of supply and demand. 
+"Given the following sentence, suggest two alternate words for the word 'hello'. Hello"
+Create a valid and secure password that follows password common rules. 
+Tell me how to make an origami swan. 
+"Classify the following movie as romance, thriller, action, or comedy. Avengers: Endgame"
+Explain to me why this premise does not make sense. The chef in the kitchen at the restaurant can fly.
+What does the expression 'prime the pump' mean? 
+Tell me how to solve the following math equation. 2x + 3y = 15
+"Using the PDF below, edit the text to make it more effective. https://www.example.com/example.pdf"
+"From the given text, compose a short poem. We ventured through the garden, and saw
+Many wildflowers in bloom"
+Come up with a way to express the following statement in a more persuasive way. This product is the most efficient.
+Describe the given incident in a crisp and vivid way A woman was walking down the street when suddenly a car hit her.
+"Summarize in 2-3 sentences about the main character of the novel ""Romeo and Juliet"". "
+Compare the differences between a laptop and a desktop computer. 
+"Select a sentence from the paragraph and explain its usage. He rushed to the store, which was closing in ten minutes."
+Identify and explain the difference between a declarative sentence and a question. 
+Find five top-rated restaurants in New York City. 
+Describe a situation where you had to demonstrate teamwork. 
+"Using your knowledge of geometry, tell me the angle measures of an equilateral triangle. "
+Construct a three-dimensional model of a prism using a square base. 
+"Compute the size of the object given the following measurements. Length: 4.5 inches
+Width: 3.2 inches
+Height: 2.6 inches"
+Convert the text to piglatin. I will go to the store.
+Output all the words in the sentence with length of 4 or more. The language is easy to learn.
+"Identify which type of sentence this is: declarative, interrogative, imperative, or exclamatory. Are you going to the store?"
+Construct the sentences using words in the given order. Most / important / the / is / thing
+Describe a roller coaster in three sentences. 
+What is the primary benefit of using a virtual assistant to manage a business? 
+Imagine you are designing a game. What is the best way to motivate players? 
+Is the following statement true or false: Artificial intelligence is able to take over all human jobs. 
+What is a good example of a real-time application? 
+Construct a Big-O notation to explain the complexity of a certain algorithm 
+"Determine whether the given sentence is a valid statement or not. You should respond with ""True"" or ""False"". Chocolate tastes bad."
+Categorize the type of message in the given text. Thanks for all your help!
+"Generate a tweet summarizing the movie review article. The review article is about the movie ""Toy Story"""
+"Answer the given multiple choice question. The name of the first moon discovered orbiting Mars was:
+a) Phobos 
+b) Deimos 
+c) Saturn"
+"Write a closing statement for this conversation. Alice: I think we need to go over the details of the contract one more time.
+Bob: Yes, I agree."
+Generate a recipe that's easy to make and good for health. 
+"Edit the paragraph to make it concise and clear in meaning. Learning a new language can be a challenging task. It can be difficult to learn a new language and master it, but if you are persistent and you put in the necessary effort, it can be achieved."
+Give me three pieces of advice on how to give an effective presentation 
+"Given a set of text in bulleted form, generate a story from them. * John was always a motivated person
+* John had a dream of working for Google
+* He dedicated his time and resources to learn the necessary skills
+* He created a portfolio to showcase his work
+* Finally, he was invited for the interview
+* He was offered a developer role"
+"Write a script for a play about two friends. Friends: Kate & Mia
+Location: Mia's apartment"
+"Come up with a story about the characters with the following description. Characters: John & Anna
+Setting: A cafe"
+Complete the following story by providing two lines of dialogue. John had just bought a new car and was taking it out for a spin.
+"Create a conversation between two friends, one of them has to be indifferent towards the other person's opinion. Friends: John and Mia
+Location: Mia's house"
+Give five tips that would help someone to become a better listener 
+"Explain why it is important to ensure that your voice commands are understood by your personal assistant (e.g. Siri, Alexa, Google Assistant). "
+"Given a code snippet, identify the programming language and suggest the best practice when writing the code. while (x != y):
+  
+  x = x + 1"
+"Go through the text and edit the typos. Arthurrrr, who was residin in New York had a plan."
+"What is the meaning of the phrase ""it takes one to know one""? "
+Explain why is SEO important for improving ranking on search results page? 
+"Given a sequence of numbers, find the sum and average of all numbers in the sequence. 2, 3, 5, 8"
+"Given a riddle, identify the hidden message My voice is tender, my waist is slender
+And I’m often invited to play.
+
+My foot’s not stumpy, I don’t play a trumpet
+But still attract much attention each day."

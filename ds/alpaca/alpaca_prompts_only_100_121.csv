@@ -1,0 +1,100 @@
+prompt
+Add two to the number 5
+Divide 45 by 9 
+"Classify the following word according to the phoneme ""d"". Dream"
+Compose a song about self-love. 
+Summarize this story in no more than 10 words. Betty was excited to try out for the cheerleading squad.
+Generate a sci-fi setting. 
+"Given the prompt “cat” and a random seed, generate a new sentence using GPT-3. Cat"
+Which of the following would be an appropriate input to a GPT model? 
+Describe the smell of the beach in spring. 
+Are atoms made up of protons and neutrons? 
+Explain why air is transparent. 
+"Rate the relevance of the given keyword to the given text. Keyword: gun control
+Text: Gun control is a matter of great controversy in the United States. Scholars, politicians, and others have argued for many years about the effectiveness of gun control measures. Despite continuing debates, one thing is for certain: gun violence is still a major problem in the United States."
+"Sort the following words into adjectives and adverbs. Fast, quickly, pleasant, wisely"
+Provide one example of a use case for the given technology. Robotics
+"Identify the given conflict. The man wants to pursue his career dreams, while his family wants him to stay home and carry on the family business."
+Provide one example of the given concept. Assimilation
+"Determine whether the given argument is valid or invalid. All cats have four legs.
+My pet rabbit has four legs.
+Therefore, my pet rabbit is a cat."
+"Arrange the given pieces of information into a logical sequence. i. Verify the user's identity
+ii. Process the payment
+iii. Offer customer support
+iv. Display order confirmation"
+"Tweak the ending of this story to make it more suspenseful Mary had just been hired as a project manager by Aardvark, Inc. But despite the impressive salary, she knew that this job was not going to be easy. She was picked for the job because of her experience in the industry and her references. Mary was up for the challenge and started making plans for the project."
+"Classify this tweet as Support, Neutral, or Oppose Immigrants are an integral part of our country--we must stand together to ensure they are treated with respect and dignity."
+Write an algorithm that sorts an array of integers 
+"Given this C code, what is the expected output? #include <stdio.h>
+ 
+int main()
+{
+   int i = 1;
+   for ( i = 1; i <= 5; i++ )
+   {
+      if ( i%2 == 0)
+      {
+          printf(""%d\n"", i);
+          break;
+      }
+   }
+ 
+   return 0;
+}"
+Create a class in Python that represents a car 
+"Given the following code, how many times will the code print ""Hello World""? for x in range(0, 10):
+    print('Hello World')"
+Create a poem about nature that has 8 lines 
+"Given the following list, extract the unique elements my_list = [1, 2, 2, 3, 3, 4]"
+"Format this text to make it more reader friendly we all make mistakes some worse than others
+
+Trying to make things right Is what life's about"
+"Take an existing text and delete any redundant or irrelevant phrases that might clutter the structure of the text. At first, the morning rain was gentle and serene but then suddenly the skies opened up and began to pour with great intensity."
+"Generate a character sketch of a wise old sage, as accurate and detailed as possible. "
+Describe a character in the context of a humorous story. 
+Tell a story that explains the concept of karma. 
+Rewrite the given passage in the form of a future prediction. Recent trends suggest that the global market for mobile gaming will continue to grow at an astounding rate.
+Analyze an existing story and come up with an alternate ending. The story is about a group of teenagers in search of a lost treasure.
+Take an existing sentence and insert an appropriate adverb to give more information about the action expressed by the verb in the sentence The firefighters ran bravely into the burning building.
+Compare a frog and a fly in the context of a funny story. 
+"Choose an existing work of literature and explain what would have happened if a key event did not occur. The story is ""The Fault in Our Stars"" by John Green."
+Create a unique phrase that captures the essence of friendship. 
+Take an existing document and suggest new ideas that can make the document more persuasive. This is a essay about the importance of local tourism.
+"Categorize the below countries according to their populations China, Saudi Arabia, India, Norway"
+"Given the following words, create an acrostic. Peaceful"
+Write pseudocode for a program to print all the numbers between 1 to 10. 
+"Given the following words, find the synonym of the third word. Palatable, Delicious, Favorable"
+"Given a statement, rephrase it to make it less ambiguous. The government should provide healthcare to its citizens."
+"Given a product's features, write an introduction to the product. The product is an app that helps people identify and manage their sleep habits. It can track sleep quality, circadian rhythm, and average sleep time."
+Generate a creative story about a group traveling in a spaceship. 
+"Summarize the following article in no more than 20 words. Over the past decade, mobile technology has become an integral part of everyday life. Mobile phones now connect us to the world around us while giving us access to vast and powerful networks of information."
+Make a drawing based on the following description. A bright yellow sun in the sky of a summer day.
+Name 3 positive things about living in a city. 
+Who led the French revolution? 
+Generate a sentence which reflects the tone of the following excerpt. The icy cold waters of the lake chilled her to the bone.
+"Analyze this given article. Article: Apple recently announced their much anticipated launch of the Mac Pro and the Pro Display XDR. With the introduction of the new hardware, Apple also unveiled the capabilities of their new Afterburner card, which is the first of its kind in the industry. This powerful new card will enable professionals to edit 8K video in real time, as well as allowing them to manipulate and create 3D models with ease."
+Make up a four line poem 
+Identify the different sides of a bridge 
+Brainstorm ways of improving the customer experience 
+Explain the importance of recycling 
+Name all the planets in our solar system 
+Write code to display all the prime numbers from 1 to 100 
+"Automate an email response confirming a user's registration John Smith, john@example.com"
+"List all the even numbers from a given array [1, 2, 3, 4, 5, 6]"
+"Combine the following two arrays without duplicates [1, 2, 3] and [3, 4, 5]"
+Come up with an original sci-fi story 
+Identify the noun and verb of a given sentence I went to the store
+Write a recipe for a biscuit-based breakfast. 
+Describe the visual of a space rocket taking off. 
+Categorize the following phrase as either a general opinion or recommendation. This movie is definitely worth watching.
+Brainstorm two ideas for an essay on the topic 'The impact of technology on the environment'. 
+Explain what an Internet of Things (IoT) is. 
+Describe the visualization of a flock of birds migrating. 
+"What is the common phrase for ""strong and consistent effort""? "
+Calculate the real roots of the polynomial equation. x^2 + x – 6 = 0
+What is the nationality of the first man who landed on the moon? 
+"Given the following sentence,.derive its negative form We will meet at the park"
+"Classify the following objects as living or non-living. Human, Car, Tree"
+Explain the mathematical concept of linear regression in simple words. 
+Describe the human body digestive system 

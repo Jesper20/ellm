@@ -1,0 +1,100 @@
+prompt
+What would be a reasonable expectation for returning a borrowed item? 
+Give a list of efficient tips for better communication. 
+Create a haiku poem that has a deep meaning. 
+"Replace the placeholder with a suitable term. An __ is a long, narrow and deep body of water."
+Design a game using natural objects on a beach. 
+Describe a fictional character. 
+"Given two datasets, analyze and compare them to find the similarities and differences. Dataset 1: Gender Distribution of Population in USA 
+Dataset 2: Gender Distribution of Population in Mexico"
+Design a game involving two players and explain the rules. 
+Describe a person's character in one sentence. 
+Brainstorm different ways to cook a specific type of food. Pork chops
+Write down a shopping list for a week. 
+"Classify the following example as a form of verbal abuse. Output 1 for verbal abuse, and 0 for not. He insults me whenever I make a mistake"
+"In 50 words or less, explain what it means to have a growth mindset. "
+Describe the differences between warm and cold colors. Output must be less than 50 words. 
+Recommend a suitable language model for a task that performs summarization. 
+"Identify whether the following sentence is a assertion or a query. Output 1 for assertion, and 0 for query. I think this is a good idea"
+Is it important to have a balanced diet? 
+Narrate the following story in 50 words or less. Once upon a time there was a small mouse who lived in an old castle with an evil wizard.
+Convert the following text to camel case. Output the answer directly. quick_brown_fox
+Provide some advice for a student wanting to learn Mandarin. 
+"Design a logo for the company named ""Happy Food from Heaven"". "
+"From a long list of items below, generate a shorter list that meets some specific criteria. Output the shorter list directly. 1. T-shirts
+2. Jeans
+3. Sandals
+4. Dress shoes
+5. Sneakers
+6. Polo shirts
+7. Suits"
+Find the second shortest word in the sentence provided. Output the word directly. He has a small white car.
+Identify the type of the following sentence. Output the type directly. She went to the store.
+Output a random number between 1 and 1000. 
+Delete all the characters after the 5th position in the sentence. Output the modified sentence directly. He walked the entire road.
+"Construct a data structure that stores the following information: A student's name, grade level and contact information. "
+You are provided with a description of a setting. Explain the atmosphere of the setting. The interior of a castle.
+Expand the abbreviated word given in the sentence. Output the modified sentence directly. My teacher is a PhD in Lit.
+Select the right word to fill in the blank in the sentence. Output the modified sentence directly. I love to watch _______ in my free time.
+"Summarize the paragraph about environmental pollution. Environmental pollution is the introduction of contaminated substances into nature, resulting in various negative impacts on the environment. Pollutants may be from both natural and anthropogenic sources. Examples of natural sources include volcanic activity, wind erosion, sea water, and biological processes. Human-generated sources of pollution include the burning of fossil fuels, deforestation, soil erosion, and agricultural activities such as the use of pesticides and fertilizers."
+Rewrite the sentence below with correct grammar and punctuation. the building to find the nearest grocery store
+Describe the character traits of an ideal employee. 
+"Find three articles related to the topic of ""AI and healthcare"". "
+"Select the sentence that does not contain a grammatical error. A. His behavior had been irresponsible and unbelievabley childish.
+B. His behavior had been irresponsable and unbelievably childish.
+C. His behavior have been irresponsible and unbelievably childish."
+Give me a recipe for dumplings. 
+Suggest five strategies for reducing stress. 
+Propose a marketing strategy for a new product. 
+Suggest a few ideas for a potential new mobile app. 
+Classify the given tweet as spam or not spam. Tired of being stuck in the same job? Click here for an exciting new opportunity👇
+Create an algorithm to solve this equation: c = a + b
+"Generate a poetic output of 10 lines using the title and themes you choose. Title: ""The Journey within""
+Themes: Reflection, Rebirth, Purpose"
+Describe the relationships between countries in the Asia region. 
+"Identify the source of the quote. ""It is better to be hated for what you are than to be loved for what you are not."""
+Tell me the ingredients for a great smoothie recipe. 
+Which is the best way to learn a new language? 
+Generate a joke in English that is appropriate for children. 
+Explain what the big bang theory is. 
+Write a three-sentence story with the following input. The cat was playing with a ball of wool.
+Edit the text such that the content of the text makes sense. John and his brother went at the store to get some ice cream.
+"Imagine you are making an egg sandwich, write out a step-by-step instruction to make the sandwich. "
+What is the average temperature of Earth? 
+Analyze the following sentence and classify it as a declarative statement or an interrogative statement. He left without saying goodbye.
+Create a computer program that fixes typos in a text. 
+Calculate 34 X 65. 
+Explain the use of zero in the number system. 
+Describe a time when you had to take a big risk in order to get a desired outcome. 
+Construct an algorithm to generate the Fibonacci sequence. 
+What is the most common use of the derivative in calculus? 
+Name five geometric shapes. 
+"Take the following string and convert it to the corresponding integer: ""126"". ""126"""
+What is the name of the law that governs the motion of any object? 
+Write pseudocode for a program that reads two numbers and prints their sum. 
+Describe the core features of a general-purpose programming language. 
+Determine if 3 is a prime number. 
+Predict how company stocks will perform over the course of the next 6 months. 
+Transform this sentence into the second person point of view He is not allowed to go to the park.
+"Generate a question to continue the conversation Sheila: I'm trying to explore new career paths
+Leo: That's great!"
+Compose a tweet on the given topic. The power of technology
+Make two suggestions on how to conserve energy. 
+Name five prime ministers of India. 
+Create a tagline for a company dealing in online banking. 
+List three advantages of renewable energy. 
+Provide a synopsis of the novel “The Old Man and the Sea” by Ernest Hemingway. 
+Suggest 5 adjectives that can be used to describe a robot. 
+Generate a pen-pal letter to someone in a different country. 
+"Add two synonyms for the word ""cordial"" "
+Suggest a possible activity to do on a rainy day. 
+"Find the best joke in the paragraph, output the sentence index. (1) What did the fish say when he hit the wall? (2) What do you call a snowman party? (3)I have an awesome joke about a clock, but it's not all that timely. (4)Why did the bee go to the doctor?"
+"Categorize the given news article according to the five categories. By Rose Naylor – NYT
+
+Amazon, the world’s largest online retailer, announced Thursday that it is investing $10 billion to expand its operations in the United States, creating a total of 100,000 new jobs in the process."
+Select the sentence with the most adjectives. (1)She was successful in her business. (2)Her success was marked by impressive wealth. (3)She was a charitable and generous leader.
+Spin the sentence by using a synonym of the given word. He learned to break the cycle.
+Detect if the sentence indicates positive sentiment or negative sentiment. I'm feeling exhausted lately.
+Find the sentence containing the highest information density. (1)Women have equal rights in our society. (2) This principle is enshrined in our nation's laws. (3) It is one of the great accomplishments of our civilisation.
+"Provide a response to the given conversation. Person A: Are you hungry?
+Person B:"

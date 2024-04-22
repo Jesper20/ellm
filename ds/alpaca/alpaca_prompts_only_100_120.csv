@@ -1,0 +1,100 @@
+prompt
+Topic: Book"
+"Compile the following source code. public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println(""Hello World!"");
+    }
+}"
+Generate an appropriate response from an intelligent assistant. What is the capital of France?
+"Suggest a dialogue to resolve the given situation. Characters: Alex and Nancy
+Situation: Nancy wants to lend Alex her book but Alex does not want to read it."
+Provide a suitable heading for the following paragraph. The oceans play an important role in the Earth’s climate. They cover nearly 80% of the Earth’s surface and are responsible for controlling air temperature and balancing the nutrient cycles of the planet.
+Create a marketing slogan for a camping store. 
+Write a story about a magical being who is disliked by others. 
+Create a website feedback form. 
+Make up a funny joke. 
+Create an opening paragraph for a poem about nature. 
+Come up with an example that demonstrates the use of irony. 
+Summarize the given article and keep the summary to less than 50 words. https://www.sciencemag.org/news/2019/04/biased-algorithms-are-killing-people-prominent-ai-researchers-warn
+"Detect the SMS/text slang in the given message and translate it into formal English. Wag1 b fast, be4 we miss d train!"
+"Given the following poem, classify it as either a fantasy or a science fiction poem There once was a dragon who flew through the air
+In search of an adventure, with none to compare"
+List the major events in order from the given passage The first event was the day he met her and the next was the day he proposed. He married her the following summer and had two children.
+"Calculate the total cost given the unit cost and the number of units Unit Cost: 60
+Units: 5"
+"Given the following data, generate a direct marketing message Customers: Female movie goers"
+"Create a story ending the sentence. The river wound its way through the forest,"
+Assign a score out of 5 to the following book review. I really enjoyed this book. It was an engaging read and had an interesting plot.
+"Determine the length of the item in the given list. [‘apple’, ‘banana’, ‘cherry’]"
+Describe the heat transfer process. 
+Research a famous poet and summarise their famous work in 2-3 sentences. William Wordsworth
+Explain why carbon dioxide is known as a greenhouse gas. 
+Generate a dialogue between a customer service representative and a customer who has a complaint. 
+Synthesize a list of questions to ask while interviewing a Graphic Designer. 
+Compose a poem that encapsulates the feeling of joy. 
+Write a blog post about abstract art. 
+Write a 100 word paragraph on the importance of science education. 
+Create a visual representation comparing residential energy usage and commercial energy usage. 
+Suggest three tips for preparing for a job interview. 
+Create a sample discussion guide for a focus group. 
+"Arrange the given sentences and paragraphs in a logical way to form a coherent story about a mountain trip. Sentences:
+A. Last weekend, I went on a mountain hike
+B. We ran out of snacks, so my friend suggested we hunt some animals
+C. We drank some of the clean river water along the way
+D. We started early in the morning 
+E. We successfully captured a few rabbits and cooked them
+F. I was very excited 
+
+Paragraph: 
+We reached the peak right at sunset. It was an incredible sight. The sunset colors were so vivid against the mountain that it was a sight I wont forget."
+Infer what the author is implying in this sentence. He's been busy lately
+Tell if this sentence is grammatically correct. I was seen a movie.
+Suggest a possible reason why the protagonist is feeling overwhelmed. The protagonist is feeling overwhelmed
+Generate potential titles for a book on the subject of entrepreneurship. 
+"Classify this sentence as a sentence fragment, dependent clause, independent clause, etc. The first sentence of the book."
+Convert this fraction to a percentage. 1/2
+Come up with a headline for an article about the difficulties of working from home. 
+"Decide whether the following sentence is an example of an adverb clause or a noun clause. When the storm hit, everyone was scared."
+Create an outline for an essay on the subject of climate change. 
+Explain why React is a popular JavaScript library for building user interfaces. 
+Generate a short poem in haiku-style (3 lines of 5-7-5 syllables respectively). 
+"Research a famous plant-based chef, summarize their career and provide their website link. "
+"Compose a sentence using the word ""ubiquitous"". "
+Explain the concept of web scraping. 
+Construct a timeline of Neil Armstrong's most significant accomplishments. 
+Write a function in Python to reverse a string. 
+What is Fibonacci number? 
+Refer to a Bible passage and explain its significance. 
+Research a famous author and summarize their accomplishments. 
+Summarize the purpose of the Equal Rights Amendment. 
+Compare and contrast two methods to reduce carbon emissions. 
+Provide an example of a financial tool that is used to identify returns on an investment. 
+What is the purpose of an identity management system? 
+Write a 5-sentence summary of the history of the Internet 
+Identify a popular website and describe two features in detail. 
+Recommend a social media platform and explain why. 
+Describe the data pre-processing steps in a machine learning project 
+How is an artificial neural network (ANN) related to a human brain? 
+Describe how blockchain technology can be used to improve data security 
+What is the function of a recurrent neural network (RNN)? 
+List two advantages of using natural language processing (NLP). 
+"Take the content provided and rewrite it in 45 words. In today's digital world, it is important for companies to create user-friendly experiences for their customers. Businesses must make sure that their customers can access their products, services, and information quickly and easily."
+Make a list of 10 goals for a small business. 
+Name 3 countries that have a higher population than India 
+Name a disease that is spread through contact with animals 
+"Given two numbers, create a function that returns their sum. "
+You need to design an app for making restaurant reservations. Explain the steps taken during the process. 
+Create a business logo for a boutique hotel and explain how it conveys the brand message. Brand Name: Moon Palace.
+What is the term for a technique used for natural language processing purposes involving the use of large amounts of data? 
+Take the following text and reword it in a way that it maintains the same meaning. Decision making is often a difficult process
+"Summarize the following text about online shopping. Online shopping has become increasingly popular over the years with the ubiquity of the internet and mobile-friendly interfaces. It offers convenience with different payment options, the ability to compare prices and an immense amount of choice."
+Convert this decimal to a fraction. 0.8
+Generate a new design for the living room 
+Flag any words longer than 6 letters in this sentence She asked him to be careful
+"Rank these birds from the smallest to the largest. Sparrow, Eagle, Hummingbird"
+Transform this phrase into a past tense She takes a nap
+Describe the character traits of Harry Potter 
+List five benefits of going for a walk 
+Name three countries that start with the letter F 
+Classify this statement as a fact or opinion Germany is the largest country in Europe
+Convert this kilometers to miles 90 kilometers

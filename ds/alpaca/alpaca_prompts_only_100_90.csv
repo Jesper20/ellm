@@ -1,0 +1,100 @@
+prompt
+Attributes:
+- book_id (int)
+- title (varchar)
+- author (varchar)
+- publisher (varchar)
+- publication_date (date)"
+Analyze the new economic situation in India. 
+Explain the importance of recursion in computer science. 
+"Recite the first stanza of ""The Road Not Taken"" by Robert Frost. "
+What is the main purpose of a customer service representative? 
+How did the Industrial Revolution change society? 
+Categorize the following statement according to its theme. Environmental pollution can have adverse effects on public health.
+What is the distance between Boston and New York City? 
+When was the invention of the telephone announced? 
+"Generate one sentence summarizing the article. Today, scientists announced a new technique that can rapidly detect harmful bacteria in food products."
+Generate a summary of the article. Your output should be less than 100 words. Overusing antibiotics continues to be a major global public health concern.
+"Given the context, generate one sentence that uses 'lit' as an adjective. The party was so full of energy"
+"Classify this article according to its content. Output one of the following options: medical, entertainment, business, sports, fashion. US plans to reduce carbon emissions"
+"How does this sentence make you feel? Output one of the following: angry, sad, happy, worried. I have to go back to work tomorrow"
+Summarize a historical event in one sentence. The French Revolution
+"Given a question, provide an answer with a logically sound argument. Why is democracy important?"
+Construct a sentence that demonstrates the use of an antonym. 
+Standardize the following sentence so that it follows formal English conventions and rules. Her friend and her always try to order the same thing.
+"Given an everyday item, construct a metaphor about it. door"
+"Given a fact, provide an opinion through a statement. Prefab buildings are cheaper than traditional buildings."
+"Given a sentence, translate it into a mathematical equation. The sum of two numbers is five."
+Write a poem with a total of 4 lines. 
+"Given a fact, create a question that leads to that fact. Over 30 million Americans have diabetes."
+"Given a sentence that contains a superlative, rewrite it in the comparative form. She is the smartest girl in her class."
+"Given an everyday item, identify 5 things it can be used for. pencil"
+Who developed the theory of relativity? 
+"Construct a table including the following categories. - Year
+- Temperature
+- Arctic Ice cover"
+Generate a list of 10 adjectives to describe a castle. 
+"Calculate the perimeter of a triangle with sides A = 10 cm, B = 12 cm and C = 8 cm. "
+Identify the figure of speech used in the following sentence: “It was raining cats and dogs.” 
+"Create a metagram poem using the following words: cat, book, fly. "
+What date did the World Trade Center attacks occur? 
+Convert 2 ounces to milliliters. 
+Create a classified ad for a used bicycle. 
+Find the smallest two-digit prime number. 
+Give an example of a metaphor found in the text. The sky was a blanket of stars.
+Generate an analogy to explain a complex concept. 
+Generate a list of words that are related to the term 'food'. 
+How did the hero of the story respond to the challenge? The hero had to overcome a paralyzing fear in order to save his village.
+Is the following sentence correct or incorrect? The dog ran happy.
+Write a short story about a boy who is trying to save his village. 
+Rewrite the following sentence so that it doesn't include any cliches: It was raining cats and dogs outside.
+Give me an example of how a country could use blockchain technology 
+Compose an example of a haiku poem 
+Analyze the differences between the words 'subsequent' and 'subsequenty' 
+Provide a valid example of using inheritance in the Java language 
+Develop a program that will solve this equation x^2 + 2x - 15 = 0
+Calculate the income tax on $1850 $1850
+Explain why it's important to follow copyright laws 
+Generate a legal document that establishes a business contract between two companies Company A and Company B are entering into a contract to provide services.
+Describe the type of relationship between two people in the following short story. John and Max haven’t seen each other since high school. They meet at a cafe and they end up talking for hours.
+Generate a list of 3 key provisions for a business contract. No input required.
+Generate a paragraph describing the impact of climate change on family farms. No input required.
+Identify the word in the sentence that has a positive connotation. She was an excelling student.
+"Explain how ""types"" is used in programming languages. No input required."
+Create a birthday card for a close friend by writing a poem. Receiver's Name: Jane
+Generate an algorithm for identifying spam emails. No input required.
+Write an essay about the benefits of public transportation. No input required.
+Outline the advantages and disadvantages of using cryptocurrencies. No input required.
+"Create a complaint letter regarding a faulty product. Product: A gaming keyboard
+Purchase Date: July 2020"
+Insert appropriate punctuation for this sentence. I love programming and music
+Provide antonyms for the word 'evil'. 
+"Arrange the words or phrases in the input into meaningful sentences.
+Output the sentences one by one, seperated by period. well times techniques difficult"
+Rewrite the input so that it follows correct grammar. I had wrote down my thoughts
+Identify if the sentence contains a simile. It was like a maze of winding streets.
+Rewrite the input without using any contractions. Jennifer can't finish the report on time.
+Insert spaces between the words in the input. serenebeauty
+Decide if the sentence contains an oxymoron. They were making an honest living.
+Rearrange the words of the input so that it forms a complete sentence. this a strange place
+Design a chatbot conversational flow to make a restaurant reservation. 
+Generate 3 potential titles for an article about French food. 
+Describe what a blockchain is in less than 20 words. 
+"Generate at least 3 synonyms for the word ""humorous"". "
+Name two disadvantages of using a cloud-based data system. 
+Describe a situation where body language can help facilitate understanding. 
+Name two techniques to improve your memory. 
+"Identify the main theme of the provided passage. The Internet has forever changed the way we do business. Instead of relying on physical connections, we now operate in an interconnected virtual world."
+Explain why it is important to use critical thinking skills. 
+Name a few graphic design software products. 
+What are the criteria for evaluating a machine learning model? 
+List five benefits of using a dog for assistance. 
+Explain why the Internet is an important tool for learning. 
+Summarize the current state of renewable energy in the US. 
+List differences between American and British English. 
+Edit this sentence so that it uses singular possessive nouns: “Each employee's accomplishments are uplifting to their coworkers.” 
+"Describe how a specific character participates in the climax of a novel. Harry Potter in ""Harry Potter and the Deathly Hallows"""
+Generate an algorithm to check if a given string is a palindrome. 
+Explain how wireless technology has impacted human life. 
+Design a program for recognizing facial expressions. 
+Create a story based around this opening line: “It was a dark and stormy night.” 

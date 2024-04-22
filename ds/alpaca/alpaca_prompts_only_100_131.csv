@@ -1,0 +1,100 @@
+prompt
+Suggest a novel product concept and a corresponding value proposition in less than 100 words. 
+"Identify the false statement in the given list of options. A) Bumblebees are able to fly despite their relatively large body size. 
+B) The Proboscis monkey has evolved to possess an extraordinarily long nose.
+C) The proboscis monkey is the only flying mammal in the world."
+"Design an algorithm to predict the stock market using the given conditions. A. The dataset includes information related to economic indicators, such as GDP and unemployment rates, as well as company-specific data such as earnings, market capitalization, and financial ratios.
+B. The algorithm should be able to predict the market trend over a period of at least one month."
+"Write a story in less than 100 words using the given characters and setting. Characters: An old man and a young woman 
+Setting: Deep in the jungle"
+Describe the working of the given algorithm in less than 100 words. K-Means Clustering
+Categorize the given sentence as a question or as a statement. What is the meaning of life?
+"Update the given code to make it more efficient. for (int i=0; i < N; i++)
+  for (int j=0; j < N; j++)
+    A[i][j] = A[j][i];"
+"Given the following poem, suggest an appropriate title in less than 10 words. The sun rays cast their lines 
+Of vibrant colors on the sea 
+In a perfect symmetry"
+Rewrite the given sentence as an assertion in less than 10 words. The theory of evolution explains the diversity of life on earth.
+"Given the following input, generate a response that naturally follows. I am feeling really down today."
+Design a marketing strategy in less than 100 words for the given product. Product: A new low-cost multipurpose printer.
+"Given a scientific term and its definition, provide an analogical example for easy understanding. Term: Photosynthesis
+Definition: The process through which plants capture energy from the sun and use it to create their own food."
+Turn the given sentence into a question. Output the question. Schools can help kids learn.
+"Enter the verb in the sentence, output the verb. She works hard every day."
+"Generate a poem about nature, include a minimum of 4 lines. "
+"Edit the given sentence according to a given set of edits. Output the edited sentence. Sentence to be edited: The film is start with an exciting song.
+Edits: Change ""start"" to ""beginning"", add ""cool"" after ""exciting"""
+"Create a mnemonic for the given list of ten words. Corset, Occur, Showcase, Explain, Rely, Blur, Heaven, Change, Burn, Sleep"
+Generate a recipe for a five-ingredient vegetable soup. 
+"Convert the phrase ""Had I known"" into past perfect form. "
+"Given the data, predict the hourly temperature for the next 24 hours. The data for the last 24 hours is listed below:
+2PM 3°C
+4PM 10°C
+6PM 15°C
+8PM 17°C
+10PM 16°C
+12AM 12°C
+2AM 10°C"
+"Given a description of a computer system, design a user interface with at least 4 features. The computer system is a library management system."
+"Given a description of a travel destination, recommend 10 tourist attractions. The travel destination is Tokyo, Japan."
+Generate five creative open-ended questions related to the given topic. The topic is global warming.
+"Given the facts, classify the object as mammal, reptile, or bird. The object is an iguana."
+"Given the facts, guess who the mystery person is and provide at least three facts about the person. Facts: 
+- The person is an actor
+- The person is from California
+- The person won an Oscar for their performance in a 2017 movie"
+Explain why the object will sink or float when immersed in water. The object is a paperclip.
+"Re-arrange the words from the given phrase so that it forms a meaningful sentence. The phrase is ""play video I can games""."
+"Delete the sentences which have incorrect grammar in the following passage. Mary weren't going to the store, because they wanted to get the ingredients they needed to cook dinner. They went to the store last week and stocked up on lots of food."
+How does the rotator cuff help in keeping the shoulder joint stable? 
+What is the essence of Socrates' philosophy? 
+"You are provided with a text. Find the word that has the highest sentiment score. The destruction of the environment is a tragedy, and every species is vulnerable to it."
+Describe in a few sentences what is a computer virus. 
+Generate a list of ten online business ideas. 
+What is the main difference between IP over Asynchronous Transfer Mode (ATM) and IP over Ethernet (Ethernet)? 
+Propose an idea for an online game. 
+How does customer segmentation help a company to increase its profits? 
+"Rewrite the following affirmation using the imperative mode:
+
+I recommend you practice meditation every day. "
+Explain in a few sentences what is the difference betweeen SSL/TLS and HTTPS. 
+Generate a list of 10 items that can be used as a conversation starter. 
+How can companies use customer segmentation data to increase profits? 
+"Order the following animals according to their size. Marmot, Elephant, Wolf, Gorilla"
+"Create a fictional character from the following prompts. Name: Alice, Age: 18, Profession: Astronaut"
+Write a speech to the graduating class about how their hard work will pay off. 
+Convert the following text into another form of media. The storm had passed and the sun shone brightly in the sky.
+"Reorganize the text so that the topic sentences are at the end of the paragraph. Rainy days not only contribute to a relaxing atmosphere but also bring with them a sense of peace and perspective. The soft, muffling sound of raindrops fills a room in a way nothing else can. Watching the rain can also be calming and a reminder of life’s small but special moments."
+Rearrange the given sentences to create a cohesive paragraph. The project deadline is Sunday night. We're running out of time. I need your help.
+Identify the components of a good formal essay? 
+Write a short blog post on the importance of learning new skills 
+Suggest a creative way to make a difference in someone's life 
+Identify the main purpose of a blog 
+Name five different styles of art 
+What is the most important character trait you need to be successful? 
+Develop a slogan that best reflects the values of sustainability 
+Compare and contrast the properties of two elements from the periodic table Lithium and Sodium
+What are some techniques to deal with stress 
+Generate a title for a news article about the 2020 presidential campaign. 
+Generate a dialogue between two people discussing their plans for the weekend. 
+Change this imperative sentence into a declarative sentence. Find the source of the issue.
+"Rewrite this sentence so that it begins with ""despite"". The other party argued their point relentlessly."
+Create an example of an algorithm to solve a puzzle. 
+Come up with five ways to reduce waste in the workplace. 
+Come up with a way to make the following sentence more interesting. I like to watch movies in my free time.
+Generate a short conversation between two people expressing admiration for a third person. 
+Explain how to calculate the perimeter of a triangle. 
+Name three components of an operating system 
+Edit the sentence to make it flow better and sound natural. She always diligently studies to understand the material better.
+Explain the meaning of the idiom 'pulling someone's leg'. 
+Generate a heartfelt condolence message for a deceased friend. 
+Generate a joke related to math. 
+Generate a list of items that can be found in a garden. 
+Describe an interesting technique for memorizing new information. 
+"Sort the following items in descending order by price. cell phone - $150
+laptop - $900
+television - $600"
+Analyze the sentence for its parts of speech and output the result in lines. I would like to take a break.
+Generate three interesting facts about the Titanic. 
+Compose a paragraph describing a natural scense. 

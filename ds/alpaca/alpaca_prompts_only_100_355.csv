@@ -1,0 +1,100 @@
+prompt
+List three ways in which blockchain can be used for smart contracts. 
+"Write a query in SQL that sums up the total number of books in the database. Table name: books
+Table column: number_of_books"
+"Optimize the following web page. <html>
+  <head>
+   <title>
+      Web Page Optimization
+   </title>
+  </head>
+  <body>
+    <p>
+      This is a web page that needs to be optimized.
+    </p>
+  </body>
+</html>"
+Describe why a website might need to be rebuilt. 
+"Generate a CV for a software developer using the information below. Name: Jane Doe
+Work Experience:
+- Software Developer, XYZ Co., June 2020 - present
+- Web Developer, ABC Co., Dec. 2018 - June 2020
+Skills:
+- HTML
+- CSS
+- JavaScript
+- React"
+Update the following SQL query to return only the columns firstname and lastname. SELECT * FROM Employees;
+Describe how neurons transmit signals in the brain. 
+"Analyze the following text and classify if it is written in a formal or informal tone. Hey guys, what's up?"
+Identify where the following words belong in the parts of speech. He ate a blueberry
+"Implement a sorting algorithm to arrange the following numbers in ascending order. 8, 3, 9, 5"
+"Given the following statement, explain the potential fallacy. All cats are lazy."
+Create a data structure to represent a grocery store checkout system. 
+Give examples of other actions that have a similar effect like eating pineapple. No input.
+"Identify the correct order of the following steps in debugging a Python program. Revert to old code, run tests, check logs, investigate issue, reproduce issue."
+Name the type of food that is usually served in a bento box. No input.
+Construct a thesis statement on the impact of media on society. No input.
+Explain the economic impact of rising unemployment rates. No input.
+"Suggest a way to add the following information in the given paragraph. The Amazon rainforest is one of the world's most stunning regions.
+Adding info: 
+It covers nearly 5.5 million square kilometers in nine countries in South America."
+Categorize this utterance in one of the following categories: 1) making changes to orders; 2) making inquiries; 3) shipping & delivery; 4) technical issues. I have a question about my order delivery time.
+Offer an opinion on the problems that could arise from using AI. 
+Tell me the top 5 highest peaks in the world by height. 
+Rewrite the sentence so it becomes an imperative sentence. Please delete the file.
+Suggest a suitable AI model for a task. A task to identify topical categories within a document.
+Generate a list of countries in the continent of Africa 
+"Summarize the contents the of the following article in 2 sentences Deep learning models are widely used for a variety of tasks in today’s world. Some of these include natural language processing, computer vision, robotics, and many more. They are based on artificial neural networks which are informed by modern biological neural networks. The idea behind them is to build a predictive mathematical model to be able to process data just like humans do."
+Suggest two additional tourist attractions that can be included in a weekend tour of Tokyo 
+Name three different rodents 
+Generate a list of six cultural values of a given country 
+Generate a unique and appropriate hashtag for a protest rally 
+Create a post for Instagram about a trip to a nature reserve 
+Analyze the sentence and summarize what it means in a few words. Apple had to recall its entire line of iPhones due to a manufacturing error.
+Obtain the price of a Bitcoin in US Dollars for the day. 
+"Implement the quick-sort algorithm to sort the following array. [2, 4, 3, 7, 5]"
+How does the presence of oceanic heat storage affect the climate? 
+"Reword ""The boy was running in the street."" "
+How do the jobs of scientists and engineers differ? 
+Provide a summary of the argument made in the given prompt Most parents today struggle to set boundaries and rules that are both firm and respectful of their child’s autonomy. Both over-permissiveness and authoritarian parenting styles have proven ineffective.
+Provide four ideas to boost employee morale. 
+Find the list of ingredients for the given recipe. Grilled Asparagus
+Suggest the best questions to ask for a job interview for the given job description Assistant Manager of a Retail Store
+Find five common characteristics of books in the Fantasy genre. 
+My elderly father suffers from memory problems - what can I do to help him? 
+List the differences between the Rich and the Poor. 
+Suggest four ways to make a long-distance relationship work. 
+Design an algorithm to remove duplicates from a given array. 
+My child is becoming too dependent on technology - what could I do to fix this? 
+Design an algorithm to find the first non-repeatable character in the given string. 
+Write a script for a one minute introduction of yourself to a potential employer. Name: John Smith
+Construct a job interview question that tests the awareness of an applicant about the initial public offering (IPO). 
+Generate humorous or punny silly jokes. 
+Explain why it is important to prune a decision tree? 
+What would you do if the data you collected is not relevant to your task? 
+Generate four questions that can be asked to test the applicant's knowledge in mathematics. 
+Explain the implications of data storage policies for an organization. 
+Describe the motion of a ball rolling off the edge of a table. 
+Identify the 4th note in a C major scale 
+Name two ways to reduce the environmental effects of human activities. 
+List three signs that a person is feeling overwhelmed. 
+"Generate a sentence using the words in the following list:
+16. ""Rain,"" ""tree,"" ""window,"" "
+Write an alternative ending for the story. Once upon a time there was a young girl who desperately wanted to attend the ball but couldn't because she had no money.
+Tell how many weeks are in an year 
+Name 5 major cities in the US 
+Describe what is the ozone layer 
+"Design an efficient algorithm for reversing an array [3, 5, 6, 9, 12]"
+"Generate a regular expression that can match strings of any length consisting of only the letters a,b and c "
+Record a melody with a duration of 20 seconds 
+What is the average number of hours of sleep a person should get? 
+Write a code snippet that uses a for loop to print the numbers 1 to 10. 
+Generate a movie poster for a thriller movie set in New York 
+Divide the number 20 into two parts such that the sum of the two parts is 16 
+Generate web content that describes the benefits of using artificial intelligence 
+Create an email subject line for an advertisement. 
+Take the following sentence and delete 1 word to make it grammatically correct. The apple I ate was good
+"Given the input, convert the given text into a coherent paragraph Environmentally clear, energy efficient"
+Explain what pejorative language is 
+Tell me about the role of a UX Designer. 

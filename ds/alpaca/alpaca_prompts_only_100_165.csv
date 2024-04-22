@@ -1,0 +1,100 @@
+prompt
+Generate a sample dataset with 3 columns and 10 rows. 
+Write instructions on how to change the battery of a laptop. 
+"Create a 5-word summative sentence based on the given story. The sky was dark and cloudy. Suddenly, a bolt of lightning illuminated the whole sky."
+Explain why one should not use manufactured fertilizers. 
+Explain the consequences of a monopoly. 
+Provide an example of a product designed for convenience. 
+Differentiate between the terms meditation and mindfulness. 
+Explain the difference between a long-term goal and a short-term goal. 
+Write a discussion between two friends discussing the usefulness of AI technology. 
+Create an appropriate question for the given statement. The 2020 election has been one of the most competitive in recent memory.
+Describe the theory of natural selection in one sentence. 
+Generate a list of activities for a group of five people. 
+Create a speech about important life lessons and deliver it in front of an audience. 
+"Optimize the given code for performance. s = 0
+for i in range(1,n):
+     for j in range(1,i*i):
+         if j % i == 0:
+              s += j"
+"Create a single sample test case for the following code. def bubble_sort(arr):
+    n = len(arr)
+    
+    # Traverse through all array elements
+    for i in range(n):
+ 
+        # Last i elements are already in place
+        for j in range(0, n-i-1):
+ 
+            # traverse the array from 0 to n-i-1
+            # Swap if the element found is greater
+            # than the next element
+            if arr[j] > arr[j+1] :
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    
+    return arr"
+Think of an interesting title for the given article. This article analyses the current state of the American economy and provides some predictions for the future.
+Brainstorm recommendations to improve the user experience of the product. 
+Write a speech honoring a friend's accomplishment. John has just completed his first marathon.
+Make a list of topics to discuss in a given research paper. Analyzing the impact of the coronavirus pandemic on higher education
+Summarize what is the consumer price index (CPI). 
+Generate a smiley face using only ASCII characters 
+Retrieve three famous quotes related to hope 
+List 10 commands to install Node.js on Linux 
+Describe how crowdfunding works 
+How can AI impact education? 
+Describe two commonly used methods for cleaning up text data 
+What is the main difference between random forests and decision trees? 
+Describe the furniture arrangement in the following room. Living Room
+"Write a node.js program to print out ""Hello World"" in the console. "
+"Given the following list of options, determine which of them is the best according to the criteria specified. Options: 
+1) Look up nutritional facts on the internet
+2) Take a cooking class
+3) Learn to cook from a family member
+4) Read a cookbook
+Criteria: Fastest way to learn to cook"
+"Given the following list of words, combine them in a way that makes a meaningful sentence. Words: Political, Worship, United, States"
+"For the following programming language, suggest a task for a GPT model to complete. Programming Language: Python"
+"Rewrite the following passage in a less technical manner. Passage:
+The Monte Carlo method is a computational algorithm that utilizes random sampling to obtain numerical results. It is often used for estimating real-world problems with multiple variables."
+"Given the input, revise and reformat the following sentence. Sentence: Here’s the rundown- on the best times- to visit Australia"
+"Given the following information, suggest a good way for a student to manage their stress levels. Information:
+The student is a full-time college student with a part-time job"
+"For the following open-ended task, create a context-specific input. Task: Generate a response to a customer's complaint."
+"Suggest an example for the following classification task. Classification Task: Classify an animal as a mammal, reptile, bird, or fish."
+Generate a list of 5 interesting topics to discuss during a 30-minute meeting 
+"Sort the following paper topics from least to most controversial - The Advantages of Single-Sex Education
+- Whether Video Games Promote Violence
+- The Benefits of Vaccinating Children"
+Generate a set of 6 thought-provoking questions based on the given topic The relationship between IQ and success
+Provide an outline for a blog post about the given topic Topic - 5 Mistakes to Avoid when Starting Your Own Business
+"Generate a final report summarizing the study below Study: An examination on the economic impact of agricultural subsidies in rural towns
+
+Abstract: This study examines the economic effects of agricultural subsidies on rural towns in the United States. Using data from the 2017 American Community Survey, we analyze changes in median household income, poverty rate, and employment rate between 2011 and 2017. We also assess the impact of agricultural subsidies on individual industries, such as farming and ranching. The study results suggest that agricultural subsidies can have a significant positive impact on rural towns’ economies."
+Describe a con of the following technology Nanotechnology
+List 5 features this product should have This product is a smart thermostat
+Show how to create a link to an online article. https://www.nytimes.com/2020/08/27/opinion/coronavirus-schools-debate.html
+Suggest a way to reduce stress. 
+"Given a piece of art, describe the emotions depicted in the artwork <image>"
+Create a user manual for the following product A new electric car
+"Given some information about a disease, explain what type of disease it is It is a contagious disease that can be caused by bacteria or viruses. Symptoms include fever, coughing, shortness of breath, and fatigue."
+"Given a list of instructions, rewrite them in an imperative form Please submit your report today
+Do not forget to include your contact details"
+Create an example of a conversation between two friends 
+Imagine you are a manager interviewing applicants for a job opening and write a question you would ask the applicant during the interview. 
+Write a few sentences about a person who is a good friend. 
+Describe the concept of wealth inequality 
+Suggest a legendary superhero and explain why they are considered legendary 
+Suggest a way to improve recycling practices 
+Write a few sentences about an example of a meaningful accomplishment 
+Name some strategies for effective communication 
+Write a few sentences about a meaningful learning experience from the past 
+"Compare the given painting and photograph. Painting Name: The Whistler's Mother
+Painting Artist: James Abbot McNeill Whistler 
+Photograph Name: The Viaduct of Trees
+Photograph Artist: Alfred Stieglitz"
+"Assign the given article to one of the categories. Article Title: Facts About Stingrays
+Article Summary: This article provides an overview of stingrays, including their habitats and behavior."
+"Classify the given system as centralized or distributed. System Name: International Security System
+Description: The International Security System is a large-scale security system that is managed by a centralized authority."
+"Evaluate the given system according to a given criteria. System Name: Banking System 

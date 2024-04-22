@@ -1,0 +1,100 @@
+prompt
+Create a game for young children to practice identifying colors. 
+Create a poem in 123 words 
+Tell one example in which someone would use demographics data 
+Come up with a list of criteria for assessing a painting. noinput
+Create a dialogue which illustrates the importance of punctuality. noinput
+Describe the layering of the OSI model. noinput
+Describe how data is encoded and decoded. noinput
+Generate a paragraph explaining the meaning of 'machine learning'. noinput
+Research the historical origins of the term 'algorithm'. noinput
+"Please create a list of 10 thrift stores near the given address. 123 Main Street, Anytown, USA"
+Generate a plan for spending a weekend in San Francisco. 
+Find five books related to economics that were published in the last five years. 
+Create a list of ten questions to ask someone on a first date. 
+Suggest five items that should be included in a healthy lunchbox. 
+Can you think of five tips to make a workplace more efficient? 
+Find 3 original ways to describe a cupcake. 
+Write a list of questions that can help a customer diagnose a technical problem they're experiencing. The customer is having trouble with their printer.
+"Classify the following passage using two labels that best describe it. Semiconductors are materials that can be either insulators or conductors, depending on their impurity levels."
+Come up with three elements of a valid contract. 
+Generate a list of 6 Christmas-related idioms. 
+Come up with two creative ways to use the phrase “the cat's out of the bag”. 
+What does the phrase “over the moon” mean? 
+Generate a headline for a “how to” article on cleaning silver jewelry. 
+List 4 common types of financial services. 
+What does it mean to “cut corners”? 
+Provide two potential solutions for reducing paper waste. 
+List three countries that have ratified the Paris Climate Agreement. 
+Give two examples of animals that are endangered. 
+Describe the differences between an asynchronous and synchronous web application. 
+Create a 5-minute workout routine. 
+Describe a decision making process. 
+Identify two benefits of using machine learning in data analytics. 
+"Where does the phrase ""once in a blue moon"" come from? "
+Explain the significance of the Battle of the Bulge in World War II. 
+Compare the Earth's atmosphere with that of Mars. 
+Outline the different types of Hinduism. 
+"Analyze the tone used in the poem ""The Lake Isle of Innisfree"". "
+How does the Bill of Rights protect US citizens? 
+Name a famous scientist who won a Nobel Prize. 
+Conjugate the verb in the simple present. Walk
+Write three sentences about a pet dog. 
+Identify the most valuable cryptocurrency on the market. 
+"Authenticate the given user credentials. Username: Jane Doe
+Password: secret123"
+Calculate the sum of integers from 1 to 15. 
+Describe the landscape of the Oregon National Forest. 
+"Check that the given customer is eligible for the discount. Name: Carla Potter
+Discount: 25% off"
+Name one of the four color families. 
+"Compile the given program in C++. #include <iostream>
+
+int main() {
+    std::cout << ""Hello World!"";
+    return 0;
+}"
+Create an API endpoint for retrieving customer orders by the customer ID. 
+"Check whether the given strings are anagrams of each other. String 1: abcd
+String 2: dcba"
+"Create a new contact entry in the system. Name: Emma Watson
+Email: emma.watson@gmail.com"
+Paraphrase the following sentence with two different syntactic variations. I bought the car for my birthday.
+"Generate 3 questions related to the following passage. Most people associate Queen Elizabeth II with England. However, she also has authority in 15 other countries."
+Generate a 2 sentence fable for the following subject. Jealousy
+How far is it from Arizona to California? 
+"Create a password for me that contains one letter, one number, and one symbol. "
+Name the European country with the largest population. 
+Arithmetic exercise. What is the number 16 divided by 4? 
+Create a story about a princess and some dragons. 
+Find the price of a leopard print dress from Amazon. 
+Please label the following emotion in the photo. [Photo of a person looking sad]
+What is the field of study of geology? 
+Describe the tone used in the Fahrenheit 451 book 
+What’s the legal drinking age in the U.S.? 
+Resolve the issue described in the following ticket My internet is not working and I have no idea why.
+"What type of error is the following piece of code producing?
+
+def print_hello():
+print(""Goodbye"") "
+Estimate the height of the Eiffel Tower in meters 
+Provide a comparison between British and American English 
+Explain why Emperor Nero is famously known for ‘fiddling while Rome burned’ 
+"Edit the following sentence to make it clearer 
+
+The traveler explored France by bus "
+What time do the sunsets in New York typically occur? 
+Find the full name of this company in the US. Apple Inc.
+"Generate an email reply to the sender. Dear Mr Smith,
+
+Thank you for your interest in our company and we hope to work with you soon.
+
+Best regards,
+
+The XYZ Team"
+Spell this word: querulous. 
+"Identify which of these two words is a verb and which is a noun. Apple
+Bar"
+Find the 4th word of this sentence: I went to the store to buy milk
+"Given a set of survey responses, determine the average response to each question. 1. How satisfied are you with the service? 
+* Very satisfied 

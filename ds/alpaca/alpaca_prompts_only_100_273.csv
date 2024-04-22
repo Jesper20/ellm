@@ -1,0 +1,100 @@
+prompt
+"Find the angle in the triangle using trigonometry. AB=5, BC=7, AC=9"
+"Generate a new example of a sentence that starts with ""despite"". "
+"Create a poem that has 8 lines and uses the following words: tree, sky, love, sun. "
+"Select the words/phrases in the passage that provide a contrast. Choosing to be kind is a difficult yet vital part of life, it can involve uncomfortable honest conversations with yourself and the people you care about."
+"Provide a set of coordinates for the following city: Shanghai, China. "
+"Analyze the structure of the following sentence: ""I rarely go out for lunch because of the high cost of meals."" "
+"Sort the following words by their alphabetical order. dinosaur, apple, banana"
+"Classify the following animal as either an amphibian, a reptile, or a mammal. Hedgehog"
+Find the name of the tallest mountain in the world. 
+Create a design for a Halloween outfit for a toddler. 
+How far away is the Moon from Earth? 
+"Classify this sentence whether it is an usage example or not. Due to the tax reforms, citizens of South Korea have more money to spend and businesses have incentives to invest."
+Calculate the sum of the first 100 positive integers and explain the process in 4 sentences 
+"What is the definition of ""convergence"" in mathematics? "
+"The input data is a list of numbers. Turn the list into a comma-separated string. [1, 2, 3, 4, 5]"
+Create a pie chart that shows the percentage of people living in each continent 
+"Delete the word ""South"" in this sentence: ""South Korea on Monday announced sweeping tax reforms"" South Korea on Monday announced sweeping tax reforms"
+Name three organisms which are both plants and animals 
+"Create a mathematical representation of the sentence ""1 plus 1 equals 2"" "
+"Edit the sentence to make it negative: ""Apple launched the new iPhone 12 Pro"" Apple launched the new iPhone 12 Pro"
+Generate a sample data set which contains 5 movie titles 
+"Calculate the median of the following five numbers: 15, 37, 33, 29, and 28 "
+Why is sodium content so important in a healthy diet? 
+Name three characters in the movie Forrest Gump. 
+"Identify the most common verb tense in the following sentence:
+
+He has been living in Paris for the past five years. "
+"Edit this sentence to make it more interesting and descriptive:
+
+The chair is red. "
+Summarize the first chapter of To Kill a Mockingbird in 10 sentences. 
+"Convert the following sentence into active voice:
+
+The beach was walked by me. "
+Classify this plant according to its scientific name. Solanum lycopersicum
+"Suggest a resolution to the following problem:
+
+Your internet connection is slow. "
+"Identify the genre of this movie trailer:
+
+https://www.youtube.com/watch?v=fYgZh8iRmgo "
+Construct a query to retrieve the count of orders by customer id. 
+Explain why the Euro became one of the world's major currencies. 
+Generate a title for a article about the diminishing bee population. 
+Rewrite the following sentence  for a more informal tone. We suggest that you take several steps to improve your website.
+Generate 2 rhyming lines for the following line. She popped the question
+"Create a new word by blending two of the following words: 'share', 'surf', 'connect'. "
+"Construct a sentence that uses the following words: 'cow', 'abscond', 'flower'. "
+Output true or false. Does the following word contain a double letter? Cactus
+Write a story about a family that moves to a new city. 
+Generate a two-sentence story of a faraway kingdom. 
+List three ways computers can help people doing their job better 
+"Generate an analogy comparing two unrelated items. mountain, mosquito"
+Make a guess about the outcome based on the following facts. The currency exchange rate for US dollars and Euros is currently 1:0.9
+What is the lowest common denominator of these fractions? 1/3 and 2/5
+Rewrite the following sentence using a part of speech other than a verb. He speaks four languages.
+"Annotate this tweet as 'humorous', 'political', 'unsafe' or 'neutral'. The president hasn't done anything bad this week."
+Generate an appropriate slogan for an ice cream shop. 
+Rewrite this sentence so it has a different meaning. I love eating chocolate.
+Generate a list of ideas for a science project related to the environment. 
+Find the longest word in this paragraph. She bought a large house and had to paint the walls before she could move in.
+Explain why certain elements are necessary in any successful speech 
+"Given two lyrics, create a new melodic line that fits both. The sky is dark and wild
+It's a long journey home"
+"Classify the following email as either ""work-related"" or ""personal"". Dear [person name],
+
+I'm writing to invite you to the launch of our company's new product. We are so excited to be launching it, and you'll be one of the first people to get to experience it. 
+
+Best,
+[my name]"
+Describe in your own words the experience of attending a research conference 
+"Summarize the paper entitled ""Learning to Focus with Soft Attention"" "
+List the challenges of deep learning. 
+"Name the character that is featured in the novel ""The Catcher in the Rye"". "
+List 5 common types of top-level internet domains. 
+Suggest a creative way to use the string “Frog” in a story. 
+"How would you correctly use the word ""anonymity"" in a sentence? "
+"predict labels for the following inputs. The Eiffel Tower               |  Landmark
+The Great Wall of China        |  Landmark"
+List 2 programming languages commonly used for web development. 
+"Construct an algorithm to print the following output. 1, 2, 3, 4"
+"Interpret the meaning of the idiomatic expression ""Missing in action."" "
+Suggest a creative way to use the phrase “Caught red-handed.” 
+Generate a new name for a software system. No input
+Determine how the given two words are related. Clothing and Fabric
+Generate a comparison between the two given items. Lion and Tiger
+Describe what is a validator in programming. No input
+Suggest three ways people can save energy in their homes. No input
+Generate a joke about one of the given topics. Cats
+Create a new analogy that compares a pair of given words. Dog and cloud
+Tell a story about a given topic in one paragraph. Frog
+"Given a recipe, suggest another dish that can be made with the same ingredients. Carrots, onions, potatoes, and beef"
+Write a word or phrase that serves as an example for the given definition. An object that is used to represent a mathematical concept
+"Given a time-series data, identify if any trends exist in the data and describe them. Monthly revenue of a company over the last six months:
+April - $20,000
+May - $24,500
+June - $19,000
+July - $20,500
+August - $25,000

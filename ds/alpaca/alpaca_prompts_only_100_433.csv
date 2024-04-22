@@ -1,0 +1,100 @@
+prompt
+What are the implications of Deep Learning for healthcare? 
+What is the significance of the six sigma process? 
+List out three benefits of using machine learning for data science 
+Explain how natural language processing is used to help business 
+What could this sign represent? ![Image of a white octagon with a blue border](./media/example2.png)
+Name three differences between an X-ray and a CT scan. 
+"Given an array of numbers, categorize each item according to: odd, even, or negative [3, 4, -8, 5]"
+Describe the elements that make a good story. 
+Generate a list of possible future features for the GPT model. 
+List five desserts that are easy to make. 
+Generate an algorithm that evaluates the sentiment of a text. 
+"Categorize the ships in ""Star Trek"" by type. "
+"Rewrite the following sentence to make it more concise.
+""The cat jumped up on the table and then it proceeded to rub against the lamp shade."" The cat jumped up on the table and then rubbed against the lamp shade."
+Identify three sources of stress people may experience. 
+"Explain the concept of ""imperfect knowledge"" "
+Design a user interface for an AI based task management application. 
+Generate a catchy and original title for a horror novel about a family cursed by a red-eyed creature. 
+"Clean up the following piece of code. def count_vowel(str):
+  vowels=['a','e','i','o','u']
+  cnt=0
+  for alph in str:
+    if alph in vowels:
+        cnt+=1
+return cnt"
+"Rewrite the following sentence to avoid the cliché ""it goes without saying"". It goes without saying that exercise is important for your health."
+Translate English text to French. The sun was shining brightly in the sky.
+Name three possible motivational strategies to incentivize employees. 
+Describe the aesethic of a steampunk outfit 
+What is the significance of the date June 15th? 
+What is the main purpose of the game Green Egg? 
+Describe the basic syntax of an if/else statement in JavaScript. 
+Create a list of common vocabulary words for a 5th grader. 
+What is the difference between hot-air balloons and helicopters? 
+Edit this sentence to make it grammatically correct: She are a mathematician. She are a mathematician.
+"What is the lowest number which is divisible by 12, 15, and 18? "
+Describe the story arc of the movie Frozen. 
+Name two characters from the Little Mermaid 
+Tell me the answer to this math problem 6 + 8
+List two luxuries you can buy with $1000 
+Name three traits that describe the character in the following story. John was a shy and introverted teenager who enjoyed playing video games in his free time.
+What would be an appropriate response when meeting someone? 
+Suggest three strategies to reduce the carbon footprint. 
+What are four approaches to combatting climate change? 
+Create an analogy related to the text below. The Earth is running out of resources.
+"Using the recipe provided, describe the taste of the food. Recipe: 1/2 cup of oats, 1/4 cup almond milk, and 1/2 banana"
+What is the product name for the iPhone 11? 
+Find the closest airport to Los Angles. 
+Complete the sentence. The best way to save money is to ____. 
+How long ago did the United Nations come into being? 
+Determine if the statement is true or false. El Nino is a weather phenomenon that occurs yearly. 
+Find the name of the country with the highest average life expectancy. 
+What is the result of 7% of 200? 
+"Link the following items together in a story. A Gnome, A Balloon, An Ice Cream Cone"
+Make a list of five different punctuation marks. 
+Name 3 countries bordering Pakistan. 
+Create an algorithm that removes the vowels from a sentence. The quick brown fox jumped over the lazy dog.
+Write two sentences that describe a fluffy white cloud. 
+"Summarize the lyrics to the song ""My Way"" by Frank Sinatra. "
+Create a chart displaying the US population growth throughout the years. 
+"In the passage below, edit each sentence for grammar errors or improper word use. Provided there's quite good mechanics, a car can ran for a long time."
+Rewrite the following sentence to improve the sentence structure: This report provides more information on how to reduce pollution.
+"In the passage below, find the sentence which has incorrect grammar and fix it! It’s been two years since I first play the piano."
+"Create an analogy for the phrase: ""Cloud is to computer as bookshelf is to books"". "
+Identify the comparative degree of the following adjective: Happier
+Update the following sentence using modern-day language: He waited for her reply with breath bated.
+Describe the Carribbean Sea's climate 
+Who is the richest man in the world? 
+Generate a story about a god sent to Earth to help humanity 
+Enter a valid email address 
+"Name a word that rhymes with ""boat"" "
+Identify the category of the following phrase Output 1 for food and 2 for animals. Serengeti
+"In a word, describe the Grand Canyon "
+Reorganize the letters to create a word erteut
+"Categorize the following phrase as belonging to which part of speech: ""very"" very"
+"Generate a riddle using the following words: ""rabbit,"" ""hare,"" ""forest"" "
+Design a breakout session for a conference on user experience. 
+List two advantages of using a content management system (CMS). 
+Produce a random noun. 
+Reverse engineer this program to understand how it works. 
+Build a news aggregator web application. 
+Describe the setting of a romantic dinner. 
+Which countries have the highest literacy rate in the world? 
+Write a newspaper headline for an article about the effects of climate change. 
+Write an algorithm for sorting numbers in an array. 
+Create a story that takes place in a small town. 
+Predict the temperature for one week given the current temperature. Today's temperature is 70 degree Fahrenheit
+Describe the atmosphere of a restaurant for its website. A French bistro
+Create a list of steps to solve a given problem. How to replace a light bulb
+Create a birthday greeting. For a 12 year old
+Describe a product for its website. Name: Fujitsu ScanSnap IX1500
+Create a simple exercise routine. 
+Compose a comment for a review. The reviewer says that the product arrived quickly but the color was wrong.
+Search online and give an accurate definition to a given concept. The concept is blockchain
+You are writing a story and need to create a setting. 
+Complete this sentence by selecting an adjective that could describe a cat: The cat looked <mask>
+Rewrite the sentence using an appropriate term for the given context: I saw a digital clock on the wall.
+Find the best hypothesis to explain this phenomenon: The wind speeds in the desert are higher at night than during the day.
+Identify the majority opinion about this topic: Many people have different thoughts about the death penalty.

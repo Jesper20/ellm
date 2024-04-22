@@ -1,0 +1,100 @@
+prompt
+Design a data structure that stores personal information. 
+Create a mental model that explains how the internet works. 
+Generate a poem about nature that has four stanzas. 
+Generate a JavaScript code that takes in a user's age and returns the current year plus their age 
+Generate two possible questions a customer might ask related to the product. 
+"What classification would you assign to the following article? With COVID-19's ongoing global impact, many cities have had to reduce their budgets significantly in order to cope."
+Recommend two songs to listen to. 
+"Generate a positive remark that can be used to match the following post. The day started off feeling like a drag, but I'm determined to make the best out of it."
+Is the following message polite? Get your stuff together by tomorrow.
+Give a numerical rating to the following restaurant based on your experience Adalbert's
+"Given a topic, create an outline. The Benefits of Online Education"
+"Given a sentence, identify whether its sentiment is positive, negative, or neutral. The new restaurant has interesting menu choices."
+"Given a set of instructions, find the most suitable tasks. Gather a list of all the scientific research institutes in France related to biotechnology."
+How does GPT language model differentiate between words with similar meaning? 
+Create a list of input parameters and output variables for a website that can be used to check the availability of flights. 
+Take the following statement and convert it into a yes/no question. He should have acted differently.
+How can GPT be used to solve complex tasks such as natural language understanding? 
+What are some characteristics of effective study habits? 
+What were the causes of the French Revolution? 
+"Categorize the animals in the following list: dogs, cats, pigs, fish [dogs, cats, pigs, fish]"
+"Rewrite this sentence:
+
+""Hello, how are you?"" "
+Write a CSS code to define a background-color of #8c7573 for a paragraph. 
+Generate a unique business name. 
+Design a survey question to gauge customer satisfaction with a product. 
+Get the weather forecast for tomorrow in London. 
+Research and provide three examples of Artificial Intelligence applications in healthcare. 
+Compose a tweet that encourages people to come to a specific event. Event name: Hackathon
+"Summarise the following article:
+https://www.abc.net.au/news/2020-09-03/physics-explains-how-dolphins-talk-to-each-other/12546182 "
+"Create an algorithm that can sort an array of numbers into ascending order. [5, 2, 8, 1, 4]"
+"Use the K-nearest neighbors algorithm to classify data points. Data points: [[1,2],[2,4],[2,3],[3,5],[3,1],[5,5],[5,3],[6,1],[6,2],[6,4]]"
+Generate a headline that confirms recent trends in e-commerce. 
+Construct a Boolean expression to decide whether a number is divisible by 5. 
+"Calculate the total price of 3 items with prices of $2.50, $4.25 and $6. "
+Describe how renewable energy can be used to power homes. 
+Name one thing that you could do to reduce your environmental footprint. 
+Generate a self-introduction for a job interview. 
+Design a data structure for a to-do list. 
+"Formulate a hypothesis about the following statement: ""Gender diversity in the workplace can improve productivity."" "
+"Classify the following sentence: ""Trees absorb carbon dioxide."" "
+What challenges can you expect when editing a long-form article? 
+Identify a current environmental issue. 
+Write a SQL query that returns the names of all of the customers and the product they purchased. 
+Suppose you want to build an efficient natural language generation system that can generate a summary given an article. List any possible techniques and tools you may use. 
+"Given the following sentence, delete all the unnecessary words. I have traveled to faraway places in search of knowledge."
+Generate a list of ideas that could be used to create a children's TV show. 
+"Given the following sentence, rephrase it using the Passive Voice. Can you reformat the document?"
+List all the different ways a person can showcase creativity. 
+Describe a dialogue between a shopkeeper and a customer. 
+Generate a pro wrestling match commentary. 
+"Search the internet and find a definition of ""recursion"". "
+Create a boxing ring introduction for a pro wrestler. 
+Evaluate the below math equation. (2+3)(3-2)
+Describe the culture of the Aztec civilization 
+Create a children's poem about animals 
+Describe an iconic song in less than 50 words. Bohemian Rhapsody by Queen
+Compare the behavior of two different dog breeds. Golden Retriever and Labrador
+Identify a key feature of the web development process. 
+Come up with a creative way to organize a collection of toys. 
+Find a fact about the Star Wars movie franchise. 
+Transform the following sentence using a synonym: The car sped quickly. 
+Describe a historical event from Canada. 
+Create a dialogue that illustrates a disagreement between two characters. 
+Construct a bio for an author. J.K. Rowling
+"Given the following excerpt, tell what kind of story it is. The summer sun shone brightly on the small town of Applewood. Everyone had come out to enjoy the warm weather and the sights of the town. A family was picnicking in the park, and children laughed and ran around the old wooden playground equipment."
+"Arrange the adjectives in the following order:
+wet, fresh, green "
+Evaluate the following sentence. Output good or bad. I am extremely fascinated with the color of the ocean.
+"Given the following sentence, return the most important keyword. My beloved cat was very active this morning."
+Describe how the internet of things could help people manage their energy consumption better. 
+List five differences between photosynthesis and aerobic respiration. 
+Summarize the major differences between inherited traits and learned behaviors 
+What is the best way to improve accuracy in a deep learning model? 
+Find and replace the highlighted portion of the passage with a synonym. People agreed that the novel was much better than the film adaptation.
+How can bioinformatics predict gene function? 
+What techniques are used to reduce false positives in machine learning models? 
+Describe the benefits of using an employee assistance program in the workplace 
+List some disadvantages of using computer vision in artificial intelligence applications. 
+"Describe how a particular group of people is treated in a particular context. The context: American high schools
+The group of people: LGBTQ+ students"
+Outline strategies for reducing air pollution. 
+Summarize the debate about global warming. 
+Design a navigational system for a city. 
+Suggest strategies for improving clarity in communication. 
+Design a logo that visually reflects a specific organization. The organization: Knowledge is Power
+Create a strategy for decreasing global poverty. 
+List 5 types of black holes. 
+Define 'artificial neural network'. 
+Edit this sentence into active voice. The situation was as expected by the team.
+Give an example of a multi-cloud platform. 
+Find the word in bold and classify it. The cat is fascinated by the moving objects.
+Write a poem that expresses your view of the world. 
+"Cut the list of items into two equally long lists. apple, banana, orange, grape, pear, cherry"
+"Take the given text and make it more concise by removing unnecessary words and shortening long phrases, while maintaining the original meaning. At the present moment in time, the residents of this small town are tired of the loud noises that come from the factory late at night"
+What is the maximum velocity of a jet powered boat? 
+Rewrite the given text to use a different perspective. Peter is a very hardworking and passionate employee.
+Create a function that takes a string as an input and outputs the reversed string. 

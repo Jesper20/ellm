@@ -1,0 +1,100 @@
+prompt
+"Given the facts, compose a compelling story. Facts: 
+- Person Y grew up in a large family where discipline was strictly enforced.
+- Person Y always excelled in school and was recognized for his hard work and talent.
+- Person Y attended a prestigious college and received a full scholarship.
+- Person Y was able to leverage his education to start a successful tech company."
+Describe the effects of the COVID-19 pandemic on the fashion industry. 
+Write a mission statement for a company that provides financial literacy courses to students. Company Name: Money Master
+"Come up with an exemplar for the phrase ""to think outside the box"". "
+Give a detailed description of the differences between Marxism and Capitalism. 
+Design a poster encouraging people to save electricity. 
+Explain the symbolism of a rainbow in literature. 
+Create a shopping list for a 4-person birthday party. 
+Describe a musical instrument. Piano
+Give a detailed explanation on the concept of evolution. 
+Describe the process of digesting food in the body. 
+Come up with a story about a person discovering a lost civilization. 
+Compute the sum of 7 squared and 8 squared. 
+Describe the steps needed to set up a website. 
+Build a 3x3x3 Rubik's Cube. 
+Find the five largest cities by population in a given country. France
+Describe the biggest benefit of vegan diet. 
+Greet someone who just entered a room. 
+Write down a useful tip for public speaking. 
+"What words come to mind when you hear the word ""hospitable""? "
+What type of defense is a criminal trial? 
+Check if this mathematical expression is correct: 4x - 6 = 8 
+What should be the title of a cooking blog that is written by a health-conscious person? 
+"Given a set of books, classify them into 3 subcategories. Harry Potter by J.K. Rowling, A Tale of Two Cities by Charles Dickens, To Kill a Mockingbird by Harper Lee, The Catcher in the Rye by J.D. Salinger"
+Create a brief paragraph to describe a modern consumer shopping experience. 
+Generate a list of five new vegetarian recipe ideas that use five different vegetables. 
+Describe a common strength of GPT models. 
+Generate a list of factors that could cause an increase in car accidents for an article. 
+"Classify the following fruits into red and yellow. Strawberry, Peach, Banana"
+Summarize the advantages of using GPT models in two sentences. 
+Create a catchy headline for an advertisement for a new type of car. 
+Add an example to explain this statement. Organizing data is useful because it helps you to analyze it.
+Describe a scene where someone is using a piece of technology. Noinput
+Formulate an argument in favor of your favorite sports team. Noinput
+Create the opening sentence of a mystery novel. Noinput
+Create a unique title for a book about AI and its impact on society. Noinput
+Create a function in Python that takes two positive integers and returns the sum of their cubes. 
+Compare and contrast the theory of relativity and quantum mechanics. 
+What are the most common elements found in the Earth's crust? 
+Determine the probability that a team will win the game given the equation P(x) = (x + 1) / (x + 3). x = 2
+"Arrange the following numbers from least to greatest: 9, -3, 15, 0. "
+Create a dialogue between two friends discussing the best way to spend their Saturday. 
+"Complete the following sentence starting after the word ""because"". I love exercising because"
+Tell me a positive affirmation. 
+Evaluate the following proposal as a yes or no response. The department should increase the budget by 20%.
+Describe how blockchain can be used in the fields of finance and banking? 
+Express your view on the following statement: Technology has revolutionized how we interact with each other
+Generate a list of 5 different ideas for a project on sustainability 
+How would you explain the concept of artificial neural networks to someone without a technical background? 
+Design a program for teaching children about green energy. 
+What is the most essential element for a successful blog? 
+What are some examples of applications of natural language processing? 
+How can businesses make use of artificial intelligence? 
+What is the main difference between the Internet and the World Wide Web? 
+"In a few sentences, how would you describe the uses of Machine Learning? "
+Create a list of the most common colors in nature. 
+Describe a famous historical figure in 200 words or less. Marie Curie
+Describe the life of a typical pre-school child in 200 words or less. 
+Imagine you are a teacher and a student has asked you a complicated question. Write an answer that encourages him or her to think about the problem and reach the solution on their own. How does the human brain work?
+"Given a list of native animals and plants in Australia, identify the ones that are endangered. Kangaroo, Koala, Wombat, Eucalyptus, Acacia tree"
+"Given a sample product review, edit it to make it more elaborate. The product was good but the delivery was slow."
+Take the following question and generate an appropriate response that is less than 100 words. What is the most inspiring thing you have ever done?
+Generate a suitable ending to the following story that is less than 100 words long. He had been looking for the lost book for days. He searched everywhere but could not find it.
+"Take the following data and classify whether it refers to a healthy or unhealthy meal. Fried chicken, fries, and a coke"
+Describe the process of photosynthesis in 100 words or less. 
+Generate an example of a difficult decision someone might have to make. 
+Input a song lyric and edit it to make it less predictable. I just wanna be your everything
+Generate a story of 20 sentences in the style of William Shakespeare. 
+Reverse engineer the following object piece by piece and describe each part. Object: Pen
+Explain why exponential curves tend to be used for modelling population growth. 
+"Generate a 12-point outline for the topic ""Effective Communication"". "
+Generate a list of 5 different job roles for a computer engineer. 
+Describe the texture of sand in 3 to 5 sentences. 
+Name two elements that are a part of a debate. 
+"Cite which sources were used in the paper Abstract: Fine-tuning continuous prompts for target tasks has recently emerged as a compact alternative to full model fine-tuning. Motivated by these promising results, we investigate the feasibility of extracting a discrete (textual) interpretation of continuous prompts that is faithful to the problem they solve. In practice, we observe a ""wayward"" behavior between the task solved by continuous prompts and their nearest neighbor discrete projections: We can find continuous prompts that solve a task while being projected to an arbitrary text (e.g., definition of a different or even a contradictory task), while being within a very small (2%) margin of the best continuous prompt of the same size for the task. We provide intuitions behind this odd and surprising behavior, as well as extensive empirical analyses quantifying the effect of various parameters. For instance, for larger model sizes we observe higher waywardness, i.e, we can find prompts that more closely map to any arbitrary text with a smaller drop in accuracy. These findings have important implications relating to the difficulty of faithfully interpreting continuous prompts and their generalization across models and tasks, providing guidance for future progress in prompting language models."
+"Classify the abstract under a label. Abstract: Fine-tuning continuous prompts for target tasks has recently emerged as a compact alternative to full model fine-tuning. Motivated by these promising results, we investigate the feasibility of extracting a discrete (textual) interpretation of continuous prompts that is faithful to the problem they solve. In practice, we observe a ""wayward"" behavior between the task solved by continuous prompts and their nearest neighbor discrete projections: We can find continuous prompts that solve a task while being projected to an arbitrary text (e.g., definition of a different or even a contradictory task), while being within a very small (2%) margin of the best continuous prompt of the same size for the task. We provide intuitions behind this odd and surprising behavior, as well as extensive empirical analyses quantifying the effect of various parameters. For instance, for larger model sizes we observe higher waywardness, i.e, we can find prompts that more closely map to any arbitrary text with a smaller drop in accuracy. These findings have important implications relating to the difficulty of faithfully interpreting continuous prompts and their generalization across models and tasks, providing guidance for future progress in prompting language models."
+"Rewrite this sentence, ""It was a dark and stormy night"" It was a dark and stormy night"
+Explain what the magnitude of an earthquake is 
+"Draft a tweet about the latest research paper Abstract: Fine-tuning continuous prompts for target tasks has recently emerged as a compact alternative to full model fine-tuning. Motivated by these promising results, we investigate the feasibility of extracting a discrete (textual) interpretation of continuous prompts that is faithful to the problem they solve. In practice, we observe a ""wayward"" behavior between the task solved by continuous prompts and their nearest neighbor discrete projections: We can find continuous prompts that solve a task while being projected to an arbitrary text (e.g., definition of a different or even a contradictory task), while being within a very small (2%) margin of the best continuous prompt of the same size for the task. We provide intuitions behind this odd and surprising behavior, as well as extensive empirical analyses quantifying the effect of various parameters. For instance, for larger model sizes we observe higher waywardness, i.e, we can find prompts that more closely map to any arbitrary text with a smaller drop in accuracy. These findings have important implications relating to the difficulty of faithfully interpreting continuous prompts and their generalization across models and tasks, providing guidance for future progress in prompting language models."
+"Simplify the following definition: 
+""The magnitude of an earthquake is a measure of the energy released during the event and is based on the amplitude of the waves recorded on a seismograph."" "
+"State the main arguments that the abstract makes Abstract: Fine-tuning continuous prompts for target tasks has recently emerged as a compact alternative to full model fine-tuning. Motivated by these promising results, we investigate the feasibility of extracting a discrete (textual) interpretation of continuous prompts that is faithful to the problem they solve. In practice, we observe a ""wayward"" behavior between the task solved by continuous prompts and their nearest neighbor discrete projections: We can find continuous prompts that solve a task while being projected to an arbitrary text (e.g., definition of a different or even a contradictory task), while being within a very small (2%) margin of the best continuous prompt of the same size for the task. We provide intuitions behind this odd and surprising behavior, as well as extensive empirical analyses quantifying the effect of various parameters. For instance, for larger model sizes we observe higher waywardness, i.e, we can find prompts that more closely map to any arbitrary text with a smaller drop in accuracy. These findings have important implications relating to the difficulty of faithfully interpreting continuous prompts and their generalization across models and tasks, providing guidance for future progress in prompting language models."
+What type of data is used to measure the magnitude of an earthquake? 
+"Provide a context to this sentence: ""He suggested the theory"" "
+"What does ""prompting language models"" refer to? "
+"Please summarize the given statement in three sentences. Increasingly, companies are investing in artificial intelligence and data analytics as a way to become more competitive."
+Please describe the primary function of a transformer 
+Write a story with a happy ending given the following context. A poor family lives in a small house the parents have to take whatever job they can find to make ends meet and the children have to take care of each other in this difficult situation
+"Analyze this sample consumer purchase data and predict the consumer's future purchase behavior. Consumer A purchased a necklace for $120, a pair of earrings for $50 from store 123 in the last two weeks."
+Find out the price of the iPhone 12. 
+"Create a budget plan for someone who makes $3,000 a month. "
+Generate a list of clothes to buy for a three-year-old boy. 
+Research the landforms in the American Midwest. 
+Design an app to help students plan and manage their study time. 
+Summarize what kind of experience the customers can have when shopping at this store. Shop Name: Brands World

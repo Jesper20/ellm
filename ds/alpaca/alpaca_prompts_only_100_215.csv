@@ -1,0 +1,100 @@
+prompt
+Design a game to teach children to recognize shapes. 
+"Rearrange the ingredients to make a recipe. Eggs, Milk, Flour, Sugar and Butter"
+"Create a comma-separated list of the following items. Bag, shoes, shirt"
+Construct a comparative sentence. Lions and tigers
+Convert this hexadecimal value to its equivalent decimal number. 0xAF
+Can you write a news headline about the recent climate change reports? 
+Can you talk about a benefit of remote work? 
+Can you list some cultural values of American society? 
+Write an algorithm that generates an array of even numbers from 0 to 100 
+Create a list of topics for an English class 
+"Compose a sentence that starts with ""Although..."" "
+"Build a representation of the following data structure: Animals:
+- Type: Mammal
+  - Species: Dog
+  - Species: Cat
+- Type: Bird
+  - Species: Hawk
+  - Species: Starling"
+Take the following function and simplify it: f(x) = 4x^2 + 4x + 1
+Generate a sentence that contains two adjectives and two nouns. 
+"Create a summary of the following text in no more than 4 lines. The effect of gun violence in the United States is widespread. According to the CDC, in 2018 there were 38,390 deaths due to firearm. Of these, 24,432 were suicides. The rate of firearm deaths per 100,000 people increased from 10.3 per 100,000 in 1999 to 12 per 100,000 in 2017."
+Rewrite the following sentence with different vocabulary words. The fresh produce was tasty.
+Find a word that means the opposite of the given word. Entrenched
+Describe the ideal workspace 
+Develop a strategy for reducing stress 
+Build a creative story on the given topic Topic: A journey of self-discovery
+Count how many characters are in the sentence Have a nice day!
+"Troubleshoot a printer issue. My printer is displaying a ""Paper Jam"" error code."
+"Categorise the following American states according to their population. New York, Georgia, Texas, Nevada"
+How will you evaluate a text summarizer system? 
+Generate a new English word. 
+Retrieve information about the Democratic party. 
+"Categorize the following states according to the number of electoral votes they have. New York, Pennsylvania, California, Virginia"
+Create a song title that conveys power. 
+What is the best way to understand international relations? 
+Generate a description of an animated inanimate object. 
+Generate a novel story about a magical animal. 
+Take an input sentence and transform it into future tense. I am driving to the office.
+Explain the central difference between a laptop and a desktop. 
+Take an input sentence and detect if it is a palindrome. Madam I'm Adam
+"Given a sentence, remove all the nonessential words and keep the essentials. This house is very old and cannot withstand storms."
+"Given a list of items separated by a comma, construct a sentence using all the items. book, pen, pencil"
+Take an input sentence and change it into passive voice. We are cooking dinner.
+"Given a list of items that needs to be sorted, sort them in ascending order. 6, 3, 9, 5"
+"Given a sentence, convert it into its correct possessive form. Pauls hat"
+"Given a sentence, reduce the length of the sentence using proper grammar. She went to the store, which she had never been to before."
+Describe the concept of quantum entanglement. 
+"Given a dataframe of employee records, group the employees by age and gender. Employees DF:
+Name | Age | Gender
+John | 35 | Male
+Kendra | 25 | Female
+Jared | 21 | Male
+Rita | 32 | Female"
+Find the 8th term in the Fibonacci Sequence 
+Generate a list of topic ideas for a short paper about the representation of gender in the media. 
+"Build a binary classifier to differentiate between apples and oranges. Apple: red, round, tart | Orange: orange, round, sweet"
+What is the most common shopping cart abandonment reason? 
+Describe the features and benefits of using biometrics for authentication. 
+"Given the following sentence, mark the parts of speech: The dog barked loudly. The dog barked loudly."
+Edit the following sentence for clarity: We made cake for breakfast We made cake for breakfast
+"Find a verb phrase that means ""to take away power or authority"" "
+Give 10 features of the sun. 
+Convert this word to plural Museum
+"Summarize this article for me This week, scientists from around the world released their eighth assessment on the impact of climate change. The report documented evidence from fields such as ocean levels, global temperatures, and species loss. The findings concluded that climate change is caused by human activities and will cause extreme, unprecedented damage unless society makes drastic changes."
+"Find the median from this list 3, 7, 2, 8, 9, 1"
+What day of the week does Mother's day usually occur on? 
+"Delete this line from the passage. ""The findings concluded that climate change is caused by human activities and will cause extreme, unprecedented damage unless society makes drastic changes."""
+Construct a short story of 250 words 
+Name a popular book in the fantasy genre 
+Create a classification model to determine whether this review is positive or negative This dish was not worth the money
+"What is the definition of ""alea iacta est""? "
+What is the boiling point of water at sea level? 
+"Reorder this list alphabetically Orange, Apple, Banana"
+"Edit the text to appropriate for a professional business email. Hey there, what's up?"
+What can the speaker say to make the audience laugh? 
+Identify the two negative words in the sentence. I haven't found any interesting books lately.
+"Identify the error in the following HTML code and explain how to fix it. <html>
+<head>
+<title>My Homepage
+</head>
+</html>"
+Describe the concept of media framing. 
+Conver the number 12707 to binary notation. 
+List five ways to perform data visualization with Python. 
+Write SQL query to select the customers who have signed up within the last 7 days. 
+Suggest five ways to optimize a web page for SEO. 
+Analyze the given news article and rank it on objectivity and accuracy. The new health care bill is expected to revolutionize the healthcare industry.
+"Given a dataset of customer records, write a function that filters out the customers from California. "
+Write a marketing slogan of fewer than 10 words 
+Classify this as a CAT mission statement Our mission is to care for cats and promote humane animal care.
+"Generate a recommendation letter for a college application Name: Angela Smith
+
+School: Williams College 
+
+Involvement: Club President
+
+Achievements: Won the state debate championship"
+Explain the convergence of a sequence 
+Edit this sentence to remove any redundancies The idea behind this experiment is to understand the underlying principles behind it.

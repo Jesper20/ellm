@@ -1,0 +1,100 @@
+prompt
+Generate a reason for taking a break at work. No input.
+Create a unique and memorable password for online banking. No input.
+Write code to store user information in a database. No input.
+"For each of the following vegetables, classify them by color. - Carrots
+- Tomatoes
+- Peas"
+"Select one word from the phrase and generate a complex sentence. ""She always studied hard"""
+"Generate a story about an astronaut visiting the moon. ""<noinput>"""
+"Using the sentence, generate a sentence that has the same meaning. John was sent to prison."
+"Use the given information to create a multiple choice question. Person: Julius Caesar 
+Fact: Assassinated in 44 BC 
+Time: Autumn 2020"
+"Rewrite the following sentences using the fourth conditional. If I had saved more money, I could have traveled to another country."
+Link the sentence with a correlative conjunction. He likes basketball and refuses to play soccer.
+Create a program to predict whether an email is spam given its text. 
+Explain the benefits of speaking your mind. 
+Create a list of inputs to the instruction and classifying the type of instruction. 
+Provide a list of applicable data points that the GPT model will be able to generate output on given the instruction. 
+"Find the average of the following numbers: 4, 8, 15, 16, 23, 42 "
+Compose a sample input to the instruction 
+Describe the differences between an AI-enabled machine and a human worker. 
+"Rewrite this story from the point of view of the cat. A dog and a cat were walking in the park, when the dog suddenly started barking at a squirrel. The cat, startled by the loud noise, jumped away and hid in a bush."
+"Find the noun phrases in this sentence. This school is old, but it has some very friendly teachers."
+Provide an appropriate analogy by completing the missing term. Chess is to games as calculus is to __________.
+"Generate a list of questions beginning with the phrase ""What is the difference between..."" "
+Generate a sentence that expresses an idea of certainty. 
+Find out what the subject of this sentence is. Tim was dancing at the party.
+"Replace the multiple occurrences of ""its"" with correct pronoun for each context. This is its house but She likes its colour."
+Generate a sentence that expresses your opinion on a given topic. 
+Name two national parks in the USA 
+"Identify the nouns in the sentence ""There is a lot of joy in living."" "
+Describe how to write a marketing email. 
+Output the term that describes the ownership of land and other physical property. 
+"Given a rectangle, output the coordinates for the lower left corner. The rectangle has a x-coordinate of 12 and a y-coordinate of 15, and the width and height of the rectangle are 4 and 5 respectively."
+"Classify the word ""trousers"" "
+Output the variables used in the following equation: y = 3x + 4 
+"Edit the following sentence to remove the redundancy: ""The less you drink, the less you drink"" "
+Create a sentence that uses a metaphor to describe the beauty of a sunrise. 
+Describe the ideal characteristics of a good manager. 
+Compute the minimum score required to pass a test with 15 questions and a passing score of 80%. 
+"Identify the contextual meaning of the word ""ecosystem"". "
+List five data analysis methods. 
+Describe an example of a real-world situation in which the Classification algorithm would be an appropriate technique to use. 
+Explain the concept of a fully connected network. 
+Explain the purpose and benefit of using a Natural Language Processing model. 
+Outline the main features of a perceptron. 
+Write a sentence describing a car using metaphors. 
+Explain the concept of an LSTM network. 
+"Classify the following news article by its sentiment. The Fed is making its first rate cut in more than a decade, signaling worries about the global economy."
+Rewrite the sentence while maintaining its original meaning but makes it more formal. We're not asking permission.
+Provide a Turing-complete definition of what a tree is. 
+Create a thesis statement that must explain why Trump benefits from the US-China trade war. 
+"Create a software design to measure progress given the following requirements. Requirements:
+- Must keep track of user progress 
+- Must be able to easily add, review, and delete progress
+- Also must be able to categorize user data"
+"Identify what type of orgunism the following sentence is describing. This organism has a long, soft body divided into rings, and lives in the ocean."
+"Explain why the following two lines of Python code produce different outputs. a = [1, 2]
+b = a"
+Explain the purpose of creating a sequential model in deep learning. 
+"Create an algorithm to find the longest continuous increasing subarray in a given array. [1, 2, 3, 4, 5, 6]"
+Describe a system that utilizes artificial intelligence to match people with jobs. 
+Compare the limitations of supervised and unsupervised learning. 
+Find a car for less than $1000. 
+Describe a city that you would like to visit. 
+Explain what you admire about the painting below. ![Painting](https://upload.wikimedia.org/wikipedia/commons/2/2a/Piet_Mondrian%2C_1921%2C_Tableau_I.jpg)
+"Summarize the article under the  title ""Risks of childhood obesity"". Childhood obesity is a growing concern around the world. There is an increase in the prevalence of chronic diseases like type 2 diabetes and hypertension. As a result, there is an increasing risk of physical and psychological problems, like sleep apnea and social isolation. Childhood obesity is also associated with a higher risk of developing cardiovascular disease and other serious health conditions. Furthermore, this growing health concern can lead to financial costs for families, as well as schools and the government."
+Identify the most pressing global health challenge facing us today. 
+Write a story about technology promoting environmental sustainability. 
+Describe a past event that changed your perspective on life. 
+Propose a solution to the problem of homeless people living on the streets. 
+Write instructions for setting up a simple homepage for a website. 
+Identify areas of improvement in the following sentence. The quick brown fox leapt over the lazy dog
+Explain why learning a foreign language is a worthwhile endeavor. 
+Compose a 50-word story about love. 
+Design a virtual assistant based on your needs. 
+Analyze the below social media post and identify the most effective marketing strategy used. ![Social Media Post](https://i2.wp.com/techwood.in/wp-content/uploads/2020/06/Spinny-Feat1.jpg?fit=1080%2C810&ssl=1)
+Name a mammal species that is native to the United States. 
+List five benefits of eating more fruits and vegetables. 
+Describe a time when you had an unexpected success. 
+Generate two creative story ideas. 
+Comment on the pros and cons of owning a pet. 
+Explain the physiological process of breathing. 
+Describe a recent experience with customer service. 
+Create a list of five questions to ask a potential job candidate. 
+Come up with a creative idea for a children's book. 
+Describe what the coffee machine should do when the user presses the 'Brew' button. 
+"Given the following components, build an essay discussing the benefits of renewable energy. Wind energy, solar energy, geothermal energy"
+Describe a fictional creature in detail. 
+"Classify the following snippet of text into one of the following categories: fiction, sport, science. She leaned down and planted a kiss on his forehead."
+"Create a haiku using the following keywords: blue sky, bridge, sunset "
+Tell me about the life of a celebrity in three sentences. Celebrity: Tom Cruise
+Describe your ideal vacation destination in four sentences. 
+Edit the passage by replacing the adjective with a suitable synonym. The students discovered the ancient ruin in the mysterious cave.
+"Find the smallest number that is divisible by 3,5 and 7. "
+Explain the concept of a parallel universe in three sentences. 
+Create a roadmap for being able to build a toy robot. 
+Explain how AI can benefit the healthcare industry. 
+Offer one suggestion to reduce cases of teenage suicide. 

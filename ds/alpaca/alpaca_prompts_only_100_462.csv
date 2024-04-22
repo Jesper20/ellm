@@ -1,0 +1,100 @@
+prompt
+Develop a strategy for running a successful marketing campaign. 
+Create a movie or TV show summary for a horror movie set in a town with a haunted mansion. 
+"Rewrite this sentence in a more concise way: 
+""I'm feeling kind of tired after having worked all day."" "
+"Categorize this sentence according to its parts of speech:
+""The apple is sour."" "
+"Edit this sentence to make it more direct:
+""I was wondering if you could help me with something."" "
+Explain the term “polarization” as it applies to politics. 
+"Create a timeline of the major events in the novel ""The Great Gatsby"". "
+"Describe the setting of the novel ""Pride and Prejudice"". "
+Remove the last five characters from this string. string = 'thisisastring'
+What new services can be offered by a supermarket to its customers? 
+Compose a poem about love and loss. 
+Construct an analog clock. 
+"Given a set of binary values, what is the average? {0, 1, 0, 1, 0, 0, 1, 0, 1}"
+What benefits does cloud computing offer to businesses? 
+Suggest 3 strategies for reducing the negative effects of global warming. 
+"Given the following molecules, list their components. H2O"
+Develop an outline of a story. The central conflict of the story is the protagonist's quest to find a mysterious map in an unknown area.
+Create 3 informative keywords for a given subject. Artificial intelligence
+"Summarize the given text within 50 words AI is a type of technology that enables machines to perform tasks and functions that generally require human intelligence — such as visual perception, speech recognition, decision making and translation between languages."
+Generate a list of common mistakes in a given topic Email marketing
+Provide a list of advantages of a given topic. Robot automation
+Identify potential improvements for a given product A smart phone app
+Predict the following word. My greatest fear is ____.
+"Construct a message that contains key phrases from the input. Dear customer, your shipment is delayed but we are doing our best to arrive as soon as possible."
+Design a short survey. 
+Write 5 lines of dialogue in a cartoon style. 
+Complete the flow chart to explain the four stages of the sleep cycle. 
+Develop three conversation starters. 
+"Given a text, correct any mistakes in the grammar and spelling. It was an unforgettble moment."
+"Given some facts, create a narrative. Character: Seth
+Location: Beach
+Time: Morning"
+"Given a stock market chart, predict if the price is likely to rise or fall. "
+"Group the following items based on given criteria. Apple, Banana, Orange, Carrot
+Criteria: Types of Fruit"
+Explain why a person should not jump off a bridge. 
+Create a possible dialog between two friends. 
+Identify the approriate type of pronouns associated with the subject in the sentence. The students and the teacher went on a field trip.
+Explain the concept of cognitive biases. 
+"Find thebug in the following code and suggest a fix. def add_two_numbers(x, y):
+    x + y"
+Explain the features and benefits of a templating language. 
+"Create at least 3 test cases for this function. def calculate_area(length, width):
+    return length * width"
+"Suggest a debugging strategy for identifying the bug in the following code. def say_hello():
+    print(""Hello world!"")
+    print(""Goodbye world"")"
+Create a user-friendly registration form. 
+Describe the differences between an online store and a brick-and-mortar store. 
+Convert this length measurement from feet to meters. 32 feet
+Identify the key pieces of evidence that support the conclusion. The article concludes that the new law will increase the risk of poverty.
+Explain the implications of the increased demand for fossil fuels. 
+Create a list of questions a person can ask to determine if something is a hoax. 
+Describe the impact of a software bug on the customer experience. 
+Analyze the following media text. Output 1 for biased and 0 for not biased. The new tax bill does not help the middle class.
+Generate a set of instructions for taking a photo with a smartphone. 
+Summarize the latest news about the stock market. 
+"Create a petition for a cause, including a compelling argument and a call to action. "
+"Given an animal, identify its diet. Grizzly bear"
+Suggest different ways to use a given product or service. Yelp
+"Determine the relevance of a search query to a given topic. Search query: ""Data Science""
+Topic: Machine Learning"
+Suggest a list of books for someone beginning to explore a given topic. Topic: Astronomy
+"Output a poetic form of a given quote. ""Life is not about finding yourself, it's about creating yourself."""
+"Given a changelog for a software, generate a highlight reel with the most important changes. - Feature A: Added support for JSON
+- Bug B: Fixed a crash when FooBar is enabled
+- Feature C: Added new preferences menu
+- Feature D: Improved performance
+- Bug E: Fixed a security issue"
+"Given a word and its definition, generate a short story that uses that word. Word - Effulgence
+Definition - Intense brightness"
+"Generate a creative poem from the following input and at least 5 lines. Cherries, sunshine, laughter"
+"Separate the relevant information from the example sentence below and put it in the response field. Mount Everest is the highest peak in the world, with an elevation of 8,848 meters."
+Find the most relevant source of information for the following topic. Artificial intelligence in education
+Analyze the following comment and determine if it is a qualification or criticism. She has a lot of potential.
+Summarize the data in the chart in three sentences. 
+Explain why the given subject could be of great importance Cybersecurity
+"Take the given text and make it shorter without losing its meaning Climate change is an urgent and escalating global crisis that is affecting people, economies, and ecosystems across the world."
+Take the following name and generate a one-sentence description Anna Johnson
+"Create a class that supports mathematical operations (+, -, *, /) "
+How is investing in stock markets different from investing in mutual funds? 
+"Arrange the following words in alphabetical order: cat, dog, apple, bear "
+"Using 5 adjectives, describe the scent of freshly baked bread "
+What are the most common problems faced by teenagers today? 
+List three education benefits of studying a foreign language. 
+Respond to the following statement with a yes or no. Racism should always be denounced.
+"Insert a suitable article (a, an, the) in the following sentence. Please fill out __ form."
+Encode the following sentence in Caesar Cipher. The shift should be 3. Learn and grow.
+"Create a new sentence from the words given through a process of semantic extension. Spice, flavor"
+Take the following sentence and modify it in a way that conveys the same idea but uses different words. It was an amazing experience.
+"Summarise this article in 2-3 sentences. The media plays a powerful role in shaping public opinion from the topics that are discussed to the language used to discuss them. The way those topics are presented influences how people think and feel about those topics. This can impact how people engage with those topics, including their voting behaviour."
+Generate a statement that offers a solution to the following challenge. Climate change is threatening the world's ecosystems and leading to global warming.
+Write a descriptive profile for this character. Abraham is an 18-year-old high school student.
+List three global initiatives that are helping to fight poverty. 
+Explain the following word in simple terms. Hedonism
+Name three famous scientists. 

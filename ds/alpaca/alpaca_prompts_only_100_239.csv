@@ -1,0 +1,100 @@
+prompt
+Suggest five things to do in the following city. Seattle
+Recommend three foundations for the following skin type. Oily skin
+"Compare and contrast the styles of the following 2 artists: Pablo Picasso, Jackson Pollock"
+Create an original recipe for the following dish. Fried rice
+Come up with a website title for a technology blog. 
+Think of a creative opening line for a horror story. 
+Write an example of a compare and contrast essay. Cats and Dogs
+Create an outline for a blog post about sexual harassment in the workplace. 
+Compose a tweet in less than 240 characters with the hashtag #AIinFinance. 
+Create a story about a young girl who dreams of being a space explorer. 
+"Summarize the recipe for making a cheese sandwich. Ingredients:
+- 2 slices of white bread
+- 1 tablespoon of butter
+- 2 slices of cheddar cheese
+- 1/4 teaspoon of black pepper
+
+Instructions:
+
+1. Break the butter into small pieces and spread it on each slice of bread.
+2. Put the slices of cheese on one slice of the bread and sprinkle with black pepper.
+3. Place the other slice of bread on top of the cheese.
+4. Preheat a skillet over medium-high heat and place the sandwich onto the skillet.
+5. Toast the sandwich until the cheese melts and the bread is golden brown, about 3 minutes.
+6. Remove the sandwich from the skillet and enjoy!"
+Describe how solar energy works in simple terms 
+"Analyze the quality of this santa-theme song. Deck the halls with boughs of holly
+Fa la la la la, la la la la
+'Tis the season to be jolly
+Fa la la la la, la la la la
+Don we now our gay apparel
+Fa la la, la la la, la la la
+Troll the ancient Yuletide carol
+Fa la la la la, la la la la"
+Rewrite this sentence using complex-compound and complex-multi word verbs. She went to the store.
+Who qualifies for this job? 
+"Write the last line of the story. She looked up in the sky, the stars were shining bright"
+List five benefits of playing a musical instrument. 
+Determine what type of conflict this story has. Damien and Tucker had been competing in a game of chess for hours. Both were determined to win and the tension between the two friends was palpable.
+Predict what the temperatures will be like tomorrow night. 
+"Evaluate the quality of the writing in the following excerpt. The wind blew through the trees with a cool, gentle breeze. It was a quiet and peaceful day, with birds chirping in the background."
+"Analyze the characters in this story. A young girl named Suzy was determined to succeed in school, despite the challenges she faced. Her teachers were supportive but not encouraging, and her peers often laughed at her for her determination."
+"Find the first positive number in a list of integers. Output the number or a letter indicating no positive number was found. [1, -4, -5, 2, 0, -20]"
+Generate a headline for an article about a new app called 'Dog Walker'. 
+Demonstrate how to use XOR operator in Python. 
+"Which of the following numbers is the nearest to 1? Output the number. 0.91, 0.92, 0.93"
+"Classify the following sentence according to its sentiment. Output 1 - 4 for each sentiment category.
+1) Positive; 2) Neutral; 3) Negative; 4) Other The experience was not what I expected."
+Calculate the area of a square with length 10m. Output a floating point number. 
+What is the capital of Bangladesh? Output the name of the capital. 
+"Sort the following list according to integers in descending order. Output the sorted list. [5, 2, 9, 4, 6]"
+Paste the following text into a new document. Output the text. This is an example of the task.
+Modify the following sentence so that the verb is in the third person singular present tense. She read the book yesterday.
+"Group the following words according to their type. Output a list with the groups.
+1) Noun; 2) Adjective; 3) Verb happy, dog, barking"
+"Identify the types of the following characters in the story. Output 1 - 5 for each type.
+1) Protagonist; 2) Antagonist; 3) Supporting Character; 4) Foil; 5) Other John, Emily, and Mr. Smith in ""The Adventures of John and Emily"""
+Analyze how the given mobile application achieves scalability. Airbnb App
+Explain the use of big data analysis in retail industry. 
+"Write a CSS rule to center the words ""center me"" in the page. "
+Evaluate the given piece of writing for grammar and style. The instructions was diverse so that the GPT model can be evaluted effectivelly.
+Explain why is cloud computing important for businesses. 
+Identify the US state of the given city. Toronto
+"Identify the poet behind the following poem. Life is but a dream
+An ever-shifting stream
+Of light and dark, of joy and strife
+A landscape wrought with love and with strife"
+"Edit this poem about love. Love is a gentle kind of thing,
+Soothing and quiet, it does bring."
+Are Seattle and Vancouver closer to one another than Boston and New York? 
+"Classify this recipe into breakfast, lunch, dinner, snack or dessert. Ice Cream Fudge Bites
+Ingredients:
+- 2 cups ice cream, softened
+- 2 cups dark chocolate chips
+- 2 tablespoons butter"
+Find the missing part of this math equation. 7 + 4 =
+How many teaspoons of sugar should be added to a cup of coffee? 
+"Classify this as either an animal, plant, or fungus. Unicorn"
+Are orchids considered perennials? 
+Describe the process of creating a digital product in five steps 
+"Given the following sentence, report the main event. Yesterday we went to the park to fly kites."
+"Improvise a song given the following input. The moon is so far away, but it still shines down and lights up the night sky."
+Search online and summarize the current market trends for cars in the United States. 
+"Given the following input, rearrange the words to form a grammatically correct sentence. likes I food Chinese"
+Identify and list three emotions exhibited in the following input. Anna was so excited that she was jumping up and down.
+Make a list of recommendations for visiting a major city 
+Generate lyrics for a romantic love song 
+Write an elevator pitch for a mobile app The mobile app helps people find interesting places to visit nearby.
+"Give feedback for the following essay This essay discusses the importance of computer programming for students.
+
+Computer programming is important for students to learn. It unlocks new ways of understanding and offers an opportunity to obtain jobs in the future. Students are introduced to coding in classroom setting and it allows them to find ways to solve difficult problems."
+"Find the mistakes in the following table Country | Capital | Population
+Russia | Moscow | 145.93 million
+France | London | 67.41 million"
+"Insert a semantically appropriate sentence at the beginning of the following text so that the topic is introduced smoothly. Cells are classified by their shapes and sizes and by the relative complexity of their biochemical processes, as well as their genetic content."
+Rewrite the description below by replacing repetitive words and phrases with synonyms. A coral reef is a group of coral colonies that form an underwater community of animals and plants.
+Convert the following to a yes or no question: Is the color red?
+"Rewrite the following paragraph so that the word “children” does not appear. Children’s lives are vastly different from those of their parents. Even though some of the larger issues stay the same, kids today’s lives are completely different from that of their parents."
+"Create a summary of the following text in under 25 words. The Galapagos Islands are an archipelago of volcanic islands distributed around the equator. It is home to a diversity of plant and animal species, such as giant tortoises, lizards, and some marine species like whales and dolphins."
+Rewrite the following sentence so that it is more concise and clear to understand. A great deal of health benefits are obtained by the consumption of adequate amounts of fruits and vegetables on a daily basis.

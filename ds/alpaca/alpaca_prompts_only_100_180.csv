@@ -1,0 +1,100 @@
+prompt
+Write a limerick about traveling in a hot air balloon. 
+A customer wants to know if a pair of shoes are available in a certain size and color. Respond to the customer by confirming or denying the availability. Do you have size 8 brown shoes?
+"Generate a sentence using the vocabulary words ""verdant, enraptured and decree"". "
+"Sort a list of vegetables in alphabetical order. Radish, Carrot, Cucumber, Potato"
+"Given a dataset, generate a prediction about the market trend. Dataset: Sales of computer parts over the past 5 years"
+"Given two code snippets, identify which lines of code produce errors. Snippet 1:
+x = 10
+y = 20
+result = x * y
+
+Snippet 2: 
+x = 10
+y = “hello”
+result = x * y"
+Describe the characteristics of a type 2 diabetes patient. 
+Generate a weather forecast for the next 24 hours. noinput
+Predict what could happen in the next episode of a given TV show. noinput
+"Rewrite the sentence to include the given words. The child was seen walking at night,
+Words: stealthily"
+"Use the given text to suggest a domain for a new web business. ""We want to bring together people with a shared interest in health and wellness to take part in meaningful activities and conversations."""
+"Rewrite the given sentence in positive language. ""You should not worry so much."""
+"From the given text generate a list of skills the employee should possess for the job. ""The ideal candidate for this position should have strong communication, problem solving, and customer service skills. They should also be able to use MS Word and Excel, and be familiar with a few popular accounting software packages."""
+"Analyze the given text and predict its author’s attitude. ""Innovative solutions have always been the key to success. That is why we should embrace change and be open to new ideas."""
+Identify the person in the following sentence. Output the person's name My brother likes to play football
+"Classify the article into one of the categories: science, sports, politics, finance, or business The world's most powerful supercomputer will soon be the first to break the exaflop barrier. Summit, the US Department of Energy's official Oak Ridge National Laboratory in Tennessee, was the world's most powerful system in June 2018."
+What is the most important digital transformation strategy currently used by well-known companies? 
+Write a creative story or poem based on the following prompt. A wizard and a dragon met in a strange world.
+Write a persuasive essay on why everyone should be wearing masks during the pandemic 
+Write a script for a 30-second advertisement about a new product 
+Generate an abstract for an article on the benefits of using artificial intelligence 
+What are the steps to design a digital customer experience? 
+Describe a recent technological advancement that you think is particularly exciting. 
+Rewrite the following text using a more scientific tone. A tornado moves rapidly through the air with lots of force.
+Describe the fear of flying. 
+"When given a date in text, convert it to the correct date format. August twenty-third 2020"
+Generate two examples for a given adjective. Fertile
+"Given two options, pick which one is more economical. Buy an air conditioner or fan"
+"Compile a program in Python. program.py
+def add_two_numbers(a, b):
+    return a + b"
+Create a 10-second animation of a village scene. 
+Generate two questions related to a product launch. Launching a new online shopping experience
+Make a prediction about a stock. Tesla stock (TSLA)
+"Describe the features of a new laptop model. The new laptop model is equipped with a 8th Gen Intel i7 processor, 16GB of RAM, and an NVIDIA GeForce RTX 2060 GPU"
+"Compute the minimum of two numbers. 10, 25"
+Formulate a design plan for a user interface. 
+Sketch the layout of a house. 
+"Summarize the story of the given fairy tale. The Three Billy Goats Gruff is a fairy tale about three mountain-dwelling goats who want to cross a bridge, but must outwit a mean troll who lives beneath it. The eldest Billy Goat Gruff thinks of a plan and volunteers to cross the bridge first."
+Rearrange the words given in the input to make a meaningful sentence. society a modern in work importance gender of
+Make a list of items required to create a Harry Potter themed party. 
+Construct a mathematical equation that follows the pattern of the given equation. 2 + 3 = 5
+"You are given a series of objects. Sort them into categories. tulip, hat, mop, globe"
+Diagnose the problem with the given system. The air conditioner in the office is not working correctly.
+Suggest two examples of unfair tests that might be used in the classroom. 
+"Insert a missing detail in the given quote. ""The way you get meaning into your life is to ___"""
+Create a list of safety measures for operating machinery. 
+Suggest a way to reduce pollution in the given city. Los Angeles
+Describe the total solar eclipse. 
+Multiply the given numbers 10 x 5
+Develop three potential story ideas for the given prompt. A prince is faced with a choice between two difficult paths.
+What are the different elements of an electrical circuit? 
+"Transform the given poem into a story The moon came out the night before 
+Reminding me that I’m still here 
+Pain is deep but I will stand tall 
+My love is strong like a castle wall"
+Describe what happened when the protagonist first met his love. 
+Come up with a solution for preventing marine pollution caused by plastic. 
+Which type of mountain is the Matterhorn? 
+Come up with a creative way to celebrate your friends birthday this year 
+Suggest a creative way to de-stress after a long day 
+Come up with a creative way to show appreciation for someone 
+Create a headline with 7 words to capture the following story. An activist has filed a lawsuit against the government over illegal logging in his community.
+Compare and contrast the different forms of government in North and South Korea. 
+What is the title of the fourth Harry Potter movie? 
+Explain the importance of the right to bear arms according to the Second Amendment. 
+Name one branch of the United States government. 
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. 
+Discuss the efforts of the United Nations to advance world peace. 
+Summarize the use of genetics in modern medicine with 5 sentences. 
+Create a funny poem about the sea. 
+Write a function for shuffling a deck of cards 
+What is the most widely spoken language in the world? 
+Describe the smell of a freshly baked pie. 
+"Reverse the order of the elements in the following array: [1, 2, 3, 4, 5] [1, 2, 3, 4, 5]"
+"Edit the following sentence: ""They was working hard"". ""They was working hard"""
+Name three characteristics of an ideal employee. 
+"Find the keyword in the following sentence: ""The elephant is beautiful."" ""The elephant is beautiful."""
+What is the 2nd amendment of the United States Constitution 
+Calculate the temperature in Fahrenheit 25°C
+Identify the fields in which IoT is used. 
+"Categorize the following products into either ""essential"" or ""non-essential"" categories. Apple, Milk, Car, Dog"
+"Create a playdate for 3 children. Children:
+Eve (8 years old), Peter (6 years old), and Mohammed (4 years old)."
+"Rate the following products on a scale of 1-10 (1 = Not good, 10 = Very Good) iPad Pro, Laptop, Desktop"
+"Identify the main subject of the following piece of literature. Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do."
+Create an illustration of the inside of a castle. 
+Give me a list of elements found in the Earth's atmosphere. 
+Outline the steps required to purchase a new computer. 
+Write the lyrics to the chorus of a song about resilience. 

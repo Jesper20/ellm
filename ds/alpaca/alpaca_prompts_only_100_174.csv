@@ -1,0 +1,100 @@
+prompt
+        self.name = name 
+        self.age = age 
+        self.grade = grade"
+"Identify the legal issues in the following scenario: Mary, a 20-year-old student, signs a contract with a software company to develop a software for them on a freelance basis for a fee of $500."
+Assign the following class name to the object: Object type: Dog
+Describe the differences between two types of programming languages. Low-level languages and high-level languages
+Describe a recent technological development that is revolutionizing the way we work. 
+Prepare a signature smoothie recipe. 
+Describe the personality of a lion. 
+Create a table listing the advantages/disadvantages of using a laptop as compared to a desktop computer. 
+Discuss the differences between a microwave and an oven. 
+Reconstruct the given sentence by rearranging the words in alphabetical order. Hello how are you today
+Describe a person you admire. 
+Identify three techniques for developing web applications. 
+"Classify the following statements as either an influence or an effect: ""The rise in global temperatures can lead to more extreme weather patterns"""
+Explain the relationship between wavelength and frequency in terms of electromagnetic radiation. 
+Name three inventions that have transformed the way we live today. 
+Compare and contrast the medicinal uses of ginger and garlic. 
+"Find the area of a triangle with side lengths of 5, 10, and 12. "
+Categorize the given statement into either positive or negative sentiment. I'll just have to accept that some people are simply beyond help.
+Infer the appropriate action from the given information. Tim has been skipping school for the past three weeks
+Redraft the given statement to use more formal language. I am gonna grab some lunch
+Reword the given statement using more specific language. He was curious
+List two facts about the given topic. The Amazon rainforest
+Articulate the moral of the story. A man was walking in the forest when he stumbled upon a village. He stayed with the villagers until he became friends with them and eventually married one of the women.
+Modify the given sentence to include a synonym. He used his skills to complete the task
+Suggest a balanced diet for a marathon runner. 
+Create a short story about a fictional alien species 
+Create a 10-step guide for data pre-processing for a machine learning project. 
+Identify a suitable pricing strategy for selling a new type of computer hardware 
+Suggest a list of features for a voice assistant 
+Compile a list of dos and don'ts for a customer service representative 
+Develop rules of engagement for professional interactions 
+Generate a set of guidelines for designing a logo 
+Write a blog post on the topic of 'This is how I embraced the unknown of this past year' 
+Generate a list of online marketing tools 
+Describe how to use customer feedback to improve customer service 
+"How has the usage of the word ""data"" changed since the introduction of the internet? "
+What aspects of popular culture is Steve Jobs renowned for? 
+"Check whether the following list of numbers is in ascending order. 3, 10, 33, 2"
+What environmental impacts could be caused by ocean acidification? 
+"Identify the logical fallacy in the following statement: 
+""We should close the borders to protect our jobs from being taken away by immigrants."" "
+"Please summarize the given text in 30 words. Basketball is a fast-paced, team sport played by two teams of five players each on a rectangular court."
+Select three of the most important words from the given input. Interesting research has uncovered the prevalence of phonemic awareness in children's language development.
+"Given a text, recognize the sentiment in the text. This restaurant has the best tacos I've ever had!"
+"Find the least important sentence in the given paragraph. The Earth revolves around the Sun in a period of 365.2564 days. In addition, the Sun will eventually die and will become a white dwarf in the far future. Meanwhile, humans have only been recording history for approximately 5,000 years."
+"Choose the best option. Which type of food would be best for a hot summer day?
+
+a) Spicy BBQ
+b) Cold ramen
+c) Grilled vegetables"
+What is the most important thing university students should learn? 
+Explain what a free market economy is. 
+Name at least five things that could be improved in your hometown. 
+Describe a common problem during remote software debugging and how it can be solved. 
+Write some example questions for a customer survey about a home appliance. 
+"Edit the following sentence to make it more concise: ""She thought that it might be a good idea to purchase a new couch but she wasn't sure if it was a wise decision."" ""She thought that it might be a good idea to purchase a new couch but she wasn't sure if it was a wise decision."""
+List the different forms of energy. 
+"Generate a blog post with the headline ""What Is Cloud Computing?"" "
+Compare and contrast two forms of renewable energy. 
+In what order should you tackle preparation tasks for a business trip? 
+Summarize the contents of a text about sustainable energy practices. Sustainable energy practices involve reducing energy consumption and relying on renewable sources instead of traditional non-renewable energy sources.
+Construct a 5-day lesson plan teaching basic computer coding to middle-school students. 
+Create a food allergy awareness campaign for a restaurant. 
+Discuss the use of GPT models for language generation tasks. 
+"Analyze the given article to identify the main points. The article is titled ""The Benefits of Working From Home""
+The Benefits of Working From Home
+
+Working from home is quickly becoming the preferred option for many professionals for a wide range of reasons. For starters, not having to commute to a central office means more time for yourself, saving money as you don’t have to buy food, outfits, and transportation to go to work. It’s also a great way to stay home with your kids but still maintain your professional career, as well as the added convenience of the numerous digital platforms that allow for remote working."
+Compare and contrast fresh-cooked food with packaged food 
+Describe life in the given city. Los Angeles
+Give an example of a web host service. 
+Suggest a simple breakfast recipe that can be made in under 20 minutes. 
+Find a user-friendly data visualization library for Python. 
+Design a logo for a Dentist's office. 
+Look at this car photo and describe to me in 2-3 sentences what it is like. <image: https://images.unsplash.com/photo-1514943473584-375a27f73301?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80>
+"Give me a movie review for the movie ""The Lion King"". "
+Name two U.S. states that border Mexico. 
+"Retrieve the definition of ""networking"" from a reliable source. "
+What would you do as a first step to combat anxiety? 
+"Analyze the following poem and give me 3 key takeaways ""My soul is an enchanted boat,
+That, like a sleeping swan doth float
+Upon the silver waves of woe;
+And from the symphony of love
+My spirit these dark waters row
+ To reach that sacred shore
+Where peace and rest eternally do flow"""
+Find a destination in the US that would be suitable for a one-week vacation. 
+Find an acceptable substitute for the ingredient in the recipe. This recipe calls for green tea leaves.
+List the ingredients of this french toast recipe. 
+"Rewrite the story so that it takes place in another country. The story takes place in the United States and follows two friends, Sarah and David, on a road trip."
+Generate a list of items needed to build a campfire. 
+Create a list of animals that are native to the Amazon rainforest. 
+Describe the types of data stored in a relational database. 
+"Rank the following items according to the cheapest to most expensive. Output a list of item index in the order from cheapest to most expensive. Fuji Apple
+Rose
+Diamond"
+"Given the two sentences, identify the declarative sentence. Output the index of the sentence that is declarative. (1) Would you like some tea? (2) I would love some tea."

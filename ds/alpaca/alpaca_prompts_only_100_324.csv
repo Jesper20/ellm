@@ -1,0 +1,100 @@
+prompt
+Generate a new sentence that follows the same structure of the sentence below. The clouds were moving swiftly across the sky.
+Write two questions that can be used to interview an  engineer 
+"Given the input, generate a list of five adjectives. Character"
+Create a Twitter post that introduces a new product. New product: Eco-friendly water bottle
+How would you set up a Google Alert to be notified anytime there's news about a specific company? 
+What are some good strategies to use when negotiating prices? 
+Create a bulleted list of the benefits of automatic cars. 
+Think of a design that would reduce the need for people to own cars. 
+How can you prevent fraud when making online payments? 
+Create a metaphor that illustrates the journey of life. 
+How would you classify a catfish? 
+"Briely summarize the song ""Bohemian Rhapsody"" by Queen "
+Come up with a new game that can be played by people of all ages. 
+Propose a solution that could reduce the rate of deforestation. 
+Outline what steps you would take to clean a window. 
+"Categorize the following sentences into declarative, interrogative, exclamative, and imperative. Let us fly"
+Construct an analogy with the given word. Journey
+"Rewrite the sentence using indirect speech. He said, ""I like playing video games."""
+"Given the following statements, compose them into a complete argument and provide a conclusion. Statement 1: Global warming is a serious problem.
+Statement 2: It requires urgent action from governments and corporations."
+Find the word with the same meaning of 'amorphous'. 
+Evaluate the following expression: (2x-3)2 
+Write a two-sentence summary about a given article. The article is about the recovery of Florida’s coral habitats from degraded states.
+Generate a word that has the same root word as the given word. Transcribe
+"Given a person’s name, write a sentence describing them using adjectives and explanatory phrases. Bob"
+"Edit the text so that it is suitable for the given purpose. The Earth is the only planet that has life.
+Purpose: As part of a presentation to preschoolers"
+"Make up a sentence that includes a given simile. Simile: ""as slippery as an eel"""
+Give me a joke 
+How does a computer run a machine learning algorithm? 
+Describe the best time for investment 
+Describe a great vacation spot 
+Explain how touch screen technology works. 
+Generate an example of how an AI system could be used for automatic marketing optimization. 
+Provide a recommendation for a mobile app. 
+How could artificial intelligence be used to help stock traders? 
+"Edit this sentence to fix the spelling: ""I have athority over the situation."" I have athority over the situation."
+Find the exact location of the Empire State Building. 
+How deep is the Mariana Trench? 
+"Rewrite this sentence to use an appropriate pronoun: ""The student asked Mary to help them."" The student asked Mary to help them."
+Generate a headline for an article on animal rights. 
+Describe a person wearing a cowboy hat. 
+Suggest a healthy snack for a toddler. 
+Calculate the area of a 20 foot by 40 foot pool. 
+"Translate this phrase from English to French: ""I hate it"". I hate it."
+Make a list of five adjectives that describe a book. 
+Does the sentence use a metaphorical figure of speech? The angry sea was roaring.
+"Categorize the text into one of the following genres: fiction, non-fiction, science, or fantasy. The book tells the story of an orphaned girl who discovers magic and embarks on an adventure."
+"Identify which countries have a population greater than 100 million. China: 1.4 billion, India: 1.3 billion, US: 0.3 billion, Indonesia: 0.3 billion"
+Construct a regular expression that characterizes a valid string of length 5 containing only numbers. 
+"Describe the terms tokenization, stemming and lemmatization in natural language processing. "
+"Arrange the following countries in ascending order of GDP per capita. China, US, India, Japan"
+What is the suggested daily intake of sodium in mg for an adult woman? 
+Generate an expression that evaluates to non-zero if the given number is even. 5
+Construct an SQL query to retrieve the customer identification and first name of customers who are younger than 30. 
+Name three international financial institutions 
+Compose a headline and article excerpt about the rise of renewable energy. 
+"Delete the second sentence in this paragraph. The Mediterranean Sea is the largest enclosed sea in the world. It covers an area of 2.5 million square km and has an average depth of 1,500 meters."
+"Analyze this poem and explain the central message of its author. ""The Road Not Taken"" by Robert Frost
+
+Two roads diverged in a yellow wood, 
+And sorry I could not travel both 
+And be one traveler, long I stood 
+And looked down one as far as I could"
+What is the most potent psychoactive chemical in marijuana? 
+Generate a list of healthy snacks that are mid-afternoon friendly and require no refrigeration. 
+Construct a database query to count the number of records that have a status of 'completed'. 
+"Recode the following set of numbers from positive to negative. 1, 2, 5, 9"
+Compile a list of healthy lifestyle choices. 
+Generate a list of 6 different tools used for data science. 
+"Arrange the following numbers in descending order: 3,2,-1,4,6 "
+Compose a poem that includes the words 'stars' and 'light'. 
+What fixes a HTTP 400 error? 
+"Rewrite the following sentence to make it more concise:
+
+""She took a break from writing and decided to take a walk in the park."" She took a break from writing and decided to take a walk in the park."
+"Assign a truth value (true or false) to the following statement:
+
+Money cannot buy happiness. "
+Compare and contrast the effects of a low-carb diet and a high-carb diet. 
+Describe the energy-flow cycle of an ecosystem. 
+"Edit the following sentence to make the grammar correct:
+
+It was a historically significant event It was a historically significant event"
+Come up with an analogy for photosynthesis. 
+Add supporting evidence for the following claim. The popularity of streaming video services has exploded in recent years.
+Explain how your life could be different if you had a superpower. 
+How can AI be used to reduce bias and discrimination? 
+"Write JavaScript code to solve this programming puzzle. Given a string, find the length of the longest substring without repeating characters.
+
+Example:
+
+Input: ""abcabcbb""
+Output: 3"
+"In this task, you need to count the total number of words in this sentence. A basket of sweets was placed in the corner."
+"Classify this article into either Political Science, Economics, or History. This article aims to provide an overview of the latest French government initiatives in terms of reforming taxes and public spending."
+Use natural language processing to analyze this sentence. This article focuses on the progress made in artificial intelligence.
+"Generate a new recipe using these 3 ingredients: eggs, tomatoes, and cheese. "
+Apply sentiment analysis to this sentence and output the sentiment result. This article is missing key components that would make it a good read.

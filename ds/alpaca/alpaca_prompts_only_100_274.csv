@@ -1,0 +1,100 @@
+prompt
+"In critical thinking, name a fallacy that could be used as an example for composition fallacy. "
+"Using the kanban board below, develop a timeline for when tasks need to be completed. To Do | Doing | Done
+--- | --- | ---
+Write software | Test software | Deploy software"
+"Write a story that explains how the phrase ""Every cloud has a silver lining"" can be interpreted in a contemporary context. "
+Detect if the following sentence uses a cliche. Everything is going downhill.
+Design a web page showing the temperature of a city. 
+Calculate the area of the following shape in square centimeters. rectangle of size 4 cm x 5 cm
+Write a story beginning with “He saw himself reflected in the mirror…” 
+Create a single sentence that describes a feeling of relief 
+"Classify these animals as either omnivores, herbivores, or carnivores Gorilla, lion, koala"
+In what ways is a car similar to a bicycle? 
+Make a comparative sentence that compares two types of animals 
+Create a formal overview of a book The Catcher in the Rye by J.D. Salinger
+"Reword this sentence to improve the flow I didn't know what I wanted to do, so I chose the first option"
+Describe the smell at a bakery 
+List four skills of a successful leader 
+Replace words in the input sentence with their synonyms and keep the original context. John likes to ride his bicycle in the park.
+Convert this sentence from a present participle phrase to a passive sentence. Sam is making dinner.
+Label the sentiment for the given text. The restaurant had terrible service and left us feeling frustrated.
+Construct a palindrome sentence that is grammatically correct 
+Create a table with three columns. 
+"Resolve the two equations. 3x + 5y = 1
+6x + 4y = 2"
+Write a regular expression to match a string of 10 numerical digits. 
+Generate a sentence that evaluates the impact of a bill passed in 2020 
+Describe an experience in which you had to work with someone you did not like 
+"Given a sentence and a keyword, edit the sentence so that the keyword appears at the onset of the sentence. The keyword is ""democracy"".
+This sentence shows the importance of democracy."
+List three examples of famous figures who practiced civil disobedience 
+"Given a sentence and two words, identify the relationship between the two words. The weather was cold but the sun was warm."
+Describe the risk factors associated with diabetes 
+Generate a tweet that expresses appeal to pathos 
+List five examples of nonverbal communication 
+"Given a sentence, add an appropriate transition John failed the test. He was very upset."
+Describe the differences between descriptive and inferential statistics 
+How would you rate the following restaurant on a scale of 1 to 5 stars? The Boathouse Seafood Restaurant
+What is the fastest mammal on land? 
+Create five questions about the life cycle of frogs. 
+Compare and contrast onions and potatoes 
+Imagine you are the manager of a small cafe. Describe how the cafe should operate. 
+Create a content plan for a blog organized around animal conservation. 
+Generate an appropriate cover letter for the following job. We're looking for a Front-End Software Engineer with experience in React.
+Design a game scoring system for a soccer game. 
+"Write a descriptive paragraph about the following scene. A warm summer night, the stars twinkling in the dark sky."
+Generate a humorous come back for the following statement. You don't know anything.
+Describe what an artificial neural network is in simple terms. 
+"Summarize the given text.
+Output should be less than 80 words. The iPad Pro has a lot of features that allow users to customize their experience to suit their needs. It comes with features such as Liquid Retina display with ProMotion, FaceID, and A12Z Bionic chip. These features enable users to multitask more efficiently, access more powerful apps, and have a high quality viewing experience. In addition, the device has accessories like the Apple Pencil and Magic Keyboard that help users get even more work done."
+What is the recommended BMI range for adults? 
+Tell me the chemical formula of water. 
+"What is the meaning of the proverb ""A journey of a thousand miles begins with a single step""? "
+Write a poem about spring. Output should be less than 80 words. 
+Name one disease caused by virus. 
+"Design a logo for a new plant-based burger restaurant. Plant-based burger restaurant name: ""Goodness Grille"""
+"Construct an itinerary for a tourist visiting London, England. Duration of stay: 7 days"
+Find the third derivative of x^4 
+Select the type of figure below. [Insert image of triangle]
+Devise a team motto for a robotics team. 
+Describe the basic idea behind a neural network. 
+Suggest an appropriate title for a blog post that discusses the impact of social media on our society. 
+Construct a persuasive argument for the importance of biodiversity. 
+Describe the trends in usage of the given product in the last 5 years. Product: Smartphones
+Summarize this mathematical equation. Y = X^2 + 2X + 3
+"Create a Google Calendar event. Title: Meeting with Bob
+Start Date: April 10, 2021
+Start Time: 10 am
+Duration: 1 hour"
+Generate a regex pattern for parsing a date in the format 'MM/DD/YYYY'. 
+Create a function to calculate the mean of an array. 
+Suggest 5 ways to increase a website's page view numbers. 
+What is the primary benefit of eating healthy food? 
+List 3 solutions for reducing air pollution. 
+Suggest a way for reducing plastic use 
+Construct a sentence expressing a feeling of pity. 
+"Rewrite the following poem with a new content, using the same rhyme scheme An apple a day 
+Keeps the doctor away"
+"Given a list of facts and the topic, compose a paragraph. Topic: Artificial Intelligence
+Facts: 
+- AI has become the cornerstone of business operations
+- AI is an effective tool for optimizing processes"
+Construct a questionnaire with 10 questions and the given topic. Topic: Climate Change
+"For the given input, decide if it is an example of descriptive or inferential statistics and explain why Calculating the median cost of gas"
+Generate a machine learning algorithm for the given purpose Classifying text into categories
+"Given the purpose, provide the code for generating a random password Generate a random password that contains 8 characters with upper and lower case letters, numbers and symbols"
+"Given the context, classify the sentiment of the statement John just lost his job and he is frustrated"
+Automatically find and insert hyperlinks in the text This article talks about data mining
+Write the code for multiplying two matrices multiply two 3x3 matrices
+Parse the following sentence and create a dictionary for the given structure Jack is a 21 years old student from New York
+List 3 generic strategies firms can use to enter a new market 
+Analyse the following tweet for sentiment. I love to explore new places!
+Generate a positive tweet 
+Design a brand mascot. 
+Post a tweet to celebrate a milestone We hit 10k followers!
+Give advice on starting a business 
+Find 5 keywords to describe a person John
+Collect 5 facts about koalas 
+Write a job description Marketing Manager
+"Write a short story in the style of science fiction. Agnes, a scientist living the year 3287, receives a puzzling message from a ruined city on the distant moon."

@@ -1,0 +1,100 @@
+prompt
+Construct a narration explaining the given comic strip. [Image]
+Create a sentences using the given word in a different context. Exemplar
+Generate a creative writing piece about a character's summer days. 
+"Query the given database using an SQL command. Table Name: Department
+Columns: DepartmentID, DepartmentName, DepartmentCode"
+"Use the given phrases to construct a procedural story. down the stairs, opening the door, swimming in the lake"
+Provide a list of five examples of a counterfeit item. 
+"Write a script to generate a random password that meets the following criteria. Password length: 8 characters
+Must contain uppercase letters
+Must contain lowercase letters
+Must contain at least one number"
+"Generate a short story which is based on the following prompt. A teenage girl, who is unbelievably good at hacky-sack and fixes her friends' problems by providing tech support"
+"Create an html table which displays the following data. Country | Capital
+Norway | Oslo
+France | Paris
+Jamaica | Kingston"
+Produce a list of open-ended questions that one could ask to evaluate data. 
+Write a paragraph updatating the reader about the recent events surrounding [Apple Inc]. 
+Write a Java program to implement a simple calculator. 
+Generate a list of items to be included in a school's technology handbook. 
+"Write a MySQL query to select all the customers from the ""Customers"" table who were born after 1990. "
+Give me a list of all the tables and chairs in a typical office. 
+Name the first 10 digits of Pi. 
+"Store the following records in a database table called 'countries'. Country | Currency | Nationality 
+Germany | Euro | German"
+Suggest five recommendations for improving the speed of a website. 
+Generate an algebraic expression to represent the following equation: 4x + 6 = 10 
+Identify and explain the 6 main layers of the atmosphere. 
+Give examples of five healthy snacks you could have during a workday. 
+How does Amazon ensure secure data transmission? 
+What are the different ways banks can ensure customer safety online? 
+"Rewrite the following English sentence into Spanish. 
+
+The family is going to the park. The family is going to the park."
+Generate an appropriate closing to a business email. 
+Identify the theme of a story. The story was about a young man who struggled with depression and eventually overcame it with the help of his friends.
+Look up a recipe for grilled chicken. 
+Generate a creative marketing slogan to advertise a new product. 
+Perform a factorization of x3 + y3 + z3 - 3xyz. 
+"Judge the quality of a customer review about a restaurant. You should respond with ""Positive"" or ""Negative"". The service was incredibly slow and the food was not well-prepared."
+Explain the concept of long division. 
+List five applications of digital technology in healthcare. <No input>
+Imagine you are a character in a story. Describe the environment in which you find yourself. <No input>
+Explain why some products fail in the marketplace. <No input>
+Create a list of five problems associated with air pollution. <No input>
+Explain why people hoard money. <No input>
+"Search for restaurants near the given address. 123 Main Street, Anytown, USA"
+Look up the given word and provide its definition. Apathy
+Fetch data related to the given query from an online source. The population of India in 2020
+What type of weather is associated with the El Niño-Southern Oscillation? 
+"Given an array of positive integers, find all possible subsets whose sum is equal to a given target number. Array: {3,17,6,2,8,9}
+Target sum: 14"
+Which scientist is most famous for his theory of relativity? 
+Write a paragraph summarizing the advantages and disadvantages of using renewable energy sources in our daily life. 
+Rewrite the sentence to emphasize the fact that the subjects were hungry. They then ate the meal.
+Compare and contrast playing an instrument to playing a sport. 
+Write a fiction story about a character who is lost in the woods. 
+Explain corporate social responsibility in one sentence. 
+Give me a list of five apps that can help me with invoicing. 
+Rewrite the following sentence in simple terms: “I manage my budget using a spreadsheet program.” 
+Name two key components for successful project management. 
+Create an algorithm to detect when two words have the same meaning. 
+Choose a suitable Color Scheme for a website in the hospital industry. 
+Generate an algorithm to count the number of words in a given sentence. 
+Describe in 3 to 5 sentences the most important aspects of a topic. Neural networks
+Generate a poem with 3-4 lines related to the theme of nature. 
+Generate 10 new ideas to solve an existing problem. Climate change
+"Given a natural language question, generate an appropriate response. What is the best type of music to listen to when studying?"
+"Determine the function of this sentence in the given text. Also, studies have documented increased patient satisfaction."
+Explain why your chosen title is appropriate for the given article. Ready for a Revolution: The Rise of Self-Driving Cars
+Create a hypothesis to explain a phenomenon. The effects of climate change
+Write a slogan that describes the importance of embracing diversity. 
+Write a tweet from a user who is ecstatic about graduating from college. 
+"Translate ""Hello my friend"" into German. "
+Write a dialogue between two people describing the benefits of living a healthy lifestyle. 
+Create a mathematical equation for calculating speed if given the formula distance divided by time. 
+Generate a code that will print out all odd numbers between 1-20 
+"Describe a character with the given attributes Intelligent, passionate, and brave"
+"Construct a four-word sentence using the following words: hero, night, bright, and flight "
+What is the opposing idea to the following statement Climate change is a major global issue.
+Find a quote that relates to the following theme Optimism
+Bring out the main features of a democracy. 
+Find a suitable definition for the term 'quantum computing'. 
+Create a five-word poem. 
+"Classify the following topic according to the academic disciplines given below.
+
+Topic: The History of Football 
+
+Academic disciplines: Anthropology, Sociology, Political Science "
+"Find the five-letter word that is common in the following words.
+
+tallness, abomination, solicitude "
+Create a program that can detect if a text is written in English. This text is written in English.
+What are the most famous works of Pablo Picasso? 
+Name two professions that require a lot of writing. 
+Write a funny one-liner that could be used in a joke 
+Create a list of steps to fix a grass stain 
+Generate a story about a night at a summer carnival. Noinput
+Suggest the title of a movie 

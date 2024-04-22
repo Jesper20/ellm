@@ -1,0 +1,100 @@
+prompt
+Design a simple maze game. 
+Create three text-based mini-games in Python. 
+"Design a web page with HTML and CSS. The web page should have a simple section containing a title, a form, and a table."
+"Extract the text from one paragraph of the following HTML document. <html>
+    <head>
+        <title>Sample HTML page</title>
+    </head>
+    <body>
+        <h1>Title of the page</h1>
+        <p>This is a sample paragraph of text.</p>
+        <ul>
+            <li>List item 1</li>
+            <li>List item 2</li>
+        </ul>
+    </body>
+</html>"
+Write a function to check if three numbers form a triangle. 
+"Classify the following sentence according to its sentiment (positive, neutral, negative). I can honestly say I hate this experience."
+Generate two foreign language translations for each English word given. Cat
+Write a paragraph summarizing a recent development in the field of Artificial Intelligence. 
+Name three advantages of using Python for web development. 
+Generate three questions to ask a customer when they make a purchase. 
+Make a list of 10 items that a person should take on a safari in South Africa. 
+Create a blog post title and opening paragraph about the economic impact of Coronavirus. 
+Summarize the role of police in a society. 
+Compare and contrast monopolistic market structure and perfect market structure. 
+Create an example of a simple budget for a family of 4. 
+Describe the concept of gender identity. 
+What is the benefit of physical exercise? 
+Transcribe the following sentence into its phonetic spelling: Mary had a little lamb.
+Explain the roles that a teacher plays in a student's life. 
+Create a query to retrieve all items in a database with a status of 'shipped'. 
+Describe the role of taxes in an economy. 
+"Write an appropriate response for the following conversation. A: I am thinking about buying a new bike.
+B:"
+Edit the sentence making sure that all pronouns used are grammatically correct. Students should give their opinions honestly and openly.
+"Use natural language processing techniques to extract the subject, verb, and object in the following sentence. People should show respect to each other."
+"Rank the following books within the given genres according to the number of Amazon ratings. Output the ranking in ascending order. Genre: Fantasy
+Book 1: Harry Potter - 12000000 ratings
+Book 2: Lord of the Rings - 3000000 ratings
+Book 3: The Hobbit - 3500000 ratings"
+"Write an algorithm to sort the following array using insertion sort. [3, 2, 4, 1, 5]"
+"Create a text classification algorithm to assign each sentences a label. Labels are ""positive"", ""negative"", and ""neutral"". I bought a new phone and it doesn't work."
+"Given an input string, remove all duplicate characters and print the output string. apple"
+Change the following text to present tense. She wrote a story.
+"Analyze the text and output the best summary of the text. E-commerce is the purchasing of goods or services over the internet. It has grown from the early internet days to today's all-encompassing socially interactive experience. Instead of store front businesses creating websites for customers to purchase their goods, companies, like Amazon and eBay, were established specifically to connect buyers and sellers in an online marketplace. Today, many companies have not just established an online presence but have fully incorporated an online model that is either their main form or conduit of commerce or expands and supplements existing brick-and-mortar stores."
+"Sort the following words by length, shortest to longest. book, pencil, chair, keyboard"
+Edit the sentence for correct punctuation and capitalization the cat sat on the mat
+Construct a mathematical equation to evaluate the given expression. 3a + 6b
+Make a recipe of healthy vegetarian noodles. 
+Predict the total revenue of the given company for 2021. Apple
+Explain the differences between British English and American English. 
+Outline the basic process of creating a game using computer programming. 
+Personalize the following birthday message for a person named Camila. 
+Name three aspects of software testing. 
+Make a list of five suitable gifts for a close friend. 
+"Read the following article and edit it for grammar, spelling, and clarity. It is now the begginning of the 21st centery and we have had many advancments in tecnology in just the last five years."
+Give an example of a science experiment that uses the scientific method. 
+Identify two methods of preventing reinforcement learning that come with significant risks and disadvantages. 
+"Given two sentences, identify the impact that one sentence has on the other. Sentence 1: He is a professional football player.
+Sentence 2: He is a good role model."
+"Given a keyword, provide a definition for it. Regression"
+"Given a number, output the sum of the numbers from 1 to that number. 5"
+"Given a keyword, provide an example of it. Optimization"
+Explain the concept of function composition in computer programming. 
+"Generate a random password that meets the criteria of having upper case, lower case, and a number. "
+Compare and contrast the data architectures of Apache Cassandra and Apache HBase. 
+"Given a string, reverse it and print it out. hello"
+"Rank the given list of animals from the smallest to largest based on average weight. octopus, wolf, deer, rhinoceros"
+"Write a code that computes the sum of two integers, given their values as parameters. "
+Name three countries in the South American continent that have Spanish as their official language. 
+Outline the differences between a neuron and an artificial neuron. 
+Write a code that checks if a given number is an Armstrong number. 
+"Which of the given sentences is a compound sentence? I love to travel and I am always fascinated by new places.
+He went to the store but he forgot to buy milk."
+Please provide an example of a hypothetical situation where the concept of Occam's razor would be applicable. 
+"Provide a hypothesis on why some animals such as bees, ants and scorpions have evolved to near identical traits? "
+Give an example of a living organism that uses camouflage. 
+What are the advantages of a computer compared to a calculator? 
+"Edit the sentence so there is no grammar or syntax mistakes We offered to help them, but them ignored us."
+What is the difference between a Turing Machine and a Universal Turing Machine? 
+What is the definition of an energy pyramid? 
+Give an example of something Newton's third law of motion applies to. 
+Give an example of a business opportunity that technology has created in the last 5 years 
+Type a program to print the first 10 Fibonacci numbers. none
+Insert a comma in the appropriate places to make it a valid sentence He is a brave intelligent honest person
+Outline the key points made in the paper. A paper about the impact of television news on public opinion.
+Suggest the 5 most essential tools for web development. none
+"Calculate the mean and standard deviation for the given data set. 2, 3, 4, 5, 6"
+List 3 websites where you can find data for machine learning projects. none
+Describe the connection between environmental degradation and public health. none
+Suggest 5 practices to prepare data for machine learning. none
+Find the probability of rolling a die and obtaining an even number. none
+"For the given product, name 3 brands it is associated with. Nike shoes"
+"In a few sentences, explain how the given technology works. Augmented Reality"
+"Analyze a given article on the impact of Artificial Intelligence on Education and explain its main points. The use of Artificial Intelligence (AI) in education is transforming the way students learn, providing learners with personalized and dynamic learning experiences. AI enables teachers to identify areas where students are struggling with material and individualize instruction to help them become more successful. AI also has the potential to offer feedback that is more immediate and accurate, which can help improve student understanding of their subject matter. Furthermore, AI can help automate tedious tasks such as grading and student assessment, freeing up time for educators to focus on instruction."
+Generate a summary of thegiven text that is not more than 30 words. Machine Learning (ML) is a subset of Artificial Intelligence (AI). It enables computer systems to learn from data without being programmed explicitly. ML uses algorithm that are trained on data in order to make predictions or identify patterns on new data.
+Explain differences between robotics and automation 
+"Change the following sentence to past tense: ""John writes letters every day"". "

@@ -1,0 +1,100 @@
+prompt
+Generate 5 multiplication problems 
+Generate 5 adjectives that describe a beach 
+"Given a sentence, determine if it constitutes an oxymoron. ""A fierce quiet"""
+"Determine if the following statement is true or false: ""The movie 'Titanic' was released in 1999."" "
+Which of the following is the most efficient sorting algorithm? 
+Make a list of 5 powers a genie would grant your wishes. 
+"Given a dictionary, create a JSON representation. dict = {
+""name"": ""John"",
+""age"": 18,
+""is_adult"": True
+}"
+"Analyze the structure of the following sentence and categorize it into different parts of speech. ""The little boy ran through the garden."""
+"Generate an appropriate response to the following instance message: ""What’s the most popular sport in India?"" "
+"Rewrite the following sentences using conjunctions: ""I waited for two hours. My friend still did not arrive."" "
+"Identify the part of speech for the word ""abstract"" in the sentence: ""The abstract concept is difficult to define."" "
+Classify these two words as a synonym or antonym. Cheerful | Sad
+Explain the concept of Mitochondrial Eve. 
+Formulate a hypothesis about the population size of female leopards in Madagascar. 
+Summarize the main points of Plato's republic. 
+"Classify the following statement into a high level semantic category: ""The stock markets are surging"" "
+"Which US state motto is ""Live free or die""? "
+"Summarize the article about the benefits of learning a new language. Article: Learning a new language can be one of the most rewarding experiences of a person’s life. Not only does it open up a world of possibility for global travel, but it also provides an incredible opportunity for personal growth and understanding of other cultures. It can also unlock features of our own language that we didn't know existed."
+"Compose a Tweet summarizing the article on climate change. Article: Climate change is a phenomenon that has taken the world by storm. Its effects can be seen in changing weather patterns, shifting temperatures, and an increase in extreme weather events. It has been caused by human activity and will only become worse unless immediate action is taken."
+Put the words in bold into a sentence. 
+Write a few questions about the article about India's water crisis. Article: India is facing a severe water crisis due to overuse of natural resources and mismanagement of water supply.
+"Formulate a hypothesis for the article about bees and pesticides. Article: Bees are threatened by the use of harmful pesticides, which impacts the production of honey and other pollination services."
+Generate a list of appropriate safety precautions to take while sailing. 
+Create a microwave-safe mug cake recipe. 
+Come up with a list of 5 job interview questions related to customer service. 
+"Given the following sentence, provide a context of a customer service scenario. I apologize for the inconvenience."
+What security risks should organizations consider when moving data to the cloud? 
+Generate a comedy skit with 3 characters No input
+Rewrite this paragraph in fewer words The 13th amendment was passed in 1865 and abolished slavery in the United States. Abolishing slavery was a major victory in the struggle against injustice and it marked a great shift in American history and culture.
+Generate an opening statement for a speech on global inequality. 
+Create a visualization that highlights the differences in income between the top 5% and the bottom 5% of earners in the United States. 
+Generate a speech outline with three main points to plan for a presentation on the importance of renewable energy. 
+Suggest the top 5 online stores for purchasing the product. 
+"Analyze the text and extract five key themes found in it. The increasing pressure of rising sea levels has caused serious harm to businesses, homes, and the environment."
+"Categorize the following sentence into the appropriate genre: fiction, non-fiction, or mystery. The detective followed the suspect down a dark alleyway."
+Reword the following sentence so that it no longer contains any gender-biased language. The salesman presented his new product with enthusiasm.
+Create a reason why a customer might want to buy the product. 
+Generate an HTML code block to create a drop-down menu with three items. 
+Suggest three social media campaigns to promote the product. 
+Generate an example of how customers could use the product in their everyday lives. 
+Compose a haiku that reflects the product's features. 
+Rewrite the following sentence without losing the meaning: The church bells tolled as if to mark the passing of something. 
+"What is the least common multiple of 3, 4, and 7? "
+Rewrite the following sentence using different words that still mean the same. They ran quickly to the store.
+Write a story about a woman who receives an unexpected visit from her grandmother. 
+Provide the definitions of the term software engineering 
+Update the text to make it into a coherent essay Cloud computing has become increasingly popular in recent years because it makes it easier for companies to store and access data whenever it is needed.
+Write a story about a family about to go on vacation 
+Quote one relevant sentence from the article [Link to article]
+Suggest three techniques for improving online learning 
+What are the advantages of using neural networks for predictive analytics? 
+Create a list of 5 career options in data science. 
+Identify the currency used in India 
+Generate a fun memory game in which the player has to match up pairs of similar items. 
+List three causes of pollution in the environment. 
+Suggest two types of data storage methods. 
+"Find the average speed of a car, given the following information: distance = 200km, elapsed time = 2.5 hours. distance = 200km, elapsed time = 2.5 hours"
+"Send an email to a colleague with the details of a meeting Hello John,
+ 
+I would like to invite you to a meeting next Tuesday at 10am. The meeting will be held in the conference room on the 3rd floor."
+"Identify the type of triangle with the following characteristics: sides=3, angles=3, rotation=60 degrees sides=3, angles=3, rotation=60 degrees"
+Propose a satisfactory solution to manage air pollution. 
+Name an example of a creative solution that you have implemented. 
+Generate a headline by combining two cliche expressions. 
+What is the difference between a supervised learning algorithm and an unsupervised learning algorithm? 
+What is the one thing you would change about the world if you could? 
+Under what scenarios would you use a convolutional neural network? 
+Describe the importance of having a strong work ethic. 
+What are the steps involved in implementing a successful digital marketing strategy? 
+Name a strategy that you use to improve creativity and problem-solving skills. 
+Brainstorm three possible titles for a novel set in ancient Rome. 
+"Given the following list, remove all the numbers that are divisible by 4. 2, 3, 4, 8, 10, 11"
+"Construct a sentence using the following words: glass, summer, scent "
+Create a short story with the setting of a busy airport. 
+Write a web crawler to extract emails from a website. 
+Find the Past-perfect tense verb. She had given the money to her teacher.
+What do you need to do to create a Google Account? 
+Give the meaning of the idiom 'bursting at the seams'. 
+Share your opinion on the provided painting. [Attach Painting]
+Rewrite the sentence to avoid the weasel words and make the statement more specific. Some people believe eating bananas is healthy.
+What is the oxidation state of Sulphur in Sodium Sulphate? 
+Generate a humorous tweet that talks about taxes. 
+"Reorganize the poem for a better rhyme scheme. Roses are red, violets are blue
+My love for you is ever so true
+When the morning comes, at sunrise
+My love for you will never die"
+Provide three example usages of the word 'adorn'. 
+Write a paragraph to explain the concept of natural language processing 
+Provide evidence that supports the given statement Studies show that the use of technology has positive impacts on educational outcomes.
+Provide a unique strategy to increase the efficiency of sales in an ecommerce store 
+"Answer the following question: ""What is the most important factor in judging the success of a startup?"" "
+List 3 aspects of US History that have been historically overlooked. 
+Create a Python function to classify books according to genre. def classify_books(book):
+Identify the current skills gap related to blockchain technology. 
+Describe a possible application of Machine Learning in the healthcare industry. 

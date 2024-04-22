@@ -1,0 +1,100 @@
+prompt
+"Given a list of sounds, describe how each sound is produced. Sounds – laughter, barking"
+"Given two strings, write a program to determine if they are palindromes. "
+Categorize the movie genre. The Shawshank Redemption
+"Given two stimuli, suggest a topic for discussion. Cell phones and social media"
+Identify any biases in a given statement. Women are not suited for engineering jobs.
+"Divide a given set of items into categories. Butter, eggs, cheese, orange juice"
+"Given a movie description, classify the genre. A science fiction adventure story set in a distant future"
+Design a t-shirt with the annoucement of a new product. Product: Smartphone
+"Retrieve the last two lines from the given poem. I wander away in search of a sight
+Not seeing any man in the night"
+Name a type of dish that can be served as a sweet dessert. 
+"Reverse the order of the given words, keeping the punctuation the same. great, was, movie, it"
+"Generate a poem with five lines, each line containing four syllables. "
+"Given a news article headline, identify the topic it is discussing. A four-year trade war between two global powers ends"
+Generate a quantity of type with at least 5 words. What is optimism?
+Describe the following photo in at least 5 sentences. ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2c/Houses_in_Charlotte_Amalie%2C_St._Thomas.jpg)
+"Identify the types of conflicts the following passage contains. The two friends had been silent ever since they got into the car, but they both knew they had an important conversation to have."
+"Using the following words, create a 5 line poem. love, laughter, never, brave, believe"
+"Convert the following code snippet into a pseudocode. while (counter < limit):
+    print (counter)
+    counter += 5"
+Generate a sentence using the following parts of speech. Noun: butterfly  Verb: squawk
+Append the text to make it complete. My friend always
+Summarize the following 20 words into 1 sentence. toxic – substance – human – fish – water – environment – animals – pollution – health – threats
+"Develop an algorithm that can efficiently search for a given keyword in a list of items List of items: [macaroni, apple, banana, parsley, tomato]
+Keyword: apple"
+Generate a list of 3 possible research topics related to GPT language models 
+"Make a one-sentence summarization of the poem below. The calm, sheer beauty of the night
+The shadows dance in the soft candlelight
+The stars above all twinkle and shine
+Resting ever so serenely in line"
+Describe the effects of a four year economic recession on a small business. 
+Generate a humorous metaphor for a slow internet connection. 
+"Create a title that reflects the themes of the given poem. Snowflakes glimmer like stars in the sky
+Softly kissing the ground as they silently fly"
+"Make a decision for the best item for a college student to buy in the given list. Laptop, printer, desk lamp"
+Generate a detailed list of ideas for a romantic evening. 
+Create a one-sentence description of the color yellow. 
+Come up with a unique nickname for the given name. Will
+How would you classify the genre of the following book? The book is a thrilling adventure set in an apocalyptic future
+Create an action plan to reduce carbon emissions by 15% in the next three months. 
+Write a sentence justifying your purchase of the given item. Yoga mat
+Invent a fresh concept for a mobile game. 
+Determine the most relevant topic for this text input Organ donation is the process of surgically removing an organ or tissue from a living or deceased donor and transplanting it into a recipient.
+Generate a descriptive report about this input A video clip shows a man jumping off a bridge
+Generate a short story about two kids Riding bicycles
+Generate a movie dialogue that is mutually beneficial to two people. No Input
+"Given the following sentence, edit it in order to improve its flow. I went fishing, it was quite an experience"
+"Given the data set of 4, create a concept for a graphic design - Apple
+- Cheese
+- Penguin
+- Star"
+"Given the words, generate a proverb Success, determination"
+"Given a customer feedback and example, identify any issue with the customer service Customer feedback: I was not given any information about the return policy
+Example: No Communication"
+"Given the following symbols, create a logo + Square
+* Circle
+- Triangle"
+"Compose a melody based on 4 notes C, D, B-flat, G"
+Rearrange this sentence to get valid English. book reading is my favorite hobby.
+"Write a function to get the odd numbers from a given list. list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+Fix the punctuation error. This food is delicious it tastes great.
+Brainstorm two ideas for improving this website. 
+Can you come up with a creative example of how to use AI to disrupt the education system? 
+Provide the rhyming words of the following words. Vast
+Describe a home automation system. 
+Give two examples of how digital technology can be used in the retail industry. 
+How have online services changed customer communication? 
+Identify two important considerations when building a website. 
+Suppose you are asked to come up with the different ways robotics can be used in the healthcare field. 
+How can big data analytics be used in the finance sector? 
+Convert the following grade letter to the corresponding grade percentage. Grade letter: B
+"Using the given text, create a five-sentence summary. Rob was a ten-year-old boy who loved to play video games. Despite not having access to the latest console, he was well-versed in gaming culture and could create his own levels. He used this knowledge to design and build an impressive custom-made arcade cabinet for the village's annual carnival. His invention was an instant hit and Rob won the prize for best innovation."
+Read the given text and determine if it's an opinion or fact. Global warming is causing the sea levels to rise
+"Given a list of words, complete the paragraph without repeating a single word. List of words: envelope, traffic, night, singing, postman, kitchen"
+"Merge the two given code snippets by replacing the word \_MERGE\_. Code snippet 1:
+def hello_world():
+    print('Hello, World!')
+
+Code snippet 2:
+if __name__ == '__main__':
+    _MERGE_"
+Rewrite the following phrase using the correct form for pluralizing. tooth
+Compare the given two numbers using the correct symbol. 5 and 10
+"Develop a plan of action given a list of objectives. Objectives: Increase customer engagement, Increase customer satisfaction, Reduce customer complaints"
+Describe how to properly paint a wall 
+Name five US states that begin with the letter “A” 
+"Save the following text as a Microsoft Word Document Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+Create an algorithm that can determine the palindromes in a given string 
+Find the top 10 cities in the US with the highest population 
+"Calculate the cost of buying 5 items, each costing $15 "
+Construct a sentence using only words that contain the letter ‘e’ 
+Generate an example sentence with a preposition 
+Answer the following query about gender roles in society What changes can be made to traditional gender roles in a progressive society?
+Suggest three safe foods for a diabetic to enjoy 
+Suggest three foods to help with weight loss. 
+Name the first five conveners of the United Nations 
+What is the form of government in Sweden? 
+How can companies ensure customer satisfaction? 

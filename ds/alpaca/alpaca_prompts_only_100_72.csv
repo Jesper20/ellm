@@ -1,0 +1,100 @@
+prompt
+House Democrats are set to begin proceedings on a sweeping bill to overhaul the US tax system. The proposed bill would reduce the number of US citizens paying taxes and would increase the amount of money working Americans owe each year.
+
+The planned bill was introduced by Ways and Means Chairman, Richard Neal, a Democrat representing Massachusetts. The proposed tax plan includes massive cuts to corporate taxes, elimination of the Alternative Minimum Tax, and new tax brackets for middle-class households. It seeks to simplify and streamline the US tax code while protecting middle-class families from the impact of potentially substantial tax increases."
+Describe a given stock’s historical performance over the last 5 years. Stock: Tesla
+Give a short description of what artificial intelligence is 
+Gather 5 facts about the Roman Empire 
+Tell me the structure of a blog post 
+Expand this cosine function cos (x)
+Generate a set of random numbers 
+"Generate a sentence using these words: beautiful, garden, peaceful "
+Classify this sentence is positive or negative He wasn't a good person.
+Recommend a book for a fifth-grader 
+Write a request letter to a professor requesting an extension in submitting an assignment. 
+Classify the following sentence by its tense. He is singing.
+Notice any grammar mistakes in the sentence and edit it accordingly. She who loves to run on the beach
+"If the given input is 1, convert it to binary output, otherwise the output should be 0. 1"
+Analyze the social context of the given text and provide an appropriate response. The population of my country is increasing exponentially
+"Given the write up, extract the keyword and convert it into a hashtag. Bringing awareness to conservation and preservation of nature"
+I have a 3-year-old daughter - can you suggest a good book for her to read? 
+Who are the top 5 richest people in the world and what are their current net worth? 
+"Crop the photo I gave you, reduce the size by 50%, and add a red border to it. [Image]"
+How do computers perform arithmetic operations? 
+"In the following paragraph identify the main subject and two subordinate subjects. Albert Einstein’s contributions to science were enormous, and he changed the way people think about the universe and about themselves."
+How does public transportation help in decreasing air pollution? 
+Calculate the final price for this item after applying a 25% discount. Original Price: $100
+Create a list of 5 main points to cover in a speech about the importance preserving the environment. 
+Change the following sentence into a polite request. I need you to help me with this task.
+Create a consumer evaluation document for a product. The product is a software that helps people manage their finances.
+Find the biggest chance of rain in the next 10 days. 
+Convert the following numbers into words. 9838
+Outline a plan to make an omelette. 
+"Write a code that matches the following output. Input: [5,9,2,7]
+Output: [2,5,7,9]"
+"Calculate the Cosine similarity between the following two sentences. She is the most beautiful girl in school.
+The girl attends the college every day."
+Convert the following octal number 560 to its binary form. 
+Calculate the number of weeks in three months. 
+Find the fourth word from the end of the sentence. This is a random sentence.
+Name an animal that is native to India. 
+Tell me how to reset a router. 
+Generate a list of all the technologies needed to build an e-commerce website. 
+Determine the significance of this piece of news. A new law has been proposed in the state government to allow employees to have more input in their working environment.
+"Identify which parts of the following code could be refactored. def calculate_data(a, b, c):
+    result = []
+    for i in range(b):
+        result.append(a + c[i])
+    return result"
+"What are some ways to refactor this code? def checkData(data):
+    if data[0] == ""A"" and 
+        data[1] == ""B"" and 
+        data[2] == ""C"":
+        return True
+    else:
+        return False"
+Generate a list of ideas that could be presented at a public health seminar. 
+"Given the following statement, can you identify any possible ethical issues? Facebook released a new facial recognition algorithm that is more accurate than previous versions."
+Analyze the given sentence to identify any existing gender biases. He works hard and always keeps his promises.
+Generate a list of questions to ask participants before a free web design workshop. 
+Enumerate 10 different types of jobs that robots can do. 
+Classify the following statement in a sentiment analysis task – “This restaurant was a great experience!” 
+Compare and contrast the philosophies of utilitarianism and Kantianism. 
+Generate a great business idea that the given person might want to pursue. The person has two years of experience working in a small software development firm.
+Formulate a meaningful question from the following statement. Sports technology advancements enable athletes to train more efficiently and push the boundaries of human performance.
+Reverse engineer the given sentence to create a task that could lead to this output. The coffee mug was empty.
+"Identify the common language construct in these two sentences: ""We need to save the environment"" and ""We must preserve our lands."" "
+What do you think is the most dangerous problem facing the world today? 
+Answer this math question: What is the value of 3 to the power of 5? 
+"Given a review, classify it into “positive” or “negative. This shop was terrible! The selection was limited and the customer service was awful."
+"Given a statement, use supplementary evidence to come up with a different interpretation or opinion. The price of the product has increased."
+Brainstorm five other methods that can be used to measure air quality. 
+Generate three main ideas for a story based on the topic ‘natural disaster’. 
+"Compose a poem using the following words: ‘autumn’, ‘golden’, ‘breeze’, and ‘forest’. "
+Create a short story about a person who finds out they can travel through time. 
+Name the capital cities for the five most populous countries in Europe. 
+Rearrange the following words so that it makes a meaningful sentence. created be can magic
+Write some code to calculate the area of a triangle given 3 sides. 
+Extend the following story. Jennifer was excited to go on a camping trip with her friends.
+"Summarize this article about the impact of online gaming. Online gaming has become a major part of our lives, with millions of people around the world spending countless hours playing games on a daily basis. While most consider gaming as a viable way to pass the time, recent studies have shown that it can have adverse effects on one’s mental health, such as depression, anxiety, and poor sleep quality. Studies have also linked too much gaming with poor academic performance and addiction."
+Imagine a device that can help you read faster. Describe the device. 
+Create a dialogue between two people trying hard to make a connection. 
+Convert the given text into a haiku poem. The sun's bright light rose high into the sky
+Present this college in the most captivating way. Loyola University Chicago
+Write a complaint about the given situation. I chose to go to a restaurant for lunch but ended up ordering food that was not as described.
+Generate an analogy that compares two related concepts. 
+Construct a C program that prints the first 10 terms of the Fibonacci sequence. 
+Detect typos in the following passage. I love going for walks in the moubtains.
+"Find the probability of drawing 2 cards from a shuffled deck, with one card being a king and the second card being a heart. "
+Describe a significant event in British History and explain its importance. 
+"Given a data set, write a program that counts the number of instances of each label. Data Set:
+
+['puppy', 'dog', 'kitten', 'cat', 'puppy', 'dog', 'fish', 'cat']"
+"Which of the following countries is the least populated? A. France 
+B. England 
+C. Russia 
+D. Japan"
+"Identify the pattern in the following series: 1, 4, 7, 11, ? "
+"From the following names, create a list of acronyms. Microsoft, Apple, IBM"
+Explain Amazon’s Three-Tier System. 
+"Analyze the following sentence and tell me the verb, noun, and adjectives in it. The teacher assigned the homework to the students"
